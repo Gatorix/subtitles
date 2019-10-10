@@ -934,9 +934,9 @@ Dialogue: 2,0:51:05.72,0:51:07.56,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}
 Dialogue: 2,0:51:28.20,0:51:29.24,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}Damn it.
 Dialogue: 2,0:51:28.20,0:51:29.24,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}谁啊？
 Dialogue: 2,0:51:33.16,0:51:35.68,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}- What? - You are a mechanic, so you should know.
-Dialogue: 2,0:51:33.16,0:51:35.68,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}-什么事？-你是机械师，所以你应该知道
+Dialogue: 2,0:51:33.16,0:51:35.68,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}-什么事？-你是修理工，所以你应该知道
 Dialogue: 2,0:51:35.76,0:51:38.16,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}Why are mechanics always late?
-Dialogue: 2,0:51:35.76,0:51:38.16,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}为什么机械师总是迟到？
+Dialogue: 2,0:51:35.76,0:51:38.16,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}为什么修理工总是迟到？
 Dialogue: 2,0:51:38.24,0:51:39.16,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}What?
 Dialogue: 2,0:51:38.24,0:51:39.16,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}什么？
 Dialogue: 2,0:51:39.24,0:51:43.16,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}Our elevator mechanic for instance, we waited for so long but he didn't come.
@@ -946,7 +946,7 @@ Dialogue: 2,0:51:43.68,0:51:46.16,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}
 Dialogue: 2,0:51:47.00,0:51:48.48,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}Who are you, what are you saying?
 Dialogue: 2,0:51:47.00,0:51:48.48,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}你是谁，你在说什么？
 Dialogue: 2,0:51:48.56,0:51:51.60,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}Are we going to wait for mechanics our whole lives?
-Dialogue: 2,0:51:48.56,0:51:51.60,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}我们要一辈子等机械师吗？
+Dialogue: 2,0:51:48.56,0:51:51.60,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}我们要一辈子等修理工吗？
 Dialogue: 2,0:51:53.08,0:51:56.84,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}- Go away, it's so late... - No, I was going to say that...
 Dialogue: 2,0:51:53.08,0:51:56.84,Default,,0,0,0,,{\fad(200,200)}{\fad(200,200)}-走开，这么晚了你到底要干嘛？-不，我要说的是
 Dialogue: 2,0:51:56.92,0:52:00.24,Default-L2,,0,0,0,,{\fad(200,200)}{\fad(200,200)}You... Hey, what are you doing? Why are you going in?
