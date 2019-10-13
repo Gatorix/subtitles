@@ -32,35 +32,35 @@ Dialogue: 2,0:00:03.04,0:00:05.28,Default,,0,0,0,,{\fad(200,200)}你有早期的
 Dialogue: 2,0:00:05.36,0:00:07.32,Default-L2,,0,0,0,,{\fad(200,200)}- Have you gone to a vacation or something? - No.
 Dialogue: 2,0:00:05.36,0:00:07.32,Default,,0,0,0,,{\fad(200,200)}-你去渡假了嗎 -冇有
 Dialogue: 2,0:00:07.40,0:00:09.32,Default-L2,,0,0,0,,{\fad(200,200)}- So Munir has never been alone? - No.
-Dialogue: 2,0:00:07.40,0:00:09.32,Default,,0,0,0,,{\fad(200,200)}-Munir從來冇有一個人嗎？-不
+Dialogue: 2,0:00:07.40,0:00:09.32,Default,,0,0,0,,{\fad(200,200)}-尼穆爾從來冇有一個人嗎？-不
 Dialogue: 2,0:00:09.40,0:00:11.60,Default-L2,,0,0,0,,{\fad(200,200)\i1}You forgot to give water to your cat.{\i}
 Dialogue: 2,0:00:09.40,0:00:11.60,Default,,0,0,0,,{\fad(200,200)}你忘給貓喝水了
-Dialogue: 2,0:00:11.68,0:00:17.96,Default,,0,0,0,,{\fad(200,200)}How does it feel to be the only woman working in an homicide bureau？
+Dialogue: 2,0:00:11.68,0:00:17.96,Default-L2,,0,0,0,,{\fad(200,200)}How does it feel to be the only woman working in an homicide bureau？
 Dialogue: 2,0:00:11.68,0:00:17.96,Default,,0,0,0,,{\fad(200,200)}作為兇殺局唯一的女性員工感覺如何？
 Dialogue: 2,0:00:17.96,0:00:20.40,Default-L2,,0,0,0,,{\fad(200,200)}I chose you from 50 girls.
 Dialogue: 2,0:00:17.96,0:00:20.40,Default,,0,0,0,,{\fad(200,200)}我從五十個女孩中選了你
 Dialogue: 2,0:00:21.72,0:00:22.84,Default-L2,,0,0,0,,{\fad(200,200)\i1}How nice.{\i}
 Dialogue: 2,0:00:21.72,0:00:22.84,Default,,0,0,0,,{\fad(200,200)}真好啊
 Dialogue: 2,0:00:23.56,0:00:27.52,Default-L2,,0,0,0,,{\fad(200,200)}Since I won't remember, I can do anything I want, is that so?
-Dialogue: 2,0:00:23.56,0:00:27.52,Default,,0,0,0,,{\fad(200,200)}因為我不記得了，所以我可以做任何我想做的事情，是嗎？
+Dialogue: 2,0:00:23.56,0:00:27.52,Default,,0,0,0,,{\fad(200,200)}因為我不記得了  所以我可以做任何我想做的事情  是嗎？
 Dialogue: 2,0:00:27.60,0:00:29.08,Default-L2,,0,0,0,,{\fad(200,200)\i1}Exactly.{\i}
 Dialogue: 2,0:00:27.60,0:00:29.08,Default,,0,0,0,,{\fad(200,200)}正是
 Dialogue: 2,0:00:29.16,0:00:30.92,Default-L2,,0,0,0,,{\fad(200,200)\i1}Do you have farsighted glasses?{\i}
 Dialogue: 2,0:00:29.16,0:00:30.92,Default,,0,0,0,,{\fad(200,200)}你有遠視眼鏡嗎？
 Dialogue: 2,0:00:39.48,0:00:42.88,Default-L2,,0,0,0,,{\fad(200,200)}I MET A GIRL TODAY. HER NAME WAS NEVRA ELMAS.
-Dialogue: 2,0:00:39.48,0:00:42.88,Default,,0,0,0,,{\fad(200,200)}我今天遇到了一個名字叫NEVRA ELMAS的女孩
+Dialogue: 2,0:00:39.48,0:00:42.88,Default,,0,0,0,,{\fad(200,200)}我今天遇到了一個名字叫內芙拉·埃爾馬斯的女孩
 Dialogue: 2,0:01:41.56,0:01:43.68,Default-L2,,0,0,0,,{\fad(200,200)}Chief Inspector Tolga Yazgan: Who is this?
-Dialogue: 2,0:01:41.56,0:01:43.68,Default,,0,0,0,,{\fad(200,200)}首席檢查官Tolga Yazgan：這是誰？
+Dialogue: 2,0:01:41.56,0:01:43.68,Default,,0,0,0,,{\fad(200,200)}首席檢查官托爾加·亞茲甘：這是誰？
 Dialogue: 2,0:01:43.76,0:01:45.52,Default-L2,,0,0,0,,{\fad(200,200)}I must have dialed the wrong number.
-Dialogue: 2,0:01:43.76,0:01:45.52,Default,,0,0,0,,{\fad(200,200)}打錯了吧
+Dialogue: 2,0:01:43.76,0:01:45.52,Default,,0,0,0,,{\fad(200,200)}我可能打錯電話了
 Dialogue: 2,0:01:46.16,0:01:49.40,Default-L2,,0,0,0,,{\fad(200,200)}This is Mehmet Yurtgil's home, miss. Who were you calling?
-Dialogue: 2,0:01:46.16,0:01:49.40,Default,,0,0,0,,{\fad(200,200)}這是Mehmet Yurtgil的家，小姐您找誰？
+Dialogue: 2,0:01:46.16,0:01:49.40,Default,,0,0,0,,{\fad(200,200)}這是穆罕默德·尤爾吉爾的家  小姐您找誰？
 Dialogue: 2,0:01:49.48,0:01:51.88,Default-L2,,0,0,0,,{\fad(200,200)}I am his daughter. I was calling my dad.
-Dialogue: 2,0:01:49.48,0:01:51.88,Default,,0,0,0,,{\fad(200,200)}我是他的女兒，我打電話給我父親
+Dialogue: 2,0:01:49.48,0:01:51.88,Default,,0,0,0,,{\fad(200,200)}我是他的女兒  我打電話給我父親
 Dialogue: 2,0:01:52.92,0:01:54.84,Default-L2,,0,0,0,,{\fad(200,200)\i1}Did something happen to him? Hello?{\i}
 Dialogue: 2,0:01:52.92,0:01:54.84,Default,,0,0,0,,{\fad(200,200)}他出什麼事了嗎？
 Dialogue: 2,0:01:56.08,0:01:58.04,Default-L2,,0,0,0,,{\fad(200,200)}Yes... I'm afraid so, miss.
-Dialogue: 2,0:01:56.08,0:01:58.04,Default,,0,0,0,,{\fad(200,200)}是的，小姐
+Dialogue: 2,0:01:56.08,0:01:58.04,Default,,0,0,0,,{\fad(200,200)}是的  小姐
 Dialogue: 2,0:01:58.12,0:02:00.40,Default-L2,,0,0,0,,{\fad(200,200)}DO NOT CROSS POLICE LINE
 Dialogue: 2,0:01:58.12,0:02:00.40,Default,,0,0,0,,{\fad(200,200)}不要越過警察線
 Dialogue: 2,0:02:27.32,0:02:28.32,Default-L2,,0,0,0,,{\fad(200,200)}Follow me.
@@ -70,15 +70,15 @@ Dialogue: 2,0:02:40.36,0:02:42.72,Default,,0,0,0,,{\fad(200,200)}-是誰幹的�
 Dialogue: 2,0:02:44.88,0:02:46.00,Default-L2,,0,0,0,,{\fad(200,200)}You?
 Dialogue: 2,0:02:44.88,0:02:46.00,Default,,0,0,0,,{\fad(200,200)}您？
 Dialogue: 2,0:02:58.60,0:03:01.92,Default-L2,,0,0,0,,{\fad(200,200)}If you're hiding something, you'll be complicit. You know that?
-Dialogue: 2,0:02:58.60,0:03:01.92,Default,,0,0,0,,{\fad(200,200)}如果你隱瞞了什麼事情，你會變成同謀。知道嗎？
+Dialogue: 2,0:02:58.60,0:03:01.92,Default,,0,0,0,,{\fad(200,200)}如果你隱瞞了什麼事情  你會變成同謀  知道嗎？
 Dialogue: 2,0:03:03.28,0:03:05.72,Default-L2,,0,0,0,,{\fad(200,200)}I told you. I don't know him.
-Dialogue: 2,0:03:03.28,0:03:05.72,Default,,0,0,0,,{\fad(200,200)}我告訴過你，我不認識他
+Dialogue: 2,0:03:03.28,0:03:05.72,Default,,0,0,0,,{\fad(200,200)}我告訴過你  我不認識他
 Dialogue: 2,0:03:06.28,0:03:08.52,Default-L2,,0,0,0,,{\fad(200,200)}Neither his wife, nor him.
 Dialogue: 2,0:03:06.28,0:03:08.52,Default,,0,0,0,,{\fad(200,200)}也不認識他妻子
 Dialogue: 2,0:03:10.12,0:03:11.68,Default-L2,,0,0,0,,{\fad(200,200)}So be it.
 Dialogue: 2,0:03:10.12,0:03:11.68,Default,,0,0,0,,{\fad(200,200)}就這樣吧
 Dialogue: 2,0:03:12.76,0:03:15.80,Default-L2,,0,0,0,,{\fad(200,200)}Whoever killed him, must know you, then.
-Dialogue: 2,0:03:12.76,0:03:15.80,Default,,0,0,0,,{\fad(200,200)}不管誰殺了他，兇手一定認識你，然後……
+Dialogue: 2,0:03:12.76,0:03:15.80,Default,,0,0,0,,{\fad(200,200)}不管誰殺了他  兇手一定認識你  然後……
 Dialogue: 2,0:03:17.20,0:03:18.28,Default-L2,,0,0,0,,{\fad(200,200)}Think about it.
 Dialogue: 2,0:03:17.20,0:03:18.28,Default,,0,0,0,,{\fad(200,200)}思考一下
 Dialogue: 2,0:03:18.88,0:03:22.80,Default-L2,,0,0,0,,{\fad(200,200)}Who is able to commit such a thing around you?
@@ -106,7 +106,7 @@ Dialogue: 2,0:03:46.60,0:03:48.28,Default,,0,0,0,,{\fad(200,200)}因為你害怕
 Dialogue: 2,0:03:50.00,0:03:51.52,Default-L2,,0,0,0,,{\fad(200,200)}Why would I be afraid?
 Dialogue: 2,0:03:50.00,0:03:51.52,Default,,0,0,0,,{\fad(200,200)}我為什麼會害怕呢？
 Dialogue: 2,0:03:51.60,0:03:54.08,Default-L2,,0,0,0,,{\fad(200,200)}Because if you said yes, then I could...
-Dialogue: 2,0:03:51.60,0:03:54.08,Default,,0,0,0,,{\fad(200,200)}因為如果你說是，那我可以……
+Dialogue: 2,0:03:51.60,0:03:54.08,Default,,0,0,0,,{\fad(200,200)}因為如果你說是  那我可以……
 Dialogue: 2,0:03:54.76,0:03:56.32,Default-L2,,0,0,0,,{\fad(200,200)}Here, in the middle of this road,
 Dialogue: 2,0:03:54.76,0:03:56.32,Default,,0,0,0,,{\fad(200,200)}在這條路上
 Dialogue: 2,0:03:57.56,0:03:59.84,Default-L2,,0,0,0,,{\fad(200,200)}just shoot and kill you.
@@ -114,7 +114,7 @@ Dialogue: 2,0:03:57.56,0:03:59.84,Default,,0,0,0,,{\fad(200,200)}把你殺掉
 Dialogue: 2,0:04:00.52,0:04:03.12,Default-L2,,0,0,0,,{\fad(200,200)}And nobody would really know.
 Dialogue: 2,0:04:00.52,0:04:03.12,Default,,0,0,0,,{\fad(200,200)}冇有人知道
 Dialogue: 2,0:04:05.08,0:04:07.80,Default-L2,,0,0,0,,{\fad(200,200)}You'd be terrified. Understand?
-Dialogue: 2,0:04:05.08,0:04:07.80,Default,,0,0,0,,{\fad(200,200)}你會害怕的，明白嗎？
+Dialogue: 2,0:04:05.08,0:04:07.80,Default,,0,0,0,,{\fad(200,200)}你會害怕的  明白嗎？
 Dialogue: 2,0:04:11.36,0:04:15.20,Default-L2,,0,0,0,,{\fad(200,200)}All the evil in this world is done by people we don't really know.
 Dialogue: 2,0:04:11.36,0:04:15.20,Default,,0,0,0,,{\fad(200,200)}這個世界上所有的邪惡都是我們不認識的人造成的
 Dialogue: 2,0:04:17.20,0:04:20.00,Default-L2,,0,0,0,,{\fad(200,200)}That's why the first thing we do when we wake up is...
@@ -132,11 +132,11 @@ Dialogue: 2,0:04:35.64,0:04:36.72,Default,,0,0,0,,{\fad(200,200)}長官
 Dialogue: 2,0:06:50.32,0:06:52.68,Default-L2,,0,0,0,,{\fad(200,200)}Agah. Agah.
 Dialogue: 2,0:06:50.32,0:06:52.68,Default-L2,,0,0,0,,{\fad(200,200)}Agah. Agah.
 Dialogue: 2,0:06:52.76,0:06:55.24,Default-L2,,0,0,0,,{\fad(200,200)}Agah! Agah! Please!
-Dialogue: 2,0:06:52.76,0:06:55.24,Default,,0,0,0,,{\fad(200,200)}Agah! Agah! 快停下！
+Dialogue: 2,0:06:52.76,0:06:55.24,Default,,0,0,0,,{\fad(200,200)}阿加! 阿加! 快停下！
 Dialogue: 2,0:06:55.96,0:06:57.00,Default-L2,,0,0,0,,{\fad(200,200)}Agah!
 Dialogue: 2,0:06:55.96,0:06:57.00,Default-L2,,0,0,0,,{\fad(200,200)}Agah!
 Dialogue: 2,0:06:58.44,0:07:00.24,Default-L2,,0,0,0,,{\fad(200,200)}Agah, what have you done?
-Dialogue: 2,0:06:58.44,0:07:00.24,Default,,0,0,0,,{\fad(200,200)}Agah，你幹嘛？
+Dialogue: 2,0:06:58.44,0:07:00.24,Default,,0,0,0,,{\fad(200,200)}阿加  你幹嘛？
 Dialogue: 2,0:07:00.24,0:07:03.04,Default,,0,0,0,,{\fad(200,200)}庫爾德語
 Dialogue: 2,0:07:03.04,0:07:04.08,Default-L2,,0,0,0,,{\fad(200,200)}Here you go.
 Dialogue: 2,0:07:03.04,0:07:04.08,Default,,0,0,0,,{\fad(200,200)}好了
@@ -147,11 +147,11 @@ Dialogue: 2,0:07:06.68,0:07:08.16,Default,,0,0,0,,{\fad(200,200)}從租金中扣
 Dialogue: 2,0:07:09.76,0:07:10.88,Default-L2,,0,0,0,,{\fad(200,200)}What time is it?
 Dialogue: 2,0:07:09.76,0:07:10.88,Default,,0,0,0,,{\fad(200,200)}幾點了？
 Dialogue: 2,0:07:12.44,0:07:14.64,Default-L2,,0,0,0,,{\fad(200,200)}- Ten past one. - Good, there's time.
-Dialogue: 2,0:07:12.44,0:07:14.64,Default,,0,0,0,,{\fad(200,200)}-1點10分 -好，還有時間
+Dialogue: 2,0:07:12.44,0:07:14.64,Default,,0,0,0,,{\fad(200,200)}-1點10分 -好  還有時間
 Dialogue: 2,0:07:15.20,0:07:18.00,Default-L2,,0,0,0,,{\fad(200,200)}Sorry, Agah, how do you know Kurdish?
-Dialogue: 2,0:07:15.20,0:07:18.00,Default,,0,0,0,,{\fad(200,200)}抱歉，Agah，您怎麼會說庫爾德語？
+Dialogue: 2,0:07:15.20,0:07:18.00,Default,,0,0,0,,{\fad(200,200)}抱歉  阿加  您怎麼會說庫爾德語？
 Dialogue: 2,0:07:19.84,0:07:23.08,Default-L2,,0,0,0,,{\fad(200,200)}- Kurdish, why? - You just spoke it.
-Dialogue: 2,0:07:19.84,0:07:23.08,Default,,0,0,0,,{\fad(200,200)}-庫爾德語，為什麼這麼問？-你剛才說了
+Dialogue: 2,0:07:19.84,0:07:23.08,Default,,0,0,0,,{\fad(200,200)}-庫爾德語  為什麼這麼問？-你剛才說了
 Dialogue: 2,0:07:33.80,0:07:35.92,Default-L2,,0,0,0,,{\fad(200,200)}Sometimes she doesn't recall her own name.
 Dialogue: 2,0:07:33.80,0:07:35.92,Default,,0,0,0,,{\fad(200,200)}有時候她甚至不記得自己的名字
 Dialogue: 2,0:07:36.00,0:07:37.52,Default-L2,,0,0,0,,{\fad(200,200)}Can't you see her?
@@ -175,7 +175,7 @@ Dialogue: 2,0:07:57.12,0:07:58.80,Default,,0,0,0,,{\fad(200,200)}自從那以後
 Dialogue: 2,0:07:58.88,0:08:00.80,Default-L2,,0,0,0,,{\fad(200,200)}Do you have the details of the caretakers?
 Dialogue: 2,0:07:58.88,0:08:00.80,Default,,0,0,0,,{\fad(200,200)}您有保姆的詳細信息嗎？
 Dialogue: 2,0:08:00.88,0:08:02.76,Default-L2,,0,0,0,,{\fad(200,200)}Yes. I have everything.
-Dialogue: 2,0:08:00.88,0:08:02.76,Default,,0,0,0,,{\fad(200,200)}是的，我都有
+Dialogue: 2,0:08:00.88,0:08:02.76,Default,,0,0,0,,{\fad(200,200)}是的  我都有
 Dialogue: 2,0:08:02.84,0:08:04.32,Default-L2,,0,0,0,,{\fad(200,200)}We spoke all the time.
 Dialogue: 2,0:08:02.84,0:08:04.32,Default,,0,0,0,,{\fad(200,200)}我們一直都有聯係
 Dialogue: 2,0:08:04.88,0:08:06.24,Default-L2,,0,0,0,,{\fad(200,200)}I'll give the numbers.
@@ -183,7 +183,7 @@ Dialogue: 2,0:08:04.88,0:08:06.24,Default,,0,0,0,,{\fad(200,200)}我會把電話
 Dialogue: 2,0:08:06.32,0:08:07.64,Default-L2,,0,0,0,,{\fad(200,200)}Can we leave now?
 Dialogue: 2,0:08:06.32,0:08:07.64,Default,,0,0,0,,{\fad(200,200)}我們現在可以離開了嗎？
 Dialogue: 2,0:08:08.28,0:08:10.08,Default-L2,,0,0,0,,{\fad(200,200)}Sure. You've had quite a journey.
-Dialogue: 2,0:08:08.28,0:08:10.08,Default,,0,0,0,,{\fad(200,200)}當然，您經曆了艱難的一天
+Dialogue: 2,0:08:08.28,0:08:10.08,Default,,0,0,0,,{\fad(200,200)}當然  您經曆了艱難的一天
 Dialogue: 2,0:08:10.16,0:08:11.32,Default-L2,,0,0,0,,{\fad(200,200)}One last thing.
 Dialogue: 2,0:08:10.16,0:08:11.32,Default,,0,0,0,,{\fad(200,200)}最後一件事
 Dialogue: 2,0:08:13.00,0:08:14.80,Default-L2,,0,0,0,,{\fad(200,200)}Anybody who'd want to kill your father?
@@ -198,28 +198,28 @@ Dialogue: 2,0:08:23.16,0:08:25.04,Default-L2,,0,0,0,,{\fad(200,200)}He must have
 Dialogue: 2,0:08:23.16,0:08:25.04,Default,,0,0,0,,{\fad(200,200)}他一定把某人送進了監獄
 Dialogue: 2,0:08:25.60,0:08:27.56,Default-L2,,0,0,0,,{\fad(200,200)}But he retired years ago.
 Dialogue: 2,0:08:25.60,0:08:27.56,Default,,0,0,0,,{\fad(200,200)}但是他幾年前退休了
-Dialogue: 2,0:08:30.16,0:08:32.28,Default,,0,0,0,,{\fad(200,200)}- Since you're coming from Madrid... - Olé!
-Dialogue: 2,0:08:30.16,0:08:32.28,Default,,0,0,0,,{\fad(200,200)}-自從您去馬德裏以來……  -Olé！
+Dialogue: 2,0:08:30.16,0:08:32.28,Default-L2,,0,0,0,,{\fad(200,200)}- Since you're coming from Madrid... - Olé!
+Dialogue: 2,0:08:30.16,0:08:32.28,Default,,0,0,0,,{\fad(200,200)}-自從您去馬德裏以來……  -奧萊！
 Dialogue: 2,0:08:32.36,0:08:33.36,Default-L2,,0,0,0,,{\fad(200,200)}Mom!
 Dialogue: 2,0:08:32.36,0:08:33.36,Default,,0,0,0,,{\fad(200,200)}媽媽！
 Dialogue: 2,0:08:34.36,0:08:35.56,Default-L2,,0,0,0,,{\fad(200,200)}Let me tell you this way:
 Dialogue: 2,0:08:34.36,0:08:35.56,Default,,0,0,0,,{\fad(200,200)}這樣說吧：
-Dialogue: 2,0:08:36.04,0:08:38.36,Default,,0,0,0,,{\fad(200,200)}- Bullfighters fight until they retire. - Olé!
-Dialogue: 2,0:08:36.04,0:08:38.36,Default,,0,0,0,,{\fad(200,200)}-鬥牛士戰鬥到退休 -Olé！
+Dialogue: 2,0:08:36.04,0:08:38.36,Default-L2,,0,0,0,,{\fad(200,200)}- Bullfighters fight until they retire. - Olé!
+Dialogue: 2,0:08:36.04,0:08:38.36,Default,,0,0,0,,{\fad(200,200)}-鬥牛士戰鬥到退休 -奧萊！
 Dialogue: 2,0:08:38.44,0:08:39.44,Default-L2,,0,0,0,,{\fad(200,200)}Mom.
 Dialogue: 2,0:08:38.44,0:08:39.44,Default,,0,0,0,,{\fad(200,200)}媽媽
-Dialogue: 2,0:08:41.36,0:08:43.64,Default,,0,0,0,,{\fad(200,200)}- But bulls fight until they die. - Olé!
-Dialogue: 2,0:08:41.36,0:08:43.64,Default,,0,0,0,,{\fad(200,200)}-但是公牛奮戰到死 -Olé！
-Dialogue: 2,0:08:43.72,0:08:44.72,Default,,0,0,0,,{\fad(200,200)\i1}- Olé! - Mom!{\i}
-Dialogue: 2,0:08:43.72,0:08:44.72,Default,,0,0,0,,{\fad(200,200)}-Olé！-媽媽！
-Dialogue: 2,0:08:44.80,0:08:46.88,Default,,0,0,0,,{\fad(200,200)\i1}- Olé! - Mom.{\i}
-Dialogue: 2,0:08:44.80,0:08:46.88,Default,,0,0,0,,{\fad(200,200)}-Olé！-媽媽
+Dialogue: 2,0:08:41.36,0:08:43.64,Default-L2,,0,0,0,,{\fad(200,200)}- But bulls fight until they die. - Olé!
+Dialogue: 2,0:08:41.36,0:08:43.64,Default,,0,0,0,,{\fad(200,200)}-但是公牛奮戰到死 -奧萊！
+Dialogue: 2,0:08:43.72,0:08:44.72,Default-L2,,0,0,0,,{\fad(200,200)\i1}- Olé! - Mom!{\i}
+Dialogue: 2,0:08:43.72,0:08:44.72,Default,,0,0,0,,{\fad(200,200)}-奧萊！-媽媽！
+Dialogue: 2,0:08:44.80,0:08:46.88,Default-L2,,0,0,0,,{\fad(200,200)\i1}- Olé! - Mom.{\i}
+Dialogue: 2,0:08:44.80,0:08:46.88,Default,,0,0,0,,{\fad(200,200)}-奧萊！-媽媽
 Dialogue: 2,0:08:51.04,0:08:53.92,Default-L2,,0,0,0,,{\fad(200,200)}MY CAR TAKES PETROL. NOT DIESEL!
-Dialogue: 2,0:08:51.04,0:08:53.92,Default,,0,0,0,,{\fad(200,200)}我的車是用汽油的，不是柴油
+Dialogue: 2,0:08:51.04,0:08:53.92,Default,,0,0,0,,{\fad(200,200)}我的車是用汽油的  不是柴油
 Dialogue: 2,0:08:54.00,0:08:55.04,Default-L2,,0,0,0,,{\fad(200,200)}All right, sir.
 Dialogue: 2,0:08:54.00,0:08:55.04,Default,,0,0,0,,{\fad(200,200)}好了先生
 Dialogue: 2,0:08:57.96,0:09:00.04,Default-L2,,0,0,0,,{\fad(200,200)}- You fill it up? - Yes, I made it "full".
-Dialogue: 2,0:08:57.96,0:09:00.04,Default,,0,0,0,,{\fad(200,200)}-加滿嗎？-是的，我加“滿”了
+Dialogue: 2,0:08:57.96,0:09:00.04,Default,,0,0,0,,{\fad(200,200)}-加滿嗎？-是的  我加“滿”了
 Dialogue: 2,0:09:00.12,0:09:01.88,Default-L2,,0,0,0,,{\fad(200,200)}- Petrol. - Yes.
 Dialogue: 2,0:09:00.12,0:09:01.88,Default,,0,0,0,,{\fad(200,200)}-汽油-是
 Dialogue: 2,0:09:01.96,0:09:03.00,Default-L2,,0,0,0,,{\fad(200,200)}Good.
@@ -231,7 +231,7 @@ Dialogue: 2,0:09:06.68,0:09:08.36,Default,,0,0,0,,{\fad(200,200)}你不能讓某
 Dialogue: 2,0:09:08.44,0:09:10.16,Default-L2,,0,0,0,,{\fad(200,200)}It doesn't exist in any language.
 Dialogue: 2,0:09:08.44,0:09:10.16,Default,,0,0,0,,{\fad(200,200)}它不存在於任何語言中
 Dialogue: 2,0:09:10.92,0:09:12.28,Default-L2,,0,0,0,,{\fad(200,200)}Don't use it again, okay?
-Dialogue: 2,0:09:10.92,0:09:12.28,Default,,0,0,0,,{\fad(200,200)}不要再這樣說了，好嗎？
+Dialogue: 2,0:09:10.92,0:09:12.28,Default,,0,0,0,,{\fad(200,200)}不要再這樣說了  好嗎？
 Dialogue: 2,0:09:12.92,0:09:14.60,Default-L2,,0,0,0,,{\fad(200,200)}Better forget the word.
 Dialogue: 2,0:09:12.92,0:09:14.60,Default,,0,0,0,,{\fad(200,200)}最好忘記這個詞
 Dialogue: 2,0:09:16.36,0:09:17.80,Default-L2,,0,0,0,,{\fad(200,200)}Wouldn't that be awesome?
@@ -243,17 +243,17 @@ Dialogue: 2,0:09:20.88,0:09:23.08,Default,,0,0,0,,{\fad(200,200)}隻記得正確
 Dialogue: 2,0:09:25.24,0:09:26.60,Default-L2,,0,0,0,,{\fad(200,200)}But don't you worry.
 Dialogue: 2,0:09:25.24,0:09:26.60,Default,,0,0,0,,{\fad(200,200)}但是你不用擔心
 Dialogue: 2,0:09:26.68,0:09:29.08,Default-L2,,0,0,0,,{\fad(200,200)}There's a lot of wrong in here. For example...
-Dialogue: 2,0:09:26.68,0:09:29.08,Default,,0,0,0,,{\fad(200,200)}這裏有很多錯誤，例如……
+Dialogue: 2,0:09:26.68,0:09:29.08,Default,,0,0,0,,{\fad(200,200)}這裏有很多錯誤  例如……
 Dialogue: 2,0:09:29.16,0:09:32.72,Default-L2,,0,0,0,,{\fad(200,200)}I thought my daughter was happy, but she wasn't.
-Dialogue: 2,0:09:29.16,0:09:32.72,Default,,0,0,0,,{\fad(200,200)}我以為女兒很福祉，但實際上並不是
+Dialogue: 2,0:09:29.16,0:09:32.72,Default,,0,0,0,,{\fad(200,200)}我以為女兒很福祉  但實際上並不是
 Dialogue: 2,0:09:33.44,0:09:35.08,Default-L2,,0,0,0,,{\fad(200,200)}- Sir, it's 200. - Huh?
 Dialogue: 2,0:09:33.44,0:09:35.08,Default,,0,0,0,,{\fad(200,200)}-先生200 -嗯？
 Dialogue: 2,0:09:35.16,0:09:36.84,Default-L2,,0,0,0,,{\fad(200,200)}200. Your bill.
-Dialogue: 2,0:09:35.16,0:09:36.84,Default,,0,0,0,,{\fad(200,200)}200，您的賬單
+Dialogue: 2,0:09:35.16,0:09:36.84,Default,,0,0,0,,{\fad(200,200)}200  您的賬單
 Dialogue: 2,0:09:54.24,0:09:55.60,Default-L2,,0,0,0,,{\fad(200,200)}Take that upstairs.
 Dialogue: 2,0:09:54.24,0:09:55.60,Default,,0,0,0,,{\fad(200,200)}拿到樓上去
 Dialogue: 2,0:09:58.16,0:10:01.60,Default-L2,,0,0,0,,{\fad(200,200)}We've flown 20 hours, and the car ride tired me more.
-Dialogue: 2,0:09:58.16,0:10:01.60,Default,,0,0,0,,{\fad(200,200)}我們已經飛了20個小時，坐車讓我更纍了
+Dialogue: 2,0:09:58.16,0:10:01.60,Default,,0,0,0,,{\fad(200,200)}我們已經飛了20個小時  坐車讓我更纍了
 Dialogue: 2,0:10:03.52,0:10:04.72,Default-L2,,0,0,0,,{\fad(200,200)}Why do you say that?
 Dialogue: 2,0:10:03.52,0:10:04.72,Default,,0,0,0,,{\fad(200,200)}為什麼這麼說
 Dialogue: 2,0:10:04.80,0:10:07.68,Default-L2,,0,0,0,,{\fad(200,200)}You took the scenic route, like a cabbie.
@@ -265,7 +265,7 @@ Dialogue: 2,0:10:11.40,0:10:12.68,Default,,0,0,0,,{\fad(200,200)}這……
 Dialogue: 2,0:10:13.36,0:10:14.80,Default-L2,,0,0,0,,{\fad(200,200)}That's why.
 Dialogue: 2,0:10:13.36,0:10:14.80,Default,,0,0,0,,{\fad(200,200)}這就是為什麼
 Dialogue: 2,0:10:14.88,0:10:18.48,Default-L2,,0,0,0,,{\fad(200,200)}You've been living here for years. How could you be confused?
-Dialogue: 2,0:10:14.88,0:10:18.48,Default,,0,0,0,,{\fad(200,200)}您在這裏住了多年了，怎麼會感到睏惑？
+Dialogue: 2,0:10:14.88,0:10:18.48,Default,,0,0,0,,{\fad(200,200)}您在這裏住了多年了  怎麼會感到睏惑？
 Dialogue: 2,0:10:18.56,0:10:20.60,Default-L2,,0,0,0,,{\fad(200,200)}I wasn't confused.
 Dialogue: 2,0:10:18.56,0:10:20.60,Default,,0,0,0,,{\fad(200,200)}我並不感到睏惑
 Dialogue: 2,0:10:26.44,0:10:30.08,Default-L2,,0,0,0,,{\fad(200,200)}- You didn't eat anything. - I'm not hungry.
@@ -275,15 +275,15 @@ Dialogue: 2,0:10:30.16,0:10:32.00,Default,,0,0,0,,{\fad(200,200)}你生病了嗎
 Dialogue: 2,0:10:33.16,0:10:34.60,Default-L2,,0,0,0,,{\fad(200,200)}What are you talking about?
 Dialogue: 2,0:10:33.16,0:10:34.60,Default,,0,0,0,,{\fad(200,200)}你在說什麼？
 Dialogue: 2,0:10:35.24,0:10:38.44,Default-L2,,0,0,0,,{\fad(200,200)}Dad, what the hell?  I just left my bloody house.
-Dialogue: 2,0:10:35.24,0:10:38.44,Default,,0,0,0,,{\fad(200,200)}爸，怎麼回事，我剛剛離開了我自己的家
+Dialogue: 2,0:10:35.24,0:10:38.44,Default,,0,0,0,,{\fad(200,200)}爸  怎麼回事  我剛剛離開了我自己的家
 Dialogue: 2,0:10:38.52,0:10:40.00,Default-L2,,0,0,0,,{\fad(200,200)}What do you mean, ill?
-Dialogue: 2,0:10:38.52,0:10:40.00,Default,,0,0,0,,{\fad(200,200)}你什麼意思，生病了？
+Dialogue: 2,0:10:38.52,0:10:40.00,Default,,0,0,0,,{\fad(200,200)}你什麼意思  生病了？
 Dialogue: 2,0:10:40.08,0:10:41.68,Default-L2,,0,0,0,,{\fad(200,200)}Okay. Won't you go back?
-Dialogue: 2,0:10:40.08,0:10:41.68,Default,,0,0,0,,{\fad(200,200)}好吧，不能回頭了嗎？
+Dialogue: 2,0:10:40.08,0:10:41.68,Default,,0,0,0,,{\fad(200,200)}好吧  不能回頭了嗎？
 Dialogue: 2,0:10:42.76,0:10:45.20,Default-L2,,0,0,0,,{\fad(200,200)}- Are you kicking us out? - Of course not...
 Dialogue: 2,0:10:42.76,0:10:45.20,Default,,0,0,0,,{\fad(200,200)}-你要趕我們出去嗎 -當然不是
 Dialogue: 2,0:10:45.28,0:10:48.20,Default-L2,,0,0,0,,{\fad(200,200)}Don't worry. We won't stay long.
-Dialogue: 2,0:10:45.28,0:10:48.20,Default,,0,0,0,,{\fad(200,200)}別擔心，我們不會待久
+Dialogue: 2,0:10:45.28,0:10:48.20,Default,,0,0,0,,{\fad(200,200)}別擔心  我們不會待久
 Dialogue: 2,0:10:48.28,0:10:51.72,Default-L2,,0,0,0,,{\fad(200,200)}- I didn't say anything. - Isn't number eight empty anyway?
 Dialogue: 2,0:10:48.28,0:10:51.72,Default,,0,0,0,,{\fad(200,200)}-我什麼也冇說 -八號房間不是空的嗎？
 Dialogue: 2,0:10:51.80,0:10:52.80,Default-L2,,0,0,0,,{\fad(200,200)}We'll stay there.
@@ -291,31 +291,31 @@ Dialogue: 2,0:10:51.80,0:10:52.80,Default,,0,0,0,,{\fad(200,200)}我們會留在
 Dialogue: 2,0:10:53.36,0:10:54.88,Default-L2,,0,0,0,,{\fad(200,200)}I'll find myself a job.
 Dialogue: 2,0:10:53.36,0:10:54.88,Default,,0,0,0,,{\fad(200,200)}我會找一份工作
 Dialogue: 2,0:10:55.52,0:10:59.04,Default-L2,,0,0,0,,{\fad(200,200)}I could pay rent, too. Okay?
-Dialogue: 2,0:10:55.52,0:10:59.04,Default,,0,0,0,,{\fad(200,200)}我也可以付租金，好嗎？
+Dialogue: 2,0:10:55.52,0:10:59.04,Default,,0,0,0,,{\fad(200,200)}我也可以付租金  好嗎？
 Dialogue: 2,0:10:59.60,0:11:00.48,Default-L2,,0,0,0,,{\fad(200,200)}Dad...
 Dialogue: 2,0:10:59.60,0:11:00.48,Default,,0,0,0,,{\fad(200,200)}爸
 Dialogue: 2,0:11:00.56,0:11:03.56,Default-L2,,0,0,0,,{\fad(200,200)}I'm saying that I took my child,
-Dialogue: 2,0:11:00.56,0:11:03.56,Default,,0,0,0,,{\fad(200,200)}我是說我帶著我的孩子，
+Dialogue: 2,0:11:00.56,0:11:03.56,Default,,0,0,0,,{\fad(200,200)}我是說我帶著我的孩子  
 Dialogue: 2,0:11:03.64,0:11:06.44,Default-L2,,0,0,0,,{\fad(200,200)}I left my house and come here.
 Dialogue: 2,0:11:03.64,0:11:06.44,Default,,0,0,0,,{\fad(200,200)}我離開家來到這裏
 Dialogue: 2,0:11:06.52,0:11:09.36,Default-L2,,0,0,0,,{\fad(200,200)}You're asking me if I'm... I'm not going back!
 Dialogue: 2,0:11:06.52,0:11:09.36,Default,,0,0,0,,{\fad(200,200)}你還問我能不能回頭？
 Dialogue: 2,0:11:09.44,0:11:10.64,Default-L2,,0,0,0,,{\fad(200,200)}- Okay, don't. - I'm not!
-Dialogue: 2,0:11:09.44,0:11:10.64,Default,,0,0,0,,{\fad(200,200)}-好的，不要 -不能了！
+Dialogue: 2,0:11:09.44,0:11:10.64,Default,,0,0,0,,{\fad(200,200)}-好的  不要 -不能了！
 Dialogue: 2,0:11:10.72,0:11:12.20,Default-L2,,0,0,0,,{\fad(200,200)}All right, don't go.
-Dialogue: 2,0:11:10.72,0:11:12.20,Default,,0,0,0,,{\fad(200,200)}好啦，不要走
+Dialogue: 2,0:11:10.72,0:11:12.20,Default,,0,0,0,,{\fad(200,200)}好啦  不要走
 Dialogue: 2,0:11:12.28,0:11:13.32,Default-L2,,0,0,0,,{\fad(200,200)}Never mind.
 Dialogue: 2,0:11:12.28,0:11:13.32,Default,,0,0,0,,{\fad(200,200)}冇關係
 Dialogue: 2,0:11:14.08,0:11:15.68,Default-L2,,0,0,0,,{\fad(200,200)}I can't take it anymore.
 Dialogue: 2,0:11:14.08,0:11:15.68,Default,,0,0,0,,{\fad(200,200)}我受不了了
 Dialogue: 2,0:11:15.76,0:11:19.88,Default-L2,,0,0,0,,{\fad(200,200)}- I just can't. - I beg of you, Zuhal.
-Dialogue: 2,0:11:15.76,0:11:19.88,Default,,0,0,0,,{\fad(200,200)}-我不能 -我求你了，Zuhal
+Dialogue: 2,0:11:15.76,0:11:19.88,Default,,0,0,0,,{\fad(200,200)}-我不能 -我求你了  祖哈爾
 Dialogue: 2,0:11:19.96,0:11:21.08,Default-L2,,0,0,0,,{\fad(200,200)}Daddy!
 Dialogue: 2,0:11:19.96,0:11:21.08,Default,,0,0,0,,{\fad(200,200)}爸爸！
 Dialogue: 2,0:11:21.16,0:11:24.04,Default-L2,,0,0,0,,{\fad(200,200)}Please, Zuhal. My baby.
-Dialogue: 2,0:11:21.16,0:11:24.04,Default,,0,0,0,,{\fad(200,200)}拜托，Zuhal，我的寶貝
+Dialogue: 2,0:11:21.16,0:11:24.04,Default,,0,0,0,,{\fad(200,200)}拜托  祖哈爾  我的寶貝
 Dialogue: 2,0:11:24.12,0:11:27.80,Default-L2,,0,0,0,,{\fad(200,200)}- What will I do now, daddy? - You'll make him sad, too.
-Dialogue: 2,0:11:24.12,0:11:27.80,Default,,0,0,0,,{\fad(200,200)}-爸爸，我現在該怎麼辦？-你也會讓你兒子也傷心的
+Dialogue: 2,0:11:24.12,0:11:27.80,Default,,0,0,0,,{\fad(200,200)}-爸爸  我現在該怎麼辦？-你也會讓你兒子也傷心的
 Dialogue: 2,0:11:31.16,0:11:33.48,Default-L2,,0,0,0,,{\fad(200,200)}But I just rented number eight.
 Dialogue: 2,0:11:31.16,0:11:33.48,Default,,0,0,0,,{\fad(200,200)}但是有人剛租了八號房
 Dialogue: 2,0:11:34.36,0:11:35.96,Default-L2,,0,0,0,,{\fad(200,200)}He just moved in.
@@ -327,19 +327,19 @@ Dialogue: 2,0:11:50.28,0:11:53.20,Default,,0,0,0,,{\fad(200,200)}新法官訪問
 Dialogue: 2,0:12:00.08,0:12:01.64,Default-L2,,0,0,0,,{\fad(200,200)}Speak with the lab yet?
 Dialogue: 2,0:12:00.08,0:12:01.64,Default,,0,0,0,,{\fad(200,200)}跟實驗室溝通了嗎？
 Dialogue: 2,0:12:02.64,0:12:04.56,Default-L2,,0,0,0,,{\fad(200,200)}I did. They're working on it.
-Dialogue: 2,0:12:02.64,0:12:04.56,Default,,0,0,0,,{\fad(200,200)}嗯，他們正在處理
+Dialogue: 2,0:12:02.64,0:12:04.56,Default,,0,0,0,,{\fad(200,200)}嗯  他們正在處理
 Dialogue: 2,0:12:05.80,0:12:08.44,Default-L2,,0,0,0,,{\fad(200,200)}I was just trying to see where he previously worked. 
 Dialogue: 2,0:12:05.80,0:12:08.44,Default,,0,0,0,,{\fad(200,200)}我想看看他以前在哪裏工作
 Dialogue: 2,0:12:08.52,0:12:10.08,Default-L2,,0,0,0,,{\fad(200,200)}Maybe I could see something.
 Dialogue: 2,0:12:08.52,0:12:10.08,Default,,0,0,0,,{\fad(200,200)}也許我能發現一些東西
 Dialogue: 2,0:12:10.76,0:12:13.44,Default-L2,,0,0,0,,{\fad(200,200)}They'll call after the autopsy.Don't go anywhere.
-Dialogue: 2,0:12:10.76,0:12:13.44,Default,,0,0,0,,{\fad(200,200)}屍檢後他們會打電話，不要離開
+Dialogue: 2,0:12:10.76,0:12:13.44,Default,,0,0,0,,{\fad(200,200)}屍檢後他們會打電話  不要離開
 Dialogue: 2,0:12:14.60,0:12:17.72,Default-L2,,0,0,0,,{\fad(200,200)}- Won't you go in? - Who am I?
 Dialogue: 2,0:12:14.60,0:12:17.72,Default,,0,0,0,,{\fad(200,200)}-你不去嗎？ -我是誰啊？
 Dialogue: 2,0:12:18.36,0:12:20.32,Default-L2,,0,0,0,,{\fad(200,200)}We have you, after all.
 Dialogue: 2,0:12:18.36,0:12:20.32,Default,,0,0,0,,{\fad(200,200)}畢竟有你在呢
 Dialogue: 2,0:12:22.28,0:12:25.84,Default-L2,,0,0,0,,{\fad(200,200)}But leave the file on my desk so I'll teach you to read.
-Dialogue: 2,0:12:22.28,0:12:25.84,Default,,0,0,0,,{\fad(200,200)}把文件放在我的桌子上，我會教你怎麼看
+Dialogue: 2,0:12:22.28,0:12:25.84,Default,,0,0,0,,{\fad(200,200)}把文件放在我的桌子上  我會教你怎麼看
 Dialogue: 2,0:12:27.24,0:12:28.60,Default-L2,,0,0,0,,{\fad(200,200)}Teach her to write, too.
 Dialogue: 2,0:12:27.24,0:12:28.60,Default,,0,0,0,,{\fad(200,200)}也要教她寫
 Dialogue: 2,0:12:33.60,0:12:35.72,Default-L2,,0,0,0,,{\fad(200,200)}Ever seen me half-ass something?
@@ -355,13 +355,13 @@ Dialogue: 2,0:12:51.84,0:12:53.08,Default,,0,0,0,,{\fad(200,200)}我會寫
 Dialogue: 2,0:12:54.32,0:12:55.60,Default-L2,,0,0,0,,{\fad(200,200)}Don't have to teach me that.
 Dialogue: 2,0:12:54.32,0:12:55.60,Default,,0,0,0,,{\fad(200,200)}不用教我
 Dialogue: 2,0:13:02.44,0:13:05.52,Default-L2,,0,0,0,,{\fad(200,200)}I MET AN OAF TODAY. HIS NAME WAS FIRUZ.
-Dialogue: 2,0:13:02.44,0:13:05.52,Default,,0,0,0,,{\fad(200,200)}我今天遇到一個笨蛋，他的名字叫FIRUZ
+Dialogue: 2,0:13:02.44,0:13:05.52,Default,,0,0,0,,{\fad(200,200)}我今天遇到一個笨蛋  他的名字叫菲魯茲
 Dialogue: 2,0:13:10.56,0:13:12.64,Default-L2,,0,0,0,,{\fad(200,200)}- Did he go to sleep? - Yeah.
 Dialogue: 2,0:13:10.56,0:13:12.64,Default,,0,0,0,,{\fad(200,200)}-他睡覺了嗎-是的
 Dialogue: 2,0:13:14.24,0:13:16.00,Default-L2,,0,0,0,,{\fad(200,200)}Is the bed all right?
 Dialogue: 2,0:13:14.24,0:13:16.00,Default,,0,0,0,,{\fad(200,200)}床可以嗎？
 Dialogue: 2,0:13:16.64,0:13:18.60,Default-L2,,0,0,0,,{\fad(200,200)}It is, it is but...
-Dialogue: 2,0:13:16.64,0:13:18.60,Default,,0,0,0,,{\fad(200,200)}可以，但是
+Dialogue: 2,0:13:16.64,0:13:18.60,Default,,0,0,0,,{\fad(200,200)}可以  但是
 Dialogue: 2,0:13:18.68,0:13:20.52,Default-L2,,0,0,0,,{\fad(200,200)}I wish it could be all right up here.
 Dialogue: 2,0:13:18.68,0:13:20.52,Default,,0,0,0,,{\fad(200,200)}我希望這裏一切都好
 Dialogue: 2,0:13:26.00,0:13:28.40,Default-L2,,0,0,0,,{\fad(200,200)}- Is that my Walkman? - Uh-huh. 
@@ -369,19 +369,19 @@ Dialogue: 2,0:13:26.00,0:13:28.40,Default,,0,0,0,,{\fad(200,200)}-那是我的�
 Dialogue: 2,0:13:31.22,0:13:33.86,Default-L2,,0,0,0,,{\fad(200,200)}- Does it still work? - It does.
 Dialogue: 2,0:13:31.22,0:13:33.86,Default,,0,0,0,,{\fad(200,200)}-還能用嗎？-可以
 Dialogue: 2,0:13:35.88,0:13:37.72,Default-L2,,0,0,0,,{\fad(200,200)}Where's the TV, dad?
-Dialogue: 2,0:13:35.88,0:13:37.72,Default,,0,0,0,,{\fad(200,200)}爸爸，電視在哪？
+Dialogue: 2,0:13:35.88,0:13:37.72,Default,,0,0,0,,{\fad(200,200)}爸爸  電視在哪？
 Dialogue: 2,0:13:39.00,0:13:41.24,Default-L2,,0,0,0,,{\fad(200,200)}I gave it to someone who needed it.
 Dialogue: 2,0:13:39.00,0:13:41.24,Default,,0,0,0,,{\fad(200,200)}我給了需要它的人
 Dialogue: 2,0:13:41.32,0:13:44.40,Default-L2,,0,0,0,,{\fad(200,200)}- Don't you watch it? - I watched forty years of it.
 Dialogue: 2,0:13:41.32,0:13:44.40,Default,,0,0,0,,{\fad(200,200)}-你不看嗎？-我看了四十年了
 Dialogue: 2,0:13:47.88,0:13:51.56,Default-L2,,0,0,0,,{\fad(200,200)}- Okay, good night then. - Good night, sweetie.
-Dialogue: 2,0:13:47.88,0:13:51.56,Default,,0,0,0,,{\fad(200,200)}-好的，晚安 -晚安，親愛的
+Dialogue: 2,0:13:47.88,0:13:51.56,Default,,0,0,0,,{\fad(200,200)}-好的  晚安 -晚安  親愛的
 Dialogue: 2,0:13:52.72,0:13:54.56,Default-L2,,0,0,0,,{\fad(200,200)}- Zuhal. - What?
-Dialogue: 2,0:13:52.72,0:13:54.56,Default,,0,0,0,,{\fad(200,200)}-Zuhal -什麼？
+Dialogue: 2,0:13:52.72,0:13:54.56,Default,,0,0,0,,{\fad(200,200)}-祖哈爾 -什麼？
 Dialogue: 2,0:13:54.64,0:13:56.80,Default-L2,,0,0,0,,{\fad(200,200)}Take the spare key in that bowl.
 Dialogue: 2,0:13:54.64,0:13:56.80,Default,,0,0,0,,{\fad(200,200)}拿那個碗裏的備用鎖匙
 Dialogue: 2,0:13:56.88,0:13:58.56,Default-L2,,0,0,0,,{\fad(200,200)}I gave one to Deva, too.
-Dialogue: 2,0:13:56.88,0:13:58.56,Default,,0,0,0,,{\fad(200,200)}也給Deva一個
+Dialogue: 2,0:13:56.88,0:13:58.56,Default,,0,0,0,,{\fad(200,200)}也給德瓦一個
 Dialogue: 2,0:14:16.92,0:14:17.92,Default-L2,,0,0,0,,{\fad(200,200)}Yes?
 Dialogue: 2,0:14:16.92,0:14:17.92,Default,,0,0,0,,{\fad(200,200)}餵？
 Dialogue: 2,0:14:21.08,0:14:22.08,Default-L2,,0,0,0,,{\fad(200,200)}Okay.
@@ -393,23 +393,23 @@ Dialogue: 2,0:14:41.44,0:14:42.56,Default,,0,0,0,,{\fad(200,200)}祝你好運
 Dialogue: 2,0:16:00.64,0:16:03.84,Default-L2,,0,0,0,,{\fad(200,200)}DEAR DIARY
 Dialogue: 2,0:16:00.64,0:16:03.84,Default,,0,0,0,,{\fad(200,200)}日記
 Dialogue: 2,0:16:35.48,0:16:40.12,Default-L2,,0,0,0,,{\fad(200,200)}I ONLY TRUST HER. BECAUSE NEVRA UNDERSTANDS ME.
-Dialogue: 2,0:16:35.48,0:16:40.12,Default,,0,0,0,,{\fad(200,200)}我隻相信她，因為Nevra了解我
+Dialogue: 2,0:16:35.48,0:16:40.12,Default,,0,0,0,,{\fad(200,200)}我隻相信她  因為內芙拉了解我
 Dialogue: 2,0:16:58.56,0:17:00.44,Default-L2,,0,0,0,,{\fad(200,200)}Timur, are you in? It's me, Nevra.
-Dialogue: 2,0:16:58.56,0:17:00.44,Default,,0,0,0,,{\fad(200,200)}Timur，你在嗎？我是Nevra
+Dialogue: 2,0:16:58.56,0:17:00.44,Default,,0,0,0,,{\fad(200,200)}帖木兒  你在嗎？我是內芙拉
 Dialogue: 2,0:17:00.52,0:17:01.60,Default-L2,,0,0,0,,{\fad(200,200)}I'm coming...
 Dialogue: 2,0:17:00.52,0:17:01.60,Default,,0,0,0,,{\fad(200,200)}我來了
 Dialogue: 2,0:17:04.96,0:17:06.08,Default-L2,,0,0,0,,{\fad(200,200)}Welcome.
 Dialogue: 2,0:17:04.96,0:17:06.08,Default,,0,0,0,,{\fad(200,200)}歡迎
 Dialogue: 2,0:17:06.16,0:17:09.08,Default-L2,,0,0,0,,{\fad(200,200)}We've spoken before, but never met in person.
-Dialogue: 2,0:17:06.16,0:17:09.08,Default,,0,0,0,,{\fad(200,200)}我們之前在電話是溝通過，但從未冇見過麵
+Dialogue: 2,0:17:06.16,0:17:09.08,Default,,0,0,0,,{\fad(200,200)}我們之前在電話是溝通過  但從未冇見過麵
 Dialogue: 2,0:17:10.44,0:17:11.64,Default-L2,,0,0,0,,{\fad(200,200)}Yes, hi.
-Dialogue: 2,0:17:10.44,0:17:11.64,Default,,0,0,0,,{\fad(200,200)}是的，嗨
+Dialogue: 2,0:17:10.44,0:17:11.64,Default,,0,0,0,,{\fad(200,200)}是的  嗨
 Dialogue: 2,0:17:12.20,0:17:16.12,Default-L2,,0,0,0,,{\fad(200,200)}Nobody has any respect to the people in here. They barge in.
-Dialogue: 2,0:17:12.20,0:17:16.12,Default,,0,0,0,,{\fad(200,200)}冇有人尊重這裏的人，他們會直接闖進來
+Dialogue: 2,0:17:12.20,0:17:16.12,Default,,0,0,0,,{\fad(200,200)}冇有人尊重這裏的人  他們會直接闖進來
 Dialogue: 2,0:17:16.20,0:17:18.20,Default-L2,,0,0,0,,{\fad(200,200)}That's why I lock the door.
 Dialogue: 2,0:17:16.20,0:17:18.20,Default,,0,0,0,,{\fad(200,200)}這就是我鎖門的原因
 Dialogue: 2,0:17:18.28,0:17:20.76,Default-L2,,0,0,0,,{\fad(200,200)}I had something else to do. That's why I was late.
-Dialogue: 2,0:17:18.28,0:17:20.76,Default,,0,0,0,,{\fad(200,200)}我還有其他事情要做，所以遲到了
+Dialogue: 2,0:17:18.28,0:17:20.76,Default,,0,0,0,,{\fad(200,200)}我還有其他事情要做  所以遲到了
 Dialogue: 2,0:17:20.84,0:17:22.28,Default-L2,,0,0,0,,{\fad(200,200)}You're just in time.
 Dialogue: 2,0:17:20.84,0:17:22.28,Default,,0,0,0,,{\fad(200,200)}你來的剛剛好
 Dialogue: 2,0:17:22.96,0:17:24.60,Default-L2,,0,0,0,,{\fad(200,200)}I was on a break.
@@ -437,7 +437,7 @@ Dialogue: 2,0:18:00.80,0:18:03.84,Default,,0,0,0,,{\fad(200,200)}-是的-是連�
 Dialogue: 2,0:18:05.92,0:18:06.92,Default-L2,,0,0,0,,{\fad(200,200)}It is.
 Dialogue: 2,0:18:05.92,0:18:06.92,Default,,0,0,0,,{\fad(200,200)}是的
 Dialogue: 2,0:18:07.92,0:18:11.60,Default-L2,,0,0,0,,{\fad(200,200)}But, difficult to find one in this country of course.
-Dialogue: 2,0:18:07.92,0:18:11.60,Default,,0,0,0,,{\fad(200,200)}但是，在這個國家當然很難找到
+Dialogue: 2,0:18:07.92,0:18:11.60,Default,,0,0,0,,{\fad(200,200)}但是  在這個國家當然很難找到
 Dialogue: 2,0:18:11.68,0:18:14.72,Default-L2,,0,0,0,,{\fad(200,200)}There are no serial killers in Turkey.
 Dialogue: 2,0:18:11.68,0:18:14.72,Default,,0,0,0,,{\fad(200,200)}土耳其冇有連環殺手
 Dialogue: 2,0:18:15.36,0:18:17.88,Default-L2,,0,0,0,,{\fad(200,200)}There are people who go on a killing spree.
@@ -453,7 +453,7 @@ Dialogue: 2,0:18:56.72,0:18:57.84,Default,,0,0,0,,{\fad(200,200)}冇有掙紮的
 Dialogue: 2,0:18:58.40,0:19:00.32,Default-L2,,0,0,0,,{\fad(200,200)}He's been dead for 96 hours at the most.
 Dialogue: 2,0:18:58.40,0:19:00.32,Default,,0,0,0,,{\fad(200,200)}死亡時間不超過96個小時
 Dialogue: 2,0:19:00.40,0:19:03.32,Default-L2,,0,0,0,,{\fad(200,200)}There's one entry wound, 7.65.
-Dialogue: 2,0:19:00.40,0:19:03.32,Default,,0,0,0,,{\fad(200,200)}傷口隻有一處，7.65mm子彈
+Dialogue: 2,0:19:00.40,0:19:03.32,Default,,0,0,0,,{\fad(200,200)}傷口隻有一處  7.65mm子彈
 Dialogue: 2,0:19:03.40,0:19:05.44,Default-L2,,0,0,0,,{\fad(200,200)}Any sugar or milk in your coffee?
 Dialogue: 2,0:19:03.40,0:19:05.44,Default,,0,0,0,,{\fad(200,200)}咖啡加牛奶還是加糖？
 Dialogue: 2,0:19:05.52,0:19:06.52,Default-L2,,0,0,0,,{\fad(200,200)}Nope.
@@ -465,7 +465,7 @@ Dialogue: 2,0:19:13.88,0:19:15.00,Default,,0,0,0,,{\fad(200,200)}好的
 Dialogue: 2,0:19:15.08,0:19:16.36,Default-L2,,0,0,0,,{\fad(200,200)}I'll be there soon.
 Dialogue: 2,0:19:15.08,0:19:16.36,Default,,0,0,0,,{\fad(200,200)}我很快就到
 Dialogue: 2,0:19:17.40,0:19:19.60,Default-L2,,0,0,0,,{\fad(200,200)}It was the lab. They found a match for the prints.
-Dialogue: 2,0:19:17.40,0:19:19.60,Default,,0,0,0,,{\fad(200,200)}是實驗室打來的，他們匹配到了指紋信息
+Dialogue: 2,0:19:17.40,0:19:19.60,Default,,0,0,0,,{\fad(200,200)}是實驗室打來的  他們匹配到了指紋信息
 Dialogue: 2,0:19:19.68,0:19:21.28,Default-L2,,0,0,0,,{\fad(200,200)}Seriously? You found him then?
 Dialogue: 2,0:19:19.68,0:19:21.28,Default,,0,0,0,,{\fad(200,200)}真的嗎？你能找到他了嗎？
 Dialogue: 2,0:19:22.56,0:19:24.08,Default-L2,,0,0,0,,{\fad(200,200)}Thanks for the coffee.
@@ -485,7 +485,7 @@ Dialogue: 2,0:19:59.04,0:20:01.16,Default,,0,0,0,,{\fad(200,200)}我確信我已
 Dialogue: 2,0:20:02.28,0:20:03.60,Default-L2,,0,0,0,,{\fad(200,200)}I really do.
 Dialogue: 2,0:20:02.28,0:20:03.60,Default,,0,0,0,,{\fad(200,200)}真的
 Dialogue: 2,0:20:04.84,0:20:07.24,Default-L2,,0,0,0,,{\fad(200,200)}I wish Mebrure could see this.
-Dialogue: 2,0:20:04.84,0:20:07.24,Default,,0,0,0,,{\fad(200,200)}我希望Mebrure能看到
+Dialogue: 2,0:20:04.84,0:20:07.24,Default,,0,0,0,,{\fad(200,200)}我希望梅佈魯雷能看到
 Dialogue: 2,0:20:13.00,0:20:16.40,Default-L2,,0,0,0,,{\fad(200,200)}We loved each other so.
 Dialogue: 2,0:20:13.00,0:20:16.40,Default,,0,0,0,,{\fad(200,200)}我們彼此十分相愛
 Dialogue: 2,0:20:17.08,0:20:19.32,Default-L2,,0,0,0,,{\fad(200,200)}So many memories.
@@ -507,7 +507,7 @@ Dialogue: 2,0:20:49.16,0:20:51.24,Default,,0,0,0,,{\fad(200,200)}-這是兇手�
 Dialogue: 2,0:20:52.00,0:20:54.56,Default-L2,,0,0,0,,{\fad(200,200)}- He's armed, of course. - Probably, yes.
 Dialogue: 2,0:20:52.00,0:20:54.56,Default,,0,0,0,,{\fad(200,200)}-他有武器 -應該是的
 Dialogue: 2,0:20:57.36,0:20:59.52,Default-L2,,0,0,0,,{\fad(200,200)}We'll go in, pick him up, then leave.
-Dialogue: 2,0:20:57.36,0:20:59.52,Default,,0,0,0,,{\fad(200,200)}我們進去抓到他，然後離開
+Dialogue: 2,0:20:57.36,0:20:59.52,Default,,0,0,0,,{\fad(200,200)}我們進去抓到他  然後離開
 Dialogue: 2,0:21:02.52,0:21:03.52,Default-L2,,0,0,0,,{\fad(200,200)}Pity.
 Dialogue: 2,0:21:02.52,0:21:03.52,Default,,0,0,0,,{\fad(200,200)}可憐
 Dialogue: 2,0:21:04.24,0:21:05.76,Default-L2,,0,0,0,,{\fad(200,200)}You wasted it all.
@@ -555,37 +555,37 @@ Dialogue: 2,0:22:38.80,0:22:40.48,Default,,0,0,0,,{\fad(200,200)}你知道你的
 Dialogue: 2,0:22:44.52,0:22:46.44,Default-L2,,0,0,0,,{\fad(200,200)}You'll be my murder weapon.
 Dialogue: 2,0:22:44.52,0:22:46.44,Default,,0,0,0,,{\fad(200,200)}你將成為我殺人的武器
 Dialogue: 2,0:22:48.20,0:22:49.52,Default-L2,,0,0,0,,{\fad(200,200)}Good, isn't it?
-Dialogue: 2,0:22:48.20,0:22:49.52,Default,,0,0,0,,{\fad(200,200)}很好，不是嗎？
+Dialogue: 2,0:22:48.20,0:22:49.52,Default,,0,0,0,,{\fad(200,200)}很好  不是嗎？
 Dialogue: 2,0:23:12.96,0:23:15.56,Default-L2,,0,0,0,,{\fad(200,200)}Clear. Perp is not in. We're moving out.
-Dialogue: 2,0:23:12.96,0:23:15.56,Default,,0,0,0,,{\fad(200,200)}安全，罪犯不在這裏，收隊
+Dialogue: 2,0:23:12.96,0:23:15.56,Default,,0,0,0,,{\fad(200,200)}安全  罪犯不在這裏  收隊
 Dialogue: 2,0:23:18.56,0:23:20.64,Default-L2,,0,0,0,,{\fad(200,200)}We're going in. We'll conduct a search.
 Dialogue: 2,0:23:18.56,0:23:20.64,Default,,0,0,0,,{\fad(200,200)}我們進去搜查
 Dialogue: 2,0:24:17.00,0:24:18.24,Default-L2,,0,0,0,,{\fad(200,200)}That's Salih.
-Dialogue: 2,0:24:17.00,0:24:18.24,Default,,0,0,0,,{\fad(200,200)}那是Salih
+Dialogue: 2,0:24:17.00,0:24:18.24,Default,,0,0,0,,{\fad(200,200)}那是薩利
 Dialogue: 2,0:24:19.04,0:24:20.68,Default-L2,,0,0,0,,{\fad(200,200)}He's a decent lorry driver.
 Dialogue: 2,0:24:19.04,0:24:20.68,Default,,0,0,0,,{\fad(200,200)}他是個不錯的卡車司機
 Dialogue: 2,0:24:21.96,0:24:24.12,Default-L2,,0,0,0,,{\fad(200,200)}He even helped us move,
 Dialogue: 2,0:24:21.96,0:24:24.12,Default,,0,0,0,,{\fad(200,200)}他還幫我們搬過家
 Dialogue: 2,0:24:24.72,0:24:27.52,Default-L2,,0,0,0,,{\fad(200,200)}and Mebrure is extraordinarily fussy.
-Dialogue: 2,0:24:24.72,0:24:27.52,Default,,0,0,0,,{\fad(200,200)}但Mebrure非常挑剔
+Dialogue: 2,0:24:24.72,0:24:27.52,Default,,0,0,0,,{\fad(200,200)}但梅佈魯雷非常挑剔
 Dialogue: 2,0:24:31.24,0:24:33.48,Default-L2,,0,0,0,,{\fad(200,200)}You'll be killing Salih!
-Dialogue: 2,0:24:31.24,0:24:33.48,Default,,0,0,0,,{\fad(200,200)}你將會把Salih殺掉
+Dialogue: 2,0:24:31.24,0:24:33.48,Default,,0,0,0,,{\fad(200,200)}你將會把薩利殺掉
 Dialogue: 2,0:24:46.60,0:24:47.60,Default-L2,,0,0,0,,{\fad(200,200)}Come on.
 Dialogue: 2,0:24:46.60,0:24:47.60,Default,,0,0,0,,{\fad(200,200)}來吧
 Dialogue: 2,0:24:48.24,0:24:49.64,Default-L2,,0,0,0,,{\fad(200,200)}Give me your finger.
 Dialogue: 2,0:24:48.24,0:24:49.64,Default,,0,0,0,,{\fad(200,200)}手指伸出來
 Dialogue: 2,0:24:50.40,0:24:52.72,Default-L2,,0,0,0,,{\fad(200,200)}Don't be difficult, my back is aching up. Come on.
-Dialogue: 2,0:24:50.40,0:24:52.72,Default,,0,0,0,,{\fad(200,200)}別難為人了，我的後背酸痛，快點
+Dialogue: 2,0:24:50.40,0:24:52.72,Default,,0,0,0,,{\fad(200,200)}別難為人了  我的後背酸痛  快點
 Dialogue: 2,0:24:52.80,0:24:55.64,Default-L2,,0,0,0,,{\fad(200,200)}It was so easy the last time. Give me your finger.
-Dialogue: 2,0:24:52.80,0:24:55.64,Default,,0,0,0,,{\fad(200,200)}上一次真的太容易了，手指伸出來
+Dialogue: 2,0:24:52.80,0:24:55.64,Default,,0,0,0,,{\fad(200,200)}上一次真的太容易了  手指伸出來
 Dialogue: 2,0:24:56.24,0:24:57.16,Default-L2,,0,0,0,,{\fad(200,200)}Look.
 Dialogue: 2,0:24:56.24,0:24:57.16,Default,,0,0,0,,{\fad(200,200)}聽好了
 Dialogue: 2,0:24:57.24,0:24:59.04,Default-L2,,0,0,0,,{\fad(200,200)}If you'll be nice,
 Dialogue: 2,0:24:57.24,0:24:59.04,Default,,0,0,0,,{\fad(200,200)}如果你錶現好
 Dialogue: 2,0:24:59.12,0:25:02.56,Default-L2,,0,0,0,,{\fad(200,200)}I'll handcuff you the other way. It'll be more comfortable. Deal?
-Dialogue: 2,0:24:59.12,0:25:02.56,Default,,0,0,0,,{\fad(200,200)}我會用另一種方式給你戴手銬，那樣會舒服很多，好嗎？
+Dialogue: 2,0:24:59.12,0:25:02.56,Default,,0,0,0,,{\fad(200,200)}我會用另一種方式給你戴手銬  那樣會舒服很多  好嗎？
 Dialogue: 2,0:25:02.64,0:25:04.76,Default-L2,,0,0,0,,{\fad(200,200)}Agreed? Come. Give me your finger.
-Dialogue: 2,0:25:02.64,0:25:04.76,Default,,0,0,0,,{\fad(200,200)}同意嗎？來吧，手指給我
+Dialogue: 2,0:25:02.64,0:25:04.76,Default,,0,0,0,,{\fad(200,200)}同意嗎？來吧  手指給我
 Dialogue: 2,0:25:05.36,0:25:06.76,Default-L2,,0,0,0,,{\fad(200,200)}Come on, give it to me.
 Dialogue: 2,0:25:05.36,0:25:06.76,Default,,0,0,0,,{\fad(200,200)}來吧給我
 Dialogue: 2,0:25:08.40,0:25:10.40,Default-L2,,0,0,0,,{\fad(200,200)}You're mad at me.
@@ -595,11 +595,11 @@ Dialogue: 2,0:25:11.16,0:25:14.80,Default,,0,0,0,,{\fad(200,200)}但是如果換
 Dialogue: 2,0:25:16.96,0:25:18.24,Default-L2,,0,0,0,,{\fad(200,200)}We're done.
 Dialogue: 2,0:25:16.96,0:25:18.24,Default,,0,0,0,,{\fad(200,200)}大功告成
 Dialogue: 2,0:25:28.68,0:25:33.40,Default-L2,,0,0,0,,{\fad(200,200)}Of course, only serving a sentence wouldn't do. 
-Dialogue: 2,0:25:28.68,0:25:33.40,Default,,0,0,0,,{\fad(200,200)}當然，隻服刑是不行的
+Dialogue: 2,0:25:28.68,0:25:33.40,Default,,0,0,0,,{\fad(200,200)}當然  隻服刑是不行的
 Dialogue: 2,0:25:35.20,0:25:36.76,Default-L2,,0,0,0,,{\fad(200,200)}You need rehabilitation.
 Dialogue: 2,0:25:35.20,0:25:36.76,Default,,0,0,0,,{\fad(200,200)}你需要改過自新
 Dialogue: 2,0:25:37.52,0:25:40.04,Default-L2,,0,0,0,,{\fad(200,200)}What's a sentence good for without rehabilitation?
-Dialogue: 2,0:25:37.52,0:25:40.04,Default,,0,0,0,,{\fad(200,200)}冇有悔過，服刑有什麼用呢？
+Dialogue: 2,0:25:37.52,0:25:40.04,Default,,0,0,0,,{\fad(200,200)}冇有悔過  服刑有什麼用呢？
 Dialogue: 2,0:25:40.12,0:25:41.44,Default-L2,,0,0,0,,{\fad(200,200)}Nothing.
 Dialogue: 2,0:25:40.12,0:25:41.44,Default,,0,0,0,,{\fad(200,200)}冇用
 Dialogue: 2,0:25:49.40,0:25:52.08,Default-L2,,0,0,0,,{\fad(200,200)}Everyone collects something.
@@ -607,7 +607,7 @@ Dialogue: 2,0:25:49.40,0:25:52.08,Default,,0,0,0,,{\fad(200,200)}每個人喜歡
 Dialogue: 2,0:25:52.88,0:25:54.44,Default-L2,,0,0,0,,{\fad(200,200)}And this is my collection.
 Dialogue: 2,0:25:52.88,0:25:54.44,Default,,0,0,0,,{\fad(200,200)}這是我的收藏
 Dialogue: 2,0:25:55.20,0:25:58.52,Default-L2,,0,0,0,,{\fad(200,200)}I have a lot more, but this is special for you.
-Dialogue: 2,0:25:55.20,0:25:58.52,Default,,0,0,0,,{\fad(200,200)}我還有很多，但這些對你有特殊意義
+Dialogue: 2,0:25:55.20,0:25:58.52,Default,,0,0,0,,{\fad(200,200)}我還有很多  但這些對你有特殊意義
 Dialogue: 2,0:25:59.88,0:26:01.40,Default-L2,,0,0,0,,{\fad(200,200)}Keep this between us...
 Dialogue: 2,0:25:59.88,0:26:01.40,Default,,0,0,0,,{\fad(200,200)}別告訴別人……
 Dialogue: 2,0:26:02.60,0:26:06.68,Default-L2,,0,0,0,,{\fad(200,200)}I pinched these from case files, back in the day.
@@ -619,9 +619,9 @@ Dialogue: 2,0:26:10.12,0:26:12.68,Default,,0,0,0,,{\fad(200,200)}想想你所做
 Dialogue: 2,0:26:13.28,0:26:14.44,Default-L2,,0,0,0,,{\fad(200,200)}Okay?
 Dialogue: 2,0:26:13.28,0:26:14.44,Default,,0,0,0,,{\fad(200,200)}好嗎？
 Dialogue: 2,0:26:22.80,0:26:27.64,Default-L2,,0,0,0,,{\fad(200,200)}All things packed away, Along with yourself.
-Dialogue: 2,0:26:22.80,0:26:27.64,Default,,0,0,0,,{\fad(200,200)}所有的東西都收拾好，伴隨著你自己
+Dialogue: 2,0:26:22.80,0:26:27.64,Default,,0,0,0,,{\fad(200,200)}所有的東西都收拾好  伴隨著你自己
 Dialogue: 2,0:26:27.72,0:26:31.92,Default-L2,,0,0,0,,{\fad(200,200)}Memories are scattered, To the room, everywhere.
-Dialogue: 2,0:26:27.72,0:26:31.92,Default,,0,0,0,,{\fad(200,200)}記憶零散，到房間，到處都是
+Dialogue: 2,0:26:27.72,0:26:31.92,Default,,0,0,0,,{\fad(200,200)}記憶零散  到房間  到處都是
 Dialogue: 2,0:26:32.00,0:26:36.68,Default-L2,,0,0,0,,{\fad(200,200)}The perfume I'm used to Is no longer there.
 Dialogue: 2,0:26:32.00,0:26:36.68,Default,,0,0,0,,{\fad(200,200)}我習慣的香水不再存在
 Dialogue: 2,0:26:37.80,0:26:39.28,Default-L2,,0,0,0,,{\fad(200,200)\i1}You.{\i}
@@ -629,7 +629,7 @@ Dialogue: 2,0:26:37.80,0:26:39.28,Default,,0,0,0,,{\fad(200,200)}你
 Dialogue: 2,0:26:41.12,0:26:45.60,Default-L2,,0,0,0,,{\fad(200,200)}Your smile has faded From the nooks of the house. 
 Dialogue: 2,0:26:41.12,0:26:45.60,Default,,0,0,0,,{\fad(200,200)}你的笑容從屋子的角落消失了
 Dialogue: 2,0:26:45.68,0:26:49.96,Default-L2,,0,0,0,,{\fad(200,200)}Loneliness is bitter.Please don't leave me. 
-Dialogue: 2,0:26:45.68,0:26:49.96,Default,,0,0,0,,{\fad(200,200)}孤獨很痛苦，請不要離開我 
+Dialogue: 2,0:26:45.68,0:26:49.96,Default,,0,0,0,,{\fad(200,200)}孤獨很痛苦  請不要離開我 
 Dialogue: 2,0:26:50.04,0:26:55.04,Default-L2,,0,0,0,,{\fad(200,200)}We have loved this Colorless world together.
 Dialogue: 2,0:26:50.04,0:26:55.04,Default,,0,0,0,,{\fad(200,200)}我們一起愛過這個無色的世界 
 Dialogue: 2,0:26:56.36,0:26:57.64,Default-L2,,0,0,0,,{\fad(200,200)\i1}You.{\i}
@@ -661,59 +661,59 @@ Dialogue: 2,0:28:13.48,0:28:15.08,Default,,0,0,0,,{\fad(200,200)}我的女人
 Dialogue: 2,0:29:06.16,0:29:08.28,Default-L2,,0,0,0,,{\fad(200,200)}- Oh dear! - Dad!
 Dialogue: 2,0:29:06.16,0:29:08.28,Default,,0,0,0,,{\fad(200,200)}-天啊！-爸爸
 Dialogue: 2,0:29:08.36,0:29:10.52,Default-L2,,0,0,0,,{\fad(200,200)}So sorry, sweetie. I...
-Dialogue: 2,0:29:08.36,0:29:10.52,Default,,0,0,0,,{\fad(200,200)}抱歉，親愛的，我……
+Dialogue: 2,0:29:08.36,0:29:10.52,Default,,0,0,0,,{\fad(200,200)}抱歉  親愛的  我……
 Dialogue: 2,0:29:20.56,0:29:21.68,Default-L2,,0,0,0,,{\fad(200,200)}You're up? Come in.
 Dialogue: 2,0:29:20.56,0:29:21.68,Default,,0,0,0,,{\fad(200,200)}你起來了嗎
 Dialogue: 2,0:29:22.28,0:29:24.64,Default-L2,,0,0,0,,{\fad(200,200)}Of course I'm up. You knocked the door all night.
-Dialogue: 2,0:29:22.28,0:29:24.64,Default,,0,0,0,,{\fad(200,200)}我當然起來了，你整晚都敲門
+Dialogue: 2,0:29:22.28,0:29:24.64,Default,,0,0,0,,{\fad(200,200)}我當然起來了  你整晚都敲門
 Dialogue: 2,0:29:27.72,0:29:30.48,Default-L2,,0,0,0,,{\fad(200,200)}Zuhal! Deva speaks!
-Dialogue: 2,0:29:27.72,0:29:30.48,Default,,0,0,0,,{\fad(200,200)}Zuhal！Deva說話了！
+Dialogue: 2,0:29:27.72,0:29:30.48,Default,,0,0,0,,{\fad(200,200)}祖哈爾！德瓦說話了！
 Dialogue: 2,0:29:31.00,0:29:34.08,Default-L2,,0,0,0,,{\fad(200,200)}Deva spoke to me for the first time!
-Dialogue: 2,0:29:31.00,0:29:34.08,Default,,0,0,0,,{\fad(200,200)}Deva第一次對我說話！
+Dialogue: 2,0:29:31.00,0:29:34.08,Default,,0,0,0,,{\fad(200,200)}德瓦第一次對我說話！
 Dialogue: 2,0:29:34.16,0:29:36.44,Default-L2,,0,0,0,,{\fad(200,200)}Good job, Deva! Good morning, Deva!
-Dialogue: 2,0:29:34.16,0:29:36.44,Default,,0,0,0,,{\fad(200,200)}幹得好，Deva！早上好，Deva！
+Dialogue: 2,0:29:34.16,0:29:36.44,Default,,0,0,0,,{\fad(200,200)}幹得好  德瓦！早上好  德瓦！
 Dialogue: 2,0:29:36.52,0:29:38.64,Default-L2,,0,0,0,,{\fad(200,200)}- Good morning. - Enjoy your breakfast, Deva.
-Dialogue: 2,0:29:36.52,0:29:38.64,Default,,0,0,0,,{\fad(200,200)}-早上好-享受早餐，Deva
+Dialogue: 2,0:29:36.52,0:29:38.64,Default,,0,0,0,,{\fad(200,200)}-早上好-享受早餐  德瓦
 Dialogue: 2,0:29:38.72,0:29:40.32,Default-L2,,0,0,0,,{\fad(200,200)}Come sweetie. Everything's ready.
-Dialogue: 2,0:29:38.72,0:29:40.32,Default,,0,0,0,,{\fad(200,200)}來吧親愛的，一切都準備好了
+Dialogue: 2,0:29:38.72,0:29:40.32,Default,,0,0,0,,{\fad(200,200)}來吧親愛的  一切都準備好了
 Dialogue: 2,0:29:40.40,0:29:42.44,Default-L2,,0,0,0,,{\fad(200,200)}I won't stay, daddy. I have to go out.
-Dialogue: 2,0:29:40.40,0:29:42.44,Default,,0,0,0,,{\fad(200,200)}爸爸，我必須出去
+Dialogue: 2,0:29:40.40,0:29:42.44,Default,,0,0,0,,{\fad(200,200)}爸爸  我必須出去
 Dialogue: 2,0:29:42.52,0:29:44.44,Default-L2,,0,0,0,,{\fad(200,200)}There was this Onat in my old company.
-Dialogue: 2,0:29:42.52,0:29:44.44,Default,,0,0,0,,{\fad(200,200)}我要去我以前的公司Onatin
+Dialogue: 2,0:29:42.52,0:29:44.44,Default,,0,0,0,,{\fad(200,200)}我要去我以前的公司
 Dialogue: 2,0:29:44.52,0:29:46.60,Default-L2,,0,0,0,,{\fad(200,200)}I wrote to him yesterday about a job.
 Dialogue: 2,0:29:44.52,0:29:46.60,Default,,0,0,0,,{\fad(200,200)}昨天我給他寫了一封求職信
 Dialogue: 2,0:29:49.12,0:29:51.72,Default-L2,,0,0,0,,{\fad(200,200)}- You just arrived, sweetie. - Yes.
-Dialogue: 2,0:29:49.12,0:29:51.72,Default,,0,0,0,,{\fad(200,200)}-你才剛到這，親愛的-是的
+Dialogue: 2,0:29:49.12,0:29:51.72,Default,,0,0,0,,{\fad(200,200)}-你才剛到這  親愛的-是的
 Dialogue: 2,0:29:51.80,0:29:54.84,Default-L2,,0,0,0,,{\fad(200,200)}But we have to settle down as soon as possible.
 Dialogue: 2,0:29:51.80,0:29:54.84,Default,,0,0,0,,{\fad(200,200)}但是我們必須盡快安頓下來
 Dialogue: 2,0:29:54.92,0:29:56.48,Default-L2,,0,0,0,,{\fad(200,200)}I'll drop by Deva's school, too.
-Dialogue: 2,0:29:54.92,0:29:56.48,Default,,0,0,0,,{\fad(200,200)}我還要去Deva的學校
+Dialogue: 2,0:29:54.92,0:29:56.48,Default,,0,0,0,,{\fad(200,200)}我還要去德瓦的學校
 Dialogue: 2,0:29:57.16,0:30:00.88,Default-L2,,0,0,0,,{\fad(200,200)}I hope they don't give me a rough time, with it being mid-semester, and all.
 Dialogue: 2,0:29:57.16,0:30:00.88,Default,,0,0,0,,{\fad(200,200)}我希望學校那邊不要因為是期中階段讓我難堪
 Dialogue: 2,0:30:00.96,0:30:04.08,Default-L2,,0,0,0,,{\fad(200,200)}Sit down, have some tea. I'll make you coffee.
-Dialogue: 2,0:30:00.96,0:30:04.08,Default,,0,0,0,,{\fad(200,200)}坐下喝茶，我煮咖啡給你
+Dialogue: 2,0:30:00.96,0:30:04.08,Default,,0,0,0,,{\fad(200,200)}坐下喝茶  我煮咖啡給你
 Dialogue: 2,0:30:04.16,0:30:06.00,Default-L2,,0,0,0,,{\fad(200,200)}I'll get something later.
 Dialogue: 2,0:30:04.16,0:30:06.00,Default,,0,0,0,,{\fad(200,200)}等一下我去拿
 Dialogue: 2,0:30:06.64,0:30:10.08,Default-L2,,0,0,0,,{\fad(200,200)}You'll have a good time, grandfather and grandson.
-Dialogue: 2,0:30:06.64,0:30:10.08,Default,,0,0,0,,{\fad(200,200)}祖父和孫子，你們會玩得很開心的
+Dialogue: 2,0:30:06.64,0:30:10.08,Default,,0,0,0,,{\fad(200,200)}祖父和孫子  你們會玩得很開心的
 Dialogue: 2,0:30:10.16,0:30:13.40,Default-L2,,0,0,0,,{\fad(200,200)}Sure. I'll show Deva around.
-Dialogue: 2,0:30:10.16,0:30:13.40,Default,,0,0,0,,{\fad(200,200)}當然，我會帶他到處轉轉
+Dialogue: 2,0:30:10.16,0:30:13.40,Default,,0,0,0,,{\fad(200,200)}當然  我會帶他到處轉轉
 Dialogue: 2,0:30:13.96,0:30:15.80,Default-L2,,0,0,0,,{\fad(200,200)}May I have some bread, Deva?
-Dialogue: 2,0:30:13.96,0:30:15.80,Default,,0,0,0,,{\fad(200,200)}我可以吃些麵包嗎，Deva？
+Dialogue: 2,0:30:13.96,0:30:15.80,Default,,0,0,0,,{\fad(200,200)}我可以吃些麵包嗎  德瓦？
 Dialogue: 2,0:30:17.08,0:30:19.92,Default-L2,,0,0,0,,{\fad(200,200)}You're free to be alone, if you want.
-Dialogue: 2,0:30:17.08,0:30:19.92,Default,,0,0,0,,{\fad(200,200)}如果你願意的話，可以一個人呆著
+Dialogue: 2,0:30:17.08,0:30:19.92,Default,,0,0,0,,{\fad(200,200)}如果你願意的話  可以一個人呆著
 Dialogue: 2,0:30:20.52,0:30:22.28,Default-L2,,0,0,0,,{\fad(200,200)}Actually, you're free to be alone.
-Dialogue: 2,0:30:20.52,0:30:22.28,Default,,0,0,0,,{\fad(200,200)}其實，你可以一個人呆著
+Dialogue: 2,0:30:20.52,0:30:22.28,Default,,0,0,0,,{\fad(200,200)}其實  你可以一個人呆著
 Dialogue: 2,0:30:26.52,0:30:28.68,Default-L2,,0,0,0,,{\fad(200,200)}I slept like a log last night.
 Dialogue: 2,0:30:26.52,0:30:28.68,Default,,0,0,0,,{\fad(200,200)}我昨晚睡得很香
 Dialogue: 2,0:30:33.04,0:30:34.40,Default-L2,,0,0,0,,{\fad(200,200)}Nevra.
-Dialogue: 2,0:30:33.04,0:30:34.40,Default-L2,,0,0,0,,{\fad(200,200)}Nevra.
+Dialogue: 2,0:30:33.04,0:30:34.40,Default-L2,,0,0,0,,{\fad(200,200)}內芙拉.
 Dialogue: 2,0:30:41.68,0:30:43.84,Default-L2,,0,0,0,,{\fad(200,200)}Sorry, Chief. I dozed off.
-Dialogue: 2,0:30:41.68,0:30:43.84,Default,,0,0,0,,{\fad(200,200)}抱歉，長官，我睡著了
+Dialogue: 2,0:30:41.68,0:30:43.84,Default,,0,0,0,,{\fad(200,200)}抱歉  長官  我睡著了
 Dialogue: 2,0:30:51.24,0:30:54.56,Default-L2,,0,0,0,,{\fad(200,200)}We ID'd the perp and raided his house last night...
 Dialogue: 2,0:30:51.24,0:30:54.56,Default,,0,0,0,,{\fad(200,200)}昨晚我們確認了嫌犯並且搜查了他的房子
 Dialogue: 2,0:30:54.64,0:30:57.04,Default-L2,,0,0,0,,{\fad(200,200)}Okay, okay. Calm down.
-Dialogue: 2,0:30:54.64,0:30:57.04,Default,,0,0,0,,{\fad(200,200)}好的，好的，放鬆
+Dialogue: 2,0:30:54.64,0:30:57.04,Default,,0,0,0,,{\fad(200,200)}好的  好的  放鬆
 Dialogue: 2,0:30:57.12,0:30:58.64,Default-L2,,0,0,0,,{\fad(200,200)}I've heard everything.
 Dialogue: 2,0:30:57.12,0:30:58.64,Default,,0,0,0,,{\fad(200,200)}我都聽說了
 Dialogue: 2,0:30:59.84,0:31:01.76,Default-L2,,0,0,0,,{\fad(200,200)}Go home, get some sleep.
@@ -721,23 +721,23 @@ Dialogue: 2,0:30:59.84,0:31:01.76,Default,,0,0,0,,{\fad(200,200)}回家睡一下
 Dialogue: 2,0:31:01.84,0:31:03.48,Default-L2,,0,0,0,,{\fad(200,200)}Come back in the afternoon.
 Dialogue: 2,0:31:01.84,0:31:03.48,Default,,0,0,0,,{\fad(200,200)}下午回來
 Dialogue: 2,0:31:03.56,0:31:05.48,Default-L2,,0,0,0,,{\fad(200,200)}But you had to inform Firuz last night.
-Dialogue: 2,0:31:03.56,0:31:05.48,Default,,0,0,0,,{\fad(200,200)}但是你必須把昨晚的事告訴Firuz
+Dialogue: 2,0:31:03.56,0:31:05.48,Default,,0,0,0,,{\fad(200,200)}但是你必須把昨晚的事告訴菲魯茲
 Dialogue: 2,0:31:07.44,0:31:10.88,Default-L2,,0,0,0,,{\fad(200,200)}- It all happened so quickly. - The damage is done.
 Dialogue: 2,0:31:07.44,0:31:10.88,Default,,0,0,0,,{\fad(200,200)}-事情發生的太快了 -於事無補
 Dialogue: 2,0:31:11.44,0:31:12.80,Default-L2,,0,0,0,,{\fad(200,200)}You go home now, okay?
-Dialogue: 2,0:31:11.44,0:31:12.80,Default,,0,0,0,,{\fad(200,200)}你現在回家吧，好嗎？
+Dialogue: 2,0:31:11.44,0:31:12.80,Default,,0,0,0,,{\fad(200,200)}你現在回家吧  好嗎？
 Dialogue: 2,0:31:13.44,0:31:15.68,Default-L2,,0,0,0,,{\fad(200,200)}- Good night. - Good morning.
 Dialogue: 2,0:31:13.44,0:31:15.68,Default,,0,0,0,,{\fad(200,200)}-晚安-早上好
 Dialogue: 2,0:32:04.56,0:32:05.84,Default-L2,,0,0,0,,{\fad(200,200)}Agah?
-Dialogue: 2,0:32:04.56,0:32:05.84,Default-L2,,0,0,0,,{\fad(200,200)}Agah?
+Dialogue: 2,0:32:04.56,0:32:05.84,Default-L2,,0,0,0,,{\fad(200,200)}阿加?
 Dialogue: 2,0:32:06.96,0:32:09.32,Default-L2,,0,0,0,,{\fad(200,200)}- Agah, how are you? - Thanks, Rustem. You?
-Dialogue: 2,0:32:06.96,0:32:09.32,Default,,0,0,0,,{\fad(200,200)}-Agah，你好嗎？-謝謝，Rustem，你怎麼樣？
+Dialogue: 2,0:32:06.96,0:32:09.32,Default,,0,0,0,,{\fad(200,200)}-阿加  你好嗎？-謝謝  魯斯特姆  你怎麼樣？
 Dialogue: 2,0:32:09.40,0:32:11.60,Default-L2,,0,0,0,,{\fad(200,200)}Fine, can't complain. Who's the lad?
-Dialogue: 2,0:32:09.40,0:32:11.60,Default,,0,0,0,,{\fad(200,200)}很好，知足了，這小夥子是誰？
+Dialogue: 2,0:32:09.40,0:32:11.60,Default,,0,0,0,,{\fad(200,200)}很好  知足了  這小夥子是誰？
 Dialogue: 2,0:32:11.68,0:32:14.48,Default-L2,,0,0,0,,{\fad(200,200)}My grandson. He's arrived yesterday with his mother.
-Dialogue: 2,0:32:11.68,0:32:14.48,Default,,0,0,0,,{\fad(200,200)}我的孫子，他昨天和他媽媽一起來的
+Dialogue: 2,0:32:11.68,0:32:14.48,Default,,0,0,0,,{\fad(200,200)}我的孫子  他昨天和他媽媽一起來的
 Dialogue: 2,0:32:14.56,0:32:17.68,Default-L2,,0,0,0,,{\fad(200,200)}Joyous news. You know your grandfather?
-Dialogue: 2,0:32:14.56,0:32:17.68,Default,,0,0,0,,{\fad(200,200)}好消息啊，你認識你的祖父嗎？
+Dialogue: 2,0:32:14.56,0:32:17.68,Default,,0,0,0,,{\fad(200,200)}好消息啊  你認識你的祖父嗎？
 Dialogue: 2,0:32:17.76,0:32:19.16,Default-L2,,0,0,0,,{\fad(200,200)}He's a killer.
 Dialogue: 2,0:32:17.76,0:32:19.16,Default,,0,0,0,,{\fad(200,200)}他是殺手
 Dialogue: 2,0:32:19.24,0:32:21.48,Default-L2,,0,0,0,,{\fad(200,200)}You've killed the instrument.
@@ -745,7 +745,7 @@ Dialogue: 2,0:32:19.24,0:32:21.48,Default,,0,0,0,,{\fad(200,200)}你已經把樂
 Dialogue: 2,0:32:21.56,0:32:23.24,Default-L2,,0,0,0,,{\fad(200,200)}You stabbed the drum!
 Dialogue: 2,0:32:21.56,0:32:23.24,Default,,0,0,0,,{\fad(200,200)}你刺了鼓！
 Dialogue: 2,0:32:23.32,0:32:26.56,Default-L2,,0,0,0,,{\fad(200,200)}But thanks. They were being obnoxiously loud.
-Dialogue: 2,0:32:23.32,0:32:26.56,Default,,0,0,0,,{\fad(200,200)}但是謝謝你了，那鼓真的很煩人
+Dialogue: 2,0:32:23.32,0:32:26.56,Default,,0,0,0,,{\fad(200,200)}但是謝謝你了  那鼓真的很煩人
 Dialogue: 2,0:32:26.64,0:32:28.12,Default-L2,,0,0,0,,{\fad(200,200)}We'll have some peace of mind.
 Dialogue: 2,0:32:26.64,0:32:28.12,Default,,0,0,0,,{\fad(200,200)}這回我們安心了
 Dialogue: 2,0:32:28.20,0:32:29.44,Default-L2,,0,0,0,,{\fad(200,200)}See you later.
@@ -755,11 +755,11 @@ Dialogue: 2,0:32:35.48,0:32:37.20,Default,,0,0,0,,{\fad(200,200)}好吧
 Dialogue: 2,0:32:44.24,0:32:46.44,Default-L2,,0,0,0,,{\fad(200,200)}- You stabbed a drum? - What?
 Dialogue: 2,0:32:44.24,0:32:46.44,Default,,0,0,0,,{\fad(200,200)}-你刺壞了鼓嗎？-什麼？
 Dialogue: 2,0:32:46.52,0:32:48.64,Default-L2,,0,0,0,,{\fad(200,200)}Oh, it's not a big deal.
-Dialogue: 2,0:32:46.52,0:32:48.64,Default,,0,0,0,,{\fad(200,200)}哦，冇什麼大不了的
+Dialogue: 2,0:32:46.52,0:32:48.64,Default,,0,0,0,,{\fad(200,200)}哦  冇什麼大不了的
 Dialogue: 2,0:32:50.60,0:32:52.20,Default-L2,,0,0,0,,{\fad(200,200)}Could I drop you off somewhere?
 Dialogue: 2,0:32:50.60,0:32:52.20,Default,,0,0,0,,{\fad(200,200)}需要我把你送到什麼地方嗎？
 Dialogue: 2,0:32:53.04,0:32:54.28,Default-L2,,0,0,0,,{\fad(200,200)}Nah, I can go myself.
-Dialogue: 2,0:32:53.04,0:32:54.28,Default,,0,0,0,,{\fad(200,200)}不，我可以自己走
+Dialogue: 2,0:32:53.04,0:32:54.28,Default,,0,0,0,,{\fad(200,200)}不  我可以自己走
 Dialogue: 2,0:32:54.88,0:32:55.96,Default-L2,,0,0,0,,{\fad(200,200)}Okay.
 Dialogue: 2,0:32:54.88,0:32:55.96,Default,,0,0,0,,{\fad(200,200)}好的
 Dialogue: 2,0:32:57.40,0:32:59.00,Default-L2,,0,0,0,,{\fad(200,200)}Have fun, then.
@@ -767,37 +767,37 @@ Dialogue: 2,0:32:57.40,0:32:59.00,Default,,0,0,0,,{\fad(200,200)}祝你玩得開
 Dialogue: 2,0:32:59.80,0:33:01.00,Default-L2,,0,0,0,,{\fad(200,200)}You too.
 Dialogue: 2,0:32:59.80,0:33:01.00,Default,,0,0,0,,{\fad(200,200)}你也是
 Dialogue: 2,0:33:02.16,0:33:04.16,Default-L2,,0,0,0,,{\fad(200,200)}- Okay, see you later - Fine
-Dialogue: 2,0:33:02.16,0:33:04.16,Default,,0,0,0,,{\fad(200,200)}-好的，待會見-很好
+Dialogue: 2,0:33:02.16,0:33:04.16,Default,,0,0,0,,{\fad(200,200)}-好的  待會見-很好
 Dialogue: 2,0:33:14.48,0:33:16.52,Default-L2,,0,0,0,,{\fad(200,200)}Salih the lorry driver.
-Dialogue: 2,0:33:14.48,0:33:16.52,Default,,0,0,0,,{\fad(200,200)}卡車司機Salih
+Dialogue: 2,0:33:14.48,0:33:16.52,Default,,0,0,0,,{\fad(200,200)}卡車司機薩利
 Dialogue: 2,0:33:23.00,0:33:25.24,Default-L2,,0,0,0,,{\fad(200,200)}I know what you like.
 Dialogue: 2,0:33:23.00,0:33:25.24,Default,,0,0,0,,{\fad(200,200)}我知道你喜歡什麼
 Dialogue: 2,0:34:24.24,0:34:27.24,Default-L2,,0,0,0,,{\fad(200,200)}I dropped in without an appointment, sorry.
-Dialogue: 2,0:34:24.24,0:34:27.24,Default,,0,0,0,,{\fad(200,200)}我冇有預約就來了，對不起
+Dialogue: 2,0:34:24.24,0:34:27.24,Default,,0,0,0,,{\fad(200,200)}我冇有預約就來了  對不起
 Dialogue: 2,0:34:27.32,0:34:29.12,Default-L2,,0,0,0,,{\fad(200,200)}Sending your CV would have been fine,
 Dialogue: 2,0:34:27.32,0:34:29.12,Default,,0,0,0,,{\fad(200,200)}簡曆發過來就好
 Dialogue: 2,0:34:29.20,0:34:30.72,Default-L2,,0,0,0,,{\fad(200,200)}but Onat specially requested.
-Dialogue: 2,0:34:29.20,0:34:30.72,Default,,0,0,0,,{\fad(200,200)}但Onat特殊要求
+Dialogue: 2,0:34:29.20,0:34:30.72,Default,,0,0,0,,{\fad(200,200)}他們有特殊要求
 Dialogue: 2,0:35:04.96,0:35:06.56,Default-L2,,0,0,0,,{\fad(200,200)\i1}You lived in Australia?{\i}
 Dialogue: 2,0:35:04.96,0:35:06.56,Default,,0,0,0,,{\fad(200,200)}你住在澳洲嗎？
 Dialogue: 2,0:35:06.64,0:35:09.68,Default-L2,,0,0,0,,{\fad(200,200)}Yes, four years in Sydney.
-Dialogue: 2,0:35:06.64,0:35:09.68,Default,,0,0,0,,{\fad(200,200)}是的，在雪梨住了四年
+Dialogue: 2,0:35:06.64,0:35:09.68,Default,,0,0,0,,{\fad(200,200)}是的  在雪梨住了四年
 Dialogue: 2,0:35:09.76,0:35:11.12,Default-L2,,0,0,0,,{\fad(200,200)}We just came back.
 Dialogue: 2,0:35:09.76,0:35:11.12,Default,,0,0,0,,{\fad(200,200)}我們剛回來
 Dialogue: 2,0:35:13.28,0:35:15.72,Default-L2,,0,0,0,,{\fad(200,200)}- Why the laugh? - I don't know.
 Dialogue: 2,0:35:13.28,0:35:15.72,Default,,0,0,0,,{\fad(200,200)}-為什麼笑？-我不知道
 Dialogue: 2,0:35:15.80,0:35:18.48,Default-L2,,0,0,0,,{\fad(200,200)}People kill to be there, everyone's trying to leave.
-Dialogue: 2,0:35:15.80,0:35:18.48,Default,,0,0,0,,{\fad(200,200)}大家都很想去那裏，每個人都想離開這
+Dialogue: 2,0:35:15.80,0:35:18.48,Default,,0,0,0,,{\fad(200,200)}大家都很想去那裏  每個人都想離開這
 Dialogue: 2,0:35:18.56,0:35:19.92,Default-L2,,0,0,0,,{\fad(200,200)}But you've come back.
 Dialogue: 2,0:35:18.56,0:35:19.92,Default,,0,0,0,,{\fad(200,200)}但是你回來了
 Dialogue: 2,0:35:20.76,0:35:22.60,Default-L2,,0,0,0,,{\fad(200,200)}You were a former employee of ours?
 Dialogue: 2,0:35:20.76,0:35:22.60,Default,,0,0,0,,{\fad(200,200)}你是我們以前的雇員嗎？
 Dialogue: 2,0:35:22.68,0:35:24.24,Default-L2,,0,0,0,,{\fad(200,200)}Yes, but...
-Dialogue: 2,0:35:22.68,0:35:24.24,Default,,0,0,0,,{\fad(200,200)}對，但是
+Dialogue: 2,0:35:22.68,0:35:24.24,Default,,0,0,0,,{\fad(200,200)}對  但是
 Dialogue: 2,0:35:24.32,0:35:27.28,Default-L2,,0,0,0,,{\fad(200,200)}I mean... I worked here. But things changed a lot.
-Dialogue: 2,0:35:24.32,0:35:27.28,Default,,0,0,0,,{\fad(200,200)}我的意思是我曾在這裏工作，但是情況發生了很大變化
+Dialogue: 2,0:35:24.32,0:35:27.28,Default,,0,0,0,,{\fad(200,200)}我的意思是我曾在這裏工作  但是情況發生了很大變化
 Dialogue: 2,0:35:44.36,0:35:47.80,Default-L2,,0,0,0,,{\fad(200,200)}You come to me every day like it's your job, and you leave a 100?
-Dialogue: 2,0:35:44.36,0:35:47.80,Default,,0,0,0,,{\fad(200,200)}你每天都來找我，就像是你的工作一樣，才給100？
+Dialogue: 2,0:35:44.36,0:35:47.80,Default,,0,0,0,,{\fad(200,200)}你每天都來找我  就像是你的工作一樣  才給100？
 Dialogue: 2,0:35:47.88,0:35:48.92,Default-L2,,0,0,0,,{\fad(200,200)}Go away.
 Dialogue: 2,0:35:47.88,0:35:48.92,Default,,0,0,0,,{\fad(200,200)}滾蛋
 Dialogue: 2,0:36:00.60,0:36:02.08,Default-L2,,0,0,0,,{\fad(200,200)}This room hasn't changed.
@@ -807,11 +807,11 @@ Dialogue: 2,0:36:03.08,0:36:04.40,Default,,0,0,0,,{\fad(200,200)}還是一樣
 Dialogue: 2,0:36:04.48,0:36:05.60,Default-L2,,0,0,0,,{\fad(200,200)}Congratulations.
 Dialogue: 2,0:36:04.48,0:36:05.60,Default,,0,0,0,,{\fad(200,200)}恭喜啦
 Dialogue: 2,0:36:05.68,0:36:07.68,Default-L2,,0,0,0,,{\fad(200,200)}No one drops by Human Resources,
-Dialogue: 2,0:36:05.68,0:36:07.68,Default,,0,0,0,,{\fad(200,200)}人力資源部無人問津，
+Dialogue: 2,0:36:05.68,0:36:07.68,Default,,0,0,0,,{\fad(200,200)}人力資源部無人問津  
 Dialogue: 2,0:36:07.76,0:36:09.48,Default-L2,,0,0,0,,{\fad(200,200)}but you seem to remember it well.
 Dialogue: 2,0:36:07.76,0:36:09.48,Default,,0,0,0,,{\fad(200,200)}你記得很清楚
 Dialogue: 2,0:36:10.08,0:36:11.44,Default-L2,,0,0,0,,{\fad(200,200)}No, this was my room.
-Dialogue: 2,0:36:10.08,0:36:11.44,Default,,0,0,0,,{\fad(200,200)}不，這是我的房間
+Dialogue: 2,0:36:10.08,0:36:11.44,Default,,0,0,0,,{\fad(200,200)}不  這是我的房間
 Dialogue: 2,0:36:13.20,0:36:14.68,Default-L2,,0,0,0,,{\fad(200,200)\i1}And the chair's the same, too.{\i}
 Dialogue: 2,0:36:13.20,0:36:14.68,Default,,0,0,0,,{\fad(200,200)}椅子也一樣
 Dialogue: 2,0:36:14.76,0:36:16.52,Default-L2,,0,0,0,,{\fad(200,200)\i1}That used to be my chair.{\i}
@@ -837,11 +837,11 @@ Dialogue: 2,0:36:35.48,0:36:38.64,Default,,0,0,0,,{\fad(200,200)}我以為你可
 Dialogue: 2,0:37:43.72,0:37:45.84,Default-L2,,0,0,0,,{\fad(200,200)}How could you forget about filling up?
 Dialogue: 2,0:37:43.72,0:37:45.84,Default,,0,0,0,,{\fad(200,200)}你怎麼可以忘記加油？
 Dialogue: 2,0:38:41.88,0:38:44.64,Default-L2,,0,0,0,,{\fad(200,200)}- Come in. - Doctor, I'm so sorry...
-Dialogue: 2,0:38:41.88,0:38:44.64,Default,,0,0,0,,{\fad(200,200)}-進來 -醫生，我很抱歉……
+Dialogue: 2,0:38:41.88,0:38:44.64,Default,,0,0,0,,{\fad(200,200)}-進來 -醫生  我很抱歉……
 Dialogue: 2,0:38:44.72,0:38:46.72,Default-L2,,0,0,0,,{\fad(200,200)}- Doctor, it's important. - Sir, excuse me.
-Dialogue: 2,0:38:44.72,0:38:46.72,Default,,0,0,0,,{\fad(200,200)}-醫生，這很重要 -先生，對不起
+Dialogue: 2,0:38:44.72,0:38:46.72,Default,,0,0,0,,{\fad(200,200)}-醫生  這很重要 -先生  對不起
 Dialogue: 2,0:38:46.80,0:38:49.40,Default-L2,,0,0,0,,{\fad(200,200)}Agah, come in. Please, calm down.
-Dialogue: 2,0:38:46.80,0:38:49.40,Default,,0,0,0,,{\fad(200,200)}Agah，請進來，冷靜一下
+Dialogue: 2,0:38:46.80,0:38:49.40,Default,,0,0,0,,{\fad(200,200)}阿加  請進來  冷靜一下
 Dialogue: 2,0:38:50.00,0:38:51.00,Default-L2,,0,0,0,,{\fad(200,200)}We're okay.
 Dialogue: 2,0:38:50.00,0:38:51.00,Default,,0,0,0,,{\fad(200,200)}冇事的
 Dialogue: 2,0:38:53.68,0:38:54.80,Default-L2,,0,0,0,,{\fad(200,200)}I have to tell you.
@@ -849,11 +849,11 @@ Dialogue: 2,0:38:53.68,0:38:54.80,Default,,0,0,0,,{\fad(200,200)}我必須告訴
 Dialogue: 2,0:39:05.88,0:39:08.88,Default-L2,,0,0,0,,{\fad(200,200)}LADIES' ROOM
 Dialogue: 2,0:39:05.88,0:39:08.88,Default,,0,0,0,,{\fad(200,200)}女廁所
 Dialogue: 2,0:39:10.60,0:39:11.72,Default-L2,,0,0,0,,{\fad(200,200)}Nevra.
-Dialogue: 2,0:39:10.60,0:39:11.72,Default-L2,,0,0,0,,{\fad(200,200)}Nevra.
+Dialogue: 2,0:39:10.60,0:39:11.72,Default-L2,,0,0,0,,{\fad(200,200)}內芙拉.
 Dialogue: 2,0:39:16.52,0:39:19.96,Default-L2,,0,0,0,,{\fad(200,200)}If you pull anything like this again, I'll make you sorry. You hear me?
-Dialogue: 2,0:39:16.52,0:39:19.96,Default,,0,0,0,,{\fad(200,200)}如果你再做這樣的事，我會讓你後悔的，你聽到了嗎？
+Dialogue: 2,0:39:16.52,0:39:19.96,Default,,0,0,0,,{\fad(200,200)}如果你再做這樣的事  我會讓你後悔的  你聽到了嗎？
 Dialogue: 2,0:39:20.64,0:39:23.16,Default-L2,,0,0,0,,{\fad(200,200)}If you have more of those threats, I'll stay in here.
-Dialogue: 2,0:39:20.64,0:39:23.16,Default,,0,0,0,,{\fad(200,200)}如果你繼續威脅我的話，我就不出去了
+Dialogue: 2,0:39:20.64,0:39:23.16,Default,,0,0,0,,{\fad(200,200)}如果你繼續威脅我的話  我就不出去了
 Dialogue: 2,0:39:23.96,0:39:24.96,Default-L2,,0,0,0,,{\fad(200,200)}Huh?
 Dialogue: 2,0:39:23.96,0:39:24.96,Default,,0,0,0,,{\fad(200,200)}?？
 Dialogue: 2,0:39:37.20,0:39:38.60,Default-L2,,0,0,0,,{\fad(200,200)}Shit!
@@ -873,7 +873,7 @@ Dialogue: 2,0:39:49.56,0:39:50.88,Default,,0,0,0,,{\fad(200,200)}不要對自己
 Dialogue: 2,0:39:52.00,0:39:55.88,Default-L2,,0,0,0,,{\fad(200,200)}No one can remember everything completely and without error.
 Dialogue: 2,0:39:52.00,0:39:55.88,Default,,0,0,0,,{\fad(200,200)}冇有人能完全無誤地記住每件事
 Dialogue: 2,0:39:56.64,0:39:58.68,Default-L2,,0,0,0,,{\fad(200,200)}You'll run out of petrol or gas!
-Dialogue: 2,0:39:56.64,0:39:58.68,Default,,0,0,0,,{\fad(200,200)}用完了汽油或者柴油，無所謂的
+Dialogue: 2,0:39:56.64,0:39:58.68,Default,,0,0,0,,{\fad(200,200)}用完了汽油或者柴油  無所謂的
 Dialogue: 2,0:39:59.28,0:40:02.04,Default-L2,,0,0,0,,{\fad(200,200)}What's important is to stay calm.
 Dialogue: 2,0:39:59.28,0:40:02.04,Default,,0,0,0,,{\fad(200,200)}重要的是要保持冷靜
 Dialogue: 2,0:40:02.12,0:40:04.44,Default-L2,,0,0,0,,{\fad(200,200)}And to find a solution.
@@ -887,11 +887,11 @@ Dialogue: 2,0:40:14.48,0:40:15.68,Default,,0,0,0,,{\fad(200,200)}做個決定
 Dialogue: 2,0:40:15.76,0:40:16.88,Default-L2,,0,0,0,,{\fad(200,200)}Do I have a plan, or not?
 Dialogue: 2,0:40:15.76,0:40:16.88,Default,,0,0,0,,{\fad(200,200)}我到底要不要做計劃？
 Dialogue: 2,0:40:17.52,0:40:19.84,Default-L2,,0,0,0,,{\fad(200,200)}Do. Do have your plan.
-Dialogue: 2,0:40:17.52,0:40:19.84,Default,,0,0,0,,{\fad(200,200)}要做，繼續做好你的計劃
+Dialogue: 2,0:40:17.52,0:40:19.84,Default,,0,0,0,,{\fad(200,200)}要做  繼續做好你的計劃
 Dialogue: 2,0:40:20.56,0:40:22.92,Default-L2,,0,0,0,,{\fad(200,200)}I'm telling you to make changes when necessary.
 Dialogue: 2,0:40:20.56,0:40:22.92,Default,,0,0,0,,{\fad(200,200)}如果到了不用做計劃的時候我會告訴你
 Dialogue: 2,0:40:23.00,0:40:25.48,Default-L2,,0,0,0,,{\fad(200,200)}I get it. I'm not that old.
-Dialogue: 2,0:40:23.00,0:40:25.48,Default,,0,0,0,,{\fad(200,200)}我知道，我還不那麼老
+Dialogue: 2,0:40:23.00,0:40:25.48,Default,,0,0,0,,{\fad(200,200)}我知道  我還不那麼老
 Dialogue: 2,0:40:26.56,0:40:27.72,Default-L2,,0,0,0,,{\fad(200,200)}We're settled, then.
 Dialogue: 2,0:40:26.56,0:40:27.72,Default,,0,0,0,,{\fad(200,200)}那就冇問題了
 Dialogue: 2,0:40:28.28,0:40:31.68,Default-L2,,0,0,0,,{\fad(200,200)}So I don't need to have a plan all the time.
@@ -905,7 +905,7 @@ Dialogue: 2,0:40:37.04,0:40:40.12,Default,,0,0,0,,{\fad(200,200)}要是我們能
 Dialogue: 2,0:40:42.08,0:40:43.88,Default-L2,,0,0,0,,{\fad(200,200)}There's luck to be reckoned with.
 Dialogue: 2,0:40:42.08,0:40:43.88,Default,,0,0,0,,{\fad(200,200)}運氣也是不容忽視的
 Dialogue: 2,0:40:44.76,0:40:47.36,Default-L2,,0,0,0,,{\fad(200,200)}Sometimes you have to trust your luck,
-Dialogue: 2,0:40:44.76,0:40:47.36,Default,,0,0,0,,{\fad(200,200)}有時候你必須相信自己的運氣，
+Dialogue: 2,0:40:44.76,0:40:47.36,Default,,0,0,0,,{\fad(200,200)}有時候你必須相信自己的運氣  
 Dialogue: 2,0:40:48.40,0:40:51.00,Default-L2,,0,0,0,,{\fad(200,200)}and sometimes you just have to accept it.
 Dialogue: 2,0:40:48.40,0:40:51.00,Default,,0,0,0,,{\fad(200,200)}有時你隻需要接受它
 Dialogue: 2,0:40:52.32,0:40:54.72,Default-L2,,0,0,0,,{\fad(200,200)}There's something else that's important.
@@ -917,7 +917,7 @@ Dialogue: 2,0:40:58.68,0:41:00.16,Default,,0,0,0,,{\fad(200,200)}我以為我忘
 Dialogue: 2,0:41:00.92,0:41:02.88,Default-L2,,0,0,0,,{\fad(200,200)}but I didn't forget to speak Kurdish.
 Dialogue: 2,0:41:00.92,0:41:02.88,Default,,0,0,0,,{\fad(200,200)}但我冇有忘記說庫爾德語
 Dialogue: 2,0:41:04.24,0:41:07.80,Default-L2,,0,0,0,,{\fad(200,200)}No ATMs... We've been looking all morning. Nothing!
-Dialogue: 2,0:41:04.24,0:41:07.80,Default,,0,0,0,,{\fad(200,200)}冇有自動取款機，我們找了一個上午都冇找到
+Dialogue: 2,0:41:04.24,0:41:07.80,Default,,0,0,0,,{\fad(200,200)}冇有自動取款機  我們找了一個上午都冇找到
 Dialogue: 2,0:41:08.40,0:41:12.12,Default-L2,,0,0,0,,{\fad(200,200)}- We can't see the turn. - But everybody's seeing this.
 Dialogue: 2,0:41:08.40,0:41:12.12,Default,,0,0,0,,{\fad(200,200)}-也冇看到轉彎 -但是大家都看到這個了
 Dialogue: 2,0:41:20.72,0:41:24.60,Default-L2,,0,0,0,,{\fad(200,200)}- How could this happen? - I've heard about it. I saw it.
@@ -925,7 +925,7 @@ Dialogue: 2,0:41:20.72,0:41:24.60,Default,,0,0,0,,{\fad(200,200)}-怎麼會這�
 Dialogue: 2,0:41:25.16,0:41:27.52,Default-L2,,0,0,0,,{\fad(200,200)}- But that's how he works. - Who is he?
 Dialogue: 2,0:41:25.16,0:41:27.52,Default,,0,0,0,,{\fad(200,200)}-但這就是他的工作方式 -他是誰？
 Dialogue: 2,0:41:28.12,0:41:30.56,Default-L2,,0,0,0,,{\fad(200,200)}That charlatan journalist, Ates Arbay.
-Dialogue: 2,0:41:28.12,0:41:30.56,Default,,0,0,0,,{\fad(200,200)}那個卑鄙的記者Ates Arbay
+Dialogue: 2,0:41:28.12,0:41:30.56,Default,,0,0,0,,{\fad(200,200)}那個卑鄙的記者阿提斯 阿爾巴伊
 Dialogue: 2,0:41:31.24,0:41:32.44,Default-L2,,0,0,0,,{\fad(200,200)}But I'm not mad at him.
 Dialogue: 2,0:41:31.24,0:41:32.44,Default,,0,0,0,,{\fad(200,200)}但是我冇有生他的氣
 Dialogue: 2,0:41:33.36,0:41:34.88,Default-L2,,0,0,0,,{\fad(200,200)}I'm not mad at him!
@@ -937,15 +937,15 @@ Dialogue: 2,0:41:37.72,0:41:39.08,Default,,0,0,0,,{\fad(200,200)}我對那個傻
 Dialogue: 2,0:41:39.16,0:41:43.28,Default-L2,,0,0,0,,{\fad(200,200)}that sells this piece for a handful of money!
 Dialogue: 2,0:41:39.16,0:41:43.28,Default,,0,0,0,,{\fad(200,200)}那個用這條消息換了幾百塊錢的傻B！
 Dialogue: 2,0:41:44.60,0:41:47.92,Default-L2,,0,0,0,,{\fad(200,200)}They'll send an inspector, and then we'll see!
-Dialogue: 2,0:41:44.60,0:41:47.92,Default,,0,0,0,,{\fad(200,200)}將會有一名檢察官到這來，我們走著瞧！
+Dialogue: 2,0:41:44.60,0:41:47.92,Default,,0,0,0,,{\fad(200,200)}將會有一名檢察官到這來  我們走著瞧！
 Dialogue: 2,0:41:48.76,0:41:50.28,Default-L2,,0,0,0,,{\fad(200,200)}That's what's going to happen.
 Dialogue: 2,0:41:48.76,0:41:50.28,Default,,0,0,0,,{\fad(200,200)}那就是要發生的事
 Dialogue: 2,0:41:55.76,0:41:58.16,Default-L2,,0,0,0,,{\fad(200,200)}Don't we have any other footage?
 Dialogue: 2,0:41:55.76,0:41:58.16,Default,,0,0,0,,{\fad(200,200)}我們冇有其他鏡頭嗎？
 Dialogue: 2,0:41:58.68,0:41:59.84,Default-L2,,0,0,0,,{\fad(200,200)}No, Chief.
-Dialogue: 2,0:41:58.68,0:41:59.84,Default,,0,0,0,,{\fad(200,200)}冇了，長官
+Dialogue: 2,0:41:58.68,0:41:59.84,Default,,0,0,0,,{\fad(200,200)}冇了  長官
 Dialogue: 2,0:42:46.40,0:42:49.04,Default-L2,,0,0,0,,{\fad(200,200)}I don't want Deva to lose a year.
-Dialogue: 2,0:42:46.40,0:42:49.04,Default,,0,0,0,,{\fad(200,200)}我不想讓Deva浪費這一年的時間
+Dialogue: 2,0:42:46.40,0:42:49.04,Default,,0,0,0,,{\fad(200,200)}我不想讓德瓦浪費這一年的時間
 Dialogue: 2,0:42:50.76,0:42:51.80,Default-L2,,0,0,0,,{\fad(200,200)}I see.
 Dialogue: 2,0:42:50.76,0:42:51.80,Default,,0,0,0,,{\fad(200,200)}我懂
 Dialogue: 2,0:42:52.72,0:42:55.36,Default-L2,,0,0,0,,{\fad(200,200)}This relocation is already taking its toll on him.
@@ -959,11 +959,11 @@ Dialogue: 2,0:43:02.60,0:43:06.28,Default,,0,0,0,,{\fad(200,200)}您可以安排
 Dialogue: 2,0:43:10.84,0:43:13.48,Default-L2,,0,0,0,,{\fad(200,200)}What do you say, headmaster? Could you enroll him?
 Dialogue: 2,0:43:10.84,0:43:13.48,Default,,0,0,0,,{\fad(200,200)}校長您覺得怎樣？能招他嗎？
 Dialogue: 2,0:43:27.32,0:43:28.92,Default-L2,,0,0,0,,{\fad(200,200)\i1}I remember Deva now{\i}
-Dialogue: 2,0:43:27.32,0:43:28.92,Default,,0,0,0,,{\fad(200,200)}我記得Deva
+Dialogue: 2,0:43:27.32,0:43:28.92,Default,,0,0,0,,{\fad(200,200)}我記得德瓦
 Dialogue: 2,0:43:29.00,0:43:32.08,Default-L2,,0,0,0,,{\fad(200,200)}Such a sweet kid. Had excellent grades. 
 Dialogue: 2,0:43:29.00,0:43:32.08,Default,,0,0,0,,{\fad(200,200)}真是個好孩子
 Dialogue: 2,0:43:32.88,0:43:36.52,Default-L2,,0,0,0,,{\fad(200,200)}He used to play something, too. What was it, a guitar?
-Dialogue: 2,0:43:32.88,0:43:36.52,Default,,0,0,0,,{\fad(200,200)}他以前彈什麼樂器，是吉他嗎？
+Dialogue: 2,0:43:32.88,0:43:36.52,Default,,0,0,0,,{\fad(200,200)}他以前彈什麼樂器  是吉他嗎？
 Dialogue: 2,0:43:37.68,0:43:41.28,Default-L2,,0,0,0,,{\fad(200,200)}- It was a violin. - Yes, it was.
 Dialogue: 2,0:43:37.68,0:43:41.28,Default,,0,0,0,,{\fad(200,200)}-是小提琴 -是的
 Dialogue: 2,0:43:41.36,0:43:42.88,Default-L2,,0,0,0,,{\fad(200,200)}Does he still play?
@@ -973,11 +973,11 @@ Dialogue: 2,0:43:43.68,0:43:46.04,Default,,0,0,0,,{\fad(200,200)}不了
 Dialogue: 2,0:43:47.20,0:43:48.44,Default-L2,,0,0,0,,{\fad(200,200)}He doesn't play anymore.
 Dialogue: 2,0:43:47.20,0:43:48.44,Default,,0,0,0,,{\fad(200,200)}他不再練琴了
 Dialogue: 2,0:43:49.00,0:43:51.96,Default-L2,,0,0,0,,{\fad(200,200)}Who knows, maybe we'll have him pick it up again.
-Dialogue: 2,0:43:49.00,0:43:51.96,Default,,0,0,0,,{\fad(200,200)}誰知道了，也許我們會讓他再練起來
+Dialogue: 2,0:43:49.00,0:43:51.96,Default,,0,0,0,,{\fad(200,200)}誰知道了  也許我們會讓他再練起來
 Dialogue: 2,0:43:53.60,0:43:55.56,Default-L2,,0,0,0,,{\fad(200,200)}Will you enroll him, then?
 Dialogue: 2,0:43:53.60,0:43:55.56,Default,,0,0,0,,{\fad(200,200)}那您願意招他進來嗎？
 Dialogue: 2,0:43:57.76,0:44:00.40,Default-L2,,0,0,0,,{\fad(200,200)}To be honest, we don't have a place at the school.
-Dialogue: 2,0:43:57.76,0:44:00.40,Default,,0,0,0,,{\fad(200,200)}老實說，我們學校真的冇有名額了
+Dialogue: 2,0:43:57.76,0:44:00.40,Default,,0,0,0,,{\fad(200,200)}老實說  我們學校真的冇有名額了
 Dialogue: 2,0:44:01.28,0:44:03.48,Default-L2,,0,0,0,,{\fad(200,200)}But I'll do an exception for your son.
 Dialogue: 2,0:44:01.28,0:44:03.48,Default,,0,0,0,,{\fad(200,200)}但我會為你兒子破個例
 Dialogue: 2,0:44:05.52,0:44:07.48,Default-L2,,0,0,0,,{\fad(200,200)}- Thank you. - But...
@@ -985,7 +985,7 @@ Dialogue: 2,0:44:05.52,0:44:07.48,Default,,0,0,0,,{\fad(200,200)}-謝謝 -但是
 Dialogue: 2,0:44:08.52,0:44:10.64,Default-L2,,0,0,0,,{\fad(200,200)}The payment will be different this time.
 Dialogue: 2,0:44:08.52,0:44:10.64,Default,,0,0,0,,{\fad(200,200)}學費金額會有所不同
 Dialogue: 2,0:44:12.28,0:44:18.52,Default-L2,,0,0,0,,{\fad(200,200)}Since you're here mid-year, you won't get the discount.
-Dialogue: 2,0:44:12.28,0:44:18.52,Default,,0,0,0,,{\fad(200,200)}由於是期中入學，因此冇有學費摺扣
+Dialogue: 2,0:44:12.28,0:44:18.52,Default,,0,0,0,,{\fad(200,200)}由於是期中入學  因此冇有學費摺扣
 Dialogue: 2,0:44:18.60,0:44:19.92,Default-L2,,0,0,0,,{\fad(200,200)}I trust that's not a problem?
 Dialogue: 2,0:44:18.60,0:44:19.92,Default,,0,0,0,,{\fad(200,200)}我相信這應該不是問題吧？
 Dialogue: 2,0:44:26.72,0:44:29.20,Default-L2,,0,0,0,,{\fad(200,200)}- You have a cigarette? - No.
@@ -1017,41 +1017,41 @@ Dialogue: 2,0:45:04.60,0:45:05.60,Default,,0,0,0,,{\fad(200,200)}站住！
 Dialogue: 2,0:45:09.60,0:45:10.60,Default-L2,,0,0,0,,{\fad(200,200)}Come here!
 Dialogue: 2,0:45:09.60,0:45:10.60,Default,,0,0,0,,{\fad(200,200)}回來！
 Dialogue: 2,0:45:45.84,0:45:49.24,Default-L2,,0,0,0,,{\fad(200,200)}Agah, don't waste your time.
-Dialogue: 2,0:45:45.84,0:45:49.24,Default,,0,0,0,,{\fad(200,200)}Agah，別浪費時間了
+Dialogue: 2,0:45:45.84,0:45:49.24,Default,,0,0,0,,{\fad(200,200)}阿加  別浪費時間了
 Dialogue: 2,0:45:50.24,0:45:53.76,Default-L2,,0,0,0,,{\fad(200,200)}It's out of order again. I spoke to the mechanic, but he'll come late. He was busy.
-Dialogue: 2,0:45:50.24,0:45:53.76,Default,,0,0,0,,{\fad(200,200)}電梯又壞了，我給修理工打過電話，但他很忙，會很晚才來
+Dialogue: 2,0:45:50.24,0:45:53.76,Default,,0,0,0,,{\fad(200,200)}電梯又壞了  我給修理工打過電話  但他很忙  會很晚才來
 Dialogue: 2,0:45:56.68,0:45:58.44,Default-L2,,0,0,0,,{\fad(200,200)}I have the worst luck.
 Dialogue: 2,0:45:56.68,0:45:58.44,Default,,0,0,0,,{\fad(200,200)}真倒黴
 Dialogue: 2,0:46:00.28,0:46:02.28,Default-L2,,0,0,0,,{\fad(200,200)}- Rustem. - Yes, sir.
-Dialogue: 2,0:46:00.28,0:46:02.28,Default,,0,0,0,,{\fad(200,200)}-Rustem -什麼事，先生
+Dialogue: 2,0:46:00.28,0:46:02.28,Default,,0,0,0,,{\fad(200,200)}-魯斯特姆 -什麼事  先生
 Dialogue: 2,0:46:03.00,0:46:06.36,Default-L2,,0,0,0,,{\fad(200,200)}- Give me a number. - Are you playing the numbers?
 Dialogue: 2,0:46:03.00,0:46:06.36,Default,,0,0,0,,{\fad(200,200)}-隨便說個數字 -您在玩數字遊戲嗎？
 Dialogue: 2,0:46:06.44,0:46:09.40,Default-L2,,0,0,0,,{\fad(200,200)}- Just give me one. - If it wins, we're partners.
-Dialogue: 2,0:46:06.44,0:46:09.40,Default,,0,0,0,,{\fad(200,200)}-隨便說一個 -如果贏了，我們就是合作夥伴
+Dialogue: 2,0:46:06.44,0:46:09.40,Default,,0,0,0,,{\fad(200,200)}-隨便說一個 -如果贏了  我們就是合作夥伴
 Dialogue: 2,0:46:10.00,0:46:12.20,Default-L2,,0,0,0,,{\fad(200,200)}- 39. - Has to be up to 27.
 Dialogue: 2,0:46:10.00,0:46:12.20,Default,,0,0,0,,{\fad(200,200)}-39 -不得超過27
 Dialogue: 2,0:46:12.28,0:46:14.52,Default-L2,,0,0,0,,{\fad(200,200)}If it's above 27, it's not a lucky number, huh?
-Dialogue: 2,0:46:12.28,0:46:14.52,Default,,0,0,0,,{\fad(200,200)}如果高於27，那不是一個幸運數字，對吧？
+Dialogue: 2,0:46:12.28,0:46:14.52,Default,,0,0,0,,{\fad(200,200)}如果高於27  那不是一個幸運數字  對吧？
 Dialogue: 2,0:46:14.60,0:46:16.36,Default-L2,,0,0,0,,{\fad(200,200)}Okay then, 24.
-Dialogue: 2,0:46:14.60,0:46:16.36,Default,,0,0,0,,{\fad(200,200)}那好，24
+Dialogue: 2,0:46:14.60,0:46:16.36,Default,,0,0,0,,{\fad(200,200)}那好  24
 Dialogue: 2,0:46:17.44,0:46:20.12,Default-L2,,0,0,0,,{\fad(200,200)}- No, 26. - Make your mind up.
-Dialogue: 2,0:46:17.44,0:46:20.12,Default,,0,0,0,,{\fad(200,200)}-不，26 -想好再說
+Dialogue: 2,0:46:17.44,0:46:20.12,Default,,0,0,0,,{\fad(200,200)}-不  26 -想好再說
 Dialogue: 2,0:46:20.76,0:46:22.08,Default-L2,,0,0,0,,{\fad(200,200)}In that case...
 Dialogue: 2,0:46:20.76,0:46:22.08,Default,,0,0,0,,{\fad(200,200)}這樣的話……
 Dialogue: 2,0:47:03.20,0:47:06.16,Default-L2,,0,0,0,,{\fad(200,200)}- Who am I speaking to? - I'm from the newspaper Simdi.
 Dialogue: 2,0:47:03.20,0:47:06.16,Default,,0,0,0,,{\fad(200,200)}-你是誰？-我來自西姆迪報紙
 Dialogue: 2,0:47:06.24,0:47:08.72,Default-L2,,0,0,0,,{\fad(200,200)}Ates Arbay. How do you do, Nevra?
-Dialogue: 2,0:47:06.24,0:47:08.72,Default,,0,0,0,,{\fad(200,200)}我是Ates Arbay，你好嗎，Nevra？
+Dialogue: 2,0:47:06.24,0:47:08.72,Default,,0,0,0,,{\fad(200,200)}我是阿提斯 阿爾巴伊  你好嗎  內芙拉？
 Dialogue: 2,0:47:08.80,0:47:10.36,Default-L2,,0,0,0,,{\fad(200,200)}Where did you find this number?
 Dialogue: 2,0:47:08.80,0:47:10.36,Default,,0,0,0,,{\fad(200,200)}您在哪裏找到這個號碼？
 Dialogue: 2,0:47:11.28,0:47:13.00,Default-L2,,0,0,0,,{\fad(200,200)\i1}I know you're angry, but...{\i}
-Dialogue: 2,0:47:11.28,0:47:13.00,Default,,0,0,0,,{\fad(200,200)}我知道你很生氣，但是……
+Dialogue: 2,0:47:11.28,0:47:13.00,Default,,0,0,0,,{\fad(200,200)}我知道你很生氣  但是……
 Dialogue: 2,0:47:18.76,0:47:20.88,Default-L2,,0,0,0,,{\fad(200,200)}Why'd you want to have an interview with me?
 Dialogue: 2,0:47:18.76,0:47:20.88,Default,,0,0,0,,{\fad(200,200)}你為什麼要採訪我？
 Dialogue: 2,0:47:20.96,0:47:23.80,Default-L2,,0,0,0,,{\fad(200,200)}- They asked me everything. - Yes.
 Dialogue: 2,0:47:20.96,0:47:23.80,Default,,0,0,0,,{\fad(200,200)}-他們已經問過所有問題了 -是的
 Dialogue: 2,0:47:23.88,0:47:25.84,Default-L2,,0,0,0,,{\fad(200,200)\i1}I know they did, but...{\i}
-Dialogue: 2,0:47:23.88,0:47:25.84,Default,,0,0,0,,{\fad(200,200)}我知道他們問過，但是
+Dialogue: 2,0:47:23.88,0:47:25.84,Default,,0,0,0,,{\fad(200,200)}我知道他們問過  但是
 Dialogue: 2,0:47:25.92,0:47:27.92,Default-L2,,0,0,0,,{\fad(200,200)\i1}they didn't ask you the right questions.{\i}
 Dialogue: 2,0:47:25.92,0:47:27.92,Default,,0,0,0,,{\fad(200,200)}他們冇有問你正確的問題
 Dialogue: 2,0:47:29.56,0:47:32.52,Default-L2,,0,0,0,,{\fad(200,200)}What is that gift you have for me that'll be so useful?
@@ -1067,23 +1067,23 @@ Dialogue: 2,0:47:40.44,0:47:42.24,Default,,0,0,0,,{\fad(200,200)}我要看看你
 Dialogue: 2,0:47:42.32,0:47:43.92,Default-L2,,0,0,0,,{\fad(200,200)}And we'll see what we can do.
 Dialogue: 2,0:47:42.32,0:47:43.92,Default,,0,0,0,,{\fad(200,200)}看看我們能做什麼
 Dialogue: 2,0:47:44.00,0:47:48.12,Default-L2,,0,0,0,,{\fad(200,200)}Let's meet. Be at Isyan Sanayi after 10:30, tonight.
-Dialogue: 2,0:47:44.00,0:47:48.12,Default,,0,0,0,,{\fad(200,200)}今晚10:30我們在Isyan Sanayi見麵
+Dialogue: 2,0:47:44.00,0:47:48.12,Default,,0,0,0,,{\fad(200,200)}今晚10:30我們在叛亂酒吧見麵
 Dialogue: 2,0:47:49.80,0:47:51.12,Default-L2,,0,0,0,,{\fad(200,200)}Isyan Sanayi?
-Dialogue: 2,0:47:49.80,0:47:51.12,Default,,0,0,0,,{\fad(200,200)}Isyan Sanayi？
+Dialogue: 2,0:47:49.80,0:47:51.12,Default,,0,0,0,,{\fad(200,200)}叛亂酒吧？
 Dialogue: 2,0:48:50.92,0:48:53.44,Default-L2,,0,0,0,,{\fad(200,200)}- Deva? - It's me, mom.
-Dialogue: 2,0:48:50.92,0:48:53.44,Default,,0,0,0,,{\fad(200,200)}-Deva？-是我，媽媽
+Dialogue: 2,0:48:50.92,0:48:53.44,Default,,0,0,0,,{\fad(200,200)}-德瓦？-是我  媽媽
 Dialogue: 2,0:48:54.12,0:48:58.24,Default-L2,,0,0,0,,{\fad(200,200)}- I... drank a bit. - I know.
 Dialogue: 2,0:48:54.12,0:48:58.24,Default,,0,0,0,,{\fad(200,200)}-我喝了一點酒 -我知道
 Dialogue: 2,0:48:59.60,0:49:00.92,Default-L2,,0,0,0,,{\fad(200,200)}Don't tell your father.
 Dialogue: 2,0:48:59.60,0:49:00.92,Default,,0,0,0,,{\fad(200,200)}不要告訴你父親
 Dialogue: 2,0:49:03.04,0:49:04.32,Default-L2,,0,0,0,,{\fad(200,200)}Okay, go to sleep.
-Dialogue: 2,0:49:03.04,0:49:04.32,Default,,0,0,0,,{\fad(200,200)}好，睡吧
+Dialogue: 2,0:49:03.04,0:49:04.32,Default,,0,0,0,,{\fad(200,200)}好  睡吧
 Dialogue: 2,0:49:04.40,0:49:06.68,Default-L2,,0,0,0,,{\fad(200,200)}Okay. Just, don't tell him.
-Dialogue: 2,0:49:04.40,0:49:06.68,Default,,0,0,0,,{\fad(200,200)}好嗎，不要告訴他
+Dialogue: 2,0:49:04.40,0:49:06.68,Default,,0,0,0,,{\fad(200,200)}好嗎  不要告訴他
 Dialogue: 2,0:49:08.48,0:49:10.44,Default-L2,,0,0,0,,{\fad(200,200)}Don't say that I drank.
 Dialogue: 2,0:49:08.48,0:49:10.44,Default,,0,0,0,,{\fad(200,200)}不要說我喝酒了
 Dialogue: 2,0:49:17.92,0:49:20.04,Default-L2,,0,0,0,,{\fad(200,200)}Don't tell him, okay sweetie?
-Dialogue: 2,0:49:17.92,0:49:20.04,Default,,0,0,0,,{\fad(200,200)}不要告訴他，好嗎親愛的？
+Dialogue: 2,0:49:17.92,0:49:20.04,Default,,0,0,0,,{\fad(200,200)}不要告訴他  好嗎親愛的？
 Dialogue: 2,0:51:05.60,0:51:06.60,Default-L2,,0,0,0,,{\fad(200,200)}What are you doing?
 Dialogue: 2,0:51:05.60,0:51:06.60,Default,,0,0,0,,{\fad(200,200)}你怎麼開車的？
 Dialogue: 2,0:51:07.76,0:51:10.44,Default-L2,,0,0,0,,{\fad(200,200)}What is this? Do you want to run me over?
@@ -1099,11 +1099,11 @@ Dialogue: 2,0:51:38.96,0:51:40.84,Default,,0,0,0,,{\fad(200,200)}天意啊
 Dialogue: 2,0:51:55.76,0:51:58.52,Default-L2,,0,0,0,,{\fad(200,200)}- Do you like the music? - You're wasting your time.
 Dialogue: 2,0:51:55.76,0:51:58.52,Default,,0,0,0,,{\fad(200,200)}-你喜歡音樂嗎？-你在浪費時間
 Dialogue: 2,0:51:58.60,0:52:01.92,Default-L2,,0,0,0,,{\fad(200,200)}There's no such thing as 'DJ music'. Never will be.
-Dialogue: 2,0:51:58.60,0:52:01.92,Default,,0,0,0,,{\fad(200,200)}冇有所謂的“DJ音樂”，永遠不會有
+Dialogue: 2,0:51:58.60,0:52:01.92,Default,,0,0,0,,{\fad(200,200)}冇有所謂的“DJ音樂”  永遠不會有
 Dialogue: 2,0:52:04.00,0:52:05.56,Default-L2,,0,0,0,,{\fad(200,200)}Don't tell anybody.
 Dialogue: 2,0:52:04.00,0:52:05.56,Default,,0,0,0,,{\fad(200,200)}別跟別人說這句話
 Dialogue: 2,0:52:07.92,0:52:09.56,Default-L2,,0,0,0,,{\fad(200,200)}Who leaked the news, Ates?
-Dialogue: 2,0:52:07.92,0:52:09.56,Default,,0,0,0,,{\fad(200,200)}誰泄漏了消息，Ates？
+Dialogue: 2,0:52:07.92,0:52:09.56,Default,,0,0,0,,{\fad(200,200)}誰泄漏了消息  阿提斯？
 Dialogue: 2,0:52:18.44,0:52:20.96,Default-L2,,0,0,0,,{\fad(200,200)}I'll always remember this first time you said my name.
 Dialogue: 2,0:52:18.44,0:52:20.96,Default,,0,0,0,,{\fad(200,200)}我會永遠記得你第一次叫我的名字
 Dialogue: 2,0:52:22.48,0:52:24.80,Default-L2,,0,0,0,,{\fad(200,200)}In a moment you asked me something impossible.
@@ -1113,13 +1113,13 @@ Dialogue: 2,0:52:25.96,0:52:27.04,Default,,0,0,0,,{\fad(200,200)}不要這樣
 Dialogue: 2,0:52:49.88,0:52:51.60,Default-L2,,0,0,0,,{\fad(200,200)}Can I have my gift now?
 Dialogue: 2,0:52:49.88,0:52:51.60,Default,,0,0,0,,{\fad(200,200)}可以把消息告訴我了嗎？
 Dialogue: 2,0:52:53.80,0:52:55.80,Default-L2,,0,0,0,,{\fad(200,200)}I don't know. Can you?
-Dialogue: 2,0:52:53.80,0:52:55.80,Default,,0,0,0,,{\fad(200,200)}我不知道，可以嗎？
+Dialogue: 2,0:52:53.80,0:52:55.80,Default,,0,0,0,,{\fad(200,200)}我不知道  可以嗎？
 Dialogue: 2,0:52:58.36,0:52:59.76,Default-L2,,0,0,0,,{\fad(200,200)}First the firewater.
 Dialogue: 2,0:52:58.36,0:52:59.76,Default,,0,0,0,,{\fad(200,200)}先喝酒吧
 Dialogue: 2,0:53:22.00,0:53:24.36,Default-L2,,0,0,0,,{\fad(200,200)}- What do you pay for a gram? - What?
 Dialogue: 2,0:53:22.00,0:53:24.36,Default,,0,0,0,,{\fad(200,200)}-多少錢一克？-什麼？
 Dialogue: 2,0:53:25.32,0:53:27.60,Default-L2,,0,0,0,,{\fad(200,200)}Cocaine, I mean. How much do you pay?
-Dialogue: 2,0:53:25.32,0:53:27.60,Default,,0,0,0,,{\fad(200,200)}可卡因，你要付多少錢？
+Dialogue: 2,0:53:25.32,0:53:27.60,Default,,0,0,0,,{\fad(200,200)}可卡因  你要付多少錢？
 Dialogue: 2,0:53:30.92,0:53:33.32,Default-L2,,0,0,0,,{\fad(200,200)}They're overcharging you, I bet.
 Dialogue: 2,0:53:30.92,0:53:33.32,Default,,0,0,0,,{\fad(200,200)}我敢打賭他們對你要價很高
 Dialogue: 2,0:53:38.24,0:53:39.36,Default-L2,,0,0,0,,{\fad(200,200)}Don't worry.
@@ -1129,45 +1129,45 @@ Dialogue: 2,0:53:40.48,0:53:43.72,Default,,0,0,0,,{\fad(200,200)}你隻是外太
 Dialogue: 2,0:53:44.88,0:53:45.88,Default-L2,,0,0,0,,{\fad(200,200)}What do you mean?
 Dialogue: 2,0:53:44.88,0:53:45.88,Default,,0,0,0,,{\fad(200,200)}你什麼意思？
 Dialogue: 2,0:53:46.92,0:53:50.76,Default-L2,,0,0,0,,{\fad(200,200)}You're just a number in a dealer's mobile phone. See?
-Dialogue: 2,0:53:46.92,0:53:50.76,Default,,0,0,0,,{\fad(200,200)}您隻是經銷商手機中的一個號碼，懂嗎？
+Dialogue: 2,0:53:46.92,0:53:50.76,Default,,0,0,0,,{\fad(200,200)}您隻是經銷商手機中的一個號碼  懂嗎？
 Dialogue: 2,0:54:06.72,0:54:08.96,Default-L2,,0,0,0,,{\fad(200,200)}Is there a computer I could use?
 Dialogue: 2,0:54:06.72,0:54:08.96,Default,,0,0,0,,{\fad(200,200)}這裏有電腦嗎？
 Dialogue: 2,0:54:30.40,0:54:32.00,Default-L2,,0,0,0,,{\fad(200,200)}You could work here without interruption.
-Dialogue: 2,0:54:30.40,0:54:32.00,Default,,0,0,0,,{\fad(200,200)}你可以在這工作，不會有人來打擾你
+Dialogue: 2,0:54:30.40,0:54:32.00,Default,,0,0,0,,{\fad(200,200)}你可以在這工作  不會有人來打擾你
 Dialogue: 2,0:54:32.92,0:54:34.24,Default-L2,,0,0,0,,{\fad(200,200)}I have to be back on duty.
 Dialogue: 2,0:54:32.92,0:54:34.24,Default,,0,0,0,,{\fad(200,200)}我要回去工作了
 Dialogue: 2,0:54:35.48,0:54:36.56,Default-L2,,0,0,0,,{\fad(200,200)}Okay, thanks.
-Dialogue: 2,0:54:35.48,0:54:36.56,Default,,0,0,0,,{\fad(200,200)}好的，謝謝
+Dialogue: 2,0:54:35.48,0:54:36.56,Default,,0,0,0,,{\fad(200,200)}好的  謝謝
 Dialogue: 2,0:54:40.72,0:54:41.88,Default-L2,,0,0,0,,{\fad(200,200)}Nevra.
-Dialogue: 2,0:54:40.72,0:54:41.88,Default-L2,,0,0,0,,{\fad(200,200)}Nevra.
+Dialogue: 2,0:54:40.72,0:54:41.88,Default-L2,,0,0,0,,{\fad(200,200)}內芙拉.
 Dialogue: 2,0:54:43.92,0:54:47.32,Default-L2,,0,0,0,,{\fad(200,200)}- Will I be in trouble? - You will.
 Dialogue: 2,0:54:43.92,0:54:47.32,Default,,0,0,0,,{\fad(200,200)}-我會有麻煩嗎？-有的
 Dialogue: 2,0:54:48.20,0:54:51.80,Default-L2,,0,0,0,,{\fad(200,200)}If there's a dealer like that somewhere, you will.
-Dialogue: 2,0:54:48.20,0:54:51.80,Default,,0,0,0,,{\fad(200,200)}如果這裏有毒販的話，會有的
+Dialogue: 2,0:54:48.20,0:54:51.80,Default,,0,0,0,,{\fad(200,200)}如果這裏有毒販的話  會有的
 Dialogue: 2,0:54:55.76,0:54:57.48,Default-L2,,0,0,0,,{\fad(200,200)}Glad to meet you, Nevra.
-Dialogue: 2,0:54:55.76,0:54:57.48,Default,,0,0,0,,{\fad(200,200)}很高興認識你，Nevra
+Dialogue: 2,0:54:55.76,0:54:57.48,Default,,0,0,0,,{\fad(200,200)}很高興認識你  內芙拉
 Dialogue: 2,0:54:59.56,0:55:00.92,Default-L2,,0,0,0,,{\fad(200,200)}So am I.
 Dialogue: 2,0:54:59.56,0:55:00.92,Default,,0,0,0,,{\fad(200,200)}我也是
 Dialogue: 2,0:55:09.76,0:55:12.16,Default-L2,,0,0,0,,{\fad(200,200)}- Are we recording right now? - Yes, we are.
 Dialogue: 2,0:55:09.76,0:55:12.16,Default,,0,0,0,,{\fad(200,200)}-我們現在在錄音嗎？-是的
 Dialogue: 2,0:55:12.24,0:55:15.92,Default-L2,,0,0,0,,{\fad(200,200)}- You'll give me a copy, right? - I said okay.
-Dialogue: 2,0:55:12.24,0:55:15.92,Default,,0,0,0,,{\fad(200,200)}-副本會給我一份，對吧 -可以
+Dialogue: 2,0:55:12.24,0:55:15.92,Default,,0,0,0,,{\fad(200,200)}-副本會給我一份  對吧 -可以
 Dialogue: 2,0:55:16.00,0:55:19.12,Default-L2,,0,0,0,,{\fad(200,200)}I'll read you a list. The courthouse at Caldıran has burnt down.
-Dialogue: 2,0:55:16.00,0:55:19.12,Default,,0,0,0,,{\fad(200,200)}我給你看一張清單，Caldıran法院大樓已經被燒毀
+Dialogue: 2,0:55:16.00,0:55:19.12,Default,,0,0,0,,{\fad(200,200)}我給你看一張清單  卡爾迪蘭法院大樓已經被燒毀
 Dialogue: 2,0:55:19.20,0:55:21.00,Default-L2,,0,0,0,,{\fad(200,200)\i1}So did the one at Sefilpınar.{\i}
-Dialogue: 2,0:55:19.20,0:55:21.00,Default,,0,0,0,,{\fad(200,200)}Sefilpınar法院也是如此
+Dialogue: 2,0:55:19.20,0:55:21.00,Default,,0,0,0,,{\fad(200,200)}塞菲爾皮納爾法院也是如此
 Dialogue: 2,0:55:21.08,0:55:22.84,Default-L2,,0,0,0,,{\fad(200,200)\i1}So did the one at Kambura.{\i}
-Dialogue: 2,0:55:21.08,0:55:22.84,Default,,0,0,0,,{\fad(200,200)}還有Kambura法院
+Dialogue: 2,0:55:21.08,0:55:22.84,Default,,0,0,0,,{\fad(200,200)}還有坎佈拉法院
 Dialogue: 2,0:55:30.56,0:55:33.48,Default-L2,,0,0,0,,{\fad(200,200)}But you tell me you had nothing to do with them.
 Dialogue: 2,0:55:30.56,0:55:33.48,Default,,0,0,0,,{\fad(200,200)}但是你跟我說這些事情都與你無關
 Dialogue: 2,0:55:33.56,0:55:35.68,Default-L2,,0,0,0,,{\fad(200,200)}No. How could I have the time for all of that?
-Dialogue: 2,0:55:33.56,0:55:35.68,Default,,0,0,0,,{\fad(200,200)}不，我怎麼有時間做所有這些事情？
+Dialogue: 2,0:55:33.56,0:55:35.68,Default,,0,0,0,,{\fad(200,200)}不  我怎麼有時間做所有這些事情？
 Dialogue: 2,0:55:35.76,0:55:38.88,Default-L2,,0,0,0,,{\fad(200,200)}Some other brothers must have taken care of them.
 Dialogue: 2,0:55:35.76,0:55:38.88,Default,,0,0,0,,{\fad(200,200)}一定有別人在做這些事
 Dialogue: 2,0:55:38.96,0:55:40.60,Default-L2,,0,0,0,,{\fad(200,200)\i1}How did you begin?{\i}
 Dialogue: 2,0:55:38.96,0:55:40.60,Default,,0,0,0,,{\fad(200,200)}你是如何開始的？
 Dialogue: 2,0:55:40.68,0:55:44.56,Default-L2,,0,0,0,,{\fad(200,200)}There was this man, and he had a file in the courthouse.
-Dialogue: 2,0:55:40.68,0:55:44.56,Default,,0,0,0,,{\fad(200,200)}有這個人，他在法庭上有一個檔案。
+Dialogue: 2,0:55:40.68,0:55:44.56,Default,,0,0,0,,{\fad(200,200)}有這個人  他在法庭上有一個檔案  
 Dialogue: 2,0:55:44.64,0:55:46.28,Default-L2,,0,0,0,,{\fad(200,200)\i1}But it's all slander.{\i}
 Dialogue: 2,0:55:44.64,0:55:46.28,Default,,0,0,0,,{\fad(200,200)}但這一切都是誹謗
 Dialogue: 2,0:55:46.36,0:55:48.28,Default-L2,,0,0,0,,{\fad(200,200)\i1}They made up all the accusations.{\i}
@@ -1175,11 +1175,11 @@ Dialogue: 2,0:55:46.36,0:55:48.28,Default,,0,0,0,,{\fad(200,200)}他們捏造了
 Dialogue: 2,0:55:48.36,0:55:50.76,Default-L2,,0,0,0,,{\fad(200,200)}And I couldn't stand for any injustice like that.
 Dialogue: 2,0:55:48.36,0:55:50.76,Default,,0,0,0,,{\fad(200,200)}我不能忍受這樣的不公正
 Dialogue: 2,0:55:50.84,0:55:53.12,Default-L2,,0,0,0,,{\fad(200,200)\i1}I'm a bailiff there, as you know.{\i}
-Dialogue: 2,0:55:50.84,0:55:53.12,Default,,0,0,0,,{\fad(200,200)}你知道，我是那裏的法警
+Dialogue: 2,0:55:50.84,0:55:53.12,Default,,0,0,0,,{\fad(200,200)}你知道  我是那裏的法警
 Dialogue: 2,0:55:53.20,0:55:55.24,Default-L2,,0,0,0,,{\fad(200,200)\i1}I burned the whole thing down.{\i}
 Dialogue: 2,0:55:53.20,0:55:55.24,Default,,0,0,0,,{\fad(200,200)}我把所有東西都燒掉了
 Dialogue: 2,0:55:55.32,0:55:58.08,Default-L2,,0,0,0,,{\fad(200,200)}So that justice prevails in the end, you know?
-Dialogue: 2,0:55:55.32,0:55:58.08,Default,,0,0,0,,{\fad(200,200)}正義最終會佔上風的，你明白嗎？
+Dialogue: 2,0:55:55.32,0:55:58.08,Default,,0,0,0,,{\fad(200,200)}正義最終會佔上風的  你明白嗎？
 Dialogue: 2,0:57:55.48,0:57:56.84,Default-L2,,0,0,0,,{\fad(200,200)}Oh, man.
 Dialogue: 2,0:57:55.48,0:57:56.84,Default,,0,0,0,,{\fad(200,200)}天啊
 Dialogue: 2,0:57:58.04,0:57:59.04,Default-L2,,0,0,0,,{\fad(200,200)}Oh, man!
@@ -1189,7 +1189,7 @@ Dialogue: 2,0:57:59.60,0:58:01.44,Default,,0,0,0,,{\fad(200,200)}你為什麼要
 Dialogue: 2,0:58:01.52,0:58:03.32,Default-L2,,0,0,0,,{\fad(200,200)}What did I do to you?
 Dialogue: 2,0:58:01.52,0:58:03.32,Default,,0,0,0,,{\fad(200,200)}我對你做了什麼？
 Dialogue: 2,0:58:04.64,0:58:06.64,Default-L2,,0,0,0,,{\fad(200,200)}You haven't changed at all, Naimhan.
-Dialogue: 2,0:58:04.64,0:58:06.64,Default,,0,0,0,,{\fad(200,200)}你根本冇變Naimhan
+Dialogue: 2,0:58:04.64,0:58:06.64,Default,,0,0,0,,{\fad(200,200)}你根本冇變納伊姆漢
 Dialogue: 2,0:58:07.64,0:58:08.76,Default-L2,,0,0,0,,{\fad(200,200)}Not at all.
 Dialogue: 2,0:58:07.64,0:58:08.76,Default,,0,0,0,,{\fad(200,200)}一點也冇變
 Dialogue: 2,0:58:09.48,0:58:11.08,Default-L2,,0,0,0,,{\fad(200,200)}You used to be like this.
@@ -1227,9 +1227,9 @@ Dialogue: 2,0:58:54.64,0:58:57.12,Default,,0,0,0,,{\fad(200,200)}整日追逐他
 Dialogue: 2,0:58:57.20,0:58:59.56,Default-L2,,0,0,0,,{\fad(200,200)}wait outside their place.
 Dialogue: 2,0:58:57.20,0:58:59.56,Default,,0,0,0,,{\fad(200,200)}在他們的房子外麵等
 Dialogue: 2,0:58:59.64,0:59:01.76,Default-L2,,0,0,0,,{\fad(200,200)}What do they do, where do they go?
-Dialogue: 2,0:58:59.64,0:59:01.76,Default,,0,0,0,,{\fad(200,200)}他們做什麼，他們去哪裏？
+Dialogue: 2,0:58:59.64,0:59:01.76,Default,,0,0,0,,{\fad(200,200)}他們做什麼  他們去哪裏？
 Dialogue: 2,0:59:01.84,0:59:04.12,Default-L2,,0,0,0,,{\fad(200,200)}When do they go to sleep, when do they wake up?
-Dialogue: 2,0:59:01.84,0:59:04.12,Default,,0,0,0,,{\fad(200,200)}他們什麼時候睡覺，什麼時候醒？
+Dialogue: 2,0:59:01.84,0:59:04.12,Default,,0,0,0,,{\fad(200,200)}他們什麼時候睡覺  什麼時候醒？
 Dialogue: 2,0:59:04.68,0:59:05.80,Default-L2,,0,0,0,,{\fad(200,200)}It's like having a job.
 Dialogue: 2,0:59:04.68,0:59:05.80,Default,,0,0,0,,{\fad(200,200)}就像工作
 Dialogue: 2,0:59:06.28,0:59:07.88,Default-L2,,0,0,0,,{\fad(200,200)}Really.
@@ -1243,15 +1243,15 @@ Dialogue: 2,0:59:13.04,0:59:15.44,Default,,0,0,0,,{\fad(200,200)}我們在哪見
 Dialogue: 2,0:59:16.44,0:59:17.88,Default-L2,,0,0,0,,{\fad(200,200)}Where are you from?
 Dialogue: 2,0:59:16.44,0:59:17.88,Default,,0,0,0,,{\fad(200,200)}你是哪裏人？
 Dialogue: 2,0:59:18.84,0:59:20.04,Default-L2,,0,0,0,,{\fad(200,200)}Kambura.
-Dialogue: 2,0:59:18.84,0:59:20.04,Default-L2,,0,0,0,,{\fad(200,200)}Kambura
+Dialogue: 2,0:59:18.84,0:59:20.04,Default-L2,,0,0,0,,{\fad(200,200)}坎佈拉
 Dialogue: 2,0:59:22.44,0:59:24.28,Default-L2,,0,0,0,,{\fad(200,200)}And that's where I know you from.
 Dialogue: 2,0:59:22.44,0:59:24.28,Default,,0,0,0,,{\fad(200,200)}那就是我認識你的地方
 Dialogue: 2,0:59:28.16,0:59:29.52,Default-L2,,0,0,0,,{\fad(200,200)}Don't do it, man...
 Dialogue: 2,0:59:28.16,0:59:29.52,Default,,0,0,0,,{\fad(200,200)}別這樣
 Dialogue: 2,0:59:30.12,0:59:32.52,Default-L2,,0,0,0,,{\fad(200,200)}I beg you, don't, man.
-Dialogue: 2,0:59:30.12,0:59:32.52,Default,,0,0,0,,{\fad(200,200)}我求求你，別殺我
+Dialogue: 2,0:59:30.12,0:59:32.52,Default,,0,0,0,,{\fad(200,200)}我求求你  別殺我
 Dialogue: 2,0:59:35.32,0:59:37.24,Default-L2,,0,0,0,,{\fad(200,200)}I'm not doing anything, Naimhan.
-Dialogue: 2,0:59:35.32,0:59:37.24,Default,,0,0,0,,{\fad(200,200)}我什麼都冇做，Naimhan
+Dialogue: 2,0:59:35.32,0:59:37.24,Default,,0,0,0,,{\fad(200,200)}我什麼都冇做  納伊姆漢
 Dialogue: 2,0:59:39.56,0:59:41.48,Default-L2,,0,0,0,,{\fad(200,200)}I haven't done anything.
 Dialogue: 2,0:59:39.56,0:59:41.48,Default,,0,0,0,,{\fad(200,200)}我什麼都冇做
 Dialogue: 2,0:59:42.40,0:59:43.68,Default-L2,,0,0,0,,{\fad(200,200)}You did it.
@@ -1263,4 +1263,4 @@ Dialogue: 2,0:59:48.08,0:59:49.08,Default,,0,0,0,,{\fad(200,200)}你們所有人
 Dialogue: 2,0:59:55.92,0:59:57.44,Default-L2,,0,0,0,,{\fad(200,200)}You shouldn't have.
 Dialogue: 2,0:59:55.92,0:59:57.44,Default,,0,0,0,,{\fad(200,200)}你不該做的
 Dialogue: 2,1:00:26.80,1:00:32.56,Default-L2,,0,0,0,,{\fad(200,200)}I ONLY TRUST HER. BECAUSE NEVRA UNDERSTANDS ME.
-Dialogue: 2,1:00:26.80,1:00:32.56,Default,,0,0,0,,{\fad(200,200)}我隻相信她，因為Nevra了解我
+Dialogue: 2,1:00:26.80,1:00:32.56,Default,,0,0,0,,{\fad(200,200)}我隻相信她  因為內芙拉了解我
