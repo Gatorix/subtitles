@@ -2,9 +2,13 @@
 
 ## 项目简介
 
-+ 此项目为个人翻译的国外高分剧集字幕，水平有限，可能有很多不足之处，欢迎指正。
++ 此项目为个人翻译的国外高分剧集字幕，主要翻译IMDB评分较高，墙内没有资源的剧集，本人水平有限，可能有很多不足之处，欢迎指正。
 
-+ 目前已完成土耳其剧集sahsiyet翻译，IMDB评分高达9.1
++ 如果有跟我一样喜欢翻译美剧的朋友，欢迎联系我，一起把这个项目做大做强！
+
++ 目前已完成土耳其剧集「Sahsiyet」翻译，IMDB评分高达9.1
+
++ 准备开始翻译「TVF Pitcher」，IMDB评分9.2
 
 ## 使用方法
 
@@ -16,6 +20,8 @@
   + [生肉下载](https://pan.baidu.com/s/1h-MFcw5uJO3kv7VAKDNuxg)  snb6
   + [熟肉下载](https://pan.baidu.com/s/1TRRtt3KCvDXFASHpKZelaw)  ul55
   + [字幕下载](https://subhd.tv/ar0/497317)
++ [TVF Pitcher](https://www.imdb.com/title/tt4742876/)：
+  + 翻译工作准备中
 
 ## 联系方式
 
