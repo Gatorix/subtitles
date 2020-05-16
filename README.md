@@ -6,9 +6,9 @@
 
 + 如果有跟我一样喜欢翻译美剧的朋友，欢迎联系我，一起把这个项目做大做强！
 
-+ 目前已完成土耳其剧集「Sahsiyet」翻译，IMDB评分高达9.1
++ 目前已完成土耳其剧集「Şahsiyet」翻译，IMDB评分高达9.2
 
-+ 准备开始翻译「TVF Pitcher」，IMDB评分9.2
++ 准备开始翻译「TVF Pitchers」，IMDB评分9.2
 
 ## 使用方法
 
@@ -16,7 +16,7 @@
 + 推荐使用[vlc](https://www.videolan.org/index.zh.html)播放器
 
 ## 目录
-+ [Sahsiyet](https://www.imdb.com/title/tt7920978/)：
++ [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
   + [生肉下载](https://pan.baidu.com/s/1h-MFcw5uJO3kv7VAKDNuxg)  snb6
   + [熟肉下载](https://pan.baidu.com/s/1TRRtt3KCvDXFASHpKZelaw)  ul55
   + [字幕下载](https://subhd.tv/ar0/497317)
