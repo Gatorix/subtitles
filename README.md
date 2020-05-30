@@ -13,7 +13,8 @@
 ## 使用方法
 
 + 每个剧集文件夹中都会有简中、繁中、英文及双语字幕的.srt和.ass字幕文件，下载将字幕文件名改为与视频文件名一致即可
-+ 推荐使用[vlc](https://www.videolan.org/index.zh.html)播放器
++ 推荐使用[VLC](https://www.videolan.org/index.zh.html)播放器
++ 如果你是mac用户，[IINA](https://iina.io/)也是很不错的选择
 
 ## 目录
 
@@ -29,6 +30,5 @@ https://drive.google.com/drive/folders/1qLnXOhKIunJaOyG4pQaBL0eLK3aWwJ84
 
 ## 联系方式
 
-+ gatorix@outlook.com
-
-+ ![公众号二维码](https://github.com/Gatorix/subtitles/blob/master/Others/qrcode_for_gh_f9b5d24b04ce_258.jpg)
++ 欢迎关注我的公众号：gatorix2020（整点没有用的）
+  - ![公众号二维码](https://github.com/Gatorix/subtitles/blob/master/Others/qrcode_for_gh_f9b5d24b04ce_258.jpg)
