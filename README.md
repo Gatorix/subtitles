@@ -31,4 +31,4 @@ https://drive.google.com/drive/folders/1qLnXOhKIunJaOyG4pQaBL0eLK3aWwJ84
 
 + gatorix@outlook.com
 
-+ 
++ ![公众号二维码](https://github.com/Gatorix/subtitles/blob/master/Others/qrcode_for_gh_f9b5d24b04ce_258.jpg)
