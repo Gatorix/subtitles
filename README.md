@@ -6,10 +6,6 @@
 
 + 如果有跟我一样喜欢翻译电视剧的朋友，欢迎联系我，一起把这个项目做大做强！
 
-+ 目前已完成土耳其剧集「Şahsiyet」翻译，IMDB评分高达9.2
-
-+ 正在翻译「TVF Pitchers」，IMDB评分9.2
-
 ## 使用方法
 + 直接下载熟肉：请点击目录中的熟肉下载链接，直接下载压制好字幕的视频文件
   - 优点：方便省事
@@ -23,13 +19,14 @@
 
 + [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
   + [生肉下载（百度云）](https://pan.baidu.com/s/1pYt28Lfisk_TLSw_Mow44A)  uaf0
-  + [生肉下载（Google Drive）](
-https://drive.google.com/drive/folders/1qLnXOhKIunJaOyG4pQaBL0eLK3aWwJ84
-)
+  + [生肉下载（Google Drive）](https://drive.google.com/drive/folders/1qLnXOhKIunJaOyG4pQaBL0eLK3aWwJ84)
   + [熟肉下载](https://pan.baidu.com/s/1TRRtt3KCvDXFASHpKZelaw)  ul55
   + [字幕下载](https://subhd.tv/ar0/497317)
+
 + [TVF Pitcher](https://www.imdb.com/title/tt4742876/)：
-  + 翻译中
+  + [生肉下载（百度云）](https://pan.baidu.com/s/1IN16hjwpVmdqmit4peG5FQ)  r8r8
+  + [熟肉下载](https://pan.baidu.com/s/1xqdF4UU5uzxHp5zyVRFBgg)  49l8
+  + [字幕下载](http://subhd.la/a/507567)
 
 ## 联系方式
 
