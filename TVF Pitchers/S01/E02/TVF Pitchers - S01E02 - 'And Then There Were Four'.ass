@@ -16,7 +16,7 @@ Video Zoom Percent: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,微软雅黑,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.8292682,2,135,135,72,1
+Style: Default,微软雅黑,50,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.8292682,2,135,135,72,1
 Style: Default-L2,微软雅黑,28,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,135,135,35,1
 
 [Events]

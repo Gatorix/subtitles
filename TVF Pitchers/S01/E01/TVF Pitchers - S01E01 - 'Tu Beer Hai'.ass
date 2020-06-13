@@ -16,7 +16,7 @@ Video Zoom Percent: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,微软雅黑,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.8292682,2,135,135,72,1
+Style: Default,微软雅黑,50,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,1.8292682,2,135,135,72,1
 Style: Default-L2,微软雅黑,28,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,100.0,100.0,0.0,0.0,1,0.0,0.0,2,135,135,35,1
 
 [Events]
@@ -622,7 +622,7 @@ Dialogue: 2,0:17:35.35,0:17:37.04,Default,,0,0,0,,{\fad(120,120)}- 你们兴奋�
 Dialogue: 1,0:17:35.35,0:17:37.04,Default-L2,,0,0,0,,{\fad(120,120)}-Are you guys excited? -Yes sir.
 Dialogue: 2,0:17:38.80,0:17:39.72,Default,,0,0,0,,{\fad(120,120)}好
 Dialogue: 1,0:17:38.80,0:17:39.72,Default-L2,,0,0,0,,{\fad(120,120)}OK!!!
-Dialogue: 2,0:17:40.13,0:17:42.00,Default,,0,0,0,,{\fad(120,120)}伙计们，让我告诉你们
+Dialogue: 2,0:17:40.13,0:17:42.00,Default,,0,0,0,,{\fad(120,120)}我跟你们讲
 Dialogue: 1,0:17:40.13,0:17:42.00,Default-L2,,0,0,0,,{\fad(120,120)}So guys, let me tell you.
 Dialogue: 2,0:17:42.58,0:17:45.00,Default,,0,0,0,,{\fad(120,120)}给客户留下深刻印象就像是
 Dialogue: 1,0:17:42.58,0:17:45.00,Default-L2,,0,0,0,,{\fad(120,120)}Impressing your client is like impressing a girl,
@@ -658,9 +658,9 @@ Dialogue: 2,0:18:20.16,0:18:21.17,Default,,0,0,0,,{\fad(120,120)}一天三次
 Dialogue: 1,0:18:20.16,0:18:21.17,Default-L2,,0,0,0,,{\fad(120,120)}Call them thrice a day.
 Dialogue: 2,0:18:21.28,0:18:22.37,Default,,0,0,0,,{\fad(120,120)}记住他们的生日
 Dialogue: 1,0:18:21.28,0:18:22.37,Default-L2,,0,0,0,,{\fad(120,120)}Remember their birthdays.
-Dialogue: 2,0:18:22.39,0:18:25.20,Default,,0,0,0,,{\fad(120,120)}事实上，每天晚上都幻想你的客户
+Dialogue: 2,0:18:22.39,0:18:25.20,Default,,0,0,0,,{\fad(120,120)}甚至每天晚上打飞机的时候都要想着你的客户
 Dialogue: 1,0:18:22.39,0:18:25.20,Default-L2,,0,0,0,,{\fad(120,120)}In fact, fantasize about your client every night.
-Dialogue: 2,0:18:25.25,0:18:28.02,Default,,0,0,0,,{\fad(120,120)}是的，先生，每！天！晚！上！
+Dialogue: 2,0:18:25.25,0:18:28.02,Default,,0,0,0,,{\fad(120,120)}好的，先生，每！天！晚！上！
 Dialogue: 1,0:18:25.25,0:18:28.02,Default-L2,,0,0,0,,{\fad(120,120)}I do sir. EVERY. SINGLE. NIGHT.
 Dialogue: 2,0:18:30.67,0:18:32.20,Default,,0,0,0,,{\fad(120,120)}好  太好了
 Dialogue: 1,0:18:30.67,0:18:32.20,Default-L2,,0,0,0,,{\fad(120,120)}OK!!! Excellent.
