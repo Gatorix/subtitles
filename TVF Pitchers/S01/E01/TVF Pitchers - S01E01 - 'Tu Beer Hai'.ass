@@ -523,8 +523,8 @@ Dialogue: 2,0:14:41.54,0:14:43.05,Default,,0,0,0,,{\fad(120,120)}为什么要浪
 Dialogue: 1,0:14:41.54,0:14:43.05,Default-L2,,0,0,0,,{\fad(120,120)}Why waste time, by running it?
 Dialogue: 2,0:14:43.27,0:14:44.94,Default,,0,0,0,,{\fad(120,120)}乔希先生一直称赞你
 Dialogue: 1,0:14:43.27,0:14:44.94,Default-L2,,0,0,0,,{\fad(120,120)}And Joshi sir keeps praising you always.
-Dialogue: 2,0:14:44.91,0:14:46.70,Default,,0,0,0,,{\fad(120,120)}对了，市场部的迪维亚
-Dialogue: 1,0:14:44.91,0:14:46.70,Default-L2,,0,0,0,,{\fad(120,120)}Oh, Divya from the marketing team?
+Dialogue: 2,0:14:44.95,0:14:46.70,Default,,0,0,0,,{\fad(120,120)}对了，市场部的迪维亚
+Dialogue: 1,0:14:44.95,0:14:46.70,Default-L2,,0,0,0,,{\fad(120,120)}Oh, Divya from the marketing team?
 Dialogue: 2,0:14:46.73,0:14:47.56,Default,,0,0,0,,{\fad(120,120)}今天是她的订婚日
 Dialogue: 1,0:14:46.73,0:14:47.56,Default-L2,,0,0,0,,{\fad(120,120)}It's her engagement today.
 Dialogue: 2,0:14:47.56,0:14:48.10,Default,,0,0,0,,{\fad(120,120)}你会来吗？
@@ -543,8 +543,8 @@ Dialogue: 2,0:14:58.64,0:14:59.05,Default,,0,0,0,,{\fad(120,120)}哦
 Dialogue: 1,0:14:58.64,0:14:59.05,Default-L2,,0,0,0,,{\fad(120,120)}Ohh
 Dialogue: 2,0:14:59.77,0:15:01.05,Default,,0,0,0,,{\fad(120,120)}不仅是乔希先生,
 Dialogue: 1,0:14:59.77,0:15:01.05,Default-L2,,0,0,0,,{\fad(120,120)}Not only Joshi sir,
-Dialogue: 2,0:15:01.00,0:15:02.54,Default,,0,0,0,,{\fad(120,120)}而是整个部门都这么说
-Dialogue: 1,0:15:01.00,0:15:02.54,Default-L2,,0,0,0,,{\fad(120,120)}But the whole department says this.
+Dialogue: 2,0:15:01.06,0:15:02.54,Default,,0,0,0,,{\fad(120,120)}而是整个部门都这么说
+Dialogue: 1,0:15:01.06,0:15:02.54,Default-L2,,0,0,0,,{\fad(120,120)}But the whole department says this.
 Dialogue: 2,0:15:02.84,0:15:05.62,Default,,0,0,0,,{\fad(120,120)}"不管别人怎么样，你一定会升职的"
 Dialogue: 1,0:15:02.84,0:15:05.62,Default-L2,,0,0,0,,{\fad(120,120)}"Whether or not someone else does... you are defintely getting promoted"
 Dialogue: 2,0:15:05.70,0:15:07.11,Default,,0,0,0,,{\fad(120,120)}没有别的可能
@@ -638,8 +638,8 @@ Dialogue: 2,0:17:55.35,0:17:57.05,Default,,0,0,0,,{\fad(120,120)}她讨厌你
 Dialogue: 1,0:17:55.35,0:17:57.05,Default-L2,,0,0,0,,{\fad(120,120)}She f**king hates you.
 Dialogue: 2,0:17:58.06,0:18:00.07,Default,,0,0,0,,{\fad(120,120)}现在，你要怎么做才能打动这样一个女孩呢？
 Dialogue: 1,0:17:58.06,0:18:00.07,Default-L2,,0,0,0,,{\fad(120,120)}Now, what will you do to impress such a girl?
-Dialogue: 2,0:18:00.04,0:18:02.48,Default,,0,0,0,,{\fad(120,120)}先生，我会威胁说要割腕，先生
-Dialogue: 1,0:18:00.04,0:18:02.48,Default-L2,,0,0,0,,{\fad(120,120)}Sir, I will threaten to slit my wrists, sir.
+Dialogue: 2,0:18:00.08,0:18:02.48,Default,,0,0,0,,{\fad(120,120)}先生，我会威胁说要割腕，先生
+Dialogue: 1,0:18:00.08,0:18:02.48,Default-L2,,0,0,0,,{\fad(120,120)}Sir, I will threaten to slit my wrists, sir.
 Dialogue: 2,0:18:03.95,0:18:07.17,Default,,0,0,0,,{\fad(120,120)}也许可以作为达到目标的最后手段
 Dialogue: 1,0:18:03.95,0:18:07.17,Default-L2,,0,0,0,,{\fad(120,120)}Yeah, maybe, as a last resort to meet the targets.
 Dialogue: 2,0:18:08.51,0:18:09.77,Default,,0,0,0,,{\fad(120,120)}但是，你会从什么开始呢？
@@ -770,7 +770,7 @@ Dialogue: 1,0:20:35.22,0:20:37.11,Default-L2,,0,0,0,,{\fad(120,120)}There's fina
 Dialogue: 2,0:20:37.14,0:20:38.50,Default,,0,0,0,,{\fad(120,120)}大家开始意识到我的潜力
 Dialogue: 1,0:20:37.14,0:20:38.50,Default-L2,,0,0,0,,{\fad(120,120)}People are realizing my potential.
 Dialogue: 2,0:20:38.51,0:20:40.30,Default,,0,0,0,,{\fad(120,120)}我是公司的重要员工
-Dialogue: 1,0:20:38.51,0:20:40.30,Default,,0,0,0,,{\fad(120,120)}I’m a valuable employee to the company.
+Dialogue: 1,0:20:38.51,0:20:40.30,Default-L2,,0,0,0,,{\fad(120,120)}I’m a valuable employee to the company.
 Dialogue: 2,0:20:41.55,0:20:43.47,Default,,0,0,0,,{\fad(120,120)}-我不能辞职-听我说
 Dialogue: 1,0:20:41.55,0:20:43.47,Default-L2,,0,0,0,,{\fad(120,120)}Won't be able to leave the job. - Listen to me.
 Dialogue: 2,0:20:43.85,0:20:45.88,Default,,0,0,0,,{\fad(120,120)}一个新的硅谷正在这里崛起
@@ -783,8 +783,8 @@ Dialogue: 2,0:20:53.09,0:20:54.59,Default,,0,0,0,,{\fad(120,120)}别担心，伙
 Dialogue: 1,0:20:53.09,0:20:54.59,Default-L2,,0,0,0,,{\fad(120,120)}And don't worry at all dude.
 Dialogue: 2,0:20:54.68,0:20:59.09,Default,,0,0,0,,{\fad(120,120)}一旦我们拿到融资，我保证，即使我们都不拿钱，你的薪水绝对不会少
 Dialogue: 1,0:20:54.68,0:20:59.09,Default-L2,,0,0,0,,{\fad(120,120)}Once we get the funding, we'll ensure, you get your salary even if we work for free.
-Dialogue: 2,0:20:59.03,0:21:00.82,Default,,0,0,0,,{\fad(120,120)}杰图，所有的核心工作都和技术有关
-Dialogue: 1,0:20:59.03,0:21:00.82,Default-L2,,0,0,0,,{\fad(120,120)}Jitu, all the core work is tech related.
+Dialogue: 2,0:20:59.10,0:21:00.82,Default,,0,0,0,,{\fad(120,120)}杰图，所有的核心工作都和技术有关
+Dialogue: 1,0:20:59.10,0:21:00.82,Default-L2,,0,0,0,,{\fad(120,120)}Jitu, all the core work is tech related.
 Dialogue: 2,0:21:01.24,0:21:03.05,Default,,0,0,0,,{\fad(120,120)}没有你我们怎么办？
 Dialogue: 1,0:21:01.24,0:21:03.05,Default-L2,,0,0,0,,{\fad(120,120)}How will we manage without you?
 Dialogue: 2,0:21:03.06,0:21:06.17,Default,,0,0,0,,{\fad(120,120)}他想说的是如果我们想成为超级企业家
@@ -1170,8 +1170,8 @@ Dialogue: 2,0:30:12.40,0:30:12.96,Default,,0,0,0,,{\fad(120,120)}听着
 Dialogue: 1,0:30:12.40,0:30:12.96,Default-L2,,0,0,0,,{\fad(120,120)}Look!
 Dialogue: 2,0:30:13.19,0:30:14.81,Default,,0,0,0,,{\fad(120,120)}你认为这是你所向往的……
 Dialogue: 1,0:30:13.19,0:30:14.81,Default-L2,,0,0,0,,{\fad(120,120)}You think this is your passion...
-Dialogue: 2,0:30:14.47,0:30:16.57,Default,,0,0,0,,{\fad(120,120)}这就是为什么，你要离开这份工作
-Dialogue: 1,0:30:14.47,0:30:16.57,Default-L2,,0,0,0,,{\fad(120,120)}And that is why, you're leaving this job.
+Dialogue: 2,0:30:14.82,0:30:16.57,Default,,0,0,0,,{\fad(120,120)}这就是为什么，你要离开这份工作
+Dialogue: 1,0:30:14.82,0:30:16.57,Default-L2,,0,0,0,,{\fad(120,120)}And that is why, you're leaving this job.
 Dialogue: 2,0:30:17.24,0:30:19.42,Default,,0,0,0,,{\fad(120,120)}但这不是…… 纳文
 Dialogue: 1,0:30:17.24,0:30:19.42,Default-L2,,0,0,0,,{\fad(120,120)}But, this is not your passion, Naveen.
 Dialogue: 2,0:30:20.06,0:30:22.31,Default,,0,0,0,,{\fad(120,120)}如果真的是这样，那么很久之前……
@@ -1240,8 +1240,8 @@ Dialogue: 2,0:32:18.52,0:32:20.06,Default,,0,0,0,,{\fad(120,120)}你想点什么
 Dialogue: 1,0:32:18.52,0:32:20.06,Default-L2,,0,0,0,,{\fad(120,120)}What do you want to order?
 Dialogue: 2,0:32:20.58,0:32:22.20,Default,,0,0,0,,{\fad(120,120)}我们来吃冷玉米吧
 Dialogue: 1,0:32:20.58,0:32:22.20,Default-L2,,0,0,0,,{\fad(120,120)}Let's do chilly babycorn.
-Dialogue: 2,0:32:22.03,0:32:23.63,Default,,0,0,0,,{\fad(120,120)}“每公斤1000卢比! ”
-Dialogue: 1,0:32:22.03,0:32:23.63,Default-L2,,0,0,0,,{\fad(120,120)}"Rs. 1000 per Kg!"
+Dialogue: 2,0:32:22.21,0:32:23.63,Default,,0,0,0,,{\fad(120,120)}“每公斤1000卢比! ”
+Dialogue: 1,0:32:22.21,0:32:23.63,Default-L2,,0,0,0,,{\fad(120,120)}"Rs. 1000 per Kg!"
 Dialogue: 2,0:32:24.37,0:32:26.54,Default,,0,0,0,,{\fad(120,120)}计划辞职的人，不要吃玉米粒！
 Dialogue: 1,0:32:24.37,0:32:26.54,Default-L2,,0,0,0,,{\fad(120,120)}People planning to quit their job, don't eat babycorn!
 Dialogue: 2,0:32:26.59,0:32:28.49,Default,,0,0,0,,{\fad(120,120)}伙计，我听说会有大笔资金流入，好吗？
@@ -1250,8 +1250,8 @@ Dialogue: 2,0:32:28.49,0:32:30.67,Default,,0,0,0,,{\fad(120,120)}要发工资了
 Dialogue: 1,0:32:28.49,0:32:30.67,Default-L2,,0,0,0,,{\fad(120,120)}I'm going to get a salary and hence, I'm ordering babycorn!
 Dialogue: 2,0:32:31.39,0:32:33.04,Default,,0,0,0,,{\fad(120,120)}我们也给纳文点点东西吧
 Dialogue: 1,0:32:31.39,0:32:33.04,Default-L2,,0,0,0,,{\fad(120,120)}-Let's order something for Naveen too.
-Dialogue: 2,0:32:33.00,0:32:34.08,Default,,0,0,0,,{\fad(120,120)}是的，他一定在路上了
-Dialogue: 1,0:32:33.00,0:32:34.08,Default-L2,,0,0,0,,{\fad(120,120)}Yeah, he must be on his way.
+Dialogue: 2,0:32:33.05,0:32:34.08,Default,,0,0,0,,{\fad(120,120)}是的，他一定在路上了
+Dialogue: 1,0:32:33.05,0:32:34.08,Default-L2,,0,0,0,,{\fad(120,120)}Yeah, he must be on his way.
 Dialogue: 2,0:32:34.48,0:32:36.22,Default,,0,0,0,,{\fad(120,120)}纳文来不了了
 Dialogue: 1,0:32:34.48,0:32:36.22,Default-L2,,0,0,0,,{\fad(120,120)}Naveen's not going to be able to make it.
 Dialogue: 2,0:32:36.30,0:32:37.28,Default,,0,0,0,,{\fad(120,120)}曼达尔？
@@ -1300,8 +1300,8 @@ Dialogue: 2,0:33:30.38,0:33:32.54,Default,,0,0,0,,{\fad(120,120)}先生，你看
 Dialogue: 1,0:33:30.38,0:33:32.54,Default-L2,,0,0,0,,{\fad(120,120)}Sir, you see how there's so much traffic here!
 Dialogue: 2,0:33:32.67,0:33:34.36,Default,,0,0,0,,{\fad(120,120)}还有另外一条路可以通过昌迪瓦利
 Dialogue: 1,0:33:32.67,0:33:34.36,Default-L2,,0,0,0,,{\fad(120,120)\i1}There's this one other way via Chandivali{\i}
-Dialogue: 2,0:33:34.25,0:33:35.60,Default,,0,0,0,,{\fad(120,120)}我们要走那边吗？
-Dialogue: 1,0:33:34.25,0:33:35.60,Default-L2,,0,0,0,,{\fad(120,120)}Should we try that?
+Dialogue: 2,0:33:34.37,0:33:35.60,Default,,0,0,0,,{\fad(120,120)}我们要走那边吗？
+Dialogue: 1,0:33:34.37,0:33:35.60,Default-L2,,0,0,0,,{\fad(120,120)}Should we try that?
 Dialogue: 2,0:33:35.60,0:33:37.24,Default,,0,0,0,,{\fad(120,120)}能准时到达机场吗？
 Dialogue: 1,0:33:35.60,0:33:37.24,Default-L2,,0,0,0,,{\fad(120,120)}Will it get us to the airport on time?
 Dialogue: 2,0:33:37.32,0:33:38.71,Default,,0,0,0,,{\fad(120,120)}那里不会堵车吧？
