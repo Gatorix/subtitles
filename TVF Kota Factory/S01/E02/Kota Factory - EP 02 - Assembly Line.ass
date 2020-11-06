@@ -50,7 +50,7 @@ Dialogue: 3,0:00:49.62,0:00:51.06,Default,,0,0,0,,{\fad(120,120)}你心情怎么
 Dialogue: 2,0:00:49.62,0:00:51.06,Default-L2,,0,0,0,,{\fad(120,120)}Are you in good spirit?
 Dialogue: 3,0:00:51.25,0:00:52.16,Default,,0,0,0,,{\fad(120,120)}还挺好的
 Dialogue: 2,0:00:51.25,0:00:52.16,Default-L2,,0,0,0,,{\fad(120,120)}Yes, mummy.
-Dialogue: 3,0:00:54.26,0:00:56.05,Default,,0,0,0,,{\fad(120,120)}翻来覆去问这个问题你不烦吗？
+Dialogue: 3,0:00:54.26,0:00:56.05,Default,,0,0,0,,{\fad(120,120)}这个问题你已经问了无数次了
 Dialogue: 2,0:00:54.26,0:00:56.05,Default-L2,,0,0,0,,{\fad(120,120)}How do you manage to keep repeating the same question?
 Dialogue: 3,0:00:57.69,0:00:58.73,Default,,0,0,0,,{\fad(120,120)}好吧
 Dialogue: 2,0:00:57.69,0:00:58.73,Default-L2,,0,0,0,,{\fad(120,120)}Okay.
@@ -64,13 +64,13 @@ Dialogue: 3,0:01:21.21,0:01:23.24,Default,,0,0,0,,{\fad(120,120)}你是在里面
 Dialogue: 2,0:01:21.21,0:01:23.24,Default-L2,,0,0,0,,{\fad(120,120)}Are you revising 'coordinate' inside?
 Dialogue: 3,0:01:27.38,0:01:28.86,Default,,0,0,0,,{\fad(120,120)}再给我点时间，兄弟
 Dialogue: 2,0:01:27.38,0:01:28.86,Default-L2,,0,0,0,,{\fad(120,120)}Just two more minutes, bro.
-Dialogue: 3,0:01:38.60,0:01:40.11,Default,,0,0,0,,{\fad(120,120)}立不住吧？
+Dialogue: 3,0:01:38.60,0:01:40.11,Default,,0,0,0,,{\fad(120,120)}它会掉下来对吧？
 Dialogue: 2,0:01:38.60,0:01:40.11,Default-L2,,0,0,0,,{\fad(120,120)}Did it fall?
-Dialogue: 3,0:01:42.40,0:01:43.52,Default,,0,0,0,,{\fad(120,120)}是不是立不住？
+Dialogue: 3,0:01:42.40,0:01:43.52,Default,,0,0,0,,{\fad(120,120)}对不对？
 Dialogue: 2,0:01:42.40,0:01:43.52,Default-L2,,0,0,0,,{\fad(120,120)}Did it fall?
-Dialogue: 3,0:01:49.86,0:01:51.33,Default,,0,0,0,,{\fad(120,120)}早就告诉过你们吧
+Dialogue: 3,0:01:49.86,0:01:51.33,Default,,0,0,0,,{\fad(120,120)}早就告诉过你们
 Dialogue: 2,0:01:49.86,0:01:51.33,Default-L2,,0,0,0,,{\fad(120,120)}Did I tell you or not?
-Dialogue: 3,0:01:51.53,0:01:53.87,Default,,0,0,0,,{\fad(120,120)}杰图·拜亚和物理学永远不会错
+Dialogue: 3,0:01:51.53,0:01:53.87,Default,,0,0,0,,{\fad(120,120)}杰图·拜亚和物理学永远不会出错
 Dialogue: 2,0:01:51.53,0:01:53.87,Default-L2,,0,0,0,,{\fad(120,120)}Jeetu Bhaiya and Physics can never be wrong.
 Dialogue: 3,0:01:53.95,0:01:56.32,Default,,0,0,0,,{\fad(120,120)}拜亚哥，再来一次
 Dialogue: 2,0:01:53.95,0:01:56.32,Default-L2,,0,0,0,,{\fad(120,120)}Bhaiya. Bhaiya. Once more.
@@ -176,11 +176,11 @@ Dialogue: 3,0:04:59.46,0:05:01.19,Default,,0,0,0,,{\fad(120,120)}会被父母带
 Dialogue: 2,0:04:59.46,0:05:01.19,Default-L2,,0,0,0,,{\fad(120,120)}..are taken back home by their parents.
 Dialogue: 3,0:05:01.78,0:05:03.61,Default,,0,0,0,,{\fad(120,120)}从此与印度理工无缘
 Dialogue: 2,0:05:01.78,0:05:03.61,Default-L2,,0,0,0,,{\fad(120,120)}And they never make it to IIT.
-Dialogue: 3,0:05:04.11,0:05:07.14,Default,,0,0,0,,{\fad(120,120)}米娜，我就算吃了这些东西，我也会生病的
+Dialogue: 3,0:05:04.11,0:05:07.14,Default,,0,0,0,,{\fad(120,120)}米纳，我就算吃了这些东西，我也会生病的
 Dialogue: 2,0:05:04.11,0:05:07.14,Default-L2,,0,0,0,,{\fad(120,120)}Meena, I will fall ill even if I eat this food.
-Dialogue: 3,0:05:08.09,0:05:09.29,Default,,0,0,0,,{\fad(120,120)}这菜太油了
+Dialogue: 3,0:05:08.09,0:05:09.29,Default,,0,0,0,,{\fad(120,120)}这菜太油腻了
 Dialogue: 2,0:05:08.09,0:05:09.29,Default-L2,,0,0,0,,{\fad(120,120)}This is so oily.
-Dialogue: 3,0:05:09.64,0:05:11.68,Default,,0,0,0,,{\fad(120,120)}-这是把卖油的打死了?-小声点
+Dialogue: 3,0:05:09.64,0:05:11.68,Default,,0,0,0,,{\fad(120,120)}-这是把卖油的打死了吧?-小声点
 Dialogue: 2,0:05:09.64,0:05:11.68,Default-L2,,0,0,0,,{\fad(120,120)}- Is oil free or what? - Speak softly.
 Dialogue: 3,0:05:12.13,0:05:15.10,Default,,0,0,0,,{\fad(120,120)}如果被钱德鲁听到，我们晚餐就只能吃拌蔬菜了
 Dialogue: 2,0:05:12.13,0:05:15.10,Default-L2,,0,0,0,,{\fad(120,120)}If Chandru hears then we'll get mixed vegetables of all the gourds for dinner.
@@ -188,7 +188,7 @@ Dialogue: 3,0:05:15.12,0:05:16.20,Default,,0,0,0,,{\fad(120,120)}里面还有苦
 Dialogue: 2,0:05:15.12,0:05:16.20,Default-L2,,0,0,0,,{\fad(120,120)}Including bitter gourd.
 Dialogue: 3,0:05:20.05,0:05:21.35,Default,,0,0,0,,{\fad(120,120)}你还喝上酒了？
 Dialogue: 2,0:05:20.05,0:05:21.35,Default-L2,,0,0,0,,{\fad(120,120)}Still drinking Bisleri?
-Dialogue: 3,0:05:21.48,0:05:23.65,Default,,0,0,0,,{\fad(120,120)}米娜，这是百岁山，不是牛栏山
+Dialogue: 3,0:05:21.48,0:05:23.65,Default,,0,0,0,,{\fad(120,120)}米纳，这是百岁山，不是牛栏山
 Dialogue: 2,0:05:21.48,0:05:23.65,Default-L2,,0,0,0,,{\fad(120,120)}Meena. Not Bisleri. Aquafina.
 Dialogue: 3,0:05:23.81,0:05:25.42,Default,,0,0,0,,{\fad(120,120)}都差不多
 Dialogue: 2,0:05:23.81,0:05:25.42,Default-L2,,0,0,0,,{\fad(120,120)}It's all the Bisleri's are the same.
@@ -238,15 +238,15 @@ Dialogue: 3,0:07:27.98,0:07:29.06,Default,,0,0,0,,{\fad(120,120)}来吧，宝贝
 Dialogue: 2,0:07:27.98,0:07:29.06,Default-L2,,0,0,0,,{\fad(120,120)}Come. Oh, Shivangi!
 Dialogue: 3,0:07:30.11,0:07:31.90,Default,,0,0,0,,{\fad(120,120)}你咬得太狠了
 Dialogue: 2,0:07:30.11,0:07:31.90,Default-L2,,0,0,0,,{\fad(120,120)}You bite so hard.
-Dialogue: 3,0:07:32.94,0:07:34.66,Default,,0,0,0,,{\fad(120,120)}你好骚啊
+Dialogue: 3,0:07:32.94,0:07:34.66,Default,,0,0,0,,{\fad(120,120)}调皮！
 Dialogue: 2,0:07:32.94,0:07:34.66,Default-L2,,0,0,0,,{\fad(120,120)}Raunchy!
-Dialogue: 3,0:07:36.93,0:07:37.98,Default,,0,0,0,,{\fad(120,120)}米娜
+Dialogue: 3,0:07:36.93,0:07:37.98,Default,,0,0,0,,{\fad(120,120)}米纳
 Dialogue: 2,0:07:36.93,0:07:37.98,Default-L2,,0,0,0,,{\fad(120,120)}Meena.
 Dialogue: 3,0:07:38.52,0:07:40.03,Default,,0,0,0,,{\fad(120,120)}我们去喝杯茶吧
 Dialogue: 2,0:07:38.52,0:07:40.03,Default-L2,,0,0,0,,{\fad(120,120)}Let's go for a tea.
 Dialogue: 3,0:07:44.83,0:07:46.35,Default,,0,0,0,,{\fad(120,120)}现在还不到5:30
 Dialogue: 2,0:07:44.83,0:07:46.35,Default-L2,,0,0,0,,{\fad(120,120)}It isn't 5:30 as yet.
-Dialogue: 3,0:07:46.53,0:07:48.35,Default,,0,0,0,,{\fad(120,120)}你昨晚这套题了吗？
+Dialogue: 3,0:07:46.53,0:07:48.35,Default,,0,0,0,,{\fad(120,120)}你做完这套题了吗？
 Dialogue: 2,0:07:46.53,0:07:48.35,Default-L2,,0,0,0,,{\fad(120,120)}Have you finished the sheet?
 Dialogue: 3,0:07:49.18,0:07:50.66,Default,,0,0,0,,{\fad(120,120)}是的，我做到第35题了
 Dialogue: 2,0:07:49.18,0:07:50.66,Default-L2,,0,0,0,,{\fad(120,120)}Yes, I've completed up to 35.
@@ -324,7 +324,7 @@ Dialogue: 3,0:10:15.46,0:10:16.69,Default,,0,0,0,,{\fad(120,120)}门口交费
 Dialogue: 2,0:10:15.46,0:10:16.69,Default-L2,,0,0,0,,{\fad(120,120)}Pay the fees outside.
 Dialogue: 3,0:10:17.64,0:10:20.59,Default,,0,0,0,,{\fad(120,120)}你知道你不是医生吧？
 Dialogue: 2,0:10:17.64,0:10:20.59,Default-L2,,0,0,0,,{\fad(120,120)}You do know that you are not a Doctor, right?
-Dialogue: 3,0:10:21.74,0:10:23.86,Default,,0,0,0,,{\fad(120,120)}就因为我穿的白衬衫而不是白大褂
+Dialogue: 3,0:10:21.74,0:10:23.86,Default,,0,0,0,,{\fad(120,120)}就因为我穿的实验服而不是白大褂
 Dialogue: 2,0:10:21.74,0:10:23.86,Default-L2,,0,0,0,,{\fad(120,120)}Just because I wore a coat instead of an apron..
 Dialogue: 3,0:10:23.94,0:10:25.72,Default,,0,0,0,,{\fad(120,120)}还有我的字写得不好，就能说明我不是医生吗？
 Dialogue: 2,0:10:23.94,0:10:25.72,Default-L2,,0,0,0,,{\fad(120,120)}..and my handwriting is not good, does it mean I am not a Doctor?
@@ -348,11 +348,11 @@ Dialogue: 3,0:10:50.24,0:10:51.00,Default,,0,0,0,,{\fad(120,120)}拿着这个
 Dialogue: 2,0:10:50.24,0:10:51.00,Default-L2,,0,0,0,,{\fad(120,120)}Take this.
 Dialogue: 3,0:10:51.15,0:10:53.00,Default,,0,0,0,,{\fad(120,120)}用你最真诚的心写下你的愿望
 Dialogue: 2,0:10:51.15,0:10:53.00,Default-L2,,0,0,0,,{\fad(120,120)}Write it nicely with a clean heart.
-Dialogue: 3,0:10:54.63,0:10:56.41,Default,,0,0,0,,{\fad(120,120)}从数学的角度来讲这是不可能的，米娜
+Dialogue: 3,0:10:54.63,0:10:56.41,Default,,0,0,0,,{\fad(120,120)}从数学的角度来讲这是不可能的，米纳
 Dialogue: 2,0:10:54.63,0:10:56.41,Default-L2,,0,0,0,,{\fad(120,120)}It is mathematically impossible, Meena.
 Dialogue: 3,0:10:58.10,0:11:01.65,Default,,0,0,0,,{\fad(120,120)}印度理工学院的座位远不如来这许愿的人多
 Dialogue: 2,0:10:58.10,0:11:01.65,Default-L2,,0,0,0,,{\fad(120,120)}There aren't as many seats in IIT as the number of prayers here.
-Dialogue: 3,0:11:02.84,0:11:03.65,Default,,0,0,0,,{\fad(120,120)}搞毛线啊，米娜？
+Dialogue: 3,0:11:02.84,0:11:03.65,Default,,0,0,0,,{\fad(120,120)}搞毛线啊，米纳？
 Dialogue: 2,0:11:02.84,0:11:03.65,Default-L2,,0,0,0,,{\fad(120,120)}What is this, Meena?
 Dialogue: 3,0:11:03.86,0:11:05.29,Default,,0,0,0,,{\fad(120,120)}你为什么要把我们带到这里来？
 Dialogue: 2,0:11:03.86,0:11:05.29,Default-L2,,0,0,0,,{\fad(120,120)}Why did you have to bring us here?
@@ -396,7 +396,7 @@ Dialogue: 3,0:11:54.53,0:11:56.19,Default,,0,0,0,,{\fad(120,120)}非常好
 Dialogue: 2,0:11:54.53,0:11:56.19,Default-L2,,0,0,0,,{\fad(120,120)}Very nice.
 Dialogue: 3,0:11:57.73,0:11:59.22,Default,,0,0,0,,{\fad(120,120)}我不会占用你太多时间
 Dialogue: 2,0:11:57.73,0:11:59.22,Default-L2,,0,0,0,,{\fad(120,120)}I won't take up much of your time.
-Dialogue: 3,0:11:59.65,0:12:01.53,Default,,0,0,0,,{\fad(120,120)}我能理解马赫什瓦里亚历很大
+Dialogue: 3,0:11:59.65,0:12:01.53,Default,,0,0,0,,{\fad(120,120)}我能理解马赫什瓦里压力很大
 Dialogue: 2,0:11:59.65,0:12:01.53,Default-L2,,0,0,0,,{\fad(120,120)}I understand the pressure from Maheshwari.
 Dialogue: 3,0:12:02.06,0:12:04.27,Default,,0,0,0,,{\fad(120,120)}跟我分享一下你的应对机制吧
 Dialogue: 2,0:12:02.06,0:12:04.27,Default-L2,,0,0,0,,{\fad(120,120)}Just share with me any coping mechanism.
@@ -426,7 +426,7 @@ Dialogue: 3,0:12:35.94,0:12:37.61,Default,,0,0,0,,{\fad(120,120)}我不在马赫
 Dialogue: 2,0:12:35.94,0:12:37.61,Default-L2,,0,0,0,,{\fad(120,120)}I am not in Maheshwari.
 Dialogue: 3,0:12:38.16,0:12:41.10,Default,,0,0,0,,{\fad(120,120)}在过去的六个月里，我一直在上私教
 Dialogue: 2,0:12:38.16,0:12:41.10,Default-L2,,0,0,0,,{\fad(120,120)}I've been taking individual lessons for the past six months.
-Dialogue: 3,0:12:41.39,0:12:43.07,Default,,0,0,0,,{\fad(120,120)}我的猜测是对的，米娜
+Dialogue: 3,0:12:41.39,0:12:43.07,Default,,0,0,0,,{\fad(120,120)}我的猜测是对的，米纳
 Dialogue: 2,0:12:41.39,0:12:43.07,Default-L2,,0,0,0,,{\fad(120,120)}My suspicion turned out right, Meena.
 Dialogue: 3,0:12:43.23,0:12:44.25,Default,,0,0,0,,{\fad(120,120)}我跟你说过
 Dialogue: 2,0:12:43.23,0:12:44.25,Default-L2,,0,0,0,,{\fad(120,120)}Didn't I tell you,
@@ -436,13 +436,13 @@ Dialogue: 3,0:12:47.70,0:12:48.32,Default,,0,0,0,,{\fad(120,120)}我不明白
 Dialogue: 2,0:12:47.70,0:12:48.32,Default-L2,,0,0,0,,{\fad(120,120)}I don't understand.
 Dialogue: 3,0:12:48.40,0:12:49.31,Default,,0,0,0,,{\fad(120,120)}你在说什么？
 Dialogue: 2,0:12:48.40,0:12:49.31,Default-L2,,0,0,0,,{\fad(120,120)}What are you saying?
-Dialogue: 3,0:12:49.90,0:12:52.93,Default,,0,0,0,,{\fad(120,120)}我爸是走后门才给我送进马赫什瓦里的
+Dialogue: 3,0:12:49.90,0:12:52.93,Default,,0,0,0,,{\fad(120,120)}我爸是托关系才给我送进马赫什瓦里的
 Dialogue: 2,0:12:49.90,0:12:52.93,Default-L2,,0,0,0,,{\fad(120,120)}Dad got me admitted using influence..
-Dialogue: 3,0:12:53.70,0:12:55.82,Default,,0,0,0,,{\fad(120,120)}但是第一次考试之后我就被排到后面的批次了
+Dialogue: 3,0:12:53.70,0:12:55.82,Default,,0,0,0,,{\fad(120,120)}但是第一次考试之后我就被排到后面的分组了
 Dialogue: 2,0:12:53.70,0:12:55.82,Default-L2,,0,0,0,,{\fad(120,120)}..but when the batch was shuffled after the first test..
-Dialogue: 3,0:12:55.90,0:12:57.55,Default,,0,0,0,,{\fad(120,120)}最后一批
+Dialogue: 3,0:12:55.90,0:12:57.55,Default,,0,0,0,,{\fad(120,120)}最后一组
 Dialogue: 2,0:12:55.90,0:12:57.55,Default-L2,,0,0,0,,{\fad(120,120)}..I ended up in the last batch.
-Dialogue: 3,0:12:58.10,0:13:00.66,Default,,0,0,0,,{\fad(120,120)}第二次考试我又是最后一批的倒数第一
+Dialogue: 3,0:12:58.10,0:13:00.66,Default,,0,0,0,,{\fad(120,120)}第二次考试我又是最后一组的倒数第一
 Dialogue: 2,0:12:58.10,0:13:00.66,Default-L2,,0,0,0,,{\fad(120,120)}The next time I was the last student in that batch as well.
 Dialogue: 3,0:13:01.40,0:13:04.38,Default,,0,0,0,,{\fad(120,120)}然后我不得不退学，选择上私教
 Dialogue: 2,0:13:01.40,0:13:04.38,Default-L2,,0,0,0,,{\fad(120,120)}Then I had to leave Maheshwari and opt for individual coaching.
@@ -450,7 +450,7 @@ Dialogue: 3,0:13:05.02,0:13:06.32,Default,,0,0,0,,{\fad(120,120)}我明白了
 Dialogue: 2,0:13:05.02,0:13:06.32,Default-L2,,0,0,0,,{\fad(120,120)}I see.
 Dialogue: 3,0:13:06.66,0:13:08.66,Default,,0,0,0,,{\fad(120,120)}这就是你不回我电话的原因，你这个无赖
 Dialogue: 2,0:13:06.66,0:13:08.66,Default-L2,,0,0,0,,{\fad(120,120)}That's why you wouldn't return my calls, you rascal.
-Dialogue: 3,0:13:11.77,0:13:13.24,Default,,0,0,0,,{\fad(120,120)}- 对不起，兄弟 - 滚犊子
+Dialogue: 3,0:13:11.77,0:13:13.24,Default,,0,0,0,,{\fad(120,120)}- 对不起，兄弟 - 滚蛋
 Dialogue: 2,0:13:11.77,0:13:13.24,Default-L2,,0,0,0,,{\fad(120,120)}- So sorry, brother. - Get lost!
 Dialogue: 3,0:13:13.97,0:13:15.91,Default,,0,0,0,,{\fad(120,120)}你要我怎么开口？
 Dialogue: 2,0:13:13.97,0:13:15.91,Default-L2,,0,0,0,,{\fad(120,120)}How could I tell you?
@@ -542,7 +542,7 @@ Dialogue: 3,0:15:33.71,0:15:37.48,Default,,0,0,0,,{\fad(120,120)}你心情怎么
 Dialogue: 2,0:15:33.71,0:15:37.48,Default-L2,,0,0,0,,{\fad(120,120)}Are you in a good spirit?
 Dialogue: 3,0:15:37.75,0:15:39.35,Default,,0,0,0,,{\fad(120,120)}可好了，放心吧
 Dialogue: 2,0:15:37.75,0:15:39.35,Default-L2,,0,0,0,,{\fad(120,120)}Yes, mummy. I am.
-Dialogue: 3,0:15:39.84,0:15:43.52,Default,,0,0,0,,{\fad(120,120)}除非我明确告诉你，否则就不要妄下结论
+Dialogue: 3,0:15:39.84,0:15:43.52,Default,,0,0,0,,{\fad(120,120)}除非我明确告诉你，否则就不要自己乱猜
 Dialogue: 2,0:15:39.84,0:15:43.52,Default-L2,,0,0,0,,{\fad(120,120)}Until I categorically tell you never assume otherwise.
 Dialogue: 3,0:15:44.56,0:15:45.61,Default,,0,0,0,,{\fad(120,120)}好吧，晚安
 Dialogue: 2,0:15:44.56,0:15:45.61,Default-L2,,0,0,0,,{\fad(120,120)}Well, goodnight.
@@ -594,7 +594,7 @@ Dialogue: 3,0:16:53.83,0:16:55.26,Default,,0,0,0,,{\fad(120,120)}打勾然后看
 Dialogue: 2,0:16:53.83,0:16:55.26,Default-L2,,0,0,0,,{\fad(120,120)}Tick it and move on.
 Dialogue: 3,0:16:55.66,0:16:56.80,Default,,0,0,0,,{\fad(120,120)}在未来的某个时刻，可能在你开心的唱歌时
 Dialogue: 2,0:16:55.66,0:16:56.80,Default-L2,,0,0,0,,{\fad(120,120)}At some point in the future whilst laughing, singing..
-Dialogue: 3,0:16:56.95,0:16:58.71,Default,,0,0,0,,{\fad(120,120)}. . 或者在上厕所时，你就会意识到 
+Dialogue: 3,0:16:56.95,0:16:58.71,Default,,0,0,0,,{\fad(120,120)}或者在上厕所时，你就会意识到 
 Dialogue: 2,0:16:56.95,0:16:58.71,Default-L2,,0,0,0,,{\fad(120,120)}..or in toilet you will realize..
 Dialogue: 3,0:16:58.94,0:17:00.66,Default,,0,0,0,,{\fad(120,120)}为什么动量是守恒的
 Dialogue: 2,0:16:58.94,0:17:00.66,Default-L2,,0,0,0,,{\fad(120,120)}..why was the momentum conserved.
@@ -608,7 +608,7 @@ Dialogue: 3,0:17:05.62,0:17:06.62,Default,,0,0,0,,{\fad(120,120)}解题的
 Dialogue: 2,0:17:05.62,0:17:06.62,Default-L2,,0,0,0,,{\fad(120,120)}Jostle with it.
 Dialogue: 3,0:17:06.70,0:17:07.82,Default,,0,0,0,,{\fad(120,120)}是的
 Dialogue: 2,0:17:06.70,0:17:07.82,Default-L2,,0,0,0,,{\fad(120,120)}Yes.
-Dialogue: 3,0:17:08.36,0:17:10.20,Default,,0,0,0,,{\fad(120,120)}一旦你学会了解题喝转笔
+Dialogue: 3,0:17:08.36,0:17:10.20,Default,,0,0,0,,{\fad(120,120)}一旦你学会了解题和转笔
 Dialogue: 2,0:17:08.36,0:17:10.20,Default-L2,,0,0,0,,{\fad(120,120)}Once you have learned to jostle with questions and twirl the pen...
 Dialogue: 3,0:17:10.28,0:17:11.58,Default,,0,0,0,,{\fad(120,120)}你就已经是半个理工学院人了
 Dialogue: 2,0:17:10.28,0:17:11.58,Default-L2,,0,0,0,,{\fad(120,120)}..you are already half an IITian.
@@ -648,7 +648,7 @@ Dialogue: 3,0:18:05.49,0:18:07.32,Default,,0,0,0,,{\fad(120,120)}所以错过了
 Dialogue: 2,0:18:05.49,0:18:07.32,Default-L2,,0,0,0,,{\fad(120,120)}So he missed the orientation.
 Dialogue: 3,0:18:07.65,0:18:11.02,Default,,0,0,0,,{\fad(120,120)}他不知道在科塔生活的两个重要概念
 Dialogue: 2,0:18:07.65,0:18:11.02,Default-L2,,0,0,0,,{\fad(120,120)}He does not know the two important concepts of living in Kota.
-Dialogue: 3,0:18:11.10,0:18:11.86,Default,,0,0,0,,{\fad(120,120)}告诉他，米纳尔
+Dialogue: 3,0:18:11.10,0:18:11.86,Default,,0,0,0,,{\fad(120,120)}告诉他，米娜尔
 Dialogue: 2,0:18:11.10,0:18:11.86,Default-L2,,0,0,0,,{\fad(120,120)}Tell him, Meenal.
 Dialogue: 3,0:18:12.00,0:18:12.79,Default,,0,0,0,,{\fad(120,120)}两个什么概念？
 Dialogue: 2,0:18:12.00,0:18:12.79,Default-L2,,0,0,0,,{\fad(120,120)}What are they?
@@ -678,7 +678,7 @@ Dialogue: 3,0:18:47.33,0:18:48.59,Default,,0,0,0,,{\fad(120,120)}你忘了第二
 Dialogue: 2,0:18:47.33,0:18:48.59,Default-L2,,0,0,0,,{\fad(120,120)}You forgot the second?
 Dialogue: 3,0:18:48.87,0:18:50.05,Default,,0,0,0,,{\fad(120,120)}是的
 Dialogue: 2,0:18:48.87,0:18:50.05,Default-L2,,0,0,0,,{\fad(120,120)}Yes.
-Dialogue: 3,0:18:51.29,0:18:52.87,Default,,0,0,0,,{\fad(120,120)}每个孩子都是特别的
+Dialogue: 3,0:18:51.29,0:18:52.87,Default,,0,0,0,,{\fad(120,120)}"每个孩子都是特别的"
 Dialogue: 2,0:18:51.29,0:18:52.87,Default-L2,,0,0,0,,{\fad(120,120)}Every child is special.
 Dialogue: 3,0:18:53.59,0:18:54.99,Default,,0,0,0,,{\fad(120,120)}这完全是胡说八道
 Dialogue: 2,0:18:53.59,0:18:54.99,Default-L2,,0,0,0,,{\fad(120,120)}That is utter nonsense.
@@ -750,7 +750,7 @@ Dialogue: 3,0:20:02.42,0:20:05.85,Default,,0,0,0,,{\fad(120,120)}如果你向全
 Dialogue: 2,0:20:02.42,0:20:05.85,Default-L2,,0,0,0,,{\fad(120,120)}If you brag about it to the world then the world won't let you smoke.
 Dialogue: 3,0:20:06.47,0:20:09.12,Default,,0,0,0,,{\fad(120,120)}刚开始戒烟的时候我很难受，很想抽烟
 Dialogue: 2,0:20:06.47,0:20:09.12,Default-L2,,0,0,0,,{\fad(120,120)}I felt a little urge in the beginning and then some more.
-Dialogue: 3,0:20:10.01,0:20:11.32,Default,,0,0,0,,{\fad(120,120)}但是过了21天，这种欲望变成了零
+Dialogue: 3,0:20:10.01,0:20:11.32,Default,,0,0,0,,{\fad(120,120)}但是过了21天，这种欲望就没有了
 Dialogue: 2,0:20:10.01,0:20:11.32,Default-L2,,0,0,0,,{\fad(120,120)}By the time 21 days had passed the urge was zero.
 Dialogue: 3,0:20:11.90,0:20:12.82,Default,,0,0,0,,{\fad(120,120)}这就是你必须做的
 Dialogue: 2,0:20:11.90,0:20:12.82,Default-L2,,0,0,0,,{\fad(120,120)}That's what you have to do.
@@ -760,11 +760,11 @@ Dialogue: 3,0:20:17.14,0:20:18.26,Default,,0,0,0,,{\fad(120,120)}是的，拜亚
 Dialogue: 2,0:20:17.14,0:20:18.26,Default-L2,,0,0,0,,{\fad(120,120)}Yes, Bhaiya.
 Dialogue: 3,0:20:20.96,0:20:22.44,Default,,0,0,0,,{\fad(120,120)}乌代是个讨厌的家伙
 Dialogue: 2,0:20:20.96,0:20:22.44,Default-L2,,0,0,0,,{\fad(120,120)}Uday is a nasty fella..
-Dialogue: 3,0:20:23.28,0:20:25.33,Default,,0,0,0,,{\fad(120,120)}但是米娜，你明知道你的朋友会这样
+Dialogue: 3,0:20:23.28,0:20:25.33,Default,,0,0,0,,{\fad(120,120)}但是米纳，你明知道你的朋友会这样
 Dialogue: 2,0:20:23.28,0:20:25.33,Default-L2,,0,0,0,,{\fad(120,120)}..but Meena, you knew this was happening with your friend..
 Dialogue: 3,0:20:25.91,0:20:27.24,Default,,0,0,0,,{\fad(120,120)}但你还是没告诉他？
 Dialogue: 2,0:20:25.91,0:20:27.24,Default-L2,,0,0,0,,{\fad(120,120)}..and still didn't tell him?
-Dialogue: 3,0:20:27.89,0:20:29.23,Default,,0,0,0,,{\fad(120,120)}拜亚哥，我..
+Dialogue: 3,0:20:27.89,0:20:29.23,Default,,0,0,0,,{\fad(120,120)}拜亚哥，我……
 Dialogue: 2,0:20:27.89,0:20:29.23,Default-L2,,0,0,0,,{\fad(120,120)}Bhaiya, I..
 Dialogue: 3,0:20:29.70,0:20:30.95,Default,,0,0,0,,{\fad(120,120)}你也一样，布鲁图斯
 Dialogue: 2,0:20:29.70,0:20:30.95,Default-L2,,0,0,0,,{\fad(120,120)}You too, Brutus.
@@ -772,7 +772,7 @@ Dialogue: 3,0:20:31.67,0:20:32.95,Default,,0,0,0,,{\fad(120,120)}你也一样
 Dialogue: 2,0:20:31.67,0:20:32.95,Default-L2,,0,0,0,,{\fad(120,120)}You too.
 Dialogue: 3,0:20:35.77,0:20:36.56,Default,,0,0,0,,{\fad(120,120)}你注意到了吗？
 Dialogue: 2,0:20:35.77,0:20:36.56,Default-L2,,0,0,0,,{\fad(120,120)}Did you notice?
-Dialogue: 3,0:20:36.64,0:20:38.63,Default,,0,0,0,,{\fad(120,120)}拜亚哥叫我布鲁图斯，‘布鲁图斯·米娜’
+Dialogue: 3,0:20:36.64,0:20:38.63,Default,,0,0,0,,{\fad(120,120)}拜亚哥叫我布鲁图斯，‘布鲁图斯·米纳’
 Dialogue: 2,0:20:36.64,0:20:38.63,Default-L2,,0,0,0,,{\fad(120,120)}Bhaiya called me Brutus. 'Brutus Meena'
 Dialogue: 3,0:20:41.07,0:20:43.67,Default,,0,0,0,,{\fad(120,120)}干嘛? 你没有一点幽默感吗？
 Dialogue: 2,0:20:41.07,0:20:43.67,Default-L2,,0,0,0,,{\fad(120,120)}What? Don't you have any sense of humour?
@@ -894,7 +894,7 @@ Dialogue: 3,0:24:23.01,0:24:23.74,Default,,0,0,0,,{\fad(120,120)}房东阿姨
 Dialogue: 2,0:24:23.01,0:24:23.74,Default-L2,,0,0,0,,{\fad(120,120)}Aunty.
 Dialogue: 3,0:24:23.86,0:24:25.50,Default,,0,0,0,,{\fad(120,120)}她走下楼梯时摔倒了
 Dialogue: 2,0:24:23.86,0:24:25.50,Default-L2,,0,0,0,,{\fad(120,120)}She was walking down the stairs and fell.
-Dialogue: 3,0:24:25.58,0:24:26.83,Default,,0,0,0,,{\fad(120,120)}她口吐白沫
+Dialogue: 3,0:24:25.58,0:24:26.83,Default,,0,0,0,,{\fad(120,120)}口吐白沫
 Dialogue: 2,0:24:25.58,0:24:26.83,Default-L2,,0,0,0,,{\fad(120,120)}She is frothing in the mouth.
 Dialogue: 3,0:24:26.96,0:24:27.70,Default,,0,0,0,,{\fad(120,120)}你好，我需要救护车
 Dialogue: 2,0:24:26.96,0:24:27.70,Default-L2,,0,0,0,,{\fad(120,120)}Hello. Ambulance.
@@ -904,7 +904,7 @@ Dialogue: 3,0:24:29.34,0:24:30.86,Default,,0,0,0,,{\fad(120,120)}什么? 泡沫?
 Dialogue: 2,0:24:29.34,0:24:30.86,Default-L2,,0,0,0,,{\fad(120,120)}What? Froth? Where?
 Dialogue: 3,0:24:32.78,0:24:33.78,Default,,0,0,0,,{\fad(120,120)}这就起来了？
 Dialogue: 2,0:24:32.78,0:24:33.78,Default-L2,,0,0,0,,{\fad(120,120)}You got up?
-Dialogue: 3,0:24:33.94,0:24:35.53,Default,,0,0,0,,{\fad(120,120)}为了那个二流女人？
+Dialogue: 3,0:24:33.94,0:24:35.53,Default,,0,0,0,,{\fad(120,120)}为了那个老巫婆？
 Dialogue: 2,0:24:33.94,0:24:35.53,Default-L2,,0,0,0,,{\fad(120,120)}For that two-bit woman?
 Dialogue: 3,0:24:35.74,0:24:37.17,Default,,0,0,0,,{\fad(120,120)}你只是想找个理由站起来
 Dialogue: 2,0:24:35.74,0:24:37.17,Default-L2,,0,0,0,,{\fad(120,120)}You just want an excuse.
@@ -916,13 +916,13 @@ Dialogue: 3,0:24:42.84,0:24:44.54,Default,,0,0,0,,{\fad(120,120)}把赌注里的
 Dialogue: 2,0:24:42.84,0:24:44.54,Default-L2,,0,0,0,,{\fad(120,120)}Give me my 100 rupees from the bet.
 Dialogue: 3,0:24:45.76,0:24:46.62,Default,,0,0,0,,{\fad(120,120)}工程师
 Dialogue: 2,0:24:45.76,0:24:46.62,Default-L2,,0,0,0,,{\fad(120,120)}Engineer.
-Dialogue: 3,0:24:46.79,0:24:48.41,Default,,0,0,0,,{\fad(120,120)}大自然完成了一半的工作
+Dialogue: 3,0:24:46.79,0:24:48.41,Default,,0,0,0,,{\fad(120,120)}大自然已经完成了一半的工作
 Dialogue: 2,0:24:46.79,0:24:48.41,Default-L2,,0,0,0,,{\fad(120,120)}Nature has done half the job.
 Dialogue: 3,0:24:48.52,0:24:49.36,Default,,0,0,0,,{\fad(120,120)}水含有盐分
 Dialogue: 2,0:24:48.52,0:24:49.36,Default-L2,,0,0,0,,{\fad(120,120)}Water contains salt.
 Dialogue: 3,0:24:49.44,0:24:50.74,Default,,0,0,0,,{\fad(120,120)}只要加盐和柠檬就行了
 Dialogue: 2,0:24:49.44,0:24:50.74,Default-L2,,0,0,0,,{\fad(120,120)}Just add salt and lemon to it.
-Dialogue: 3,0:24:50.82,0:24:51.71,Default,,0,0,0,,{\fad(120,120)}柠檬水就做好了
+Dialogue: 3,0:24:50.82,0:24:51.71,Default,,0,0,0,,{\fad(120,120)}这样柠檬水就做好了
 Dialogue: 2,0:24:50.82,0:24:51.71,Default-L2,,0,0,0,,{\fad(120,120)}Lemonade is ready.
 Dialogue: 3,0:24:52.86,0:24:56.13,Default,,0,0,0,,{\fad(120,120)}这个小知识每年拯救一千万儿童的生命
 Dialogue: 2,0:24:52.86,0:24:56.13,Default-L2,,0,0,0,,{\fad(120,120)}This small tip saves ten million children's lives every year.
@@ -934,7 +934,7 @@ Dialogue: 3,0:24:58.82,0:24:59.86,Default,,0,0,0,,{\fad(120,120)}现在去拿两
 Dialogue: 2,0:24:58.82,0:24:59.86,Default-L2,,0,0,0,,{\fad(120,120)}Go and prepare two glasses now.
 Dialogue: 3,0:25:00.13,0:25:01.18,Default,,0,0,0,,{\fad(120,120)}三个
 Dialogue: 2,0:25:00.13,0:25:01.18,Default-L2,,0,0,0,,{\fad(120,120)}Three.
-Dialogue: 3,0:25:01.98,0:25:06.89,Default,,0,0,0,,{\fad(120,120)}妈妈，乌代的女朋友没有你叫我的次数多
+Dialogue: 3,0:25:01.98,0:25:06.89,Default,,0,0,0,,{\fad(120,120)}妈妈，乌代的女朋友给乌代打电话的次数，远没有你给我打电话的次数多
 Dialogue: 2,0:25:01.98,0:25:06.89,Default-L2,,0,0,0,,{\fad(120,120)}Mummy, Uday's girlfriend does not call him as many times as you call me.
 Dialogue: 3,0:25:08.19,0:25:09.64,Default,,0,0,0,,{\fad(120,120)}走! 走! 走! 快点！
 Dialogue: 2,0:25:08.19,0:25:09.64,Default-L2,,0,0,0,,{\fad(120,120)}Go! Go! Go! Come on!
@@ -952,7 +952,7 @@ Dialogue: 3,0:25:21.84,0:25:23.89,Default,,0,0,0,,{\fad(120,120)}要是他们能
 Dialogue: 2,0:25:21.84,0:25:23.89,Default-L2,,0,0,0,,{\fad(120,120)}If only they would take Yuvraj to play.
 Dialogue: 3,0:25:24.46,0:25:25.43,Default,,0,0,0,,{\fad(120,120)}那就大错特错了
 Dialogue: 2,0:25:24.46,0:25:25.43,Default-L2,,0,0,0,,{\fad(120,120)}It's very wrong of them.
-Dialogue: 3,0:25:25.58,0:25:27.94,Default,,0,0,0,,{\fad(120,120)}你说得对，兄弟，这都是政治手腕
+Dialogue: 3,0:25:25.58,0:25:27.94,Default,,0,0,0,,{\fad(120,120)}你说得对，兄弟，这都是政治手段
 Dialogue: 2,0:25:25.58,0:25:27.94,Default-L2,,0,0,0,,{\fad(120,120)}You are correct, bro. It's all politics.
 Dialogue: 3,0:25:28.34,0:25:31.73,Default,,0,0,0,,{\fad(120,120)}兄弟，尤维可以，绝对行
 Dialogue: 2,0:25:28.34,0:25:31.73,Default-L2,,0,0,0,,{\fad(120,120)}Bro, Yuvi can and Yuvi will.
@@ -1052,7 +1052,7 @@ Dialogue: 3,0:27:59.52,0:28:00.30,Default,,0,0,0,,{\fad(120,120)}大自然的召
 Dialogue: 2,0:27:59.52,0:28:00.30,Default-L2,,0,0,0,,{\fad(120,120)}Nature's call?
 Dialogue: 3,0:28:00.38,0:28:01.41,Default,,0,0,0,,{\fad(120,120)}是的
 Dialogue: 2,0:28:00.38,0:28:01.41,Default-L2,,0,0,0,,{\fad(120,120)}Yes.
-Dialogue: 3,0:28:05.58,0:28:06.56,Default,,0,0,0,,{\fad(120,120)}米娜
+Dialogue: 3,0:28:05.58,0:28:06.56,Default,,0,0,0,,{\fad(120,120)}米纳
 Dialogue: 2,0:28:05.58,0:28:06.56,Default-L2,,0,0,0,,{\fad(120,120)}Meena.
 Dialogue: 3,0:28:06.95,0:28:07.97,Default,,0,0,0,,{\fad(120,120)}来吧
 Dialogue: 2,0:28:06.95,0:28:07.97,Default-L2,,0,0,0,,{\fad(120,120)}Come.

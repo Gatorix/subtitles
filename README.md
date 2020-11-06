@@ -24,11 +24,13 @@
   + [生肉下载（百度云）](https://pan.baidu.com/s/1IN16hjwpVmdqmit4peG5FQ)  r8r8
   + [熟肉下载](https://pan.baidu.com/s/1xqdF4UU5uzxHp5zyVRFBgg)  49l8
   + [字幕下载](http://subhd.la/a/507567)
-  + 
+  
 + [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)：
-  + [生肉下载（百度云）](https://pan.baidu.com/s/1IN16hjwpVmdqmit4peG5FQ)  r8r8
-  + [熟肉下载](https://pan.baidu.com/s/1xqdF4UU5uzxHp5zyVRFBgg)  49l8
-  + [字幕下载](http://subhd.la/a/507567)
+  + [生肉下载（百度云）](https://pan.baidu.com/s/1f3QwLn-40GGg5FgtGOJqYw)  4p09
+  + [生肉下载（115）](https://115.com/s/sw3x55u3w7m?password=j913&#) 
+  + [熟肉下载](https://pan.baidu.com/s/1xqdF4UU5uzxHp5zyVRFBgg)  压制中
+  + [字幕下载](https://subhd.tv/a/511086)
+  
 ## 联系方式
 + 邮箱：gatorix@outlook.com
 + 公众号：gatorix2020（整点没有用的）
