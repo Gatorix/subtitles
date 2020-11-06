@@ -2,10 +2,9 @@
 
 ## 项目简介
 
-+ 此项目专做IMDB评分较高的非英语剧集中文字幕，**IMDB剧情类榜单中，只要是没有中文字幕的都会做。**
-+ 如果你在观看过程中发现翻译错误或字幕样式有问题，烦请提交Issue。
+此项目专做IMDB评分较高的非英语剧集中文字幕，**IMDB”评分最高电视剧集“榜单中，只要是没有中文字幕的，我都会做。** 如果你在观看过程中发现翻译错误或字幕样式有问题，烦请提交Issue。
   
-+ 在做字幕的同时也写了一些和字幕相关的小工具——[tranSub](https://github.com/Gatorix/tranSub)，目前已有的功能主要有：
++ 在做字幕的同时写了一些和字幕相关的小工具——[tranSub](https://github.com/Gatorix/tranSub)，目前已有的功能主要有：
   + srt、ass格式互转
   + 提取字幕文件中的纯文本（单独提取中文或英文）
   + 拆分双语字幕（开发中）
@@ -29,7 +28,7 @@
   + [生肉下载（百度云）](https://pan.baidu.com/s/1f3QwLn-40GGg5FgtGOJqYw)  4p09
   + [生肉下载（115）](https://115.com/s/sw3x55u3w7m?password=j913&#)
   + [熟肉下载（百度云）](https://pan.baidu.com/s/1zmEFTetvYXyC8MwdGDJk3Q)  e8n4
-  + [熟肉下载（115）](https://pan.baidu.com/s/1xqdF4UU5uzxHp5zyVRFBgg)  压制中
+  + [熟肉下载（115）](https://115.com/s/sw3xvzs3w7m?password=x201&#)  
   + [字幕下载](https://subhd.tv/a/511086)
   
 ### 计划
@@ -57,7 +56,7 @@
   
 ## 致谢
 
-感谢[Community-137](https://github.com/Community-137)对此项目的大力支持，此外，所有对此项目提供帮助的人都会在此列出：
+所有对此项目提供帮助的人都会在此列出：
 
 + 「TVF Pitchers」[Community-137](https://github.com/Community-137) 修正字幕重叠问题、提供高清片源
 
