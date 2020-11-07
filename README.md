@@ -14,21 +14,15 @@
 ### 已完成
 
 + [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
-  + [生肉下载（百度云）](https://pan.baidu.com/s/1pYt28Lfisk_TLSw_Mow44A)  uaf0
-  + [生肉下载（Google Drive）](https://drive.google.com/drive/folders/1qLnXOhKIunJaOyG4pQaBL0eLK3aWwJ84)
-  + [熟肉下载](https://pan.baidu.com/s/1TRRtt3KCvDXFASHpKZelaw)  ul55
+
   + [字幕下载](https://subhd.tv/ar0/497317)
 
 + [TVF Pitcher](https://www.imdb.com/title/tt4742876/)：
-  + [生肉下载（百度云）](https://pan.baidu.com/s/1IN16hjwpVmdqmit4peG5FQ)  r8r8
-  + [熟肉下载](https://pan.baidu.com/s/1xqdF4UU5uzxHp5zyVRFBgg)  49l8
+
   + [字幕下载](http://subhd.la/a/507567)
   
 + [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)：
-  + [生肉下载（百度云）](https://pan.baidu.com/s/1f3QwLn-40GGg5FgtGOJqYw)  4p09
-  + [生肉下载（115）](https://115.com/s/sw3x55u3w7m?password=j913&#)
-  + [熟肉下载（百度云）](https://pan.baidu.com/s/1zmEFTetvYXyC8MwdGDJk3Q)  e8n4
-  + [熟肉下载（115）](https://115.com/s/sw3xvzs3w7m?password=x201&#)  
+
   + [字幕下载](https://subhd.tv/a/511086)
   
 ### 计划
