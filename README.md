@@ -52,9 +52,7 @@
 
 所有对此项目提供帮助的人都会在此列出：
 
-+ 「TVF Pitchers」[Community-137](https://github.com/Community-137) 修正字幕重叠问题、提供高清片源
-
-+ 「TVF Kota Factory」[Community-137](https://github.com/Community-137) 提供高清片源
++ 「TVF Pitchers」[Community-137](https://github.com/Community-137) 修正字幕重叠问题
 
 + 还有你
   
