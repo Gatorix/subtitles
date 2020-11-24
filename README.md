@@ -13,6 +13,8 @@
 
 ### 已完成
 
++ 以下下载链接为上传subhd的最初版本，如需最新版本请直接点击上方的绿色code按钮，选择download zip进行下载
+
 + [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
 
   + [字幕下载](https://subhd.tv/ar0/497317)
@@ -27,14 +29,11 @@
   
 ### 计划
 
-+ 排查[TVF Pitcher](https://www.imdb.com/title/tt4742876/)翻译错误和格式错误
-  + 2020年11月底
-
-+ 重制[Şahsiyet](https://www.imdb.com/title/tt7920978/)
-  + 2020年12月底
++ 排查[Şahsiyet](https://www.imdb.com/title/tt7920978/)翻译错误和格式错误
+  + 2020年12月初
 
 + [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)：
-  + 2021年2月
+  + 2020年结束前
   
 + [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
   + 2021年
