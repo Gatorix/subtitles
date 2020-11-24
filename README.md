@@ -9,11 +9,13 @@
   + 提取字幕文件中的纯文本（单独提取中文或英文）
   + 根据arctime生成的双语ass字幕输出多版本字幕，包括简/繁体srt、简/繁体ass、简/繁双语srt、简/繁双语ass、英语srt（开发中）
 
++ 这里还有一个有趣的项目——[strange_knowladge](https://github.com/Gatorix/strange_knowladge)，这是在公众号发布的一些奇怪的知识，目前已整理一些常用的Excel函数用法，欢迎关注。
+
 ## 剧集目录
 
 ### 已完成
 
-+ 以下下载链接为上传subhd的最初版本，如需最新版本请直接点击上方的绿色code按钮，选择download zip进行下载
++ 以下下载链接为上传Subhd的最初版本，如需最新版本请直接点击上方的绿色code按钮，选择Download ZIP进行下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取
 
 + [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
 
@@ -51,7 +53,7 @@
 
 所有对此项目提供帮助的人都会在此列出：
 
-+ 「TVF Pitchers」[Community-137](https://github.com/Community-137) 修正字幕重叠问题
++ 「TVF Pitchers」[fjn308](https://github.com/fjn308) 修正字幕重叠问题
 
 + 还有你
   
