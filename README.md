@@ -17,11 +17,11 @@
 
 + 下载字幕请直接点击上方的绿色code按钮，选择Download ZIP进行下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
 
-+ [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
++ [Şahsiyet](https://www.imdb.com/title/tt7920978/)
 
-+ [TVF Pitcher](https://www.imdb.com/title/tt4742876/)：
++ [TVF Pitcher](https://www.imdb.com/title/tt4742876/)
   
-+ [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)：
++ [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)
   
 ### 计划
 
