@@ -15,19 +15,13 @@
 
 ### 已完成
 
-+ 以下下载链接为上传Subhd的最初版本，如需最新版本请直接点击上方的绿色code按钮，选择Download ZIP进行下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
++ 下载字幕请直接点击上方的绿色code按钮，选择Download ZIP进行下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
 
 + [Şahsiyet](https://www.imdb.com/title/tt7920978/)：
 
-  + [字幕下载](https://subhd.tv/ar0/497317)
-
 + [TVF Pitcher](https://www.imdb.com/title/tt4742876/)：
-
-  + [字幕下载](http://subhd.la/a/507567)
   
 + [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)：
-
-  + [字幕下载](https://subhd.tv/a/511086)
   
 ### 计划
 
