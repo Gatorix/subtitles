@@ -11,9 +11,9 @@
 
 + 这里还有一个有趣的项目——[strange_knowladge](https://github.com/Gatorix/strange_knowladge)，这是在公众号发布的一些奇怪的知识，目前已整理一些常用的Excel函数用法，欢迎关注。
 
-## 下载
+## 下载字幕
 
-+ 请直接点击上方的绿色code按钮，选择Download ZIP进行下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
++ 请直接点击上方的绿色Code按钮，选择Download ZIP进行下载，也可以直接点[这里](https://github.com/Community-137/Rick-and-Morty-Chinese-Subtitles/archive/master.zip)下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
 
 ## 剧集目录
 
