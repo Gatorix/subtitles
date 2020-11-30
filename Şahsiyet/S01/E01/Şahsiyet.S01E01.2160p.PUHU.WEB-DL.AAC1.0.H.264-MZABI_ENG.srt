@@ -1,4 +1,4 @@
-1
+﻿1
 00:03:59,680 --> 00:04:01,360
 LAWS OF REPUBLIC OF TURKEY
 
@@ -44,7 +44,7 @@ Munir!
 Where are you, sir?
 
 12
-00:09:20,200 --> 00:09:21,200
+00:09:20,200 --> 00:09:21,120
 Munir?
 
 13
@@ -53,13 +53,13 @@ Have you gone to
 a vacation or something?
 
 14
-00:10:06,640 --> 00:10:07,640
+00:10:06,640 --> 00:10:07,560
 No.
 
 15
 00:10:08,440 --> 00:10:11,120
-- So Munir has never been alone?
-- No.
+-So Munir has never been alone?
+-No.
 
 16
 00:10:11,920 --> 00:10:13,680
@@ -72,8 +72,8 @@ you gave me for his...
 
 18
 00:10:20,000 --> 00:10:22,440
-- Acute kidney failure.
-- Yes.
+-Acute kidney failure.
+-Yes.
 
 19
 00:10:23,560 --> 00:10:25,040
@@ -89,7 +89,7 @@ Not just that.
 The cat has also been dehydrated.
 
 22
-00:10:32,680 --> 00:10:33,680
+00:10:32,680 --> 00:10:33,600
 How?
 
 23
@@ -122,64 +122,64 @@ about coming here, do you know?
 
 29
 00:12:06,040 --> 00:12:08,360
-<i>She literally came
-here out of nowhere</i>.
+<i>She literally came</i>
+<i>here out of nowhere.</i>
 
 30
 00:12:08,440 --> 00:12:10,600
-<i>Do you know why?
-Because she is a woman</i>.
+<i>Do you know why?</i>
+<i>Because she is a woman.</i>
 
 31
 00:12:11,080 --> 00:12:12,760
-<i>They called it positive discrimination</i>.
+<i>They called it positive discrimination.</i>
 
 32
 00:12:12,840 --> 00:12:16,120
-<i>What part of this is positive?
-There are many strong men out there</i>.
+<i>What part of this is positive?</i>
+<i>There are many strong men out there.</i>
 
 33
 00:12:18,480 --> 00:12:21,920
-<i>But for them it's necessary to put
-Nevra into the spotlight</i>.
+<i>But for them it's necessary to put</i>
+<i>Nevra into the spotlight.</i>
 
 34
 00:12:22,000 --> 00:12:23,240
-<i>Nevra, Nevra</i>.
+<i>Nevra, Nevra.</i>
 
 35
 00:12:25,240 --> 00:12:29,200
-<i>Fuck that thing
-called 'human resources'</i>.
+<i>Fuck that thing</i>
+<i>called 'human resources'.</i>
 
 36
 00:12:41,520 --> 00:12:45,720
-<i>What does it have to do with that?
-Let's say you're out there with Nevra</i>.
+<i>What does it have to do with that?</i>
+<i>Let's say you're out there with Nevra.</i>
 
 37
 00:12:47,520 --> 00:12:50,480
-<i>Would you trust Nevra?
-Could you trust her</i>?
+<i>Would you trust Nevra?</i>
+<i>Could you trust her?</i>
 
 38
 00:12:54,000 --> 00:12:57,040
-<i>I would trust more
-if it was a man holding the gun</i>.
+<i>I would trust more</i>
+<i>if it was a man holding the gun.</i>
 
 39
 00:12:57,760 --> 00:13:01,440
-<i>- At least it would be clear what he'd do.
-- See</i>.
+<i>-At least it would be clear what he'd do.</i>
+<i>-See.</i>
 
 40
 00:13:06,280 --> 00:13:07,960
-<i>She can get the fuck out of here</i>.
+<i>She can get the fuck out of here.</i>
 
 41
 00:13:09,720 --> 00:13:11,600
-<i>But she shouldn't go without a fuck</i>.
+<i>But she shouldn't go without a fuck.</i>
 
 42
 00:13:14,040 --> 00:13:17,120
@@ -195,11 +195,11 @@ an appointment for next week, please?
 Agah Beyoglu.
 
 45
-00:13:24,880 --> 00:13:25,880
+00:13:24,880 --> 00:13:25,800
 Thanks.
 
 46
-00:13:26,840 --> 00:13:27,840
+00:13:26,840 --> 00:13:27,760
 Now...
 
 47
@@ -242,11 +242,11 @@ She may even call me,
 I would like to talk to her.
 
 56
-00:13:51,560 --> 00:13:52,560
+00:13:51,560 --> 00:13:52,440
 Are we clear?
 
 57
-00:13:54,760 --> 00:13:55,760
+00:13:54,760 --> 00:13:55,680
 Yes.
 
 58
@@ -264,11 +264,11 @@ I knew a guy named Necmi.
 
 61
 00:14:36,640 --> 00:14:39,320
-- They said he had cancer but then...
-- I know.
+-They said he had cancer but then...
+-I know.
 
 62
-00:14:39,400 --> 00:14:40,400
+00:14:39,400 --> 00:14:40,280
 I know.
 
 63
@@ -290,15 +290,15 @@ in this diagnosis, Agah.
 
 67
 00:14:54,200 --> 00:14:56,240
-You have early stage Alzheimer's.
+You have early stage Alzheimer’s.
 
 68
 00:15:03,040 --> 00:15:04,120
-<i>Yes, Dad</i>?
+<i>Yes, Dad?</i>
 
 69
 00:15:04,720 --> 00:15:05,880
-<i>Honey</i>.
+<i>Honey.</i>
 
 70
 00:15:05,960 --> 00:15:08,320
@@ -307,8 +307,8 @@ I can't bear this anymore.
 
 71
 00:15:08,400 --> 00:15:10,880
-<i>What happened?
-I'll call the Chief Inspector</i>.
+<i>What happened?</i>
+<i>I'll call the Chief Inspector.</i>
 
 72
 00:15:10,960 --> 00:15:15,680
@@ -317,7 +317,7 @@ I don't want you to call anyone.
 
 73
 00:15:16,320 --> 00:15:18,120
-<i>Then why did you call me</i>?
+<i>Then why did you call me?</i>
 
 74
 00:15:20,480 --> 00:15:21,560
@@ -325,7 +325,7 @@ Daughter?
 
 75
 00:15:23,480 --> 00:15:24,520
-<i>Dau..</i>.
+<i>Dau...</i>
 
 76
 00:15:33,640 --> 00:15:35,520
@@ -369,7 +369,7 @@ Back then we couldn't save the
 numbers so I memorized them.
 
 85
-00:16:01,080 --> 00:16:02,080
+00:16:01,080 --> 00:16:02,040
 Agah.
 
 86
@@ -448,7 +448,7 @@ will be erased, they will go away.
 What will happen to me?
 
 103
-00:17:16,600 --> 00:17:17,600
+00:17:16,600 --> 00:17:17,520
 I mean...
 
 104
@@ -486,8 +486,8 @@ say something, please.
 
 112
 00:18:01,840 --> 00:18:05,360
-- What should I say? Hi.
-- You can count the days of the week.
+-What should I say? Hi.
+-You can count the days of the week.
 
 113
 00:18:06,720 --> 00:18:09,240
@@ -515,7 +515,7 @@ Let's get started.
 
 119
 00:18:40,440 --> 00:18:42,120
-<i>I'll start with a basic question</i>.
+<i>I'll start with a basic question.</i>
 
 120
 00:18:42,680 --> 00:18:45,600
@@ -571,8 +571,8 @@ to be worthy of their support.
 
 131
 00:20:03,960 --> 00:20:08,200
-- You studied public administration, right?
-- Yes.
+-You studied public administration, right?
+-Yes.
 
 132
 00:20:08,280 --> 00:20:11,200
@@ -668,10 +668,10 @@ That's my purpose...
 
 152
 00:21:18,480 --> 00:21:19,760
-<i>To become a good person..</i>.
+<i>To become a good person...</i>
 
 153
-00:21:40,320 --> 00:21:41,320
+00:21:40,320 --> 00:21:41,280
 Deva!
 
 154
@@ -685,8 +685,8 @@ Deva, answer me!
 
 156
 00:21:52,720 --> 00:21:55,840
-- Yes?
-- Zuhal, hello my dear.
+-Yes?
+-Zuhal, hello my dear.
 
 157
 00:21:57,480 --> 00:21:58,560
@@ -709,20 +709,20 @@ Where are you going?
 Come with me then.
 
 162
-00:22:10,800 --> 00:22:11,800
-<i>You're not going</i>!
+00:22:10,800 --> 00:22:11,720
+<i>You're not going!</i>
 
 163
 00:22:12,320 --> 00:22:14,240
-<i>Deva, I'll fuck you up</i>!
+<i>Deva, I’ll fuck you up!</i>
 
 164
 00:22:15,680 --> 00:22:16,760
 Deva!
 
 165
-00:22:22,800 --> 00:22:23,800
-<i>Yes</i>?
+00:22:22,800 --> 00:22:23,680
+<i>Yes?</i>
 
 166
 00:22:24,240 --> 00:22:28,080
@@ -745,12 +745,12 @@ the last time you called.
 
 170
 00:22:40,400 --> 00:22:42,000
-I'm the one who always calls.
+I’m the one who always calls.
 
 171
 00:22:45,120 --> 00:22:48,360
-- How is Deva?
-- Deva is making me crazy!
+-How is Deva?
+-Deva is making me crazy!
 
 172
 00:22:49,000 --> 00:22:52,240
@@ -768,12 +768,12 @@ I did, thank you.
 
 175
 00:22:59,200 --> 00:23:02,120
-<i>But don't take them in high doses,
-they may cause diabetes</i>.
+<i>But don't take them in high doses,</i>
+<i>they may cause diabetes.</i>
 
 176
-00:23:02,200 --> 00:23:03,200
-<i>You take one</i>.
+00:23:02,200 --> 00:23:03,080
+<i>You take one.</i>
 
 177
 00:23:04,640 --> 00:23:06,840
@@ -794,7 +794,7 @@ three months. Don't ignore it.
 You didn't listen either.
 
 181
-00:23:18,600 --> 00:23:19,600
+00:23:18,600 --> 00:23:19,480
 What?
 
 182
@@ -826,11 +826,11 @@ Remember that you sent me away?
 
 188
 00:23:38,360 --> 00:23:39,880
-<i>Were you with me</i>?
+<i>Were you with me?</i>
 
 189
 00:23:39,960 --> 00:23:41,200
-<i>Was my mother there</i>?
+<i>Was my mother there?</i>
 
 190
 00:23:41,680 --> 00:23:44,840
@@ -857,11 +857,11 @@ Dad, I'm getting a divorce.
 
 195
 00:24:00,480 --> 00:24:03,240
-<i>Do you have any idea about this</i>?
+<i>Do you have any idea about this?</i>
 
 196
 00:24:07,080 --> 00:24:08,880
-<i>Dad, I'm sorry</i>.
+<i>Dad, I'm sorry.</i>
 
 197
 00:24:08,960 --> 00:24:12,440
@@ -869,12 +869,12 @@ I didn't mean to. I am very upset.
 
 198
 00:24:12,520 --> 00:24:15,560
-I'm sorry, please forgive me.
+I’m sorry, please forgive me.
 
 199
 00:24:16,600 --> 00:24:18,800
-<i>Were you going to say something?
-Were you..</i>.
+<i>Were you going to say something?</i>
+<i>Were you...</i>
 
 200
 00:24:39,840 --> 00:24:42,200
@@ -890,8 +890,8 @@ Finally, one of us is famous.
 
 203
 00:24:45,800 --> 00:24:48,960
-- Don't be silly, I'm not famous.
-- Oh, wait, what was it?
+-Don't be silly, I'm not famous.
+-Oh, wait, what was it?
 
 204
 00:24:50,200 --> 00:24:51,440
@@ -908,8 +908,8 @@ To Nevra the po-po!
 
 207
 00:24:55,120 --> 00:24:57,280
-- What do you mean by po-po?
-- She said po-po.
+-What do you mean by po-po?
+-She said po-po.
 
 208
 00:24:57,360 --> 00:25:00,880
@@ -992,7 +992,7 @@ Here is my answer...
 I didn't want to.
 
 226
-00:25:53,000 --> 00:25:54,000
+00:25:53,000 --> 00:25:53,960
 I wanted to do...
 
 227
@@ -1049,8 +1049,8 @@ Agah, I'm here...
 
 240
 00:27:26,800 --> 00:27:28,960
-- Come, Agah. Come here.
-- Excuse me.
+-Come, Agah. Come here.
+-Excuse me.
 
 241
 00:27:35,280 --> 00:27:37,120
@@ -1087,7 +1087,7 @@ If you don't want to live here,
 sell your apartments
 
 249
-00:27:53,240 --> 00:27:54,240
+00:27:53,240 --> 00:27:54,200
 and move away.
 
 250
@@ -1100,13 +1100,13 @@ My last name is Beyoglu, they'll go.
 
 252
 00:27:57,240 --> 00:27:58,320
-- You will.
-- I won't.
+-You will.
+-I won't.
 
 253
 00:27:58,400 --> 00:28:00,600
-- You will brother!
-- I won't go away.
+-You will brother!
+-I won't go away.
 
 254
 00:28:03,200 --> 00:28:04,280
@@ -1155,18 +1155,18 @@ I can come and take you
 to Bosphorus in mornings.
 
 264
-00:28:34,400 --> 00:28:35,400
+00:28:34,400 --> 00:28:35,280
 Come here.
 
 265
 00:28:36,680 --> 00:28:38,680
-- Yes, sir.
-- Taste this.
+-Yes, sir.
+-Taste this.
 
 266
 00:28:38,760 --> 00:28:41,200
-- Does it taste bad?
-- Just taste it.
+-Does it taste bad?
+-Just taste it.
 
 267
 00:28:41,840 --> 00:28:44,200
@@ -1209,8 +1209,8 @@ Just go back to work. Come on.
 
 276
 00:29:03,080 --> 00:29:04,200
-- Go.
-- No!
+-Go.
+-No!
 
 277
 00:29:06,160 --> 00:29:08,960
@@ -1291,59 +1291,59 @@ Destroyed me, made me miserable.
 
 295
 00:30:26,320 --> 00:30:28,280
-<i>What am I doing here</i>?
+<i>What am I doing here?</i>
 
 296
 00:30:28,360 --> 00:30:31,200
-<i>Just hang on,
-I'll introduce you to someone</i>.
+<i>Just hang on,</i>
+<i>I'll introduce you to someone.</i>
 
 297
 00:30:31,280 --> 00:30:33,680
-<i>So is that why you brought me here</i>?
+<i>So is that why you brought me here?</i>
 
 298
 00:30:34,320 --> 00:30:35,880
-<i>Did you set a trap for me</i>?
+<i>Did you set a trap for me?</i>
 
 299
 00:30:40,760 --> 00:30:44,280
-<i>That's Nukhet. And this is my friend
-I told you about, Agah</i>.
+<i>That's Nukhet. And this is my friend</i>
+<i>I told you about, Agah.</i>
 
 300
 00:30:45,200 --> 00:30:46,560
-<i>Nukhet</i>.
+<i>Nukhet.</i>
 
 301
 00:30:48,440 --> 00:30:50,360
-<i>Hi, nice to meet you</i>.
+<i>Hi, nice to meet you.</i>
 
 302
 00:30:51,120 --> 00:30:52,520
-<i>Hello</i>.
+<i>Hello.</i>
 
 303
 00:30:52,600 --> 00:30:54,400
-<i>Nukhet has been taking tango lesson</i>s
+<i>Nukhet has been taking tango lessons</i>
 
 304
 00:30:54,480 --> 00:30:57,920
-<i>and I told her that
-there is a tango master here</i>.
+<i>and I told her that</i>
+<i>there is a tango master here.</i>
 
 305
 00:30:58,000 --> 00:30:59,080
-<i>Come on..</i>.
+<i>Come on...</i>
 
 306
 00:31:00,200 --> 00:31:03,240
-<i>You wouldn't mind
-teaching Nukhet a thing or two, right</i>?
+<i>You wouldn't mind</i>
+<i>teaching Nukhet a thing or two, right?</i>
 
 307
 00:31:03,320 --> 00:31:04,880
-<i>It would be my pleasure</i>.
+<i>It would be my pleasure.</i>
 
 308
 00:31:13,440 --> 00:31:15,680
@@ -1366,16 +1366,16 @@ I don't want to be like them.
 
 312
 00:31:25,360 --> 00:31:27,800
-<i>They will be drunk soon</i>.
+<i>They will be drunk soon.</i>
 
 313
 00:31:27,880 --> 00:31:30,080
-<i>They will embarrass themselves</i>.
+<i>They will embarrass themselves.</i>
 
 314
 00:31:30,680 --> 00:31:33,760
-<i>And they will regret everything
-when they wake up</i>.
+<i>And they will regret everything</i>
+<i>when they wake up.</i>
 
 315
 00:31:34,440 --> 00:31:37,040
@@ -1404,15 +1404,15 @@ I can do anything I want, is that so?
 
 321
 00:31:47,960 --> 00:31:49,360
-<i>Exactly</i>.
+<i>Exactly.</i>
 
 322
 00:31:51,600 --> 00:31:53,080
-<i>How nice</i>.
+<i>How nice.</i>
 
 323
 00:31:54,240 --> 00:31:57,960
-<i>I won't remember, so I can do anything</i>.
+<i>I won't remember, so I can do anything.</i>
 
 324
 00:31:59,000 --> 00:32:00,960
@@ -1432,15 +1432,15 @@ Eat one's heart out...
 
 328
 00:32:12,120 --> 00:32:13,280
-<i>Interesting sentence</i>.
+<i>Interesting sentence.</i>
 
 329
 00:32:14,760 --> 00:32:15,840
-<i>That's conscience</i>.
+<i>That's conscience.</i>
 
 330
 00:32:17,480 --> 00:32:19,440
-<i>It can eat your heart out, literally</i>.
+<i>It can eat your heart out, literally.</i>
 
 331
 00:32:40,720 --> 00:32:42,120
@@ -1475,7 +1475,7 @@ I'm not forgetting.
 One more please.
 
 339
-00:34:46,400 --> 00:34:47,400
+00:34:46,400 --> 00:34:47,360
 Agah!
 
 340
@@ -1518,60 +1518,60 @@ but there was no rape.
 
 349
 00:40:57,480 --> 00:40:58,920
-INTERROGATION CAMERA
+{\an8}INTERROGATION CAMERA
 
 350
 00:40:59,000 --> 00:41:00,640
-<i>She is not the only fish in the sea</i>.
+<i>She is not the only fish in the sea.</i>
 
 351
 00:41:01,520 --> 00:41:04,160
-<i>- All the girls love me.
-- Is that so</i>?
+<i>-All the girls love me.</i>
+<i>-Is that so?</i>
 
 352
 00:41:04,240 --> 00:41:07,440
-<i>- They melt with my one look.
-- Really</i>?
+<i>-They melt with my one look.</i>
+<i>-Really?</i>
 
 353
 00:41:08,160 --> 00:41:09,520
-<i>For example, that woman</i>.
+<i>For example, that woman.</i>
 
 354
-00:41:11,480 --> 00:41:12,480
-<i>Which woman</i>?
+00:41:11,480 --> 00:41:12,400
+<i>Which woman?</i>
 
 355
 00:41:13,040 --> 00:41:14,840
-<i>That police woman</i>.
+<i>That police woman.</i>
 
 356
 00:41:16,160 --> 00:41:18,520
-<i>- She was running after me...
-- Is that so</i>?
+<i>-She was running after me...</i>
+<i>-Is that so?</i>
 
 357
 00:41:18,600 --> 00:41:19,720
-<i>Told me to stop</i>.
+<i>Told me to stop.</i>
 
 358
 00:41:19,800 --> 00:41:22,920
-<i>She pulled her gun and I stopped</i>.
+<i>She pulled her gun and I stopped.</i>
 
 359
 00:41:24,240 --> 00:41:27,360
-<i>Then I turned and looked at her</i>.
+<i>Then I turned and looked at her.</i>
 
 360
 00:41:28,560 --> 00:41:30,360
-<i>- Do you know what happened?
-- What</i>?
+<i>-Do you know what happened?</i>
+<i>-What?</i>
 
 361
-00:41:31,240 --> 00:41:33,160
-<i>- She looked like she literally melted.
-- Really</i>?
+00:41:31,240 --> 00:41:33,120
+<i>-She looked like she literally melted.</i>
+<i>-Really?</i>
 
 362
 00:41:40,400 --> 00:41:42,760
@@ -1579,7 +1579,8 @@ So, guys...
 
 363
 00:41:42,840 --> 00:41:44,040
-TOLGA YAZGAN CHIEF INSPECTOR
+{\an8}TOLGA YAZGAN
+CHIEF INSPECTOR
 
 364
 00:41:44,120 --> 00:41:47,080
@@ -1587,15 +1588,15 @@ This incident stays in this room.
 
 365
 00:41:47,920 --> 00:41:51,120
-- Is that clear?
-- It is clear, Chief.
+-Is that clear?
+-It is clear, Chief.
 
 366
-00:41:55,360 --> 00:41:56,360
+00:41:55,360 --> 00:41:56,280
 Firuz?
 
 367
-00:41:57,680 --> 00:41:58,680
+00:41:57,680 --> 00:41:58,600
 What?
 
 368
@@ -1644,7 +1645,8 @@ CERTIFICATE
 
 378
 00:43:12,240 --> 00:43:18,520
-"Not Responsible" by Tom Jones.
+''Not Responsible''
+by Tom Jones
 
 379
 00:44:26,720 --> 00:44:29,040
@@ -1652,7 +1654,7 @@ CRIMINAL RECORDS
 
 380
 00:46:30,640 --> 00:46:32,360
-Your daughter hasn't called yet.
+Your daughter hasn’t called yet.
 
 381
 00:46:34,440 --> 00:46:36,960
@@ -1664,8 +1666,8 @@ What did she say?
 
 383
 00:46:38,880 --> 00:46:42,000
-- She'll come here soon.
-- Nice.
+-She'll come here soon.
+-Nice.
 
 384
 00:46:42,840 --> 00:46:44,360
@@ -1673,8 +1675,8 @@ Are you taking your medicines?
 
 385
 00:46:44,440 --> 00:46:46,040
-- Yes.
-- Nice.
+-Yes.
+-Nice.
 
 386
 00:46:47,000 --> 00:46:48,000
@@ -1698,8 +1700,8 @@ Something like a tantrum.
 
 391
 00:47:04,920 --> 00:47:06,480
-- Not really.
-- Nice.
+-Not really.
+-Nice.
 
 392
 00:47:07,760 --> 00:47:12,640
@@ -1743,8 +1745,8 @@ I THREW MY TV INTO THE STREET.
 
 401
 00:47:39,480 --> 00:47:41,720
-- I'm taking notes, yes.
-- Very good.
+-I'm taking notes, yes.
+-Very good.
 
 402
 00:47:42,480 --> 00:47:44,600
@@ -1765,8 +1767,8 @@ Yes, I am doing those things.
 
 406
 00:48:06,840 --> 00:48:09,080
-- I'm very active nowadays.
-- Very good.
+-I'm very active nowadays.
+-Very good.
 
 407
 00:48:09,680 --> 00:48:13,080
@@ -1782,7 +1784,7 @@ that have never worked until now.
 How will we do that?
 
 410
-00:48:23,600 --> 00:48:24,600
+00:48:23,600 --> 00:48:24,520
 For example...
 
 411
@@ -1891,8 +1893,8 @@ Are we clear?
 
 435
 00:49:37,760 --> 00:49:39,520
-- We are clear.
-- Nice.
+-We are clear.
+-Nice.
 
 436
 00:49:39,600 --> 00:49:40,840
@@ -1924,8 +1926,8 @@ Damn it.
 
 443
 00:51:33,160 --> 00:51:35,680
-- What?
-- You are a mechanic, so you should know.
+-What?
+-You are a mechanic, so you should know.
 
 444
 00:51:35,760 --> 00:51:38,160
@@ -1956,8 +1958,8 @@ our whole lives?
 
 450
 00:51:53,080 --> 00:51:56,840
-- Go away, it's so late...
-- No, I was going to say that...
+-Go away, it's so late...
+-No, I was going to say that...
 
 451
 00:51:56,920 --> 00:52:00,240
@@ -1983,10 +1985,10 @@ TO THE MINISTRY OF INTERIOR AFFAIRS
 
 456
 00:54:07,400 --> 00:54:08,400
-<i>Come in</i>!
+<i>Come in!</i>
 
 457
-00:54:26,680 --> 00:54:27,680
+00:54:26,680 --> 00:54:27,560
 What's this?
 
 458
@@ -2013,7 +2015,7 @@ You'll put it in process.
 463
 00:54:46,560 --> 00:54:50,120
 I haven't had my coffee yet.
-I'm not awake yet.
+I’m not awake yet.
 
 464
 00:54:51,520 --> 00:54:52,680
@@ -2047,8 +2049,8 @@ I'll put your paper in process. Okay?
 
 471
 00:55:14,960 --> 00:55:16,680
-- But, Chief...
-- Nevra!
+-But, Chief...
+-Nevra!
 
 472
 00:55:31,680 --> 00:55:36,040
@@ -2087,7 +2089,7 @@ and I needed someone crazy here.
 Go home and think.
 
 480
-00:56:37,880 --> 00:56:38,880
+00:56:37,880 --> 00:56:38,760
 Yes?
 
 481
@@ -2104,7 +2106,7 @@ She got crazy
 now she's making me crazy.
 
 484
-00:56:48,080 --> 00:56:49,080
+00:56:48,080 --> 00:56:49,000
 How can I help you?
 
 485
@@ -2114,8 +2116,8 @@ from the courthouse.
 
 486
 00:56:57,000 --> 00:56:58,760
-- From the secretary.
-- Yes.
+-From the secretary.
+-Yes.
 
 487
 00:56:59,240 --> 00:57:01,240
@@ -2132,13 +2134,13 @@ I never forget a face that I saw.
 
 490
 00:57:08,160 --> 00:57:09,920
-- Welcome.
-- Thank you.
+-Welcome.
+-Thank you.
 
 491
 00:57:10,960 --> 00:57:13,800
-- Come, come in.
-- Thank you.
+-Come, come in.
+-Thank you.
 
 492
 00:57:19,720 --> 00:57:21,680
@@ -2146,8 +2148,8 @@ We were just having dinner.
 
 493
 00:57:21,760 --> 00:57:24,400
-- Are you hungry? I can prepare for...
-- No, thank you.
+-Are you hungry? I can prepare for...
+-No, thank you.
 
 494
 00:57:26,240 --> 00:57:30,680
@@ -2176,12 +2178,12 @@ No thanks, I caught a cold.
 
 500
 00:57:50,200 --> 00:57:52,400
-- Get well soon.
-- Thanks.
+-Get well soon.
+-Thanks.
 
 501
 00:57:52,920 --> 00:57:55,120
-It's been 20 years, right?
+It’s been 20 years, right?
 
 502
 00:57:56,080 --> 00:57:57,120
@@ -2193,7 +2195,7 @@ Do you remember Agah?
 
 504
 00:58:01,960 --> 00:58:05,080
-When I was working on archives.
+When I was working on archives
 
 505
 00:58:05,160 --> 00:58:10,440
@@ -2202,8 +2204,8 @@ recommended Agah, God bless him.
 
 506
 00:58:11,840 --> 00:58:15,600
-- He died too...
-- Really, may he rest in peace.
+-He died too...
+-Really, may he rest in peace.
 
 507
 00:58:16,680 --> 00:58:18,800
@@ -2211,8 +2213,8 @@ He went there every weekend.
 
 508
 00:58:18,880 --> 00:58:21,160
-- Was it Kambura?
-- Yes, it was Kambura.
+-Was it Kambura?
+-Yes, it was Kambura.
 
 509
 00:58:22,520 --> 00:58:25,920
@@ -2234,8 +2236,8 @@ remember?
 
 513
 00:58:41,400 --> 00:58:44,400
-- She's been like this for four years.
-- What's wrong with her?
+-She's been like this for four years.
+-What's wrong with her?
 
 514
 00:58:45,000 --> 00:58:46,920
@@ -2301,7 +2303,7 @@ Otherwise she neither
 knows me nor our girl.
 
 529
-00:59:35,200 --> 00:59:36,200
+00:59:35,200 --> 00:59:36,160
 Come on.
 
 530
@@ -2322,8 +2324,8 @@ So, Agah.
 
 534
 00:59:53,760 --> 00:59:56,000
-- Are you retired?
-- Yes.
+-Are you retired?
+-Yes.
 
 535
 00:59:56,080 --> 00:59:59,720
@@ -2396,8 +2398,8 @@ Drink it woman!
 
 552
 01:01:48,200 --> 01:01:51,760
-- Drink it, come on!
-- Excuse me.
+-Drink it, come on!
+-Excuse me.
 
 553
 01:01:52,400 --> 01:01:54,120
@@ -2409,8 +2411,8 @@ Yes, over there.
 
 555
 01:01:56,080 --> 01:01:58,560
-- It's on the shelf.
-- Thanks, I forgot mine.
+-It's on the shelf.
+-Thanks, I forgot mine.
 
 556
 01:01:58,640 --> 01:02:01,040
@@ -2454,7 +2456,7 @@ for my birthday.
 
 565
 01:03:35,160 --> 01:03:36,680
-That was the first time.
+That was the first time
 
 566
 01:03:37,480 --> 01:03:39,200
@@ -2506,7 +2508,7 @@ People were saying
 I said then I'll be one too.
 
 577
-01:04:16,160 --> 01:04:17,160
+01:04:16,160 --> 01:04:17,040
 During that time
 
 578
@@ -2565,7 +2567,7 @@ The space shuttle
 was going to be launched.
 
 590
-01:05:19,200 --> 01:05:20,200
+01:05:19,200 --> 01:05:20,160
 Vostok-1.
 
 591
@@ -2578,7 +2580,7 @@ I thought they forgot about me.
 
 593
 01:05:38,000 --> 01:05:39,280
-<i>The shuttle was launched</i>.
+<i>The shuttle was launched.</i>
 
 594
 01:05:40,840 --> 01:05:44,720
@@ -2600,11 +2602,11 @@ were praying for Vostok
 to not go into the space.
 
 598
-01:05:57,280 --> 01:05:58,280
+01:05:57,280 --> 01:05:58,160
 Whatever.
 
 599
-01:05:59,160 --> 01:06:00,160
+01:05:59,160 --> 01:06:00,080
 All day long,
 
 600
@@ -2669,24 +2671,24 @@ To become a good person.
 
 614
 01:08:21,920 --> 01:08:23,640
-<i>Dad, I guess you are sleeping</i>.
+<i>Dad, I guess you are sleeping.</i>
 
 615
 01:08:24,680 --> 01:08:28,360
-<i>It's over, I can't tolerate this man no
-more. We are moving back to Istanbul</i>.
+<i>It's over, I can't tolerate this man no</i>
+<i>more. We are moving back to Istanbul.</i>
 
 616
 01:08:29,040 --> 01:08:30,680
-<i>We are coming together with Deva</i>.
+<i>We are coming together with Deva.</i>
 
 617
 01:08:31,640 --> 01:08:33,040
-<i>I'll call you later</i>.
+<i>I'll call you later.</i>
 
 618
 01:08:33,800 --> 01:08:34,880
-<i>Good night</i>.
+<i>Good night.</i>
 
 619
 01:08:46,880 --> 01:08:49,240
