@@ -59,4 +59,4 @@
 
 + 公众号：gatorix2020（整点没有用的）
   
-![公众号二维码](https://sm.ms/image/kUpPoLGzT2Q9Rhu)
+![公众号二维码](https://i.loli.net/2020/12/01/kUpPoLGzT2Q9Rhu.jpg)
