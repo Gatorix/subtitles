@@ -59,4 +59,4 @@
 
 + 公众号：gatorix2020（整点没有用的）
   
-![公众号二维码](https://github.com/Gatorix/subtitles/blob/master/Others/qrcode_for_gh_f9b5d24b04ce_258.jpg)
+![公众号二维码](https://sm.ms/image/kUpPoLGzT2Q9Rhu)
