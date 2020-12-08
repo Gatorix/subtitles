@@ -27,9 +27,6 @@
   
 ### 计划
 
-+ 排查[Şahsiyet](https://www.imdb.com/title/tt7920978/)翻译错误和格式错误
-  + 2020年12月初
-
 + [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)：
   + 2020年结束前
   
