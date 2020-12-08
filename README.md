@@ -13,7 +13,7 @@
 
 ## 下载字幕
 
-+ 请直接点击上方的绿色Code按钮，选择Download ZIP进行下载，也可以直接点[这里](https://github.com/Community-137/Rick-and-Morty-Chinese-Subtitles/archive/master.zip)下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
++ 请直接点击上方的绿色Code按钮，选择Download ZIP进行下载，也可以直接点[这里](https://github.com/Gatorix/subtitles/archive/master.zip)下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
 
 ## 剧集目录
 
@@ -59,4 +59,4 @@
 
 + 公众号：gatorix2020（整点没有用的）
   
-![公众号二维码](https://github.com/Gatorix/subtitles/blob/master/Others/qrcode_for_gh_f9b5d24b04ce_258.jpg)
+![公众号二维码](https://i.loli.net/2020/12/01/kUpPoLGzT2Q9Rhu.jpg)
