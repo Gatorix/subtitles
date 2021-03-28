@@ -33,14 +33,17 @@
 + [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
   + 2021年
 
-+ [Vratice se rode](https://www.imdb.com/title/tt1043822/)
++ [Yeh Meri Family](https://www.imdb.com/title/tt8595766/)
   + 2021年
+
++ [Panchayat](https://www.imdb.com/title/tt12004706/)
+  + 2021年
+
++ [Vratice se rode](https://www.imdb.com/title/tt1043822/)
+  + 待定
   
 + [Aranyélet](https://www.imdb.com/title/tt5099020/)
-  + 2021年
-  
-+ [Ezel](https://www.imdb.com/title/tt1534360/)
-  + 未知
+  + 待定
   
 ## 致谢
 
