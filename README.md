@@ -28,7 +28,10 @@
 ### 计划
 
 + [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)：
-  + 因事耽误了很久，近期才开始做……正在有计划的进行中，敬请等待
+  + 五一期间完成
+
++ [Aspirants](https://www.imdb.com/title/tt14392248/)：
+  + 新剧，持续更新
   
 + [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
   + 2021年
