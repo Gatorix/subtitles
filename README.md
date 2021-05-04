@@ -25,10 +25,9 @@
   
 + [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)
   
++ [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)
+  
 ### 计划
-
-+ [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)：
-  + 五一期间完成
 
 + [Aspirants](https://www.imdb.com/title/tt14392248/)：
   + 新剧，持续更新
