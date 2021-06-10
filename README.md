@@ -29,7 +29,7 @@
   
 ### 制作中
 
-+ [Aspirants](https://www.imdb.com/title/tt14392248/)：
++ [Aspirants](https://www.imdb.com/title/tt14392248/)
 
 ### 计划
   
