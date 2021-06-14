@@ -756,9 +756,9 @@ Dialogue: 5,0:24:18.22,0:24:20.34,Default,,0,0,0,,{\fad(120,120)}修好了，走
 Dialogue: 4,0:24:18.22,0:24:20.34,Default-L2,,0,0,0,,{\fad(120,120)}This is working. Now go.
 Dialogue: 5,0:24:21.70,0:24:23.98,Default,,0,0,0,,{\fad(120,120)}先生，官员不是来你们学院的吗？
 Dialogue: 4,0:24:21.70,0:24:23.98,Default-L2,,0,0,0,,{\fad(120,120)}Sir, don't IAS officers come to your institute?
-Dialogue: 5,0:24:26.42,0:24:29.54,Default,,0,0,0,,{\fad(120,120)}不，我今年不做培训
+Dialogue: 5,0:24:26.42,0:24:29.54,Default,,0,0,0,,{\fad(120,120)}不，我今年参加培训
 Dialogue: 4,0:24:26.42,0:24:29.54,Default-L2,,0,0,0,,{\fad(120,120)}No. I am not doing coaching this year.
-Dialogue: 5,0:24:30.62,0:24:33.42,Default,,0,0,0,,{\fad(120,120)}什么? 你不去吗？
+Dialogue: 5,0:24:30.62,0:24:33.42,Default,,0,0,0,,{\fad(120,120)}什么? 你不参加吗？
 Dialogue: 4,0:24:30.62,0:24:33.42,Default-L2,,0,0,0,,{\fad(120,120)}What? Don't you go for coaching?
 Dialogue: 5,0:24:35.26,0:24:36.78,Default,,0,0,0,,{\fad(120,120)}不，我今年要休息一下
 Dialogue: 4,0:24:35.26,0:24:36.78,Default-L2,,0,0,0,,{\fad(120,120)}No. I am taking a break this year.
