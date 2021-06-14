@@ -186,7 +186,7 @@ Dialogue: 4,0:04:53.72,0:04:54.96,Default,,0,0,0,,{\fad(120,120)}做一只乌龟
 Dialogue: 3,0:04:53.72,0:04:54.96,Default-L2,,0,0,0,,{\fad(120,120)}Be a tortoise.
 Dialogue: 4,0:04:58.66,0:05:03.77,Default,,0,0,0,,{\fad(120,120)}绝大多数的人会失去希望，崩溃并逃离考试
 Dialogue: 3,0:04:58.66,0:05:03.77,Default-L2,,0,0,0,,{\fad(120,120)}Maximum people lose hope, break down and run away from it.
-Dialogue: 4,0:05:06.96,0:05:09.76,Default,,0,0,0,,{\fad(120,120)}在这个古老的选区
+Dialogue: 4,0:05:06.96,0:05:09.76,Default,,0,0,0,,{\fad(120,120)}在纳加尔（UPSC考试培训基地）
 Dialogue: 3,0:05:06.96,0:05:09.76,Default-L2,,0,0,0,,{\fad(120,120)}And in this Rajinder Nagar, old Rajinder Nagar
 Dialogue: 4,0:05:12.35,0:05:17.20,Default,,0,0,0,,{\fad(120,120)}能够听到无数的情感故事
 Dialogue: 3,0:05:12.35,0:05:17.20,Default-L2,,0,0,0,,{\fad(120,120)}who will be able to hear countless stories of emotions
@@ -266,7 +266,7 @@ Dialogue: 4,0:07:52.92,0:07:54.29,Default,,0,0,0,,{\fad(120,120)}你在哪儿？
 Dialogue: 3,0:07:52.92,0:07:54.29,Default-L2,,0,0,0,,{\fad(120,120)}Where are you?
 Dialogue: 4,0:07:54.86,0:07:57.66,Default,,0,0,0,,{\fad(120,120)}你正身处 UPSC 的麦加
 Dialogue: 3,0:07:54.86,0:07:57.66,Default-L2,,0,0,0,,{\fad(120,120)}You are in the Mecca of UPSC.
-Dialogue: 4,0:07:57.74,0:07:59.88,Default,,0,0,0,,{\fad(120,120)}Rajinder Nagar选区
+Dialogue: 4,0:07:57.74,0:07:59.88,Default,,0,0,0,,{\fad(120,120)}纳加尔
 Dialogue: 3,0:07:57.74,0:07:59.88,Default-L2,,0,0,0,,{\fad(120,120)}Old Rajinder Nagar.
 Dialogue: 4,0:08:00.26,0:08:03.69,Default,,0,0,0,,{\fad(120,120)}如果你有时间，那么站在高处看一看
 Dialogue: 3,0:08:00.26,0:08:03.69,Default-L2,,0,0,0,,{\fad(120,120)}If you get time then look at it from height.
@@ -522,7 +522,7 @@ Dialogue: 4,0:14:20.59,0:14:24.67,Default,,0,0,0,,{\fad(120,120)}到现在为止
 Dialogue: 3,0:14:20.59,0:14:24.67,Default-L2,,0,0,0,,{\fad(120,120)}Till now you did preparation with job and without guidance.
 Dialogue: 4,0:14:24.75,0:14:27.46,Default,,0,0,0,,{\fad(120,120)}现在你来这里是为了全面的准备
 Dialogue: 3,0:14:24.75,0:14:27.46,Default-L2,,0,0,0,,{\fad(120,120)}Now you have come here for full-fledged preparation.
-Dialogue: 4,0:14:27.67,0:14:30.72,Default,,0,0,0,,{\fad(120,120)}所有有经验的人都在这里 Rajinder Nagar
+Dialogue: 4,0:14:27.67,0:14:30.72,Default,,0,0,0,,{\fad(120,120)}所有有经验的人都在纳加尔
 Dialogue: 3,0:14:27.67,0:14:30.72,Default-L2,,0,0,0,,{\fad(120,120)}All experienced ones are here in Rajinder Nagar.
 Dialogue: 4,0:14:31.37,0:14:34.42,Default,,0,0,0,,{\fad(120,120)}这是你最后一次尝试，但是在他们面前你仍然是一个新人
 Dialogue: 3,0:14:31.37,0:14:34.42,Default-L2,,0,0,0,,{\fad(120,120)}It is your last attempt but you still are a fresher in front of them.
@@ -536,7 +536,7 @@ Dialogue: 4,0:14:53.91,0:14:55.11,Default,,0,0,0,,{\fad(120,120)}佩玛·日吉�
 Dialogue: 3,0:14:53.91,0:14:55.11,Default-L2,,0,0,0,,{\fad(120,120)}Pema Rijiju.
 Dialogue: 4,0:14:56.46,0:15:00.15,Default,,0,0,0,,{\fad(120,120)}他的整个家庭都是公务员
 Dialogue: 3,0:14:56.46,0:15:00.15,Default-L2,,0,0,0,,{\fad(120,120)}Pema Rijiju. His entire family is IAS.
-Dialogue: 4,0:15:00.37,0:15:04.15,Default,,0,0,0,,{\fad(120,120)}他是谁? 他是 Rajinder Nagar 的甜心辛格
+Dialogue: 4,0:15:00.37,0:15:04.15,Default,,0,0,0,,{\fad(120,120)}他是谁? 他是纳加尔的甜心辛格
 Dialogue: 3,0:15:00.37,0:15:04.15,Default-L2,,0,0,0,,{\fad(120,120)}Who is he? He is Honey Singh of Rajinder Nagar.
 Dialogue: 4,0:15:04.60,0:15:06.95,Default,,0,0,0,,{\fad(120,120)}别叫我甜心辛格
 Dialogue: 3,0:15:04.60,0:15:06.95,Default-L2,,0,0,0,,{\fad(120,120)}Don't call me Honey Singh.
@@ -712,9 +712,9 @@ Dialogue: 4,0:19:43.91,0:19:45.36,Default,,0,0,0,,{\fad(120,120)}你有什么问
 Dialogue: 3,0:19:43.91,0:19:45.36,Default-L2,,0,0,0,,{\fad(120,120)}What is your problem?
 Dialogue: 4,0:19:45.70,0:19:49.81,Default,,0,0,0,,{\fad(120,120)}告诉我一件事，你只关心时事吗？
 Dialogue: 3,0:19:45.70,0:19:49.81,Default-L2,,0,0,0,,{\fad(120,120)}Tell me one thing. Are you only bothered about current affairs?
-Dialogue: 4,0:19:50.18,0:19:53.69,Default,,0,0,0,,{\fad(120,120)}当知识分子聚集在 Rajinder Nagar
+Dialogue: 4,0:19:50.18,0:19:53.69,Default,,0,0,0,,{\fad(120,120)}当知识分子聚集在纳加尔
 Dialogue: 3,0:19:50.18,0:19:53.69,Default-L2,,0,0,0,,{\fad(120,120)}When intellectuals meet in Rajinder Nagar
-Dialogue: 4,0:19:53.77,0:19:56.17,Default,,0,0,0,,{\fad(120,120)}我也有一个建议，并希望说一些事情
+Dialogue: 4,0:19:53.77,0:19:56.17,Default,,0,0,0,,{\fad(120,120)}我也有一些建议，想跟人分享
 Dialogue: 3,0:19:53.77,0:19:56.17,Default-L2,,0,0,0,,{\fad(120,120)}I also have a suggestion and wish to say something.
 Dialogue: 4,0:19:56.25,0:19:57.56,Default,,0,0,0,,{\fad(120,120)}如果不看电视，我该怎么办？
 Dialogue: 3,0:19:56.25,0:19:57.56,Default-L2,,0,0,0,,{\fad(120,120)}What will I do if not watch TV?
@@ -856,7 +856,7 @@ Dialogue: 4,0:23:52.59,0:23:55.09,Default,,0,0,0,,{\fad(120,120)}房间空间很
 Dialogue: 3,0:23:52.59,0:23:55.09,Default-L2,,0,0,0,,{\fad(120,120)}There is less space and alcohol in the room.
 Dialogue: 4,0:23:55.28,0:23:57.67,Default,,0,0,0,,{\fad(120,120)}如果女孩来了，一定会拥挤不堪
 Dialogue: 3,0:23:55.28,0:23:57.67,Default-L2,,0,0,0,,{\fad(120,120)}And if the girl comes then it will get congested.
-Dialogue: 4,0:23:57.88,0:24:00.17,Default,,0,0,0,,{\fad(120,120)}欢迎来到 Rajinder Nagar，兄弟
+Dialogue: 4,0:23:57.88,0:24:00.17,Default,,0,0,0,,{\fad(120,120)}欢迎来到纳加尔，兄弟
 Dialogue: 3,0:23:57.88,0:24:00.17,Default-L2,,0,0,0,,{\fad(120,120)}Welcome to Rajinder Nagar, brother.
 Dialogue: 4,0:24:00.44,0:24:01.73,Default,,0,0,0,,{\fad(120,120)}好的，我会去接液体黄油的
 Dialogue: 3,0:24:00.44,0:24:01.73,Default-L2,,0,0,0,,{\fad(120,120)}Okay, I will come and get clarified butter.
