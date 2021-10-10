@@ -33,7 +33,7 @@
 
 + [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
   
-  + 开始时间未知
+  + 制作中，预计11月完成
   
 ### 计划
 
@@ -49,6 +49,18 @@
 + [Aranyélet](https://www.imdb.com/title/tt5099020/)
   + 待定
   
++ [Behzat Ç.: Bir Ankara Polisiyesi](https://www.imdb.com/title/tt1795096/)
+  + 待定
+
++ [Leyla ile Mecnun](https://www.imdb.com/title/tt1831164/)
+  + 待定
+
++ [Gullak](https://www.imdb.com/title/tt10530900/)
+  + 待定
+
++ [Bron/Broen](https://www.imdb.com/title/tt1733785/)
+  + 待定
+
 ## 致谢
 
 所有对此项目提供帮助的人都会在此列出：
