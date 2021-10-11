@@ -235,7 +235,7 @@ Dialogue: 2,0:11:54.16,0:11:57.68,Default,,0,0,0,,{\fad(120,120)}早上好，检
 Dialogue: 1,0:11:54.16,0:11:57.68,Default-L2,,0,0,0,,{\fad(120,120)}Good morning, Mr. Prosecutor. This is your schedule.
 Dialogue: 2,0:11:57.68,0:11:59.96,Default,,0,0,0,,{\fad(120,120)}- 部长中午会过来 - 好的 
 Dialogue: 1,0:11:57.68,0:11:59.96,Default-L2,,0,0,0,,{\fad(120,120)}- The minister will be here at noon. - Okay.
-Dialogue: 2,0:11:59.96,0:12:02.65,Default,,0,0,0,,{\fad(120,120)}久基奇先生，这是法庭的裁决 
+Dialogue: 2,0:11:59.96,0:12:02.65,Default,,0,0,0,,{\fad(120,120)}朱基奇先生，这是法庭的裁决 
 Dialogue: 1,0:11:59.96,0:12:02.65,Default-L2,,0,0,0,,{\fad(120,120)}Mister Djukich, here's the court's decision.
 Dialogue: 2,0:12:02.76,0:12:05.26,Default,,0,0,0,,{\fad(120,120)}这么快？
 Dialogue: 1,0:12:02.76,0:12:05.26,Default-L2,,0,0,0,,{\fad(120,120)}Already?
@@ -243,7 +243,7 @@ Dialogue: 2,0:12:06.92,0:12:08.59,Default,,0,0,0,,{\fad(120,120)}恭喜你，斯
 Dialogue: 1,0:12:06.92,0:12:08.59,Default-L2,,0,0,0,,{\fad(120,120)}Congratulations, Stoyan. Great job.
 Dialogue: 2,0:12:08.59,0:12:11.06,Default,,0,0,0,,{\fad(120,120)}- 我已经尽力了… - 很好，这样…
 Dialogue: 1,0:12:08.59,0:12:11.06,Default-L2,,0,0,0,,{\fad(120,120)}- I'm doing my best here... - Okay, here's the plan.
-Dialogue: 2,0:12:11.06,0:12:13.80,Default,,0,0,0,,{\fad(120,120)}久基奇先生， 乔洛维奇上校在等你 
+Dialogue: 2,0:12:11.06,0:12:13.80,Default,,0,0,0,,{\fad(120,120)}朱基奇先生， 乔洛维奇上校在等你 
 Dialogue: 1,0:12:11.06,0:12:13.80,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Djukich, Colonel Djolovich is waiting for you.
 Dialogue: 2,0:12:13.80,0:12:16.27,Default,,0,0,0,,{\fad(120,120)}让他等着! 我等了他们一辈子 
 Dialogue: 1,0:12:13.80,0:12:16.27,Default-L2,,0,0,0,,{\fad(120,120)}Let him! I waited for them my whole life.
@@ -261,7 +261,7 @@ Dialogue: 2,0:12:42.46,0:12:45.86,Default,,0,0,0,,{\fad(120,120)}乔洛维奇，
 Dialogue: 1,0:12:42.46,0:12:45.86,Default-L2,,0,0,0,,{\fad(120,120)}Djolovich, I advise you to take this meeting very seriously.
 Dialogue: 2,0:12:45.86,0:12:48.10,Default,,0,0,0,,{\fad(120,120)}我上一次睡觉是在七年前 
 Dialogue: 1,0:12:45.86,0:12:48.10,Default-L2,,0,0,0,,{\fad(120,120)}Last time I slept was seven years ago.
-Dialogue: 2,0:12:48.10,0:12:52.44,Default,,0,0,0,,{\fad(120,120)}久基奇，IMRO（马其顿内部革命组织）在斯科普里杀害了一名参议员 
+Dialogue: 2,0:12:48.10,0:12:52.44,Default,,0,0,0,,{\fad(120,120)}朱基奇，IMRO（马其顿内部革命组织）在斯科普里杀害了一名参议员 
 Dialogue: 1,0:12:48.10,0:12:52.44,Default-L2,,0,0,0,,{\fad(120,120)}Djukich, the IMRO killed a senator in Skopje.
 Dialogue: 2,0:12:52.44,0:12:55.91,Default,,0,0,0,,{\fad(120,120)}你叫我来最好是有很重要的事
 Dialogue: 1,0:12:52.44,0:12:55.91,Default-L2,,0,0,0,,{\fad(120,120)}I hope you have a good reason for bringing me here.
@@ -1039,7 +1039,7 @@ Dialogue: 2,0:45:18.72,0:45:20.52,Default,,0,0,0,,{\fad(120,120)}睡着了吗？
 Dialogue: 1,0:45:18.72,0:45:20.52,Default-L2,,0,0,0,,{\fad(120,120)}Are you sleeping?
 Dialogue: 2,0:45:54.65,0:45:57.49,Default,,0,0,0,,{\fad(120,120)}- 我还要等多久?-我们永远不知道 
 Dialogue: 1,0:45:54.65,0:45:57.49,Default-L2,,0,0,0,,{\fad(120,120)}- How long would I wait? - That we never know.
-Dialogue: 2,0:46:05.52,0:46:08.60,Default,,0,0,0,,{\fad(120,120)}久基奇，过来 
+Dialogue: 2,0:46:05.52,0:46:08.60,Default,,0,0,0,,{\fad(120,120)}朱基奇，过来 
 Dialogue: 1,0:46:05.52,0:46:08.60,Default-L2,,0,0,0,,{\fad(120,120)}Djukich, come here.
 Dialogue: 2,0:46:13.64,0:46:15.10,Default,,0,0,0,,{\fad(120,120)}什么事这么急？
 Dialogue: 1,0:46:13.64,0:46:15.10,Default-L2,,0,0,0,,{\fad(120,120)}What's so urgent?
@@ -1161,7 +1161,7 @@ Dialogue: 2,0:51:46.77,0:51:48.10,Default,,0,0,0,,{\fad(120,120)}祝贺你！
 Dialogue: 1,0:51:46.77,0:51:48.10,Default-L2,,0,0,0,,{\fad(120,120)}Congratulations!
 Dialogue: 2,0:51:50.09,0:51:53.94,Default,,0,0,0,,{\fad(120,120)}亲爱的，你真可爱! 那个乡巴佬是谁？
 Dialogue: 1,0:51:50.09,0:51:53.94,Default-L2,,0,0,0,,{\fad(120,120)}My love, you were so cute! And who's that bumpkin?
-Dialogue: 2,0:51:56.28,0:52:00.80,Default,,0,0,0,,{\fad(120,120)}- 沃因·久基奇先生 - 新上任的国家检察官！
+Dialogue: 2,0:51:56.28,0:52:00.80,Default,,0,0,0,,{\fad(120,120)}- 沃因·朱基奇先生 - 新上任的国家检察官！
 Dialogue: 1,0:51:56.28,0:52:00.80,Default-L2,,0,0,0,,{\fad(120,120)}- Mr. Voyin Djukich. - The new state prosecutor!
 Dialogue: 2,0:52:00.80,0:52:04.69,Default,,0,0,0,,{\fad(120,120)}- 我听说你干得不错 - 这么说吧，我心怀正义
 Dialogue: 1,0:52:00.80,0:52:04.69,Default-L2,,0,0,0,,{\fad(120,120)}- I heard you're doing a great job. - Let's just say I care about justice.
@@ -1169,7 +1169,7 @@ Dialogue: 2,0:52:04.69,0:52:07.20,Default,,0,0,0,,{\fad(120,120)}难怪，我在
 Dialogue: 1,0:52:04.69,0:52:07.20,Default-L2,,0,0,0,,{\fad(120,120)}No wonder I met you at general Zhivkovich's,
 Dialogue: 2,0:52:07.20,0:52:10.46,Default,,0,0,0,,{\fad(120,120)}安全部门以其正义感而闻名 
 Dialogue: 1,0:52:07.20,0:52:10.46,Default-L2,,0,0,0,,{\fad(120,120)}The Security service is well-known for its sense of justice.
-Dialogue: 2,0:52:12.26,0:52:14.90,Default,,0,0,0,,{\fad(120,120)}这位是沃因 · 久基奇的妻子维奥莱塔 
+Dialogue: 2,0:52:12.26,0:52:14.90,Default,,0,0,0,,{\fad(120,120)}这位是沃因 · 朱基奇的妻子维奥莱塔 
 Dialogue: 1,0:52:12.26,0:52:14.90,Default-L2,,0,0,0,,{\fad(120,120)}Voyin Djukich's wife, Violeta.
 Dialogue: 2,0:52:16.57,0:52:18.27,Default,,0,0,0,,{\fad(120,120)}还有我亲爱的克丽丝塔 
 Dialogue: 1,0:52:16.57,0:52:18.27,Default-L2,,0,0,0,,{\fad(120,120)}And my dear Krista.
@@ -1599,7 +1599,7 @@ Dialogue: 2,1:09:37.40,1:09:40.51,Default,,0,0,0,,{\fad(120,120)}沃因! 祝你�
 Dialogue: 1,1:09:37.40,1:09:40.51,Default-L2,,0,0,0,,{\fad(120,120)}Voyin! Good luck! Bye!
 Dialogue: 2,1:09:44.25,1:09:46.95,Default,,0,0,0,,{\fad(120,120)}剧院是一个大妓院，看来确实如此
 Dialogue: 1,1:09:44.25,1:09:46.95,Default-L2,,0,0,0,,{\fad(120,120)}It's true that the theatre is one big brothel.
-Dialogue: 2,1:09:46.95,1:09:48.62,Default,,0,0,0,,{\fad(120,120)}- 久基奇夫人 - 下午好 
+Dialogue: 2,1:09:46.95,1:09:48.62,Default,,0,0,0,,{\fad(120,120)}- 朱基奇夫人 - 下午好 
 Dialogue: 1,1:09:46.95,1:09:48.62,Default-L2,,0,0,0,,{\fad(120,120)}- Mrs. Djukich. - Good afternoon.
 Dialogue: 2,1:09:48.62,1:09:50.62,Default,,0,0,0,,{\fad(120,120)}你的服装还没准备好 
 Dialogue: 1,1:09:48.62,1:09:50.62,Default-L2,,0,0,0,,{\fad(120,120)}Your costume isn't ready yet.
@@ -1841,7 +1841,7 @@ Dialogue: 2,1:22:06.92,1:22:09.06,Default,,0,0,0,,{\fad(120,120)}她终于从我
 Dialogue: 1,1:22:06.92,1:22:09.06,Default-L2,,0,0,0,,{\fad(120,120)}She finally stole something from me.
 Dialogue: 2,1:22:09.06,1:22:11.09,Default,,0,0,0,,{\fad(120,120)}哎呀! 我们可什么都没听到
 Dialogue: 1,1:22:09.06,1:22:11.09,Default-L2,,0,0,0,,{\fad(120,120)}Oops! We didn't hear this.
-Dialogue: 2,1:22:12.30,1:22:15.57,Default,,0,0,0,,{\fad(120,120)}久基奇先生! 久基奇夫人！
+Dialogue: 2,1:22:12.30,1:22:15.57,Default,,0,0,0,,{\fad(120,120)}朱基奇先生! 朱基奇夫人！
 Dialogue: 1,1:22:12.30,1:22:15.57,Default-L2,,0,0,0,,{\fad(120,120)}Mister Djukich! Mrs Djukich!
 Dialogue: 2,1:22:18.56,1:22:21.54,Default,,0,0,0,,{\fad(120,120)}- 克丽丝塔! 晚上好 - 晚上好 
 Dialogue: 1,1:22:18.56,1:22:21.54,Default-L2,,0,0,0,,{\fad(120,120)}- Krista, Krista! Good evening. - Good evening.
@@ -1875,7 +1875,7 @@ Dialogue: 2,1:23:11.25,1:23:13.69,Default,,0,0,0,,{\fad(120,120)}你是个艺术
 Dialogue: 1,1:23:11.25,1:23:13.69,Default-L2,,0,0,0,,{\fad(120,120)}You're an artist. Beauty is your thing.
 Dialogue: 2,1:23:14.16,1:23:17.66,Default,,0,0,0,,{\fad(120,120)}你认为今晚谁会赢？
 Dialogue: 1,1:23:14.16,1:23:17.66,Default-L2,,0,0,0,,{\fad(120,120)}Who do you think will win tonight?
-Dialogue: 2,1:23:20.06,1:23:22.43,Default,,0,0,0,,{\fad(120,120)}久基奇夫人，毫无疑问 
+Dialogue: 2,1:23:20.06,1:23:22.43,Default,,0,0,0,,{\fad(120,120)}朱基奇夫人，毫无疑问 
 Dialogue: 1,1:23:20.06,1:23:22.43,Default-L2,,0,0,0,,{\fad(120,120)}Madam Djukich, without any doubt.
 Dialogue: 2,1:23:25.67,1:23:27.27,Default,,0,0,0,,{\fad(120,120)}你真会撒谎
 Dialogue: 1,1:23:25.67,1:23:27.27,Default-L2,,0,0,0,,{\fad(120,120)}You're a good liar, Avram.
