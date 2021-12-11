@@ -33,3 +33,7 @@
   
 - exhibition /ˌeksɪˈbɪʃn/ 展览
   - a collection of things, for example works of art, that are shown to the public
+
+- architecture /ˈɑːkɪtektʃə(r)/ 建筑学
+  - the art and study of designing buildings
+  

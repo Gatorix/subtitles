@@ -14,5 +14,5 @@
   - It refers to the slang meaning of coconut as head whose usage dates back to the first part of the 19th century.
 
 - to kick the bucket
-  - considered a euphemistic, informal, or slang term meaning "to die".[1] Its origin remains unclear, though there have been several theories.
+  - considered a euphemistic, informal, or slang term meaning "to die". Its origin remains unclear, though there have been several theories.
   
