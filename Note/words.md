@@ -37,3 +37,27 @@
 - architecture /ˈɑːkɪtektʃə(r)/ 建筑学
   - the art and study of designing buildings
   
+- pathologist /pə-ˈthä-lə-jist/ 病理学家
+  - a specialist in pathology
+  
+- lucid /ˈluːsɪd/ 易于理解的
+  - expressed in a way that is clear and easy to understand
+  
+- apprentice /əˈprentɪs/ 学徒
+  - someone who works for an employer for a fixedperiod of time in order to learn a particular skill or job
+  
+- canvas /ˈkænvəs/ 油画；油画布
+  - a painting done with oil paints, or the piece of cloth it is painted on
+  
+- The ichthys or ichthus /ˈɪkθəs/ 耶稣鱼
+  - from the Greek ikhthū́s (ἰχθύς, 1st cent. AD Koine Greek pronunciation: [ixˈθys], "fish") is a symbol consisting of two intersecting arcs, the ends of the right side extending beyond the meeting point so as to resemble the profile of a fish. The symbol was adopted by early Christians as a secret symbol. It is now known colloquially as the "sign of the fish" or the "Jesus fish".
+  
+- apostle /əˈpɒsəl/ 门徒；使徒
+  - one of the 12 people chosen by Jesus Christ to teach and spread the Christianreligion
+
+- determined /dɪˈtɜːmɪnd $ -ɜːr-/ 有决心的
+  - having a strong desire to do something, so that you will not let anyone stop you
+  
+- adulterer /əˈdʌltərə $ -ər/ 通奸者
+  - someone who is married and has sex with someone who is not their wife or husband
+  
