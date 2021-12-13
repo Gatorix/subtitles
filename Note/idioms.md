@@ -16,3 +16,5 @@
 - to kick the bucket
   - considered a euphemistic, informal, or slang term meaning "to die". Its origin remains unclear, though there have been several theories.
   
+- Knock on wood
+  - used when you have just mentioned some way in which you have been lucky in the past, to avoid bringing bad luck

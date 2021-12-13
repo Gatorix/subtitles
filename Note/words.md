@@ -61,3 +61,12 @@
 - adulterer /əˈdʌltərə $ -ər/ 通奸者
   - someone who is married and has sex with someone who is not their wife or husband
   
+- quilt /kwɪlt/ 被子
+  - a warmthickcover for a bed, made by sewing two layers of cloth together, with feathers or a thick material in between them
+  
+- vice versa /ˌvaɪs ˈvɜːsə/ 反之亦然
+  - used to say that the opposite of a situation you have just described is also true
+  
+- procreate /ˈprəʊkrieɪt/ 生殖
+  - formal to produce children or baby animals
+  
