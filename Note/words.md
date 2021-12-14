@@ -70,3 +70,5 @@
 - procreate /ˈprəʊkrieɪt/ 生殖
   - formal to produce children or baby animals
   
+- frivolity /frɪˈvɒləti/ 轻浮的举止；愚蠢的表现
+  - behaviour or activities that are not serious or sensible, especially when you should be serious or sensible 
