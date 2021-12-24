@@ -71,4 +71,11 @@
   - formal to produce children or baby animals
   
 - frivolity /frɪˈvɒləti/ 轻浮的举止；愚蠢的表现
-  - behaviour or activities that are not serious or sensible, especially when you should be serious or sensible 
+  - behaviour or activities that are not serious or sensible, especially when you should be serious or sensible
+
+- daub1 /dɔːb/  涂抹，乱涂，乱画
+  - The walls of the building were daubed with red paint.
+  
+- muff /mʌf/ 手笼，手筒
+  - a short tube of thickcloth or fur that you can put your hands into to keep them warm in coldweather
+  
