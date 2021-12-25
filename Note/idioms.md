@@ -18,3 +18,11 @@
   
 - Knock on wood
   - used when you have just mentioned some way in which you have been lucky in the past, to avoid bringing bad luck
+  
+- eat (one's) heart out
+  - To feel great sadness.
+    - I feel just awful for Mary—she's been eating her heart out ever since she found out she was rejected by her top-choice school.
+  - To be very jealous. In this usage, the phrase is often said as an imperative and sometimes mentions a famous person (when the speaker comically claims to be more talented than that person).
+    - Eat your heart out—I got tickets to the concert and you didn't!
+    - Look at how well I dance now—Gene Kelly, eat your heart out!
+  
