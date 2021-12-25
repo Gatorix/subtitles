@@ -79,3 +79,14 @@
 - muff /mʌf/ 手笼，手筒
   - a short tube of thickcloth or fur that you can put your hands into to keep them warm in coldweather
   
+- triumph /ˈtraɪəmf/ 〔尤指苦战后获得的〕胜利，成功，成就
+  - an important victory or success after a difficult struggle
+  
+- relic /ˈrelɪk/ 遗物；遗迹；遗风；遗俗
+  - an old object or custom that reminds people of the past or that has lived on from a past time
+  
+- profane /prəˈfeɪn/ 渎神的，亵渎上帝的；不敬圣物的
+  - showing a lack of respect for God or holy things
+  
+- fulfil /fʊlˈfɪl/ 实现
+  - if you fulfil a hope, wish, or aim, you achieve the thing that you hoped for, wished for etc

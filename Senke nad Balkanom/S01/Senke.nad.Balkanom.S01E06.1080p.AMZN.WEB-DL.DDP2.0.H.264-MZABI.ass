@@ -221,7 +221,7 @@ Dialogue: 3,0:09:16.15,0:09:19.62,Default,,0,0,0,,{\fad(120,120)}下一个死的
 Dialogue: 2,0:09:16.15,0:09:19.62,Default-L2,,0,0,0,,{\fad(120,120)}the next in line could be your boy, Djukich.
 Dialogue: 3,0:09:19.78,0:09:21.51,Default,,0,0,0,,{\fad(120,120)}沃因？
 Dialogue: 2,0:09:19.78,0:09:21.51,Default-L2,,0,0,0,,{\fad(120,120)}Voyin?
-Dialogue: 3,0:09:23.43,0:09:26.48,Default,,0,0,0,,{\fad(120,120)}但如果艾林真的是凶手，而他已经被捕…
+Dialogue: 3,0:09:23.43,0:09:26.48,Default,,0,0,0,,{\fad(120,120)}但如果阿夫拉姆真的是凶手，而他已经被捕…
 Dialogue: 2,0:09:23.43,0:09:26.48,Default-L2,,0,0,0,,{\fad(120,120)}But if Avram really is the killer and he was arrested...
 Dialogue: 3,0:09:29.21,0:09:33.40,Default,,0,0,0,,{\fad(120,120)}这案子太复杂了，一个疯子做不到这种程度
 Dialogue: 2,0:09:29.21,0:09:33.40,Default-L2,,0,0,0,,{\fad(120,120)}This is way too complicated to be the fault of one madman.
@@ -267,7 +267,7 @@ Dialogue: 3,0:10:44.08,0:10:46.18,Default,,0,0,0,,{\fad(120,120)}你那变态朋
 Dialogue: 2,0:10:44.08,0:10:46.18,Default-L2,,0,0,0,,{\fad(120,120)}that your creepy friend painted.
 Dialogue: 3,0:10:56.15,0:10:58.46,Default,,0,0,0,,{\fad(120,120)}好吧，你怎么了？
 Dialogue: 2,0:10:56.15,0:10:58.46,Default-L2,,0,0,0,,{\fad(120,120)}Alright, what's wrong now?
-Dialogue: 3,0:11:01.82,0:11:04.63,Default,,0,0,0,,{\fad(120,120)}艾林不是凭空画出项链
+Dialogue: 3,0:11:01.82,0:11:04.63,Default,,0,0,0,,{\fad(120,120)}阿夫拉姆不是凭空画出项链
 Dialogue: 2,0:11:01.82,0:11:04.63,Default-L2,,0,0,0,,{\fad(120,120)}Avram did not paint the necklace,
 Dialogue: 3,0:11:06.40,0:11:09.63,Default,,0,0,0,,{\fad(120,120)}但是上面的标志——耶穌鱼
 Dialogue: 2,0:11:06.40,0:11:09.63,Default-L2,,0,0,0,,{\fad(120,120)}but the symbol on it. Ichthys – fish.
@@ -1135,7 +1135,7 @@ Dialogue: 3,0:45:58.96,0:46:00.99,Default,,0,0,0,,{\fad(120,120)}他抢劫了祭
 Dialogue: 2,0:45:58.96,0:46:00.99,Default-L2,,0,0,0,,{\fad(120,120)}He robbed the altar and stole the necklace.
 Dialogue: 3,0:46:00.99,0:46:03.89,Default,,0,0,0,,{\fad(120,120)}牧师看到了他，一切就这样开始了
 Dialogue: 2,0:46:00.99,0:46:03.89,Default-L2,,0,0,0,,{\fad(120,120)}The priest saw him. That's how it all began.
-Dialogue: 3,0:46:05.09,0:46:08.16,Default,,0,0,0,,{\fad(120,120)}艾林看到了沃因·朱基奇的项链
+Dialogue: 3,0:46:05.09,0:46:08.16,Default,,0,0,0,,{\fad(120,120)}阿夫拉姆看到了沃因·朱基奇的项链
 Dialogue: 2,0:46:05.09,0:46:08.16,Default-L2,,0,0,0,,{\fad(120,120)}And Avram saw the necklace on Violeta Djukich.
 Dialogue: 3,0:46:08.17,0:46:10.57,Default,,0,0,0,,{\fad(120,120)}所以他杀了维奥莱塔，然后杀了内文
 Dialogue: 2,0:46:08.17,0:46:10.57,Default-L2,,0,0,0,,{\fad(120,120)}So he killed her and then Neven.
@@ -1165,11 +1165,11 @@ Dialogue: 3,0:46:54.68,0:46:57.24,Default,,0,0,0,,{\fad(120,120)}凶手很有意
 Dialogue: 2,0:46:54.68,0:46:57.24,Default-L2,,0,0,0,,{\fad(120,120)}Your killer is very interesting.
 Dialogue: 3,0:46:57.38,0:46:59.05,Default,,0,0,0,,{\fad(120,120)}在审讯过程中
 Dialogue: 2,0:46:57.38,0:46:59.05,Default-L2,,0,0,0,,{\fad(120,120)}During the interrogation,
-Dialogue: 3,0:46:59.05,0:47:01.12,Default,,0,0,0,,{\fad(120,120)}艾林引用马可福音:
+Dialogue: 3,0:46:59.05,0:47:01.12,Default,,0,0,0,,{\fad(120,120)}阿夫拉姆引用马可福音:
 Dialogue: 2,0:46:59.05,0:47:01.12,Default-L2,,0,0,0,,{\fad(120,120)}Avram quoted Gospel according to Mark:
 Dialogue: 3,0:47:01.12,0:47:03.65,Default,,0,0,0,,{\fad(120,120)}军团是我的名字，因为我们人数众多
 Dialogue: 2,0:47:01.12,0:47:03.65,Default-L2,,0,0,0,,{\fad(120,120)}Legion is my name, because we are many.
-Dialogue: 3,0:47:04.29,0:47:06.76,Default,,0,0,0,,{\fad(120,120)}我们认为艾林不是单独作案
+Dialogue: 3,0:47:04.29,0:47:06.76,Default,,0,0,0,,{\fad(120,120)}我们认为阿夫拉姆不是单独作案
 Dialogue: 2,0:47:04.29,0:47:06.76,Default-L2,,0,0,0,,{\fad(120,120)}We think that Avram wasn't alone,
 Dialogue: 3,0:47:07.38,0:47:10.24,Default,,0,0,0,,{\fad(120,120)}项链在某种程度上非常重要
 Dialogue: 2,0:47:07.38,0:47:10.24,Default-L2,,0,0,0,,{\fad(120,120)}and that the necklace is somehow very important.
@@ -1303,7 +1303,7 @@ Dialogue: 3,0:51:44.01,0:51:45.77,Default,,0,0,0,,{\fad(120,120)}想要获取力
 Dialogue: 2,0:51:44.01,0:51:45.77,Default-L2,,0,0,0,,{\fad(120,120)}and get the power.
 Dialogue: 3,0:51:46.97,0:51:51.01,Default,,0,0,0,,{\fad(120,120)}但在此之前，它必须浸泡在血液中
 Dialogue: 2,0:51:46.97,0:51:51.01,Default-L2,,0,0,0,,{\fad(120,120)}But before that, it has to dip it in blood.
-Dialogue: 3,0:52:07.79,0:52:10.46,Default,,0,0,0,,{\fad(120,120)}我确信艾林属于
+Dialogue: 3,0:52:07.79,0:52:10.46,Default,,0,0,0,,{\fad(120,120)}我确信阿夫拉姆属于
 Dialogue: 2,0:52:07.79,0:52:10.46,Default-L2,,0,0,0,,{\fad(120,120)}I'm certain that Avram belongs...
 Dialogue: 3,0:52:12.30,0:52:15.01,Default,,0,0,0,,{\fad(120,120)}一个这样的神秘组织
 Dialogue: 2,0:52:12.30,0:52:15.01,Default-L2,,0,0,0,,{\fad(120,120)}to one such occult organisation.

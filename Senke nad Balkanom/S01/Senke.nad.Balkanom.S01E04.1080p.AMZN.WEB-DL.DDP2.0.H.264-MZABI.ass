@@ -463,7 +463,7 @@ Dialogue: 3,0:18:09.65,0:18:12.56,Default,,0,0,0,,{\fad(120,120)}- 你以为我�
 Dialogue: 2,0:18:09.65,0:18:12.56,Default-L2,,0,0,0,,{\fad(120,120)}- You thought I wouldn't notice? - I don't get it.
 Dialogue: 3,0:18:13.08,0:18:15.76,Default,,0,0,0,,{\fad(120,120)}玛雅，怎么回事？
 Dialogue: 2,0:18:13.08,0:18:15.76,Default-L2,,0,0,0,,{\fad(120,120)}Maya, what's going on?
-Dialogue: 3,0:18:15.76,0:18:17.66,Default,,0,0,0,,{\fad(120,120)}艾林，你别管
+Dialogue: 3,0:18:15.76,0:18:17.66,Default,,0,0,0,,{\fad(120,120)}阿夫拉姆，你别管
 Dialogue: 2,0:18:15.76,0:18:17.66,Default-L2,,0,0,0,,{\fad(120,120)}Avram, stay out of this.
 Dialogue: 3,0:18:25.10,0:18:27.17,Default,,0,0,0,,{\fad(120,120)}这些不是我给你的底片
 Dialogue: 2,0:18:25.10,0:18:27.17,Default-L2,,0,0,0,,{\fad(120,120)}These are not the negatives I gave you.
@@ -801,7 +801,7 @@ Dialogue: 3,0:29:07.85,0:29:12.82,Default,,0,0,0,,{\fad(120,120)}我几乎可以
 Dialogue: 2,0:29:07.85,0:29:12.82,Default-L2,,0,0,0,,{\fad(120,120)}I'm almost certain that the symbol of the fish on the pendant
 Dialogue: 3,0:29:12.82,0:29:16.89,Default,,0,0,0,,{\fad(120,120)}和这里的一样，我认为这里面有些线索
 Dialogue: 2,0:29:12.82,0:29:16.89,Default-L2,,0,0,0,,{\fad(120,120)}is the same as the one here. And I think there's something to it.
-Dialogue: 3,0:29:17.56,0:29:20.64,Default,,0,0,0,,{\fad(120,120)}- 我们把艾林逮捕吧 - 我们为什么要逮捕他？
+Dialogue: 3,0:29:17.56,0:29:20.64,Default,,0,0,0,,{\fad(120,120)}- 我们把阿夫拉姆逮捕吧 - 我们为什么要逮捕他？
 Dialogue: 2,0:29:17.56,0:29:20.64,Default-L2,,0,0,0,,{\fad(120,120)}- Please, let's arrest Avram. - Why should we arrest him?
 Dialogue: 3,0:29:21.02,0:29:24.12,Default,,0,0,0,,{\fad(120,120)}因为这不是原作? 因为是他给项链上色？
 Dialogue: 2,0:29:21.02,0:29:24.12,Default-L2,,0,0,0,,{\fad(120,120)}Because it's not an original? Because he painted her necklace?
