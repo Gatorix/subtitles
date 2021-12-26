@@ -5,6 +5,8 @@
   - 现在的马其顿内部革命组织－马其顿民族统一民主党，声称为该组织的继承。
   
 - 生命的尽头，就像人在黄昏时分读书，读啊读，没有察觉光线渐暗；直到他停下来休息，才猛烈发现白天已经过去，天已经很暗，再低头看书却什么都看不清了，书页已不再有意义。
-  
-- 耶稣鱼（希腊语：ΙΧΘΥΣ，ikhthýs ，ἰχθύς公元1世纪通用希腊语 ikʰˈtʰys）是基督宗教的一个代表符号，最早是基督徒为了躲避罗马帝国宗教迫害而使用的暗号，随着米兰敕令的发布，基督宗教得以合法化，此符号也因其历史意义而成为基督宗教的代表符号之一。
+
+- The ichthys or ichthus /ˈɪkθəs/ 耶稣鱼
+  - from the Greek ikhthū́s (ἰχθύς, 1st cent. AD Koine Greek pronunciation: [ixˈθys], "fish") is a symbol consisting of two intersecting arcs, the ends of the right side extending beyond the meeting point so as to resemble the profile of a fish. The symbol was adopted by early Christians as a secret symbol. It is now known colloquially as the "sign of the fish" or the "Jesus fish".
+  - 耶稣鱼（希腊语：ΙΧΘΥΣ，ikhthýs ，ἰχθύς公元1世纪通用希腊语 ikʰˈtʰys）是基督宗教的一个代表符号，最早是基督徒为了躲避罗马帝国宗教迫害而使用的暗号，随着米兰敕令的发布，基督宗教得以合法化，此符号也因其历史意义而成为基督宗教的代表符号之一。
   

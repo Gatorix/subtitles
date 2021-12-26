@@ -49,9 +49,6 @@
 - canvas /ˈkænvəs/ 油画；油画布
   - a painting done with oil paints, or the piece of cloth it is painted on
   
-- The ichthys or ichthus /ˈɪkθəs/ 耶稣鱼
-  - from the Greek ikhthū́s (ἰχθύς, 1st cent. AD Koine Greek pronunciation: [ixˈθys], "fish") is a symbol consisting of two intersecting arcs, the ends of the right side extending beyond the meeting point so as to resemble the profile of a fish. The symbol was adopted by early Christians as a secret symbol. It is now known colloquially as the "sign of the fish" or the "Jesus fish".
-  
 - apostle /əˈpɒsəl/ 门徒；使徒
   - one of the 12 people chosen by Jesus Christ to teach and spread the Christianreligion
 
@@ -90,3 +87,34 @@
   
 - fulfil /fʊlˈfɪl/ 实现
   - if you fulfil a hope, wish, or aim, you achieve the thing that you hoped for, wished for etc
+
+- defiance /dɪˈfaɪəns/ 违抗，拒绝服从
+  - behaviour that shows you refuse to do what someone tells you to do, especially because you do not respect them
+  
+- shenanigans /ʃəˈnænɪɡənz/ 恶作剧，诡计，鬼把戏
+  - bad behaviour that is not very serious, or slightly dishonest activities
+  
+- ennoble /ɪˈnəʊbəl/ 使〔某人〕高尚；使〔某人〕崇高/封〔某人〕为贵族
+  - to improve your character
+  - to make someone a member of the nobility
+
+- soaked /səʊkt/ 很湿的；穿湿衣服的/充满〔某种特质〕
+  - very wet or wearing very wet clothes
+  - to be full of a particular quality
+  
+- illuminated /ɪˈluːməneɪtəd/ 〔用灯〕照亮的，发光的/装饰华美的手稿、书籍
+  - lit up by lights
+  - a book of a type produced by hand in the MiddleAges, whose pages are decorated with goldpaint and brightcolours
+  
+- crackpot /ˈkrækpɒt/ 有点精神失常的人；有点发疯的人
+  - someone who is slightly crazy
+
+- originality /əˌrɪdʒəˈnæləti/ 独创性；创见；创造力；新颖
+  - when something is completely new and different from anything that anyone has thought of before
+  
+- enthusiasm /ɪnˈθjuːziæzəm/ 热情，热忱
+  - a strong feeling of interest and enjoyment about something and an eagerness to be involved in it
+  
+- enclosure /ɪnˈkləʊʒə/ 围地，围场
+  - an area surrounded by a wall or fence, and used for a particular purpose
+  
