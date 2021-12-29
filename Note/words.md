@@ -120,3 +120,7 @@
   
 - despite /dɪˈspaɪt/ 尽管，虽然，任凭
   - used to say that something happens or is true even though something else might have prevented it
+
+- subdue /səbˈdjuː/ 镇压，制服
+  - to defeat or control a person or group, especially using force
+  
