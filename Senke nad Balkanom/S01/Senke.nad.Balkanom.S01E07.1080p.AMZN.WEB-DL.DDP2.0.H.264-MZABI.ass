@@ -441,7 +441,7 @@ Dialogue: 3,0:17:31.21,0:17:32.62,Default,,0,0,0,,{\fad(120,120)}不是我们的
 Dialogue: 2,0:17:31.21,0:17:32.62,Default-L2,,0,0,0,,{\fad(120,120)}Not our. Your.
 Dialogue: 3,0:17:33.96,0:17:36.59,Default,,0,0,0,,{\fad(120,120)}没有你的部门这个案子就破不了
 Dialogue: 2,0:17:33.96,0:17:36.59,Default-L2,,0,0,0,,{\fad(120,120)}This case can't be solved without your department.
-Dialogue: 3,0:17:37.40,0:17:41.16,Default,,0,0,0,,{\fad(120,120)}你得帮我们找到那个和尚，他是一切的关键
+Dialogue: 3,0:17:37.40,0:17:41.16,Default,,0,0,0,,{\fad(120,120)}你得帮我们找到那个修道士，他是一切的关键
 Dialogue: 2,0:17:37.40,0:17:41.16,Default-L2,,0,0,0,,{\fad(120,120)}You have to help us find the Monk. He is the key for everything.
 Dialogue: 3,0:17:42.36,0:17:46.03,Default,,0,0,0,,{\fad(120,120)}忘了那个名字吧，塔尼
 Dialogue: 2,0:17:42.36,0:17:46.03,Default-L2,,0,0,0,,{\fad(120,120)}Forget that name, Tane.
@@ -449,7 +449,7 @@ Dialogue: 3,0:17:47.92,0:17:50.37,Default,,0,0,0,,{\fad(120,120)}这是我最后
 Dialogue: 2,0:17:47.92,0:17:50.37,Default-L2,,0,0,0,,{\fad(120,120)}That's my last friendly advice. Understand?
 Dialogue: 3,0:17:52.72,0:17:54.96,Default,,0,0,0,,{\fad(120,120)}当国家检察官丢了脑袋
 Dialogue: 2,0:17:52.72,0:17:54.96,Default-L2,,0,0,0,,{\fad(120,120)}When the state prosecutor loses his head,
-Dialogue: 3,0:17:55.88,0:17:58.58,Default,,0,0,0,,{\fad(120,120)}和尚的名字还是不能提吗？
+Dialogue: 3,0:17:55.88,0:17:58.58,Default,,0,0,0,,{\fad(120,120)}修道士的名字还是不能提吗？
 Dialogue: 2,0:17:55.88,0:17:58.58,Default-L2,,0,0,0,,{\fad(120,120)}will the name of the Monk still be forbidden?
 Dialogue: 3,0:17:58.58,0:18:01.74,Default,,0,0,0,,{\fad(120,120)}或者他是为了我而死，而不是为了你？
 Dialogue: 2,0:17:58.58,0:18:01.74,Default-L2,,0,0,0,,{\fad(120,120)}Or would he be dead for me, and not for you?
@@ -797,9 +797,9 @@ Dialogue: 3,0:31:19.91,0:31:21.81,Default,,0,0,0,,{\fad(120,120)}我和你倒是
 Dialogue: 2,0:31:19.91,0:31:21.81,Default-L2,,0,0,0,,{\fad(120,120)}I have a deal with you.
 Dialogue: 3,0:31:22.28,0:31:25.92,Default,,0,0,0,,{\fad(120,120)}相信我，我会一如既往地竭尽全力
 Dialogue: 2,0:31:22.28,0:31:25.92,Default-L2,,0,0,0,,{\fad(120,120)}Believe me I'll do everything in my power, as always.
-Dialogue: 3,0:31:26.24,0:31:31.02,Default,,0,0,0,,{\fad(120,120)}你有三天时间告诉我和尚是什么人，他藏在哪里
+Dialogue: 3,0:31:26.24,0:31:31.02,Default,,0,0,0,,{\fad(120,120)}你有三天时间告诉我修道士是什么人，他藏在哪里
 Dialogue: 2,0:31:26.24,0:31:31.02,Default-L2,,0,0,0,,{\fad(120,120)}You have three days to tell me who is Monk and where's he hiding.
-Dialogue: 3,0:31:32.77,0:31:35.66,Default,,0,0,0,,{\fad(120,120)}我认为我们不仅要关注和尚
+Dialogue: 3,0:31:32.77,0:31:35.66,Default,,0,0,0,,{\fad(120,120)}我认为我们不仅要关注修道士
 Dialogue: 2,0:31:32.77,0:31:35.66,Default-L2,,0,0,0,,{\fad(120,120)}I don't think that Monk is our only concern.
 Dialogue: 3,0:31:39.28,0:31:40.36,Default,,0,0,0,,{\fad(120,120)}接着说…
 Dialogue: 2,0:31:39.28,0:31:40.36,Default-L2,,0,0,0,,{\fad(120,120)}Go on...

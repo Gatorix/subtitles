@@ -239,9 +239,9 @@ Dialogue: 3,0:08:40.19,0:08:42.89,Default,,0,0,0,,{\fad(120,120)}那都结束了
 Dialogue: 2,0:08:40.19,0:08:42.89,Default-L2,,0,0,0,,{\fad(120,120)}It's over. Understand? They've got a new problem now.
 Dialogue: 3,0:08:43.04,0:08:46.48,Default,,0,0,0,,{\fad(120,120)}我们也是，一个新老板接替了 Tatko
 Dialogue: 2,0:08:43.04,0:08:46.48,Default-L2,,0,0,0,,{\fad(120,120)}And we too. A new boss has replaced Tatko.
-Dialogue: 3,0:08:46.48,0:08:50.69,Default,,0,0,0,,{\fad(120,120)}- 我知道，那个和尚 - 你怎么知道？
+Dialogue: 3,0:08:46.48,0:08:50.69,Default,,0,0,0,,{\fad(120,120)}- 我知道，那个修道士 - 你怎么知道？
 Dialogue: 2,0:08:46.48,0:08:50.69,Default-L2,,0,0,0,,{\fad(120,120)}- I know, that Monk guy. - How do you know?
-Dialogue: 3,0:08:50.69,0:08:53.32,Default,,0,0,0,,{\fad(120,120)}我问过他的几个手下，那个和尚与牧师谋杀案
+Dialogue: 3,0:08:50.69,0:08:53.32,Default,,0,0,0,,{\fad(120,120)}我问过他的几个手下，那个修道士与牧师谋杀案
 Dialogue: 2,0:08:50.69,0:08:53.32,Default-L2,,0,0,0,,{\fad(120,120)}I questioned some of his thugs. That Monk has nothing to do
 Dialogue: 3,0:08:53.32,0:08:56.27,Default,,0,0,0,,{\fad(120,120)}一点关系都没有，所以我不在乎他
 Dialogue: 2,0:08:53.32,0:08:56.27,Default-L2,,0,0,0,,{\fad(120,120)}with the murder of the priest, so I don't care about him.
@@ -1167,7 +1167,7 @@ Dialogue: 3,0:44:57.39,0:45:00.03,Default,,0,0,0,,{\fad(120,120)}我再也不能
 Dialogue: 2,0:44:57.39,0:45:00.03,Default-L2,,0,0,0,,{\fad(120,120)}I'll never be able to paint again!
 Dialogue: 3,0:45:18.46,0:45:19.78,Default,,0,0,0,,{\fad(120,120)}坐下
 Dialogue: 2,0:45:18.46,0:45:19.78,Default-L2,,0,0,0,,{\fad(120,120)}Sit down.
-Dialogue: 3,0:45:24.43,0:45:28.69,Default,,0,0,0,,{\fad(120,120)}那个和尚是麻风病人吗？
+Dialogue: 3,0:45:24.43,0:45:28.69,Default,,0,0,0,,{\fad(120,120)}那个修道士是麻风病人吗？
 Dialogue: 2,0:45:24.43,0:45:28.69,Default-L2,,0,0,0,,{\fad(120,120)}Is that Monk of yours leprous?
 Dialogue: 3,0:45:29.03,0:45:31.13,Default,,0,0,0,,{\fad(120,120)}他为什么要躲起来？
 Dialogue: 2,0:45:29.03,0:45:31.13,Default-L2,,0,0,0,,{\fad(120,120)}Why does he hide?
@@ -1281,5 +1281,5 @@ Dialogue: 3,0:51:28.22,0:51:30.49,Default,,0,0,0,,{\fad(120,120)}我不会像囚
 Dialogue: 2,0:51:28.22,0:51:30.49,Default-L2,,0,0,0,,{\fad(120,120)}I won't wait for him as a prisoner.
 Dialogue: 3,0:51:30.49,0:51:33.12,Default,,0,0,0,,{\fad(120,120)}我来到贝尔格莱德就是为了受到这样的对待吗？
 Dialogue: 2,0:51:30.49,0:51:33.12,Default-L2,,0,0,0,,{\fad(120,120)}Did I come to Belgrade to be treated like this?
-Dialogue: 3,0:52:27.82,0:52:31.21,Default,,0,0,0,,{\fad(120,120)}很高兴认识你，我是和尚
+Dialogue: 3,0:52:27.82,0:52:31.21,Default,,0,0,0,,{\fad(120,120)}很高兴认识你，我是修道士
 Dialogue: 2,0:52:27.82,0:52:31.21,Default-L2,,0,0,0,,{\fad(120,120)}Pleased to meet you. I am the Monk.

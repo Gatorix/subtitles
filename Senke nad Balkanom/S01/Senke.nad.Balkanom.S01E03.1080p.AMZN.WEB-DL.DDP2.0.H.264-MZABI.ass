@@ -759,7 +759,7 @@ Dialogue: 3,0:30:18.48,0:30:20.35,Default,,0,0,0,,{\fad(120,120)}一如既往，
 Dialogue: 2,0:30:18.48,0:30:20.35,Default-L2,,0,0,0,,{\fad(120,120)}As always, dear friend.
 Dialogue: 3,0:30:20.35,0:30:23.12,Default,,0,0,0,,{\fad(120,120)}- 进来坐会儿 - 我还有事
 Dialogue: 2,0:30:20.35,0:30:23.12,Default-L2,,0,0,0,,{\fad(120,120)}- Join us, there's enough space. - I don't have time.
-Dialogue: 3,0:30:25.27,0:30:29.73,Default,,0,0,0,,{\fad(120,120)}有事? 我倒是听说你跟那个什么和尚有点什么事
+Dialogue: 3,0:30:25.27,0:30:29.73,Default,,0,0,0,,{\fad(120,120)}有事? 我倒是听说你跟那个什么修道士有点什么事
 Dialogue: 2,0:30:25.27,0:30:29.73,Default-L2,,0,0,0,,{\fad(120,120)}Problems? I hear you have problems with some monks.
 Dialogue: 3,0:30:30.20,0:30:33.96,Default,,0,0,0,,{\fad(120,120)}他们让你很为难，至少我是这么听说的
 Dialogue: 2,0:30:30.20,0:30:33.96,Default-L2,,0,0,0,,{\fad(120,120)}Who are giving you a hard time. Or so I heard.
@@ -995,7 +995,7 @@ Dialogue: 3,0:40:29.73,0:40:33.23,Default,,0,0,0,,{\fad(120,120)}这么小的卡
 Dialogue: 2,0:40:29.73,0:40:33.23,Default-L2,,0,0,0,,{\fad(120,120)}how could such a small truck pack so many Macedonians?
 Dialogue: 3,0:40:34.23,0:40:36.43,Default,,0,0,0,,{\fad(120,120)}那么... 卡罗大师，你想喝点什么？
 Dialogue: 2,0:40:34.23,0:40:36.43,Default-L2,,0,0,0,,{\fad(120,120)}So... Master Kyro, what would you like to drink?
-Dialogue: 3,0:40:36.43,0:40:38.90,Default,,0,0,0,,{\fad(120,120)}我要你带我去见和尚
+Dialogue: 3,0:40:36.43,0:40:38.90,Default,,0,0,0,,{\fad(120,120)}我要你带我去见修道士
 Dialogue: 2,0:40:36.43,0:40:38.90,Default-L2,,0,0,0,,{\fad(120,120)}I want you to take me to the Monk.
 Dialogue: 3,0:40:38.90,0:40:40.24,Default,,0,0,0,,{\fad(120,120)}我要见他
 Dialogue: 2,0:40:38.90,0:40:40.24,Default-L2,,0,0,0,,{\fad(120,120)}I want to see him.
@@ -1007,7 +1007,7 @@ Dialogue: 3,0:40:46.93,0:40:50.71,Default,,0,0,0,,{\fad(120,120)}塔蒂奇是个
 Dialogue: 2,0:40:46.93,0:40:50.71,Default-L2,,0,0,0,,{\fad(120,120)}Tatich was a scum. A real scum.
 Dialogue: 3,0:40:51.39,0:40:53.12,Default,,0,0,0,,{\fad(120,120)}他做事不过脑子
 Dialogue: 2,0:40:51.39,0:40:53.12,Default-L2,,0,0,0,,{\fad(120,120)}He strikes without thinking.
-Dialogue: 3,0:40:54.30,0:40:57.09,Default,,0,0,0,,{\fad(120,120)}我要你带我去见和尚
+Dialogue: 3,0:40:54.30,0:40:57.09,Default,,0,0,0,,{\fad(120,120)}我要你带我去见修道士
 Dialogue: 2,0:40:54.30,0:40:57.09,Default-L2,,0,0,0,,{\fad(120,120)}I want you to take me to Monk.
 Dialogue: 3,0:40:57.58,0:40:59.62,Default,,0,0,0,,{\fad(120,120)}有些事我想问他
 Dialogue: 2,0:40:57.58,0:40:59.62,Default-L2,,0,0,0,,{\fad(120,120)}There's something I want to ask him.

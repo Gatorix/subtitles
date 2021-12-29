@@ -51,7 +51,7 @@ Dialogue: 4,0:02:54.30,0:02:57.11,Default,,0,0,0,,{\fad(120,120)}上面下达命
 Dialogue: 3,0:02:54.30,0:02:57.11,Default-L2,,0,0,0,,{\fad(120,120)}The orders are here, launch the raids across the south.
 Dialogue: 4,0:02:58.47,0:03:01.98,Default,,0,0,0,,{\fad(120,120)}同时发生了十起事件，马其顿人攻击了监狱
 Dialogue: 3,0:02:58.47,0:03:01.98,Default-L2,,0,0,0,,{\fad(120,120)}Ten incidents at the same time, and Macedonians attack the prison.
-Dialogue: 4,0:03:02.88,0:03:06.29,Default,,0,0,0,,{\fad(120,120)}你我都清楚马其顿人被和尚控制了
+Dialogue: 4,0:03:02.88,0:03:06.29,Default,,0,0,0,,{\fad(120,120)}你我都清楚马其顿人被修道士控制了
 Dialogue: 3,0:03:02.88,0:03:06.29,Default-L2,,0,0,0,,{\fad(120,120)}We all know that Monk controls the Macedonians. It's all clear.
 Dialogue: 4,0:03:06.29,0:03:09.97,Default,,0,0,0,,{\fad(120,120)}是的，而且我最想抓住他
 Dialogue: 3,0:03:06.29,0:03:09.97,Default-L2,,0,0,0,,{\fad(120,120)}It is, and I'd like to catch him more than anything else.
@@ -771,7 +771,7 @@ Dialogue: 4,0:35:14.24,0:35:17.11,Default,,0,0,0,,{\fad(120,120)}但现在你的
 Dialogue: 3,0:35:14.24,0:35:17.11,Default-L2,,0,0,0,,{\fad(120,120)}But now that your friends betrayed you,
 Dialogue: 4,0:35:17.49,0:35:19.35,Default,,0,0,0,,{\fad(120,120)}我来提供一个合作机会
 Dialogue: 3,0:35:17.49,0:35:19.35,Default-L2,,0,0,0,,{\fad(120,120)}I offer cooperation.
-Dialogue: 4,0:35:19.35,0:35:22.48,Default,,0,0,0,,{\fad(120,120)}有个和尚接管了你的生意
+Dialogue: 4,0:35:19.35,0:35:22.48,Default,,0,0,0,,{\fad(120,120)}有个修道士接管了你的生意
 Dialogue: 3,0:35:19.35,0:35:22.48,Default-L2,,0,0,0,,{\fad(120,120)}Some Monk is taking over your business,
 Dialogue: 4,0:35:23.94,0:35:26.72,Default,,0,0,0,,{\fad(120,120)}还有一些混蛋在城里到处杀人
 Dialogue: 3,0:35:23.94,0:35:26.72,Default-L2,,0,0,0,,{\fad(120,120)}and some scumbags are killing people all over the city.
@@ -781,7 +781,7 @@ Dialogue: 4,0:35:38.39,0:35:41.24,Default,,0,0,0,,{\fad(120,120)}你怎么知道
 Dialogue: 3,0:35:38.39,0:35:41.24,Default-L2,,0,0,0,,{\fad(120,120)}How would you know what I'm looking for?
 Dialogue: 4,0:35:42.78,0:35:45.38,Default,,0,0,0,,{\fad(120,120)}- 那是我的工作 - 那又怎样？
 Dialogue: 3,0:35:42.78,0:35:45.38,Default-L2,,0,0,0,,{\fad(120,120)}- That's my job. - So?
-Dialogue: 4,0:35:45.38,0:35:48.55,Default,,0,0,0,,{\fad(120,120)}我敢打赌和尚和那些混蛋
+Dialogue: 4,0:35:45.38,0:35:48.55,Default,,0,0,0,,{\fad(120,120)}我敢打赌修道士和那些混蛋
 Dialogue: 3,0:35:45.38,0:35:48.55,Default-L2,,0,0,0,,{\fad(120,120)}I can bet that Monk and the scumbags
 Dialogue: 4,0:35:48.55,0:35:52.09,Default,,0,0,0,,{\fad(120,120)}和你曾经的朋友一起工作，也就是我的上级
 Dialogue: 3,0:35:48.55,0:35:52.09,Default-L2,,0,0,0,,{\fad(120,120)}work with your former friends, who appear to be my bosses.

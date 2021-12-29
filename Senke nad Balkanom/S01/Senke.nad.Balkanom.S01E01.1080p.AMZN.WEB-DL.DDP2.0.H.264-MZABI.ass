@@ -1709,9 +1709,9 @@ Dialogue: 2,1:14:05.16,1:14:08.42,Default,,0,0,0,,{\fad(120,120)}- 谁杀了神�
 Dialogue: 1,1:14:05.16,1:14:08.42,Default-L2,,0,0,0,,{\fad(120,120)}- Who killed the priest? - I don't know! I swear!
 Dialogue: 2,1:14:11.26,1:14:14.10,Default,,0,0,0,,{\fad(120,120)}我们为什么要报复一个俄罗斯神父？
 Dialogue: 1,1:14:11.26,1:14:14.10,Default-L2,,0,0,0,,{\fad(120,120)}Why would we wanna get revenge on a Russian priest?
-Dialogue: 2,1:14:14.11,1:14:17.35,Default,,0,0,0,,{\fad(120,120)}和尚禁止任何复仇行为 
+Dialogue: 2,1:14:14.11,1:14:17.35,Default,,0,0,0,,{\fad(120,120)}修道士禁止一切复仇行为 
 Dialogue: 1,1:14:14.11,1:14:17.35,Default-L2,,0,0,0,,{\fad(120,120)}The Monk has forbidden any act of vengeance.
-Dialogue: 2,1:14:25.63,1:14:27.33,Default,,0,0,0,,{\fad(120,120)}和尚是谁？
+Dialogue: 2,1:14:25.63,1:14:27.33,Default,,0,0,0,,{\fad(120,120)}修道士是谁？
 Dialogue: 1,1:14:25.63,1:14:27.33,Default-L2,,0,0,0,,{\fad(120,120)}Who is the Monk?
 Dialogue: 2,1:14:28.77,1:14:31.33,Default,,0,0,0,,{\fad(120,120)}我们的新老板，接替Tatko的人 
 Dialogue: 1,1:14:28.77,1:14:31.33,Default-L2,,0,0,0,,{\fad(120,120)}Our new boss. He replaced Tatko.
