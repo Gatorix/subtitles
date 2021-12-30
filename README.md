@@ -33,7 +33,7 @@
 
 + [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
   
-  + 制作中，预计11月完成
+  + 第一季已完成，第二季正在制作中
   
 ### 计划
 
