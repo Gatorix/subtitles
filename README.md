@@ -9,8 +9,10 @@
   + 提取字幕文件中的纯文本（单独提取中文或英文）
   + 根据arctime生成的双语ass字幕输出多版本字幕，包括简/繁体srt、简/繁体ass、简/繁双语srt、简/繁双语ass、英语srt（开发中）
 
-+ 这里还有一个有趣的项目——[strange_knowladge](https://github.com/Gatorix/strange_knowladge)，这是在公众号发布的一些奇怪的知识，目前已整理一些常用的Excel函数用法，欢迎关注。
++ 这里还有一个有趣的项目——[strange_knowladge](https://github.com/Gatorix/strange_knowladge)，这是在公众号发布的一些奇怪的知识，目前已整理一些常用的Excel函数用法，将会持续更新，欢迎关注。
 
++ 另外译制过程中遇到的一些生词和短语等，记录在Note文件夹中
+  
 ## 下载字幕
 
 + 请直接点击上方的绿色Code按钮，选择Download ZIP进行下载，也可以直接点[这里](https://github.com/Gatorix/subtitles/archive/master.zip)下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
@@ -67,7 +69,7 @@
 
 + 「TVF Pitchers」[fjn308](https://github.com/fjn308) 修正字幕重叠问题
 
-+ 还有你
++ You
   
 ## 联系方式
 
