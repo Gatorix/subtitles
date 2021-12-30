@@ -25,7 +25,7 @@
 
 + [TVF Pitcher](https://www.imdb.com/title/tt4742876/)
   
-+ [TVF Kota Factory](https://www.imdb.com/title/tt9432978/)
++ [TVF Kota Factory](https://www.imdb.com/title/tt9432978/) S01（S02已在Netflix上线，带有官翻中文字幕，不再继续制作）
   
 + [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)
   
