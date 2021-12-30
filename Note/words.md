@@ -124,3 +124,9 @@
 - subdue /səbˈdjuː/ 镇压，制服
   - to defeat or control a person or group, especially using force
   
+- differ /ˈdɪfə $ -ər/ 不同，不一样，有区别
+  - to be different from something in some way
+  
+- obstacle /ˈɒbstəkəl/ 障碍，阻碍，妨碍
+  - something that makes it difficult to achieve something
+  
