@@ -16,14 +16,8 @@ Video Zoom Percent: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,AppleSystemUIFont,54,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,73,1
-Style: Default-L2,AppleSystemUIFont,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,47,1
-Style: Default-Box,Hiragino Sans GB,54,&H00FFFFFF,&H00FFFFFF,&H41000000,&HFF000000,0,0,0,0,100.0,100.0,0.0,0.0,3,8.5,0.0,2,135,135,72,1
-Style: Pingfang-1280x720,PingFang SC,48,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,3.1,1.2,2,135,135,72,1
-Style: Pingfang-1920x1080,PingFang SC,60,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,4.2,1.5,2,200,200,102,1
-Style: Pingfang-4K,PingFang SC,120,&H00FFFFFF,&H00FFFFFF,&H16534241,&HE12E2625,0,0,0,0,100.0,100.0,0.0,0.0,1,4.5,2.5,2,200,200,110,1
-Style: OneFX,PingFang SC,54,&H00FFFE67,&H000000FF,&H00A4671B,&H914F310D,-1,-1,-1,0,100.0,120.0,0.0,10.32258,1,5.6910567,4.268293,2,10,10,80,1
-Style: BarFX,Arial,18,&H00FFFBDB,&H000000FF,&H9E49FF16,&H66383726,0,0,0,0,100.0,100.0,0.0,0.0,1,2.0,1.0,2,0,0,4,1
+Style: Default,AppleSystemUIFont,78,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,80,1
+Style: Default-L2,AppleSystemUIFont,48,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,40,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
