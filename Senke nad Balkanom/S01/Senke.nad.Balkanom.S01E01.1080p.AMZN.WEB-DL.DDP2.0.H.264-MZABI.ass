@@ -16,8 +16,8 @@ Video Zoom Percent: 1
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,AppleSystemUIFont,54,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,73,1
-Style: Default-L2,AppleSystemUIFont,32,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,47,1
+Style: Default,AppleSystemUIFont,78,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,90,1
+Style: Default-L2,AppleSystemUIFont,48,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,100.0,100.0,0.0,0.0,1,0.0,2.1153846,2,135,135,50,1
 Style: Default-Box,Hiragino Sans GB,54,&H00FFFFFF,&H00FFFFFF,&H41000000,&HFF000000,0,0,0,0,100.0,100.0,0.0,0.0,3,8.5,0.0,2,135,135,72,1
 Style: Pingfang-1280x720,PingFang SC,48,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,3.1,1.2,2,135,135,72,1
 Style: Pingfang-1920x1080,PingFang SC,60,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,0,0,0,100.0,100.0,0.0,0.0,1,4.2,1.5,2,200,200,102,1
@@ -433,7 +433,7 @@ Dialogue: 2,0:20:23.25,0:20:26.19,Default,,0,0,0,,{\fad(120,120)}又来? 想想�
 Dialogue: 1,0:20:23.25,0:20:26.19,Default-L2,,0,0,0,,{\fad(120,120)}Again? Think of something else, Jesus.
 Dialogue: 2,0:20:26.52,0:20:31.33,Default,,0,0,0,,{\fad(120,120)}你想怎么样，告诉警察你奶奶死于梅毒？
 Dialogue: 1,0:20:26.52,0:20:31.33,Default-L2,,0,0,0,,{\fad(120,120)}What do you want, to tell the police that your grandma died from syphilis?
-Dialogue: 2,0:20:31.96,0:20:35.36,Default,,0,0,0,,{\fad(120,120)}帮我拿着这个，替我向凯罗问好 
+Dialogue: 2,0:20:31.96,0:20:35.36,Default,,0,0,0,,{\fad(120,120)}帮我拿着这个，替我向基拉问好 
 Dialogue: 1,0:20:31.96,0:20:35.36,Default-L2,,0,0,0,,{\fad(120,120)}Hold this for me. Say hi to Kyro for me.
 Dialogue: 2,0:20:35.37,0:20:37.43,Default,,0,0,0,,{\fad(120,120)}嘿，孩子，过来！
 Dialogue: 1,0:20:35.37,0:20:37.43,Default-L2,,0,0,0,,{\fad(120,120)}Hey, kid, come here!
@@ -445,7 +445,7 @@ Dialogue: 2,0:21:18.41,0:21:22.64,Default,,0,0,0,,{\fad(120,120)}你的衣服准
 Dialogue: 1,0:21:18.41,0:21:22.64,Default-L2,,0,0,0,,{\fad(120,120)}Your suit is ready. Come to try it. Alyosha.
 Dialogue: 2,0:21:22.65,0:21:24.21,Default,,0,0,0,,{\fad(120,120)}地址？
 Dialogue: 1,0:21:22.65,0:21:24.21,Default-L2,,0,0,0,,{\fad(120,120)}Address?
-Dialogue: 2,0:21:25.72,0:21:29.12,Default,,0,0,0,,{\fad(120,120)}总部  莫斯科  苏联
+Dialogue: 2,0:21:25.72,0:21:29.12,Default,,0,0,0,,{\fad(120,120)}苏联 莫斯科总部
 Dialogue: 1,0:21:25.72,0:21:29.12,Default-L2,,0,0,0,,{\fad(120,120)}OGPU Headquarters Moscow, USSR
 Dialogue: 2,0:22:00.70,0:22:03.25,Default,,0,0,0,,{\fad(120,120)}你的衣服准备好了 来试试吧 阿廖沙 
 Dialogue: 1,0:22:00.70,0:22:03.25,Default-L2,,0,0,0,,{\fad(120,120)}Your suit is ready. Come to try it. Alyosha.
