@@ -130,3 +130,6 @@
 - obstacle /ˈɒbstəkəl/ 障碍，阻碍，妨碍
   - something that makes it difficult to achieve something
   
+- municipality  /mjuːˌnɪsəˈpæləti/ 市，自治市；市政当局
+  - a town, city, or other small area, which has its own government to make decisions about local affairs, or the officials in that government
+  

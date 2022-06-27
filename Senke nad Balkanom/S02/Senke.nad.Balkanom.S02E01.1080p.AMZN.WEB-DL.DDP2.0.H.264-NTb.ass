@@ -64,7 +64,7 @@ Dialogue: 4,0:02:22.97,0:02:25.11,Default,,0,0,0,,{\fad(120,120)}戈迪纳先生
 Dialogue: 3,0:02:22.97,0:02:25.11,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Godina, are you in a hurry?
 Dialogue: 4,0:02:26.34,0:02:28.74,Default,,0,0,0,,{\fad(120,120)}恐怕你得跟我们走一趟了
 Dialogue: 3,0:02:26.34,0:02:28.74,Default-L2,,0,0,0,,{\fad(120,120)}I'm afraid you'll have to come with us.
-Dialogue: 4,0:02:30.68,0:02:35.12,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国 贝尔格莱德 日诺夫关卡 阿瓦拉
+Dialogue: 4,0:02:30.68,0:02:35.12,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国 贝尔格莱德 日尔诺夫关卡 阿瓦拉
 Dialogue: 3,0:02:30.68,0:02:35.12,Default-L2,,0,0,0,,{\fad(120,120)}AVALA, ZHRNOV FORTRESS BELGRADE, KINGDOM OF YUGOSLAVIA
 Dialogue: 4,0:03:02.18,0:03:03.18,Default,,0,0,0,,{\fad(120,120)}他回来了
 Dialogue: 3,0:03:02.18,0:03:03.18,Default-L2,,0,0,0,,{\fad(120,120)}He's back.
@@ -78,65 +78,65 @@ Dialogue: 4,0:04:09.40,0:04:12.61,Default,,0,0,0,,{\fad(120,120)}巴尔干半岛
 Dialogue: 3,0:04:09.40,0:04:12.61,Default-L2,,0,0,0,,{\fad(120,120)}BLACK SUN SEASON 2 EPISODE 1
 Dialogue: 4,0:05:33.20,0:05:37.17,Default,,0,0,0,,{\fad(120,120)}新时代报
 Dialogue: 3,0:05:33.20,0:05:37.17,Default-L2,,0,0,0,,{\fad(120,120)}NEW AGE
-Dialogue: 4,0:05:55.70,0:05:58.91,Default,,0,0,0,,{\fad(120,120)}LUKA PLETIKOSICH
+Dialogue: 4,0:05:55.70,0:05:58.91,Default,,0,0,0,,{\fad(120,120)}卢卡 · 普莱蒂科西奇
 Dialogue: 3,0:05:55.70,0:05:58.91,Default-L2,,0,0,0,,{\fad(120,120)}LUKA PLETIKOSICH
-Dialogue: 4,0:06:14.33,0:06:17.51,Default,,0,0,0,,{\fad(120,120)}如果你是来拿离婚协议书的，那你可不是挑了个好时机
+Dialogue: 4,0:06:14.33,0:06:17.51,Default,,0,0,0,,{\fad(120,120)}如果你是来拿离婚协议书的，那你可能来的不是时候
 Dialogue: 3,0:06:14.33,0:06:17.51,Default-L2,,0,0,0,,{\fad(120,120)}If you came for divorce papers, you didn't pick a very good time.
-Dialogue: 4,0:06:19.29,0:06:22.31,Default,,0,0,0,,{\fad(120,120)}你很清楚离婚对我来说和婚姻一样重要
+Dialogue: 4,0:06:19.29,0:06:22.31,Default,,0,0,0,,{\fad(120,120)}你很清楚，离婚对我来说和结婚一样重要
 Dialogue: 3,0:06:19.29,0:06:22.31,Default-L2,,0,0,0,,{\fad(120,120)}Well, you know very well that divorce is as important to me as marriage.
 Dialogue: 4,0:06:24.88,0:06:26.62,Default,,0,0,0,,{\fad(120,120)}我是来跟卢卡爷爷道别的
 Dialogue: 3,0:06:24.88,0:06:26.62,Default-L2,,0,0,0,,{\fad(120,120)}I came to say goodbye to grandpa Luka.
-Dialogue: 4,0:06:28.05,0:06:29.65,Default,,0,0,0,,{\fad(120,120)}你准时到了
+Dialogue: 4,0:06:28.05,0:06:29.65,Default,,0,0,0,,{\fad(120,120)}你来的真准时
 Dialogue: 3,0:06:28.05,0:06:29.65,Default-L2,,0,0,0,,{\fad(120,120)}You arrived on time.
-Dialogue: 4,0:06:30.14,0:06:32.25,Default,,0,0,0,,{\fad(120,120)}让我们帮助自己
+Dialogue: 4,0:06:30.14,0:06:32.25,Default,,0,0,0,,{\fad(120,120)}过来休息下吧
 Dialogue: 3,0:06:30.14,0:06:32.25,Default-L2,,0,0,0,,{\fad(120,120)}Let's help ourselves.
-Dialogue: 4,0:06:32.25,0:06:34.32,Default,,0,0,0,,{\fad(120,120)}我们应该吃点东西，喝点东西
+Dialogue: 4,0:06:32.25,0:06:34.32,Default,,0,0,0,,{\fad(120,120)}我们应该吃点东西，喝点酒
 Dialogue: 3,0:06:32.25,0:06:34.32,Default-L2,,0,0,0,,{\fad(120,120)}We should eat and drink something.
 Dialogue: 4,0:06:35.52,0:06:36.59,Default,,0,0,0,,{\fad(120,120)}节哀顺变
 Dialogue: 3,0:06:35.52,0:06:36.59,Default-L2,,0,0,0,,{\fad(120,120)}My condolences.
 Dialogue: 4,0:06:36.59,0:06:38.29,Default,,0,0,0,,{\fad(120,120)}谢谢你，亲爱的，来吧
 Dialogue: 3,0:06:36.59,0:06:38.29,Default-L2,,0,0,0,,{\fad(120,120)}Thank you, honey. Come on.
-Dialogue: 4,0:06:42.63,0:06:43.90,Default,,0,0,0,,{\fad(120,120)}他没让我知道
+Dialogue: 4,0:06:42.63,0:06:43.90,Default,,0,0,0,,{\fad(120,120)}他没告诉我
 Dialogue: 3,0:06:42.63,0:06:43.90,Default-L2,,0,0,0,,{\fad(120,120)}He didn't let me know.
 Dialogue: 4,0:06:43.90,0:06:45.87,Default,,0,0,0,,{\fad(120,120)}我是偶然从报纸上得知的
 Dialogue: 3,0:06:43.90,0:06:45.87,Default-L2,,0,0,0,,{\fad(120,120)}I found out by accident, from the newspaper.
-Dialogue: 4,0:06:46.60,0:06:49.27,Default,,0,0,0,,{\fad(120,120)}别担心，他好像把自己的灵魂出卖给了魔鬼
+Dialogue: 4,0:06:46.60,0:06:49.27,Default,,0,0,0,,{\fad(120,120)}别担心，他从瑞士回来以后就一直这样
 Dialogue: 3,0:06:46.60,0:06:49.27,Default-L2,,0,0,0,,{\fad(120,120)}Don't worry. It's like he sold his soul to the devil.
-Dialogue: 4,0:06:49.67,0:06:52.57,Default,,0,0,0,,{\fad(120,120)}他从瑞士回来以后就一直这样
+Dialogue: 4,0:06:49.67,0:06:52.57,Default,,0,0,0,,{\fad(120,120)}没有你在身边
 Dialogue: 3,0:06:49.67,0:06:52.57,Default-L2,,0,0,0,,{\fad(120,120)}He has been like that since he returned from Switzerland.
-Dialogue: 4,0:06:53.11,0:06:54.14,Default,,0,0,0,,{\fad(120,120)}没有你
+Dialogue: 4,0:06:53.11,0:06:54.14,Default,,0,0,0,,{\fad(120,120)}好像丢了魂一样
 Dialogue: 3,0:06:53.11,0:06:54.14,Default-L2,,0,0,0,,{\fad(120,120)}Without you.
 Dialogue: 4,0:06:55.44,0:06:56.61,Default,,0,0,0,,{\fad(120,120)}你什么时候来的？
 Dialogue: 3,0:06:55.44,0:06:56.61,Default-L2,,0,0,0,,{\fad(120,120)}When did you come?
 Dialogue: 4,0:06:57.58,0:06:58.65,Default,,0,0,0,,{\fad(120,120)}三个月前
 Dialogue: 3,0:06:57.58,0:06:58.65,Default-L2,,0,0,0,,{\fad(120,120)}Three months ago.
-Dialogue: 4,0:06:59.88,0:07:01.95,Default,,0,0,0,,{\fad(120,120)}现在，你回来了，你在做什么？
+Dialogue: 4,0:06:59.88,0:07:01.95,Default,,0,0,0,,{\fad(120,120)}现在回来了，你在做什么工作？
 Dialogue: 3,0:06:59.88,0:07:01.95,Default-L2,,0,0,0,,{\fad(120,120)}And now, that you're back, what are you doing?
 Dialogue: 4,0:07:02.94,0:07:05.09,Default,,0,0,0,,{\fad(120,120)}我在医学院教法医学
 Dialogue: 3,0:07:02.94,0:07:05.09,Default-L2,,0,0,0,,{\fad(120,120)}I teach forensics at medical school.
 Dialogue: 4,0:07:06.32,0:07:08.76,Default,,0,0,0,,{\fad(120,120)}哦，教授，干得好！
 Dialogue: 3,0:07:06.32,0:07:08.76,Default-L2,,0,0,0,,{\fad(120,120)}Oh, a professor. Well done!
-Dialogue: 4,0:07:11.94,0:07:14.10,Default,,0,0,0,,{\fad(120,120)}没有你，他永远不会安定下来
+Dialogue: 4,0:07:11.94,0:07:14.10,Default,,0,0,0,,{\fad(120,120)}如果没有你，他永远不会安定下来
 Dialogue: 3,0:07:11.94,0:07:14.10,Default-L2,,0,0,0,,{\fad(120,120)}He will never settle down without you.
 Dialogue: 4,0:07:15.56,0:07:17.83,Default,,0,0,0,,{\fad(120,120)}不能没有我，也不能和我在一起
 Dialogue: 3,0:07:15.56,0:07:17.83,Default-L2,,0,0,0,,{\fad(120,120)}Not without me but not with me, either.
 Dialogue: 4,0:07:31.01,0:07:32.45,Default,,0,0,0,,{\fad(120,120)}这是波兹达，我的同事
 Dialogue: 3,0:07:31.01,0:07:32.45,Default-L2,,0,0,0,,{\fad(120,120)}This is Bozidar, my colleague.
-Dialogue: 4,0:07:33.38,0:07:34.55,Default,,0,0,0,,{\fad(120,120)}博雅纳，很高兴见到你
+Dialogue: 4,0:07:33.38,0:07:34.55,Default,,0,0,0,,{\fad(120,120)}我是博雅纳，很高兴见到你
 Dialogue: 3,0:07:33.38,0:07:34.55,Default-L2,,0,0,0,,{\fad(120,120)}Boyana, nice to meet you.
 Dialogue: 4,0:07:35.48,0:07:36.82,Default,,0,0,0,,{\fad(120,120)}泽切维奇，我也很高兴见到你
 Dialogue: 3,0:07:35.48,0:07:36.82,Default-L2,,0,0,0,,{\fad(120,120)}Zecevich, nice to meet you, too.
-Dialogue: 4,0:07:37.59,0:07:40.06,Default,,0,0,0,,{\fad(120,120)}我真的很抱歉，但我们该走了
+Dialogue: 4,0:07:37.59,0:07:40.06,Default,,0,0,0,,{\fad(120,120)}真的很抱歉，但我们该走了
 Dialogue: 3,0:07:37.59,0:07:40.06,Default-L2,,0,0,0,,{\fad(120,120)}I really apologize, but we should go.
 Dialogue: 4,0:07:40.92,0:07:41.92,Default,,0,0,0,,{\fad(120,120)}他们在等我们
 Dialogue: 3,0:07:40.92,0:07:41.92,Default-L2,,0,0,0,,{\fad(120,120)}They're waiting for us.
-Dialogue: 4,0:07:43.76,0:07:44.76,Default,,0,0,0,,{\fad(120,120)}阿姨..
+Dialogue: 4,0:07:43.76,0:07:44.76,Default,,0,0,0,,{\fad(120,120)}阿姨...
 Dialogue: 3,0:07:43.76,0:07:44.76,Default-L2,,0,0,0,,{\fad(120,120)}Aunt...
 Dialogue: 4,0:07:46.76,0:07:47.76,Default,,0,0,0,,{\fad(120,120)}我得走了
 Dialogue: 3,0:07:46.76,0:07:47.76,Default-L2,,0,0,0,,{\fad(120,120)}I have to go.
-Dialogue: 4,0:07:48.20,0:07:49.53,Default,,0,0,0,,{\fad(120,120)}一些重要的事情发生了
+Dialogue: 4,0:07:48.20,0:07:49.53,Default,,0,0,0,,{\fad(120,120)}发生了一些很重要的事情
 Dialogue: 3,0:07:48.20,0:07:49.53,Default-L2,,0,0,0,,{\fad(120,120)}Something important happened.
-Dialogue: 4,0:07:52.20,0:07:53.27,Default,,0,0,0,,{\fad(120,120)}谢谢你能来
+Dialogue: 4,0:07:52.20,0:07:53.27,Default,,0,0,0,,{\fad(120,120)}感谢你的到来
 Dialogue: 3,0:07:52.20,0:07:53.27,Default-L2,,0,0,0,,{\fad(120,120)}Thanks for coming.
 Dialogue: 4,0:07:57.87,0:08:01.88,Default,,0,0,0,,{\fad(120,120)}你知道吗，乔洛维奇，我们现在处于什么样的境地？
 Dialogue: 3,0:07:57.87,0:08:01.88,Default-L2,,0,0,0,,{\fad(120,120)}Are you aware, Djolovich, what kind of shit are we in now?
@@ -144,7 +144,7 @@ Dialogue: 4,0:08:02.58,0:08:05.22,Default,,0,0,0,,{\fad(120,120)}最重要的是
 Dialogue: 3,0:08:02.58,0:08:05.22,Default-L2,,0,0,0,,{\fad(120,120)}The most important thing is that His Majesty is alive.
 Dialogue: 4,0:08:05.22,0:08:09.08,Default,,0,0,0,,{\fad(120,120)}他还活着是因为乌斯塔莎是白痴，而不是因为我们有能力
 Dialogue: 3,0:08:05.22,0:08:09.08,Default-L2,,0,0,0,,{\fad(120,120)}He is alive because the Ustasha are idiots, not because we are capable.
-Dialogue: 4,0:08:09.35,0:08:11.75,Default,,0,0,0,,{\fad(120,120)}我们跟错了路但下次..
+Dialogue: 4,0:08:09.35,0:08:11.75,Default,,0,0,0,,{\fad(120,120)}我们跟错了线索，但下次...
 Dialogue: 3,0:08:09.35,0:08:11.75,Default-L2,,0,0,0,,{\fad(120,120)}We followed the wrong trail, but next time...
 Dialogue: 4,0:08:11.75,0:08:12.92,Default,,0,0,0,,{\fad(120,120)}下一次呢? ！
 Dialogue: 3,0:08:11.75,0:08:12.92,Default-L2,,0,0,0,,{\fad(120,120)}What next time?!
@@ -152,53 +152,53 @@ Dialogue: 4,0:08:14.22,0:08:15.99,Default,,0,0,0,,{\fad(120,120)}没有下次了
 Dialogue: 3,0:08:14.22,0:08:15.99,Default-L2,,0,0,0,,{\fad(120,120)}There is no next time, Djolovich.
 Dialogue: 4,0:08:17.06,0:08:18.46,Default,,0,0,0,,{\fad(120,120)}不是为了你，也不是为了我
 Dialogue: 3,0:08:17.06,0:08:18.46,Default-L2,,0,0,0,,{\fad(120,120)}Not for you, not for me.
-Dialogue: 4,0:08:20.76,0:08:22.53,Default,,0,0,0,,{\fad(120,120)}我们有戈迪纳
+Dialogue: 4,0:08:20.76,0:08:22.53,Default,,0,0,0,,{\fad(120,120)}我们还有戈迪纳
 Dialogue: 3,0:08:20.76,0:08:22.53,Default-L2,,0,0,0,,{\fad(120,120)}We have Godina.
-Dialogue: 4,0:08:23.40,0:08:25.10,Default,,0,0,0,,{\fad(120,120)}确保他对我们有好处
+Dialogue: 4,0:08:23.40,0:08:25.10,Default,,0,0,0,,{\fad(120,120)}确保他是在我们这边的
 Dialogue: 3,0:08:23.40,0:08:25.10,Default-L2,,0,0,0,,{\fad(120,120)}Make sure he's good for us.
 Dialogue: 4,0:08:26.64,0:08:27.64,Default,,0,0,0,,{\fad(120,120)}将军先生
 Dialogue: 3,0:08:26.64,0:08:27.64,Default-L2,,0,0,0,,{\fad(120,120)}Mr. General.
-Dialogue: 4,0:08:28.03,0:08:30.51,Default,,0,0,0,,{\fad(120,120)}- 你到底想要什么?-日瓦科维奇先生..
+Dialogue: 4,0:08:28.03,0:08:30.51,Default,,0,0,0,,{\fad(120,120)}- 你来这干什么? - 日瓦科维奇先生..
 Dialogue: 3,0:08:28.03,0:08:30.51,Default-L2,,0,0,0,,{\fad(120,120)}- What the hell do you want? - Mr. Zhivkovich...
 Dialogue: 4,0:08:31.81,0:08:32.81,Default,,0,0,0,,{\fad(120,120)}我们有麻烦了
 Dialogue: 3,0:08:31.81,0:08:32.81,Default-L2,,0,0,0,,{\fad(120,120)}We have a problem.
-Dialogue: 4,0:08:33.27,0:08:34.38,Default,,0,0,0,,{\fad(120,120)}什么问题? ！
+Dialogue: 4,0:08:33.27,0:08:34.38,Default,,0,0,0,,{\fad(120,120)}什么麻烦？
 Dialogue: 3,0:08:33.27,0:08:34.38,Default-L2,,0,0,0,,{\fad(120,120)}What problem?!
-Dialogue: 4,0:08:36.14,0:08:38.05,Default,,0,0,0,,{\fad(120,120)}上面发生了一起谋杀案
+Dialogue: 4,0:08:36.14,0:08:38.05,Default,,0,0,0,,{\fad(120,120)}发生了一起谋杀案
 Dialogue: 3,0:08:36.14,0:08:38.05,Default-L2,,0,0,0,,{\fad(120,120)}There was a murder up there.
-Dialogue: 4,0:08:38.91,0:08:39.91,Default,,0,0,0,,{\fad(120,120)}在 Zhrnov
+Dialogue: 4,0:08:38.91,0:08:39.91,Default,,0,0,0,,{\fad(120,120)}在日尔诺夫
 Dialogue: 3,0:08:38.91,0:08:39.91,Default-L2,,0,0,0,,{\fad(120,120)}At Zhrnov.
-Dialogue: 4,0:08:45.47,0:08:46.47,Default,,0,0,0,,{\fad(120,120)}来吧
+Dialogue: 4,0:08:45.47,0:08:46.47,Default,,0,0,0,,{\fad(120,120)}来这边
 Dialogue: 3,0:08:45.47,0:08:46.47,Default-L2,,0,0,0,,{\fad(120,120)}Come.
 Dialogue: 4,0:08:50.27,0:08:51.27,Default,,0,0,0,,{\fad(120,120)}谁？
 Dialogue: 3,0:08:50.27,0:08:51.27,Default-L2,,0,0,0,,{\fad(120,120)}Who?
 Dialogue: 4,0:08:51.66,0:08:53.46,Default,,0,0,0,,{\fad(120,120)}我们的矿工，巴雅克塔瑞维奇
 Dialogue: 3,0:08:51.66,0:08:53.46,Default-L2,,0,0,0,,{\fad(120,120)}Our miner, Baryaktarevich.
-Dialogue: 4,0:08:54.76,0:08:58.22,Default,,0,0,0,,{\fad(120,120)}有个 Avala 来的疯子闯进去杀了他
+Dialogue: 4,0:08:54.76,0:08:58.22,Default,,0,0,0,,{\fad(120,120)}有个阿瓦拉来的疯子闯进去杀了他
 Dialogue: 3,0:08:54.76,0:08:58.22,Default-L2,,0,0,0,,{\fad(120,120)}Some lunatic from Avala broke in there and killed him.
 Dialogue: 4,0:08:58.33,0:08:59.53,Default,,0,0,0,,{\fad(120,120)}听我说
 Dialogue: 3,0:08:58.33,0:08:59.53,Default-L2,,0,0,0,,{\fad(120,120)}Listen to me.
-Dialogue: 4,0:09:01.00,0:09:02.57,Default,,0,0,0,,{\fad(120,120)}日诺夫是你的问题,
+Dialogue: 4,0:09:01.00,0:09:02.57,Default,,0,0,0,,{\fad(120,120)}日尔诺夫是你的问题
 Dialogue: 3,0:09:01.00,0:09:02.57,Default-L2,,0,0,0,,{\fad(120,120)}Zhrnov is your concern,
-Dialogue: 4,0:09:03.74,0:09:06.74,Default,,0,0,0,,{\fad(120,120)}- 尽你所能去解决-是，长官
+Dialogue: 4,0:09:03.74,0:09:06.74,Default,,0,0,0,,{\fad(120,120)}- 尽你所能去解决 - 是，长官
 Dialogue: 3,0:09:03.74,0:09:06.74,Default-L2,,0,0,0,,{\fad(120,120)}- solve it however you can. - Yes, sir.
-Dialogue: 4,0:09:06.74,0:09:08.88,Default,,0,0,0,,{\fad(120,120)}否则，我们会找到一个可以的人
+Dialogue: 4,0:09:06.74,0:09:08.88,Default,,0,0,0,,{\fad(120,120)}否则，我们就换一个能解决问题的人
 Dialogue: 3,0:09:06.74,0:09:08.88,Default-L2,,0,0,0,,{\fad(120,120)}Otherwise, we'll find someone who can.
-Dialogue: 4,0:09:10.72,0:09:11.72,Default,,0,0,0,,{\fad(120,120)}是的，先生
+Dialogue: 4,0:09:10.72,0:09:11.72,Default,,0,0,0,,{\fad(120,120)}是，长官
 Dialogue: 3,0:09:10.72,0:09:11.72,Default-L2,,0,0,0,,{\fad(120,120)}Yes, sir.
-Dialogue: 4,0:09:12.91,0:09:14.52,Default,,0,0,0,,{\fad(120,120)}- 明白吗?-明白
+Dialogue: 4,0:09:12.91,0:09:14.52,Default,,0,0,0,,{\fad(120,120)}- 明白了吗？ - 明白
 Dialogue: 3,0:09:12.91,0:09:14.52,Default-L2,,0,0,0,,{\fad(120,120)}- Understood? - Understood.
 Dialogue: 4,0:09:25.09,0:09:28.60,Default,,0,0,0,,{\fad(120,120)}我回来了 U.H. 
 Dialogue: 3,0:09:25.09,0:09:28.60,Default-L2,,0,0,0,,{\fad(120,120)}I'M BACK. U.H.
-Dialogue: 4,0:09:28.90,0:09:29.93,Default,,0,0,0,,{\fad(120,120)}U.H. .
+Dialogue: 4,0:09:28.90,0:09:29.93,Default,,0,0,0,,{\fad(120,120)}U.H...
 Dialogue: 3,0:09:28.90,0:09:29.93,Default-L2,,0,0,0,,{\fad(120,120)}U.H.
 Dialogue: 4,0:09:31.30,0:09:32.30,Default,,0,0,0,,{\fad(120,120)}无名英雄
 Dialogue: 3,0:09:31.30,0:09:32.30,Default-L2,,0,0,0,,{\fad(120,120)}Unknown hero.
-Dialogue: 4,0:09:36.07,0:09:37.84,Default,,0,0,0,,{\fad(120,120)}给这个拍张照片，这样他们就能拍下来了
+Dialogue: 4,0:09:36.07,0:09:37.84,Default,,0,0,0,,{\fad(120,120)}给这个拍张照片，然后让他们拿走
 Dialogue: 3,0:09:36.07,0:09:37.84,Default-L2,,0,0,0,,{\fad(120,120)}Take a picture of this, so they can take it.
-Dialogue: 4,0:09:49.15,0:09:50.55,Default,,0,0,0,,{\fad(120,120)}快点把这个收起来
+Dialogue: 4,0:09:49.15,0:09:50.55,Default,,0,0,0,,{\fad(120,120)}来把这个拿走
 Dialogue: 3,0:09:49.15,0:09:50.55,Default-L2,,0,0,0,,{\fad(120,120)}Come on, put this away.
-Dialogue: 4,0:09:57.76,0:09:58.83,Default,,0,0,0,,{\fad(120,120)}你找到他了？
+Dialogue: 4,0:09:57.76,0:09:58.83,Default,,0,0,0,,{\fad(120,120)}是你发现的？
 Dialogue: 3,0:09:57.76,0:09:58.83,Default-L2,,0,0,0,,{\fad(120,120)}You found him?
 Dialogue: 4,0:09:59.26,0:10:01.30,Default,,0,0,0,,{\fad(120,120)}是的，黎明时分
 Dialogue: 3,0:09:59.26,0:10:01.30,Default-L2,,0,0,0,,{\fad(120,120)}Yes. At dawn.
@@ -206,45 +206,45 @@ Dialogue: 4,0:10:01.76,0:10:04.57,Default,,0,0,0,,{\fad(120,120)}那个疯子把
 Dialogue: 3,0:10:01.76,0:10:04.57,Default-L2,,0,0,0,,{\fad(120,120)}That lunatic woke me up, and I called the others.
 Dialogue: 4,0:10:04.57,0:10:05.87,Default,,0,0,0,,{\fad(120,120)}他现在在哪儿？
 Dialogue: 3,0:10:04.57,0:10:05.87,Default-L2,,0,0,0,,{\fad(120,120)}Where is he now?
-Dialogue: 4,0:10:05.87,0:10:07.57,Default,,0,0,0,,{\fad(120,120)}我们把他关进了 Glavnjacha 监狱
+Dialogue: 4,0:10:05.87,0:10:07.57,Default,,0,0,0,,{\fad(120,120)}我们把他关进了格拉夫尼亚卡监狱
 Dialogue: 3,0:10:05.87,0:10:07.57,Default-L2,,0,0,0,,{\fad(120,120)}We took him to Glavnjacha prison.
 Dialogue: 4,0:10:09.15,0:10:10.77,Default,,0,0,0,,{\fad(120,120)}你在这里多久了？
 Dialogue: 3,0:10:09.15,0:10:10.77,Default-L2,,0,0,0,,{\fad(120,120)}And how long have you been here?
 Dialogue: 4,0:10:10.77,0:10:11.77,Default,,0,0,0,,{\fad(120,120)}两个月
 Dialogue: 3,0:10:10.77,0:10:11.77,Default-L2,,0,0,0,,{\fad(120,120)}Two months.
-Dialogue: 4,0:10:13.55,0:10:15.74,Default,,0,0,0,,{\fad(120,120)}这些都有人看守吗？
+Dialogue: 4,0:10:13.55,0:10:15.74,Default,,0,0,0,,{\fad(120,120)}这片区域都有人看守吗？
 Dialogue: 3,0:10:13.55,0:10:15.74,Default-L2,,0,0,0,,{\fad(120,120)}This is all under guard?
 Dialogue: 4,0:10:16.04,0:10:17.31,Default,,0,0,0,,{\fad(120,120)}这是一项军事任务
 Dialogue: 3,0:10:16.04,0:10:17.31,Default-L2,,0,0,0,,{\fad(120,120)}This is a military mission.
-Dialogue: 4,0:10:17.31,0:10:19.48,Default,,0,0,0,,{\fad(120,120)}我们使用炸药，平民不允许进入这里
+Dialogue: 4,0:10:17.31,0:10:19.48,Default,,0,0,0,,{\fad(120,120)}我们使用炸药作业，平民不允许进入这里
 Dialogue: 3,0:10:17.31,0:10:19.48,Default-L2,,0,0,0,,{\fad(120,120)}We work with dynamite, civilians are not allowed here.
-Dialogue: 4,0:10:19.78,0:10:22.28,Default,,0,0,0,,{\fad(120,120)}是啊那他是怎么到这儿来的？
+Dialogue: 4,0:10:19.78,0:10:22.28,Default,,0,0,0,,{\fad(120,120)}是啊，那他是怎么到这儿来的？
 Dialogue: 3,0:10:19.78,0:10:22.28,Default-L2,,0,0,0,,{\fad(120,120)}Yeah. How did he get here then?
-Dialogue: 4,0:10:22.34,0:10:24.75,Default,,0,0,0,,{\fad(120,120)}我不知道，这些都是用铁丝围起来的
+Dialogue: 4,0:10:22.34,0:10:24.75,Default,,0,0,0,,{\fad(120,120)}我不知道，这个区域都是用铁丝围起来的
 Dialogue: 3,0:10:22.34,0:10:24.75,Default-L2,,0,0,0,,{\fad(120,120)}I don't know, this is all fenced with wire.
 Dialogue: 4,0:10:24.90,0:10:27.09,Default,,0,0,0,,{\fad(120,120)}这是唯一的通道，没有人看见他
 Dialogue: 3,0:10:24.90,0:10:27.09,Default-L2,,0,0,0,,{\fad(120,120)}This is the only passage. Nobody saw him.
 Dialogue: 4,0:10:42.66,0:10:44.01,Default,,0,0,0,,{\fad(120,120)}你在这儿干什么？
 Dialogue: 3,0:10:42.66,0:10:44.01,Default-L2,,0,0,0,,{\fad(120,120)}What are you doing here?
-Dialogue: 4,0:10:45.67,0:10:47.51,Default,,0,0,0,,{\fad(120,120)}调查员 Stanko Pletikosich 凶杀组
+Dialogue: 4,0:10:45.67,0:10:47.51,Default,,0,0,0,,{\fad(120,120)}我是凶杀组警察，斯坦科·普莱蒂科西奇
 Dialogue: 3,0:10:45.67,0:10:47.51,Default-L2,,0,0,0,,{\fad(120,120)}Inspector Stanko Pletikosich, homicide.
 Dialogue: 4,0:10:47.79,0:10:49.61,Default,,0,0,0,,{\fad(120,120)}我是问你在这里做什么？
 Dialogue: 3,0:10:47.79,0:10:49.61,Default-L2,,0,0,0,,{\fad(120,120)}I'm asking what are you doing here?
-Dialogue: 4,0:10:50.85,0:10:52.01,Default,,0,0,0,,{\fad(120,120)}你觉得它看起来像什么？
+Dialogue: 4,0:10:50.85,0:10:52.01,Default,,0,0,0,,{\fad(120,120)}你觉得我看起来像在做什么？
 Dialogue: 3,0:10:50.85,0:10:52.01,Default-L2,,0,0,0,,{\fad(120,120)}What does it look like to you?
 Dialogue: 4,0:10:52.35,0:10:55.62,Default,,0,0,0,,{\fad(120,120)}这是军事事务，你在这里没有管辖权
 Dialogue: 3,0:10:52.35,0:10:55.62,Default-L2,,0,0,0,,{\fad(120,120)}This is a military matter. You have no jurisdiction here.
-Dialogue: 4,0:10:56.37,0:10:57.99,Default,,0,0,0,,{\fad(120,120)}- 这里发生了一起谋杀案-是的
+Dialogue: 4,0:10:56.37,0:10:57.99,Default,,0,0,0,,{\fad(120,120)}- 这里发生了一起谋杀案 - 是的
 Dialogue: 3,0:10:56.37,0:10:57.99,Default-L2,,0,0,0,,{\fad(120,120)}- There was a murder here. - Yes.
-Dialogue: 4,0:10:58.09,0:11:00.26,Default,,0,0,0,,{\fad(120,120)}凶手被带到了 Glavnjacha 监狱，所以呢？
+Dialogue: 4,0:10:58.09,0:11:00.26,Default,,0,0,0,,{\fad(120,120)}凶手已经被带到了格拉夫尼亚卡监狱，所以呢？
 Dialogue: 3,0:10:58.09,0:11:00.26,Default-L2,,0,0,0,,{\fad(120,120)}The killer is taken to Glavnjacha prison, so?
-Dialogue: 4,0:11:02.52,0:11:05.59,Default,,0,0,0,,{\fad(120,120)}让我们干活吧，我们已经迟到了
+Dialogue: 4,0:11:02.52,0:11:05.59,Default,,0,0,0,,{\fad(120,120)}开始干活吧，我们已经延期了
 Dialogue: 3,0:11:02.52,0:11:05.59,Default-L2,,0,0,0,,{\fad(120,120)}Let us do our job, we're already late.
-Dialogue: 4,0:11:05.83,0:11:08.40,Default,,0,0,0,,{\fad(120,120)}这么说是真的了? 你要拆毁兹诺夫？
+Dialogue: 4,0:11:05.83,0:11:08.40,Default,,0,0,0,,{\fad(120,120)}这么说是真的了? 你要拆毁日尔诺夫？
 Dialogue: 3,0:11:05.83,0:11:08.40,Default-L2,,0,0,0,,{\fad(120,120)}So it's true? You are demolishing Zhrnov?
-Dialogue: 4,0:11:10.97,0:11:13.60,Default,,0,0,0,,{\fad(120,120)}你对这堆石头也感到抱歉吗？
+Dialogue: 4,0:11:10.97,0:11:13.60,Default,,0,0,0,,{\fad(120,120)}你也对这堆石头感到抱歉吗？
 Dialogue: 3,0:11:10.97,0:11:13.60,Default-L2,,0,0,0,,{\fad(120,120)}Are you sorry for these piles of rocks too?
-Dialogue: 4,0:11:14.25,0:11:18.01,Default,,0,0,0,,{\fad(120,120)}甚至没有人知道它的存在，现在每个人都在抱怨
+Dialogue: 4,0:11:14.25,0:11:18.01,Default,,0,0,0,,{\fad(120,120)}之前甚至没有人知道它的存在，而现在每个人都在抱怨
 Dialogue: 3,0:11:14.25,0:11:18.01,Default-L2,,0,0,0,,{\fad(120,120)}No one even knew it existed, and now everyone is whining.
 Dialogue: 4,0:11:18.17,0:11:19.37,Default,,0,0,0,,{\fad(120,120)}嘿！
 Dialogue: 3,0:11:18.17,0:11:19.37,Default-L2,,0,0,0,,{\fad(120,120)}Hey!
@@ -256,89 +256,89 @@ Dialogue: 4,0:11:29.69,0:11:30.75,Default,,0,0,0,,{\fad(120,120)}走开
 Dialogue: 3,0:11:29.69,0:11:30.75,Default-L2,,0,0,0,,{\fad(120,120)}Move.
 Dialogue: 4,0:11:38.07,0:11:39.13,Default,,0,0,0,,{\fad(120,120)}我们走
 Dialogue: 3,0:11:38.07,0:11:39.13,Default-L2,,0,0,0,,{\fad(120,120)}Let's go.
-Dialogue: 4,0:11:43.30,0:11:47.44,Default,,0,0,0,,{\fad(120,120)}PIRAN，意大利南斯拉夫王国边界
+Dialogue: 4,0:11:43.30,0:11:47.44,Default,,0,0,0,,{\fad(120,120)}意大利 皮兰，南斯拉夫王国边界
 Dialogue: 3,0:11:43.30,0:11:47.44,Default-L2,,0,0,0,,{\fad(120,120)}PIRAN, ITALY THE KINGDOM OF YUGOSLAVIA BORDER
-Dialogue: 4,0:12:29.58,0:12:31.61,Default,,0,0,0,,{\fad(120,120)}快点，带他过去
+Dialogue: 4,0:12:29.58,0:12:31.61,Default,,0,0,0,,{\fad(120,120)}去把带他过来
 Dialogue: 3,0:12:29.58,0:12:31.61,Default-L2,,0,0,0,,{\fad(120,120)}Come on, get him there.
 Dialogue: 4,0:12:42.33,0:12:46.09,Default,,0,0,0,,{\fad(120,120)}我们到底怎么了，阿尔索夫？
 Dialogue: 3,0:12:42.33,0:12:46.09,Default-L2,,0,0,0,,{\fad(120,120)}What is happening to us, Hadzi Arsov?
-Dialogue: 4,0:12:46.53,0:12:49.03,Default,,0,0,0,,{\fad(120,120)}你的人在札格拉布没做什么，是吗？
+Dialogue: 4,0:12:46.53,0:12:49.03,Default,,0,0,0,,{\fad(120,120)}你的人在萨格勒布没做什么，是吗？
 Dialogue: 3,0:12:46.53,0:12:49.03,Default-L2,,0,0,0,,{\fad(120,120)}Your people didn't do much in Zagreb, did they?
-Dialogue: 4,0:12:49.09,0:12:51.77,Default,,0,0,0,,{\fad(120,120)}你很聪明？
+Dialogue: 4,0:12:49.09,0:12:51.77,Default,,0,0,0,,{\fad(120,120)}你不是很聪明吗？
 Dialogue: 3,0:12:49.09,0:12:51.77,Default-L2,,0,0,0,,{\fad(120,120)}And you were brilliant?
-Dialogue: 4,0:12:51.77,0:12:54.44,Default,,0,0,0,,{\fad(120,120)}如果身边都是傻瓜，一个人也做不了什么
+Dialogue: 4,0:12:51.77,0:12:54.44,Default,,0,0,0,,{\fad(120,120)}如果身边都是傻瓜，一个人也做不成什么
 Dialogue: 3,0:12:51.77,0:12:54.44,Default-L2,,0,0,0,,{\fad(120,120)}One man can't do much if surrounded with fools.
-Dialogue: 4,0:12:54.52,0:12:55.84,Default,,0,0,0,,{\fad(120,120)}听着，保加利亚人..
+Dialogue: 4,0:12:54.52,0:12:55.84,Default,,0,0,0,,{\fad(120,120)}听着，保加利亚人...
 Dialogue: 3,0:12:54.52,0:12:55.84,Default-L2,,0,0,0,,{\fad(120,120)}Listen, Bulgarian...
-Dialogue: 4,0:12:56.96,0:13:00.61,Default,,0,0,0,,{\fad(120,120)}美丽的年轻女士，香肠多少钱？
+Dialogue: 4,0:12:56.96,0:13:00.61,Default,,0,0,0,,{\fad(120,120)}美丽的女士，香肠多少钱？
 Dialogue: 3,0:12:56.96,0:13:00.61,Default-L2,,0,0,0,,{\fad(120,120)}Beautiful young lady, how much for the sausage?
 Dialogue: 4,0:13:01.08,0:13:02.48,Default,,0,0,0,,{\fad(120,120)}一万第纳尔
 Dialogue: 3,0:13:01.08,0:13:02.48,Default-L2,,0,0,0,,{\fad(120,120)}Ten thousand dinars.
-Dialogue: 4,0:13:03.04,0:13:04.56,Default,,0,0,0,,{\fad(120,120)}- 谢谢-不客气
+Dialogue: 4,0:13:03.04,0:13:04.56,Default,,0,0,0,,{\fad(120,120)}- 谢谢 - 不客气
 Dialogue: 3,0:13:03.04,0:13:04.56,Default-L2,,0,0,0,,{\fad(120,120)}- Thanks. - You're welcome.
 Dialogue: 4,0:13:05.21,0:13:06.33,Default,,0,0,0,,{\fad(120,120)}去死吧
 Dialogue: 3,0:13:05.21,0:13:06.33,Default-L2,,0,0,0,,{\fad(120,120)}Go to hell.
-Dialogue: 4,0:13:06.58,0:13:10.48,Default,,0,0,0,,{\fad(120,120)}你听说过我们的营地被关闭吗？
+Dialogue: 4,0:13:06.58,0:13:10.48,Default,,0,0,0,,{\fad(120,120)}我们的营地被关闭了，你听说了吗？
 Dialogue: 3,0:13:06.58,0:13:10.48,Default-L2,,0,0,0,,{\fad(120,120)}Have you heard of our camps being closed?
 Dialogue: 4,0:13:10.49,0:13:11.49,Default,,0,0,0,,{\fad(120,120)}是的
 Dialogue: 3,0:13:10.49,0:13:11.49,Default-L2,,0,0,0,,{\fad(120,120)}Yes.
-Dialogue: 4,0:13:11.65,0:13:15.62,Default,,0,0,0,,{\fad(120,120)}我认为这将是最好的
+Dialogue: 4,0:13:11.65,0:13:15.62,Default,,0,0,0,,{\fad(120,120)}我认为你最好还是...
 Dialogue: 3,0:13:11.65,0:13:15.62,Default-L2,,0,0,0,,{\fad(120,120)}I think it would be the best
-Dialogue: 4,0:13:16.09,0:13:17.93,Default,,0,0,0,,{\fad(120,120)}低调一段时间
+Dialogue: 4,0:13:16.09,0:13:17.93,Default,,0,0,0,,{\fad(120,120)}...低调一段时间
 Dialogue: 3,0:13:16.09,0:13:17.93,Default-L2,,0,0,0,,{\fad(120,120)}to lay low for a while.
-Dialogue: 4,0:13:18.17,0:13:20.43,Default,,0,0,0,,{\fad(120,120)}我们已经低调很多年了，多久了? ！
+Dialogue: 4,0:13:18.17,0:13:20.43,Default,,0,0,0,,{\fad(120,120)}我们已经低调很多年了，还要低调多久了？
 Dialogue: 3,0:13:18.17,0:13:20.43,Default-L2,,0,0,0,,{\fad(120,120)}We've been laying low for years. How long?!
-Dialogue: 4,0:13:20.43,0:13:21.75,Default,,0,0,0,,{\fad(120,120)}只要我们同意
+Dialogue: 4,0:13:20.43,0:13:21.75,Default,,0,0,0,,{\fad(120,120)}低调到我们同意
 Dialogue: 3,0:13:20.43,0:13:21.75,Default-L2,,0,0,0,,{\fad(120,120)}As long as we say so.
-Dialogue: 4,0:13:22.10,0:13:25.87,Default,,0,0,0,,{\fad(120,120)}鉴于你的罂粟交货时间已经晚得让人无法接受了,
+Dialogue: 4,0:13:22.10,0:13:25.87,Default,,0,0,0,,{\fad(120,120)}鉴于你的罂粟交货时间已经晚得让人无法接受了
 Dialogue: 3,0:13:22.10,0:13:25.87,Default-L2,,0,0,0,,{\fad(120,120)}Given that your poppy deliveries are unacceptably late,
 Dialogue: 4,0:13:25.87,0:13:29.68,Default,,0,0,0,,{\fad(120,120)}我恐怕，即使你低调行事，你也有事要做
 Dialogue: 3,0:13:25.87,0:13:29.68,Default-L2,,0,0,0,,{\fad(120,120)}I'm afraid that, even laid low, you have something to do.
-Dialogue: 4,0:13:29.68,0:13:32.41,Default,,0,0,0,,{\fad(120,120)}帕维利克先生，鸦片不是我的工作
+Dialogue: 4,0:13:29.68,0:13:32.41,Default,,0,0,0,,{\fad(120,120)}帕维里奇先生，鸦片不是我的工作
 Dialogue: 3,0:13:29.68,0:13:32.41,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Pavelic, opium is not my job.
-Dialogue: 4,0:13:32.41,0:13:34.28,Default,,0,0,0,,{\fad(120,120)}我的工作是一个独立的马其顿
+Dialogue: 4,0:13:32.41,0:13:34.28,Default,,0,0,0,,{\fad(120,120)}我的工作是建立一个独立的马其顿
 Dialogue: 3,0:13:32.41,0:13:34.28,Default-L2,,0,0,0,,{\fad(120,120)}My job is an independent Macedonia.
-Dialogue: 4,0:13:34.33,0:13:36.78,Default,,0,0,0,,{\fad(120,120)}这可能不是你的工作，但却是你的责任
+Dialogue: 4,0:13:34.33,0:13:36.78,Default,,0,0,0,,{\fad(120,120)}鸦片可能不是你的工作，但却是你的责任
 Dialogue: 3,0:13:34.33,0:13:36.78,Default-L2,,0,0,0,,{\fad(120,120)}It may not be your job, but it is your responsibility.
-Dialogue: 4,0:13:36.79,0:13:40.71,Default,,0,0,0,,{\fad(120,120)}如果你想要我们或者我们的意大利朋友的支持,
+Dialogue: 4,0:13:36.79,0:13:40.71,Default,,0,0,0,,{\fad(120,120)}如果你想要我们或者我们的意大利朋友的支持
 Dialogue: 3,0:13:36.79,0:13:40.71,Default-L2,,0,0,0,,{\fad(120,120)}If you want our or the support of our Italian friends,
-Dialogue: 4,0:13:40.72,0:13:42.08,Default,,0,0,0,,{\fad(120,120)}那你就去修好它
+Dialogue: 4,0:13:40.72,0:13:42.08,Default,,0,0,0,,{\fad(120,120)}那你就要履行你的责任
 Dialogue: 3,0:13:40.72,0:13:42.08,Default-L2,,0,0,0,,{\fad(120,120)}then you will fix it.
-Dialogue: 4,0:13:44.92,0:13:46.95,Default,,0,0,0,,{\fad(120,120)}但这不是我们相遇的原因
+Dialogue: 4,0:13:44.92,0:13:46.95,Default,,0,0,0,,{\fad(120,120)}但这不是我们见面的原因
 Dialogue: 3,0:13:44.92,0:13:46.95,Default-L2,,0,0,0,,{\fad(120,120)}But that's not why we met.
 Dialogue: 4,0:13:47.32,0:13:49.26,Default,,0,0,0,,{\fad(120,120)}这是你的临时住址
 Dialogue: 3,0:13:47.32,0:13:49.26,Default-L2,,0,0,0,,{\fad(120,120)}This is your temporary address.
-Dialogue: 4,0:13:49.89,0:13:51.86,Default,,0,0,0,,{\fad(120,120)}我们将与您联系并提供进一步的指示
+Dialogue: 4,0:13:49.89,0:13:51.86,Default,,0,0,0,,{\fad(120,120)}我们将与你联系并提供进一步的指示
 Dialogue: 3,0:13:49.89,0:13:51.86,Default-L2,,0,0,0,,{\fad(120,120)}We will contact you with further instructions.
 Dialogue: 4,0:13:52.69,0:13:54.33,Default,,0,0,0,,{\fad(120,120)}我们保持联系
 Dialogue: 3,0:13:52.69,0:13:54.33,Default-L2,,0,0,0,,{\fad(120,120)}We'll be in touch.
-Dialogue: 4,0:13:54.33,0:13:58.17,Default,,0,0,0,,{\fad(120,120)}我希望下次我们能在不那么黑暗的环境下见面
+Dialogue: 4,0:13:54.33,0:13:58.17,Default,,0,0,0,,{\fad(120,120)}我希望下次我们能不在如此黑暗的环境见面
 Dialogue: 3,0:13:54.33,0:13:58.17,Default-L2,,0,0,0,,{\fad(120,120)}I hope next time we'll meet in less dark circumstances.
-Dialogue: 4,0:13:59.77,0:14:02.67,Default,,0,0,0,,{\fad(120,120)}我诚实善良的哈吉 · 阿索夫,
+Dialogue: 4,0:13:59.77,0:14:02.67,Default,,0,0,0,,{\fad(120,120)}我诚实善良的哈吉 · 阿尔索夫
 Dialogue: 3,0:13:59.77,0:14:02.67,Default-L2,,0,0,0,,{\fad(120,120)}My good and honest Hadzi Arsov,
 Dialogue: 4,0:14:02.99,0:14:06.64,Default,,0,0,0,,{\fad(120,120)}恐怕是我们自己选择了黑暗
 Dialogue: 3,0:14:02.99,0:14:06.64,Default-L2,,0,0,0,,{\fad(120,120)}I'm afraid we chose that darkness ourselves.
 Dialogue: 4,0:14:10.11,0:14:11.24,Default,,0,0,0,,{\fad(120,120)}我们会联系你的
 Dialogue: 3,0:14:10.11,0:14:11.24,Default-L2,,0,0,0,,{\fad(120,120)}We'll contact you.
-Dialogue: 4,0:14:22.35,0:14:25.93,Default,,0,0,0,,{\fad(120,120)}你会把我永远关在这里吗，没有任何证据？
+Dialogue: 4,0:14:22.35,0:14:25.93,Default,,0,0,0,,{\fad(120,120)}你要把我永远关在这里吗，又没有任何证据？
 Dialogue: 3,0:14:22.35,0:14:25.93,Default-L2,,0,0,0,,{\fad(120,120)}Will you keep me here forever, without any evidence?
-Dialogue: 4,0:14:31.17,0:14:32.17,Default,,0,0,0,,{\fad(120,120)}没有
+Dialogue: 4,0:14:31.17,0:14:32.17,Default,,0,0,0,,{\fad(120,120)}不会
 Dialogue: 3,0:14:31.17,0:14:32.17,Default-L2,,0,0,0,,{\fad(120,120)}No.
-Dialogue: 4,0:14:37.94,0:14:41.31,Default,,0,0,0,,{\fad(120,120)}我们将通知美国大使馆
+Dialogue: 4,0:14:37.94,0:14:41.31,Default,,0,0,0,,{\fad(120,120)}我们将会通知美国大使馆
 Dialogue: 3,0:14:37.94,0:14:41.31,Default-L2,,0,0,0,,{\fad(120,120)}We will inform the American embassy
-Dialogue: 4,0:14:41.31,0:14:44.55,Default,,0,0,0,,{\fad(120,120)}他们著名的毒贩,
+Dialogue: 4,0:14:41.31,0:14:44.55,Default,,0,0,0,,{\fad(120,120)}他们已经寻找了7年的
 Dialogue: 3,0:14:41.31,0:14:44.55,Default-L2,,0,0,0,,{\fad(120,120)}that their famous drug dealer,
-Dialogue: 4,0:14:44.78,0:14:46.62,Default,,0,0,0,,{\fad(120,120)}他们已经找了他七年,
+Dialogue: 4,0:14:44.78,0:14:46.62,Default,,0,0,0,,{\fad(120,120)}著名毒贩
 Dialogue: 3,0:14:44.78,0:14:46.62,Default-L2,,0,0,0,,{\fad(120,120)}whom they've been looking for seven years,
-Dialogue: 4,0:14:46.62,0:14:48.55,Default,,0,0,0,,{\fad(120,120)}如果我没记错的话，就在这里，和我们在一起
+Dialogue: 4,0:14:46.62,0:14:48.55,Default,,0,0,0,,{\fad(120,120)}就在我身边
 Dialogue: 3,0:14:46.62,0:14:48.55,Default-L2,,0,0,0,,{\fad(120,120)}if I'm not mistaken, is here, with us.
-Dialogue: 4,0:14:48.88,0:14:53.82,Default,,0,0,0,,{\fad(120,120)}告诉你一声，我们签了州际协议
+Dialogue: 4,0:14:48.88,0:14:53.82,Default,,0,0,0,,{\fad(120,120)}顺便告诉你一声，我们签了州际协议
 Dialogue: 3,0:14:48.88,0:14:53.82,Default-L2,,0,0,0,,{\fad(120,120)}Just so you know, we signed an interstate agreement.
 Dialogue: 4,0:14:54.42,0:14:56.32,Default,,0,0,0,,{\fad(120,120)}现在驱逐出境是强制性的
 Dialogue: 3,0:14:54.42,0:14:56.32,Default-L2,,0,0,0,,{\fad(120,120)}Deportation is now mandatory.
 Dialogue: 4,0:14:57.02,0:14:58.66,Default,,0,0,0,,{\fad(120,120)}但是还有另外一个选择
 Dialogue: 3,0:14:57.02,0:14:58.66,Default-L2,,0,0,0,,{\fad(120,120)}But there's another option.
-Dialogue: 4,0:14:59.33,0:15:00.83,Default,,0,0,0,,{\fad(120,120)}我们准备好了
+Dialogue: 4,0:14:59.33,0:15:00.83,Default,,0,0,0,,{\fad(120,120)}我们准备...
 Dialogue: 3,0:14:59.33,0:15:00.83,Default-L2,,0,0,0,,{\fad(120,120)}We're ready...
 Dialogue: 4,0:15:01.10,0:15:04.47,Default,,0,0,0,,{\fad(120,120)}忘记你参与了这次失败的暗杀
 Dialogue: 3,0:15:01.10,0:15:04.47,Default-L2,,0,0,0,,{\fad(120,120)}to forget your participation in this failed assassination.
@@ -346,115 +346,115 @@ Dialogue: 4,0:15:04.47,0:15:05.88,Default,,0,0,0,,{\fad(120,120)}- 你没有...-
 Dialogue: 3,0:15:04.47,0:15:05.88,Default-L2,,0,0,0,,{\fad(120,120)}- You have no... - Hey!
 Dialogue: 4,0:15:09.40,0:15:12.07,Default,,0,0,0,,{\fad(120,120)}你的那个交易..
 Dialogue: 3,0:15:09.40,0:15:12.07,Default-L2,,0,0,0,,{\fad(120,120)}That trade of yours...
-Dialogue: 4,0:15:12.31,0:15:14.21,Default,,0,0,0,,{\fad(120,120)}它绕过了我们的国家
+Dialogue: 4,0:15:12.31,0:15:14.21,Default,,0,0,0,,{\fad(120,120)}绕过了我们的国家
 Dialogue: 3,0:15:12.31,0:15:14.21,Default-L2,,0,0,0,,{\fad(120,120)}It bypasses our country
-Dialogue: 4,0:15:14.21,0:15:18.08,Default,,0,0,0,,{\fad(120,120)}你今天就可以自由离开这里了
+Dialogue: 4,0:15:14.21,0:15:18.08,Default,,0,0,0,,{\fad(120,120)}而且你今天就可以自由离开这里了
 Dialogue: 3,0:15:14.21,0:15:18.08,Default-L2,,0,0,0,,{\fad(120,120)}and you can get out of here as a free man today.
-Dialogue: 4,0:15:20.95,0:15:22.98,Default,,0,0,0,,{\fad(120,120)}一个自由人..
+Dialogue: 4,0:15:20.95,0:15:22.98,Default,,0,0,0,,{\fad(120,120)}一个所有贸易渠道
 Dialogue: 3,0:15:20.95,0:15:22.98,Default-L2,,0,0,0,,{\fad(120,120)}A free man...
-Dialogue: 4,0:15:23.99,0:15:26.55,Default,,0,0,0,,{\fad(120,120)}所有的贸易渠道都对他们开放
+Dialogue: 4,0:15:23.99,0:15:26.55,Default,,0,0,0,,{\fad(120,120)}都对他开放的自由人
 Dialogue: 3,0:15:23.99,0:15:26.55,Default-L2,,0,0,0,,{\fad(120,120)}to whom all channels of trade are open.
-Dialogue: 4,0:15:27.29,0:15:31.49,Default,,0,0,0,,{\fad(120,120)}我们也可以发展你们的生意，戈迪纳
+Dialogue: 4,0:15:27.29,0:15:31.49,Default,,0,0,0,,{\fad(120,120)}我们也可以发展你的业务，戈迪纳
 Dialogue: 3,0:15:27.29,0:15:31.49,Default-L2,,0,0,0,,{\fad(120,120)}We can also develop that business of yours, Godina.
 Dialogue: 4,0:15:32.47,0:15:33.80,Default,,0,0,0,,{\fad(120,120)}但我们不在乎
 Dialogue: 3,0:15:32.47,0:15:33.80,Default-L2,,0,0,0,,{\fad(120,120)}But we don't care.
-Dialogue: 4,0:15:34.80,0:15:37.06,Default,,0,0,0,,{\fad(120,120)}我们对乌斯塔沙很感兴趣
+Dialogue: 4,0:15:34.80,0:15:37.06,Default,,0,0,0,,{\fad(120,120)}我们只对乌斯塔沙很感兴趣
 Dialogue: 3,0:15:34.80,0:15:37.06,Default-L2,,0,0,0,,{\fad(120,120)}We are interested in the Ustashas.
-Dialogue: 4,0:15:38.93,0:15:40.27,Default,,0,0,0,,{\fad(120,120)}你会为我们工作,
+Dialogue: 4,0:15:38.93,0:15:40.27,Default,,0,0,0,,{\fad(120,120)}你会为我们工作
 Dialogue: 3,0:15:38.93,0:15:40.27,Default-L2,,0,0,0,,{\fad(120,120)}You'll work for us,
-Dialogue: 4,0:15:40.27,0:15:44.84,Default,,0,0,0,,{\fad(120,120)}你会给我们情报，并且随时为我服务
+Dialogue: 4,0:15:40.27,0:15:44.84,Default,,0,0,0,,{\fad(120,120)}你会为我们提供情报，并且随时为我服务
 Dialogue: 3,0:15:40.27,0:15:44.84,Default-L2,,0,0,0,,{\fad(120,120)}you'll give us information and be available to me at any time.
-Dialogue: 4,0:15:45.01,0:15:48.51,Default,,0,0,0,,{\fad(120,120)}确保哈齐 · 阿尔索夫和
+Dialogue: 4,0:15:45.01,0:15:48.51,Default,,0,0,0,,{\fad(120,120)}确保哈吉 · 阿尔索夫和你之间的联系终止
 Dialogue: 3,0:15:45.01,0:15:48.51,Default-L2,,0,0,0,,{\fad(120,120)}Make sure that the communication between Hadzi Arsov
-Dialogue: 4,0:15:48.51,0:15:51.15,Default,,0,0,0,,{\fad(120,120)}然后你停下来然后那个叫 Pavelic 的律师
+Dialogue: 4,0:15:48.51,0:15:51.15,Default,,0,0,0,,{\fad(120,120)}并且那个叫帕维里奇的律师
 Dialogue: 3,0:15:48.51,0:15:51.15,Default-L2,,0,0,0,,{\fad(120,120)}and you stops and that lawyer Pavelic
-Dialogue: 4,0:15:51.15,0:15:54.58,Default,,0,0,0,,{\fad(120,120)}你整个乌斯塔莎家族都跟他分手了
+Dialogue: 4,0:15:51.15,0:15:54.58,Default,,0,0,0,,{\fad(120,120)}和整个乌斯塔莎革命组织分崩离析
 Dialogue: 3,0:15:51.15,0:15:54.58,Default-L2,,0,0,0,,{\fad(120,120)}and your entire Ustasha family break up with him.
-Dialogue: 4,0:16:01.66,0:16:02.66,Default,,0,0,0,,{\fad(120,120)}那又怎样？
+Dialogue: 4,0:16:01.66,0:16:02.66,Default,,0,0,0,,{\fad(120,120)}你怎么说？
 Dialogue: 3,0:16:01.66,0:16:02.66,Default-L2,,0,0,0,,{\fad(120,120)}So?
-Dialogue: 4,0:16:26.68,0:16:28.98,Default,,0,0,0,,{\fad(120,120)}你好，普列提科萨，我的兄弟！
+Dialogue: 4,0:16:26.68,0:16:28.98,Default,,0,0,0,,{\fad(120,120)}你好，普莱蒂科西奇，我的兄弟！
 Dialogue: 3,0:16:26.68,0:16:28.98,Default-L2,,0,0,0,,{\fad(120,120)}Hello, Pletikosa, my man!
 Dialogue: 4,0:16:28.98,0:16:32.51,Default,,0,0,0,,{\fad(120,120)}看看我买的奶酪，它和白兰地绝配
 Dialogue: 3,0:16:28.98,0:16:32.51,Default-L2,,0,0,0,,{\fad(120,120)}Take a look at the cheese I bought, it will pair with brandy perfectly.
-Dialogue: 4,0:16:32.85,0:16:33.99,Default,,0,0,0,,{\fad(120,120)}进来喝一杯吧
+Dialogue: 4,0:16:32.85,0:16:33.99,Default,,0,0,0,,{\fad(120,120)}来喝一杯吧
 Dialogue: 3,0:16:32.85,0:16:33.99,Default-L2,,0,0,0,,{\fad(120,120)}Come in for a drink.
 Dialogue: 4,0:16:33.99,0:16:35.69,Default,,0,0,0,,{\fad(120,120)}今天不行，我有很多工作要做
 Dialogue: 3,0:16:33.99,0:16:35.69,Default-L2,,0,0,0,,{\fad(120,120)}Can't today, I have a lot to of work.
 Dialogue: 4,0:16:35.69,0:16:37.79,Default,,0,0,0,,{\fad(120,120)}拜托，你知道是谁做的吗？
 Dialogue: 3,0:16:35.69,0:16:37.79,Default-L2,,0,0,0,,{\fad(120,120)}Oh, come on! Do you know who made it?
-Dialogue: 4,0:16:38.55,0:16:40.83,Default,,0,0,0,,{\fad(120,120)}- 是他的白兰地吗?-当然是
+Dialogue: 4,0:16:38.55,0:16:40.83,Default,,0,0,0,,{\fad(120,120)}- 是他的白兰地吗？ - 当然
 Dialogue: 3,0:16:38.55,0:16:40.83,Default-L2,,0,0,0,,{\fad(120,120)}- Is it his brandy? - Of course it is.
-Dialogue: 4,0:16:42.06,0:16:44.25,Default,,0,0,0,,{\fad(120,120)}- 改天吧我保证-我相信你
+Dialogue: 4,0:16:42.06,0:16:44.25,Default,,0,0,0,,{\fad(120,120)}- 改天吧，我保证 - 我相信你
 Dialogue: 3,0:16:42.06,0:16:44.25,Default-L2,,0,0,0,,{\fad(120,120)}- Some other time, I promise. - I'll take your word.
-Dialogue: 4,0:16:44.25,0:16:46.03,Default,,0,0,0,,{\fad(120,120)}- 好的再见-再见
+Dialogue: 4,0:16:44.25,0:16:46.03,Default,,0,0,0,,{\fad(120,120)}- 好的，再见 - 再见
 Dialogue: 3,0:16:44.25,0:16:46.03,Default-L2,,0,0,0,,{\fad(120,120)}- Okay, bye. - Bye.
-Dialogue: 4,0:16:53.57,0:16:56.28,Default,,0,0,0,,{\fad(120,120)}哇! 你真想知道现在几点了！
+Dialogue: 4,0:16:53.57,0:16:56.28,Default,,0,0,0,,{\fad(120,120)}哇! 你是真的很想知道现在几点了！
 Dialogue: 3,0:16:53.57,0:16:56.28,Default-L2,,0,0,0,,{\fad(120,120)}Wow! You really like to know what time it is!
 Dialogue: 4,0:16:56.28,0:16:57.88,Default,,0,0,0,,{\fad(120,120)}我需要知道！
 Dialogue: 3,0:16:56.28,0:16:57.88,Default-L2,,0,0,0,,{\fad(120,120)}I need to know!
 Dialogue: 4,0:16:57.88,0:17:00.15,Default,,0,0,0,,{\fad(120,120)}别唠叨了! 脱下来！
 Dialogue: 3,0:16:57.88,0:17:00.15,Default-L2,,0,0,0,,{\fad(120,120)}Stop blabbing! Take it off!
-Dialogue: 4,0:17:00.15,0:17:02.65,Default,,0,0,0,,{\fad(120,120)}- 把外套脱了!-求你了，不要
+Dialogue: 4,0:17:00.15,0:17:02.65,Default,,0,0,0,,{\fad(120,120)}- 把外套脱了! - 求你了，不要
 Dialogue: 3,0:17:00.15,0:17:02.65,Default-L2,,0,0,0,,{\fad(120,120)}- Take off the coat! - Please, don't.
-Dialogue: 4,0:17:04.09,0:17:07.86,Default,,0,0,0,,{\fad(120,120)}- 你穿了很多衣服!-很冷，不是吗？
+Dialogue: 4,0:17:04.09,0:17:07.86,Default,,0,0,0,,{\fad(120,120)}- 你穿了这么多衣服！ - 很冷，不是吗？
 Dialogue: 3,0:17:04.09,0:17:07.86,Default-L2,,0,0,0,,{\fad(120,120)}- You've put on many clothes! - It's cold, isn't it?
-Dialogue: 4,0:17:08.09,0:17:10.42,Default,,0,0,0,,{\fad(120,120)}下午好! 知音，过来
+Dialogue: 4,0:17:08.09,0:17:10.42,Default,,0,0,0,,{\fad(120,120)}下午好！日沃因，过来
 Dialogue: 3,0:17:08.09,0:17:10.42,Default-L2,,0,0,0,,{\fad(120,120)}Good afternoon! Zhivoyin, come here.
 Dialogue: 4,0:17:10.93,0:17:12.36,Default,,0,0,0,,{\fad(120,120)}你想喝点咖啡吗？
 Dialogue: 3,0:17:10.93,0:17:12.36,Default-L2,,0,0,0,,{\fad(120,120)}Would you like some coffee?
 Dialogue: 4,0:17:12.36,0:17:13.73,Default,,0,0,0,,{\fad(120,120)}不，谢谢你，如栅
 Dialogue: 3,0:17:12.36,0:17:13.73,Default-L2,,0,0,0,,{\fad(120,120)}No, thank you, Ruzha.
-Dialogue: 4,0:17:13.73,0:17:16.46,Default,,0,0,0,,{\fad(120,120)}塔宁在这里的时候，一切都不一样了
+Dialogue: 4,0:17:13.73,0:17:16.46,Default,,0,0,0,,{\fad(120,120)}塔宁不在这里，一切都不一样了
 Dialogue: 3,0:17:13.73,0:17:16.46,Default-L2,,0,0,0,,{\fad(120,120)}Everything was so different when Tane was here.
 Dialogue: 4,0:17:16.73,0:17:18.23,Default,,0,0,0,,{\fad(120,120)}请给我一杯咖啡
 Dialogue: 3,0:17:16.73,0:17:18.23,Default-L2,,0,0,0,,{\fad(120,120)}I would like a coffee, please.
 Dialogue: 4,0:17:18.30,0:17:19.70,Default,,0,0,0,,{\fad(120,120)}他们把嫌疑犯带来了吗？
 Dialogue: 3,0:17:18.30,0:17:19.70,Default-L2,,0,0,0,,{\fad(120,120)}Did they bring the suspect?
-Dialogue: 4,0:17:19.70,0:17:22.17,Default,,0,0,0,,{\fad(120,120)}是的，但他应该在精神科医院医院
+Dialogue: 4,0:17:19.70,0:17:22.17,Default,,0,0,0,,{\fad(120,120)}是的，但他应该直接去精神病院
 Dialogue: 3,0:17:19.70,0:17:22.17,Default-L2,,0,0,0,,{\fad(120,120)}Yes, but he should be in a psychiatric hospital.
 Dialogue: 4,0:17:22.35,0:17:23.64,Default,,0,0,0,,{\fad(120,120)}他们移动尸体了吗？
 Dialogue: 3,0:17:22.35,0:17:23.64,Default-L2,,0,0,0,,{\fad(120,120)}Did they move the corpse?
-Dialogue: 4,0:17:23.64,0:17:26.24,Default,,0,0,0,,{\fad(120,120)}是的，但是巴比奇还没上班
+Dialogue: 4,0:17:23.64,0:17:26.24,Default,,0,0,0,,{\fad(120,120)}是的，但是巴比奇还没来上班
 Dialogue: 3,0:17:23.64,0:17:26.24,Default-L2,,0,0,0,,{\fad(120,120)}Yes, but Babich isn't at work yet.
-Dialogue: 4,0:17:26.24,0:17:28.38,Default,,0,0,0,,{\fad(120,120)}- 他什么时候回来告诉我-他? 好吧..
+Dialogue: 4,0:17:26.24,0:17:28.38,Default,,0,0,0,,{\fad(120,120)}- 他来了之后告诉我 - 他? 好吧..
 Dialogue: 3,0:17:26.24,0:17:28.38,Default-L2,,0,0,0,,{\fad(120,120)}- Let me know when he is. - Him? Oh, well...
 Dialogue: 4,0:17:28.77,0:17:30.85,Default,,0,0,0,,{\fad(120,120)}冲洗照片需要多长时间？
 Dialogue: 3,0:17:28.77,0:17:30.85,Default-L2,,0,0,0,,{\fad(120,120)}How long it takes you to develop photos?
-Dialogue: 4,0:17:30.92,0:17:32.56,Default,,0,0,0,,{\fad(120,120)}- 我会尽快的-写进报告里
+Dialogue: 4,0:17:30.92,0:17:32.56,Default,,0,0,0,,{\fad(120,120)}- 我会尽快的 - 放进报告里
 Dialogue: 3,0:17:30.92,0:17:32.56,Default-L2,,0,0,0,,{\fad(120,120)}- I'll do it fast. - Put it in the report.
-Dialogue: 4,0:17:32.57,0:17:34.62,Default,,0,0,0,,{\fad(120,120)}皮蒂科斯奇! 泽切维奇! 过来！
+Dialogue: 4,0:17:32.57,0:17:34.62,Default,,0,0,0,,{\fad(120,120)}普莱蒂科西奇! 泽切维奇! 过来！
 Dialogue: 3,0:17:32.57,0:17:34.62,Default-L2,,0,0,0,,{\fad(120,120)}Pletikosich! Zecevich! Come here!
 Dialogue: 4,0:17:39.82,0:17:41.04,Default,,0,0,0,,{\fad(120,120)}那里发生了什么？
 Dialogue: 3,0:17:39.82,0:17:41.04,Default-L2,,0,0,0,,{\fad(120,120)}What happened there?
-Dialogue: 4,0:17:41.32,0:17:44.83,Default,,0,0,0,,{\fad(120,120)}看起来像是宗教仪式谋杀，头儿
+Dialogue: 4,0:17:41.32,0:17:44.83,Default,,0,0,0,,{\fad(120,120)}看起来像是宗教仪式谋杀，长官
 Dialogue: 3,0:17:41.32,0:17:44.83,Default-L2,,0,0,0,,{\fad(120,120)}It looks like a ritual murder, Chief.
-Dialogue: 4,0:17:45.23,0:17:48.05,Default,,0,0,0,,{\fad(120,120)}操! 大家今天早上都因为这个打电话来
+Dialogue: 4,0:17:45.23,0:17:48.05,Default,,0,0,0,,{\fad(120,120)}所有人今天早上都因为这个事打电话来
 Dialogue: 3,0:17:45.23,0:17:48.05,Default-L2,,0,0,0,,{\fad(120,120)}Oh, fuck! Everybody called this morning because of that.
-Dialogue: 4,0:17:48.05,0:17:50.38,Default,,0,0,0,,{\fad(120,120)}还好我们有了嫌疑人他看起来像个疯子
+Dialogue: 4,0:17:48.05,0:17:50.38,Default,,0,0,0,,{\fad(120,120)}还好我们已经有了嫌疑人，他看起来像个疯子
 Dialogue: 3,0:17:48.05,0:17:50.38,Default-L2,,0,0,0,,{\fad(120,120)}It's good that we have a suspect. He seems like a lunatic.
-Dialogue: 4,0:17:50.38,0:17:53.34,Default,,0,0,0,,{\fad(120,120)}听着... 一定要尽快完成
+Dialogue: 4,0:17:50.38,0:17:53.34,Default,,0,0,0,,{\fad(120,120)}听着...一定要尽快结案
 Dialogue: 3,0:17:50.38,0:17:53.34,Default-L2,,0,0,0,,{\fad(120,120)}Listen... Make sure to finish this as soon as possible.
-Dialogue: 4,0:17:53.73,0:17:57.44,Default,,0,0,0,,{\fad(120,120)}我们不应该乱来，这是军事问题，来吧！
+Dialogue: 4,0:17:53.73,0:17:57.44,Default,,0,0,0,,{\fad(120,120)}不要乱来，这是军事事务，去吧！
 Dialogue: 3,0:17:53.73,0:17:57.44,Default-L2,,0,0,0,,{\fad(120,120)}We shouldn't mess with that much, it's a military matter. Come on!
-Dialogue: 4,0:18:01.98,0:18:04.55,Default,,0,0,0,,{\fad(120,120)}不要再把事情搞复杂了，Pletikosich！
+Dialogue: 4,0:18:01.98,0:18:04.55,Default,,0,0,0,,{\fad(120,120)}不要再把事情搞复杂了，普莱蒂科西奇！
 Dialogue: 3,0:18:01.98,0:18:04.55,Default-L2,,0,0,0,,{\fad(120,120)}And don't complicate things again, Pletikosich!
-Dialogue: 4,0:18:24.99,0:18:27.07,Default,,0,0,0,,{\fad(120,120)}他是怎么通过整个排的考试的
+Dialogue: 4,0:18:24.99,0:18:27.07,Default,,0,0,0,,{\fad(120,120)}他是怎么绕过整个排的把守
 Dialogue: 3,0:18:24.99,0:18:27.07,Default-L2,,0,0,0,,{\fad(120,120)}How did he just pass the whole platoon
-Dialogue: 4,0:18:27.07,0:18:28.44,Default,,0,0,0,,{\fad(120,120)}把这些东西都放在那里？
+Dialogue: 4,0:18:27.07,0:18:28.44,Default,,0,0,0,,{\fad(120,120)}把那些祭品都放在那里？
 Dialogue: 3,0:18:27.07,0:18:28.44,Default-L2,,0,0,0,,{\fad(120,120)}and put all those things there?
-Dialogue: 4,0:18:29.17,0:18:30.54,Default,,0,0,0,,{\fad(120,120)}也许他没那么疯狂
+Dialogue: 4,0:18:29.17,0:18:30.54,Default,,0,0,0,,{\fad(120,120)}也许他没那么疯
 Dialogue: 3,0:18:29.17,0:18:30.54,Default-L2,,0,0,0,,{\fad(120,120)}Maybe he's not that crazy.
-Dialogue: 4,0:18:43.11,0:18:44.28,Default,,0,0,0,,{\fad(120,120)}Rajko Kajganic...
+Dialogue: 4,0:18:43.11,0:18:44.28,Default,,0,0,0,,{\fad(120,120)}拉杰科·卡伊加尼奇
 Dialogue: 3,0:18:43.11,0:18:44.28,Default-L2,,0,0,0,,{\fad(120,120)}Rajko Kajganic...
-Dialogue: 4,0:18:46.32,0:18:47.52,Default,,0,0,0,,{\fad(120,120)}你杀过人吗
+Dialogue: 4,0:18:46.32,0:18:47.52,Default,,0,0,0,,{\fad(120,120)}是你杀掉了42岁的
 Dialogue: 3,0:18:46.32,0:18:47.52,Default-L2,,0,0,0,,{\fad(120,120)}Have you killed
-Dialogue: 4,0:18:47.52,0:18:49.79,Default,,0,0,0,,{\fad(120,120)}尼古拉 · 巴雅克塔维奇42岁？
+Dialogue: 4,0:18:47.52,0:18:49.79,Default,,0,0,0,,{\fad(120,120)}尼古拉·巴尔亚克塔雷维奇吗？
 Dialogue: 3,0:18:47.52,0:18:49.79,Default-L2,,0,0,0,,{\fad(120,120)}Nikola Baryaktarevich, 42 years old?
-Dialogue: 4,0:19:05.99,0:19:09.71,Default,,0,0,0,,{\fad(120,120)}拉杰科，你杀了尼古拉 · 巴雅克塔列维奇吗？
+Dialogue: 4,0:19:05.99,0:19:09.71,Default,,0,0,0,,{\fad(120,120)}拉杰科，是你杀了尼古拉·巴尔亚克塔雷维奇吗？
 Dialogue: 3,0:19:05.99,0:19:09.71,Default-L2,,0,0,0,,{\fad(120,120)}Rajko, have you killed Nikola Baryaktarevich?
-Dialogue: 4,0:19:10.62,0:19:13.98,Default,,0,0,0,,{\fad(120,120)}茨诺夫杀了他很久以前它杀了很多人
+Dialogue: 4,0:19:10.62,0:19:13.98,Default,,0,0,0,,{\fad(120,120)}是日尔诺夫杀了他，很久以前，它杀了很多人
 Dialogue: 3,0:19:10.62,0:19:13.98,Default-L2,,0,0,0,,{\fad(120,120)}Zhrnov killed him. Long time ago. It killed many.
-Dialogue: 4,0:19:14.85,0:19:16.88,Default,,0,0,0,,{\fad(120,120)}他被回来的人杀死了
+Dialogue: 4,0:19:14.85,0:19:16.88,Default,,0,0,0,,{\fad(120,120)}他是被回来的人杀死了
 Dialogue: 3,0:19:14.85,0:19:16.88,Default-L2,,0,0,0,,{\fad(120,120)}He was killed by the one who returned.
 Dialogue: 4,0:19:17.99,0:19:18.99,Default,,0,0,0,,{\fad(120,120)}谁？
 Dialogue: 3,0:19:17.99,0:19:18.99,Default-L2,,0,0,0,,{\fad(120,120)}Who?
@@ -462,7 +462,7 @@ Dialogue: 4,0:19:19.12,0:19:20.79,Default,,0,0,0,,{\fad(120,120)}那个死而复
 Dialogue: 3,0:19:19.12,0:19:20.79,Default-L2,,0,0,0,,{\fad(120,120)}The one who came back from the dead.
 Dialogue: 4,0:19:22.49,0:19:24.92,Default,,0,0,0,,{\fad(120,120)}这种情况以前也发生过
 Dialogue: 3,0:19:22.49,0:19:24.92,Default-L2,,0,0,0,,{\fad(120,120)}It has happened before.
-Dialogue: 4,0:19:24.93,0:19:26.03,Default,,0,0,0,,{\fad(120,120)}当被遗忘..
+Dialogue: 4,0:19:24.93,0:19:26.03,Default,,0,0,0,,{\fad(120,120)}当他被遗忘..
 Dialogue: 3,0:19:24.93,0:19:26.03,Default-L2,,0,0,0,,{\fad(120,120)}When forgotten...
 Dialogue: 4,0:19:26.93,0:19:28.26,Default,,0,0,0,,{\fad(120,120)}他回来是为了惩罚
 Dialogue: 3,0:19:26.93,0:19:28.26,Default-L2,,0,0,0,,{\fad(120,120)}He came back to punish.
@@ -472,41 +472,41 @@ Dialogue: 4,0:19:31.20,0:19:32.63,Default,,0,0,0,,{\fad(120,120)}我知道是因
 Dialogue: 3,0:19:31.20,0:19:32.63,Default-L2,,0,0,0,,{\fad(120,120)}I know because I've seen it.
 Dialogue: 4,0:19:37.77,0:19:39.34,Default,,0,0,0,,{\fad(120,120)}你是怎么进入堡垒的？
 Dialogue: 3,0:19:37.77,0:19:39.34,Default-L2,,0,0,0,,{\fad(120,120)}How did you get into the fort?
-Dialogue: 4,0:19:39.34,0:19:40.41,Default,,0,0,0,,{\fad(120,120)}穿过那扇门
+Dialogue: 4,0:19:39.34,0:19:40.41,Default,,0,0,0,,{\fad(120,120)}通过那扇门
 Dialogue: 3,0:19:39.34,0:19:40.41,Default-L2,,0,0,0,,{\fad(120,120)}Through the door.
 Dialogue: 4,0:19:40.81,0:19:42.01,Default,,0,0,0,,{\fad(120,120)}什么门？
 Dialogue: 3,0:19:40.81,0:19:42.01,Default-L2,,0,0,0,,{\fad(120,120)}What door?
 Dialogue: 4,0:19:42.54,0:19:43.94,Default,,0,0,0,,{\fad(120,120)}有许多门
 Dialogue: 3,0:19:42.54,0:19:43.94,Default-L2,,0,0,0,,{\fad(120,120)}Zhrnov has many doors.
-Dialogue: 4,0:19:44.32,0:19:45.98,Default,,0,0,0,,{\fad(120,120)}你撒谎，只有一个！
+Dialogue: 4,0:19:44.32,0:19:45.98,Default,,0,0,0,,{\fad(120,120)}你撒谎，只有一个门！
 Dialogue: 3,0:19:44.32,0:19:45.98,Default-L2,,0,0,0,,{\fad(120,120)}You're lying, there's only one!
-Dialogue: 4,0:19:47.55,0:19:50.68,Default,,0,0,0,,{\fad(120,120)}他们看不见，但他们存在我知道一些
+Dialogue: 4,0:19:47.55,0:19:50.68,Default,,0,0,0,,{\fad(120,120)}这些门看不见，但确实存在，我知道一些
 Dialogue: 3,0:19:47.55,0:19:50.68,Default-L2,,0,0,0,,{\fad(120,120)}They are not visible, but they exist. I know of some.
-Dialogue: 4,0:19:50.68,0:19:52.05,Default,,0,0,0,,{\fad(120,120)}他也认识他们
+Dialogue: 4,0:19:50.68,0:19:52.05,Default,,0,0,0,,{\fad(120,120)}他也知道这些门
 Dialogue: 3,0:19:50.68,0:19:52.05,Default-L2,,0,0,0,,{\fad(120,120)}And he knows them, too.
 Dialogue: 4,0:19:55.33,0:19:56.33,Default,,0,0,0,,{\fad(120,120)}谁？
 Dialogue: 3,0:19:55.33,0:19:56.33,Default-L2,,0,0,0,,{\fad(120,120)}Who?
 Dialogue: 4,0:19:57.99,0:19:59.36,Default,,0,0,0,,{\fad(120,120)}那个回来的人
 Dialogue: 3,0:19:57.99,0:19:59.36,Default-L2,,0,0,0,,{\fad(120,120)}The one who returned.
-Dialogue: 4,0:20:02.36,0:20:04.03,Default,,0,0,0,,{\fad(120,120)}- 谁? !-吸血鬼
+Dialogue: 4,0:20:02.36,0:20:04.03,Default,,0,0,0,,{\fad(120,120)}- 谁? ! - 吸血鬼
 Dialogue: 3,0:20:02.36,0:20:04.03,Default-L2,,0,0,0,,{\fad(120,120)}- Who?! - A vampire.
-Dialogue: 4,0:20:04.30,0:20:07.84,Default,,0,0,0,,{\fad(120,120)}那个名字已经死了的人! 蛇吃了他的眼睛
+Dialogue: 4,0:20:04.30,0:20:07.84,Default,,0,0,0,,{\fad(120,120)}那个已经死了的人！蛇吃了他的眼睛
 Dialogue: 3,0:20:04.30,0:20:07.84,Default-L2,,0,0,0,,{\fad(120,120)}The one whose name is dead! The snake ate his eyes.
 Dialogue: 4,0:20:13.55,0:20:14.84,Default,,0,0,0,,{\fad(120,120)}什么吸血鬼？
 Dialogue: 3,0:20:13.55,0:20:14.84,Default-L2,,0,0,0,,{\fad(120,120)}What Vampire?
-Dialogue: 4,0:20:17.87,0:20:20.88,Default,,0,0,0,,{\fad(120,120)}- 拉杰克，什么吸血鬼? !-我不知道！
+Dialogue: 4,0:20:17.87,0:20:20.88,Default,,0,0,0,,{\fad(120,120)}- 拉杰科，什么吸血鬼? ! - 我不知道！
 Dialogue: 3,0:20:17.87,0:20:20.88,Default-L2,,0,0,0,,{\fad(120,120)}- Rajko, what vampire?! - I don't know!
 Dialogue: 4,0:20:21.47,0:20:23.99,Default,,0,0,0,,{\fad(120,120)}但我知道你迟早会见到他的
 Dialogue: 3,0:20:21.47,0:20:23.99,Default-L2,,0,0,0,,{\fad(120,120)}But I know you'll see him, sooner or later.
-Dialogue: 4,0:20:47.55,0:20:48.55,Default,,0,0,0,,{\fad(120,120)}够了
+Dialogue: 4,0:20:47.55,0:20:48.55,Default,,0,0,0,,{\fad(120,120)}好了
 Dialogue: 3,0:20:47.55,0:20:48.55,Default-L2,,0,0,0,,{\fad(120,120)}That's enough.
 Dialogue: 4,0:20:51.98,0:20:53.35,Default,,0,0,0,,{\fad(120,120)}西装不错，老板
 Dialogue: 3,0:20:51.98,0:20:53.35,Default-L2,,0,0,0,,{\fad(120,120)}Nice suit, boss.
-Dialogue: 4,0:20:54.58,0:20:56.55,Default,,0,0,0,,{\fad(120,120)}昨天从布达佩斯到的
+Dialogue: 4,0:20:54.58,0:20:56.55,Default,,0,0,0,,{\fad(120,120)}昨天从布达佩斯送来的
 Dialogue: 3,0:20:54.58,0:20:56.55,Default-L2,,0,0,0,,{\fad(120,120)}It arrived yesterday, from Budapest.
-Dialogue: 4,0:20:57.89,0:20:59.51,Default,,0,0,0,,{\fad(120,120)}加油，孩子们! 加油！
+Dialogue: 4,0:20:57.89,0:20:59.51,Default,,0,0,0,,{\fad(120,120)}走吧，孩子们！
 Dialogue: 3,0:20:57.89,0:20:59.51,Default-L2,,0,0,0,,{\fad(120,120)}Come on, boys! Come on!
-Dialogue: 4,0:20:59.51,0:21:04.23,Default,,0,0,0,,{\fad(120,120)}法国人把订单增加了一倍! 新的货物要送到圣诞节去！
+Dialogue: 4,0:20:59.51,0:21:04.23,Default,,0,0,0,,{\fad(120,120)}法国人把订单增加了一倍！要为圣诞节准备新的货物！
 Dialogue: 3,0:20:59.51,0:21:04.23,Default-L2,,0,0,0,,{\fad(120,120)}The French doubled the order! The new cargo goes for Christmas!
 Dialogue: 4,0:21:04.79,0:21:07.54,Default,,0,0,0,,{\fad(120,120)}太好了，我们要用火车送吗？
 Dialogue: 3,0:21:04.79,0:21:07.54,Default-L2,,0,0,0,,{\fad(120,120)}Oh, nice. We're sending it by train?
@@ -516,31 +516,31 @@ Dialogue: 4,0:21:52.33,0:21:53.33,Default,,0,0,0,,{\fad(120,120)}这是什么? �
 Dialogue: 3,0:21:52.33,0:21:53.33,Default-L2,,0,0,0,,{\fad(120,120)}What is this?!
 Dialogue: 4,0:21:53.55,0:21:55.38,Default,,0,0,0,,{\fad(120,120)}你为什么把它放在马路中间？
 Dialogue: 3,0:21:53.55,0:21:55.38,Default-L2,,0,0,0,,{\fad(120,120)}Why did you put it in the middle of the street?
-Dialogue: 4,0:21:55.38,0:21:57.31,Default,,0,0,0,,{\fad(120,120)}不是”它”而是我爷爷 Stojadin
+Dialogue: 4,0:21:55.38,0:21:57.31,Default,,0,0,0,,{\fad(120,120)}不是”它”，这是我爷爷斯托亚丁
 Dialogue: 3,0:21:55.38,0:21:57.31,Default-L2,,0,0,0,,{\fad(120,120)}It's not "it" but my grandpa Stojadin.
 Dialogue: 4,0:21:57.31,0:21:58.58,Default,,0,0,0,,{\fad(120,120)}五场战争的参与者
 Dialogue: 3,0:21:57.31,0:21:58.58,Default-L2,,0,0,0,,{\fad(120,120)}Participant of five wars.
-Dialogue: 4,0:21:58.68,0:22:00.97,Default,,0,0,0,,{\fad(120,120)}我不在乎是不是彼得国王！
+Dialogue: 4,0:21:58.68,0:22:00.97,Default,,0,0,0,,{\fad(120,120)}是彼得国王我也不在乎！
 Dialogue: 3,0:21:58.68,0:22:00.97,Default-L2,,0,0,0,,{\fad(120,120)}I don't care even if it's The King Peter!
-Dialogue: 4,0:22:00.97,0:22:02.02,Default,,0,0,0,,{\fad(120,120)}住手，神父！
+Dialogue: 4,0:22:00.97,0:22:02.02,Default,,0,0,0,,{\fad(120,120)}停下，神父！
 Dialogue: 3,0:22:00.97,0:22:02.02,Default-L2,,0,0,0,,{\fad(120,120)}Cut it, priest!
-Dialogue: 4,0:22:02.02,0:22:04.32,Default,,0,0,0,,{\fad(120,120)}我不能，这是为了灵魂的安宁
+Dialogue: 4,0:22:02.02,0:22:04.32,Default,,0,0,0,,{\fad(120,120)}我不能停，这是为了灵魂的安宁
 Dialogue: 3,0:22:02.02,0:22:04.32,Default-L2,,0,0,0,,{\fad(120,120)}I can't, this is for the peace of the soul.
-Dialogue: 4,0:22:04.72,0:22:05.79,Default,,0,0,0,,{\fad(120,120)}快走！
+Dialogue: 4,0:22:04.72,0:22:05.79,Default,,0,0,0,,{\fad(120,120)}快挪走！
 Dialogue: 3,0:22:04.72,0:22:05.79,Default-L2,,0,0,0,,{\fad(120,120)}Move it!
-Dialogue: 4,0:22:05.79,0:22:07.99,Default,,0,0,0,,{\fad(120,120)}你希望它是为了你灵魂的安宁吗? ！
+Dialogue: 4,0:22:05.79,0:22:07.99,Default,,0,0,0,,{\fad(120,120)}你想变成为了你灵魂的安宁吗? ！
 Dialogue: 3,0:22:05.79,0:22:07.99,Default-L2,,0,0,0,,{\fad(120,120)}Would you like it to be for the peace of your soul?!
-Dialogue: 4,0:22:08.79,0:22:10.52,Default,,0,0,0,,{\fad(120,120)}如果我们不想移动它呢？
+Dialogue: 4,0:22:08.79,0:22:10.52,Default,,0,0,0,,{\fad(120,120)}如果我们不想挪它呢？
 Dialogue: 3,0:22:08.79,0:22:10.52,Default-L2,,0,0,0,,{\fad(120,120)}What if we don't want to move it?
-Dialogue: 4,0:22:12.02,0:22:14.16,Default,,0,0,0,,{\fad(120,120)}- 如果你不想?-是的
+Dialogue: 4,0:22:12.02,0:22:14.16,Default,,0,0,0,,{\fad(120,120)}- 如果你不想？ - 是的
 Dialogue: 3,0:22:12.02,0:22:14.16,Default-L2,,0,0,0,,{\fad(120,120)}- If you don't want? - Yes.
-Dialogue: 4,0:22:17.10,0:22:18.17,Default,,0,0,0,,{\fad(120,120)}那么..
+Dialogue: 4,0:22:17.10,0:22:18.17,Default,,0,0,0,,{\fad(120,120)}那么...
 Dialogue: 3,0:22:17.10,0:22:18.17,Default-L2,,0,0,0,,{\fad(120,120)}Well, then...
-Dialogue: 4,0:22:20.86,0:22:24.21,Default,,0,0,0,,{\fad(120,120)}等等，等等. . 冷静点，孩子们！
+Dialogue: 4,0:22:20.86,0:22:24.21,Default,,0,0,0,,{\fad(120,120)}等等，等等... 冷静点，孩子们！
 Dialogue: 3,0:22:20.86,0:22:24.21,Default-L2,,0,0,0,,{\fad(120,120)}Wait, wait.. Calm down, boys!
-Dialogue: 4,0:22:24.41,0:22:28.51,Default,,0,0,0,,{\fad(120,120)}我们不想惹麻烦! 不要把一些人的脑子烧坏了！
+Dialogue: 4,0:22:24.41,0:22:28.51,Default,,0,0,0,,{\fad(120,120)}我们不想惹麻烦！也不想看到谁的脑浆流出来
 Dialogue: 3,0:22:24.41,0:22:28.51,Default-L2,,0,0,0,,{\fad(120,120)}We don't want trouble! Let's not burn some brains out!
-Dialogue: 4,0:22:29.00,0:22:31.88,Default,,0,0,0,,{\fad(120,120)}扔掉那些垃圾，这样我就不会为你的灵魂唱歌了！
+Dialogue: 4,0:22:29.00,0:22:31.88,Default,,0,0,0,,{\fad(120,120)}放下枪，这样我就不用为你的灵魂唱歌了！
 Dialogue: 3,0:22:29.00,0:22:31.88,Default-L2,,0,0,0,,{\fad(120,120)}Throw that shit so I don't sing for your soul now!
 Dialogue: 4,0:22:36.87,0:22:37.88,Default,,0,0,0,,{\fad(120,120)}别动！
 Dialogue: 3,0:22:36.87,0:22:37.88,Default-L2,,0,0,0,,{\fad(120,120)}Don't move!
@@ -550,9 +550,9 @@ Dialogue: 4,0:22:43.05,0:22:45.02,Default,,0,0,0,,{\fad(120,120)}我就知道是
 Dialogue: 3,0:22:43.05,0:22:45.02,Default-L2,,0,0,0,,{\fad(120,120)}I knew it was you!
 Dialogue: 4,0:22:45.16,0:22:46.16,Default,,0,0,0,,{\fad(120,120)}维利加！
 Dialogue: 3,0:22:45.16,0:22:46.16,Default-L2,,0,0,0,,{\fad(120,120)}Veriga!
-Dialogue: 4,0:22:47.73,0:22:49.00,Default,,0,0,0,,{\fad(120,120)}你已经进步了
+Dialogue: 4,0:22:47.73,0:22:49.00,Default,,0,0,0,,{\fad(120,120)}你升级了
 Dialogue: 3,0:22:47.73,0:22:49.00,Default-L2,,0,0,0,,{\fad(120,120)}You've advanced.
-Dialogue: 4,0:22:49.06,0:22:51.90,Default,,0,0,0,,{\fad(120,120)}当有人背叛时，我会前往他们的位置
+Dialogue: 4,0:22:49.06,0:22:51.90,Default,,0,0,0,,{\fad(120,120)}当有人背叛时，我就会接替他们的位置
 Dialogue: 3,0:22:49.06,0:22:51.90,Default-L2,,0,0,0,,{\fad(120,120)}When someone betrays, I advance to their place.
 Dialogue: 4,0:22:52.41,0:22:54.64,Default,,0,0,0,,{\fad(120,120)}你是在告诉我什么狗屁荣誉吗？
 Dialogue: 3,0:22:52.41,0:22:54.64,Default-L2,,0,0,0,,{\fad(120,120)}Are you telling me some shit about honour?
@@ -564,61 +564,61 @@ Dialogue: 4,0:23:02.54,0:23:03.74,Default,,0,0,0,,{\fad(120,120)}迪塞尔，过
 Dialogue: 3,0:23:02.54,0:23:03.74,Default-L2,,0,0,0,,{\fad(120,120)}Diesel, come here.
 Dialogue: 4,0:23:04.31,0:23:06.55,Default,,0,0,0,,{\fad(120,120)}你喜欢这个男人的西装吗？
 Dialogue: 3,0:23:04.31,0:23:06.55,Default-L2,,0,0,0,,{\fad(120,120)}Do you like this man's suit?
-Dialogue: 4,0:23:08.33,0:23:10.85,Default,,0,0,0,,{\fad(120,120)}- 真的很白-谁想... ..！
+Dialogue: 4,0:23:08.33,0:23:10.85,Default,,0,0,0,,{\fad(120,120)}- 真的很白 - 谁想...斯马！
 Dialogue: 3,0:23:08.33,0:23:10.85,Default-L2,,0,0,0,,{\fad(120,120)}- It's pretty white. - Who would like to... Sima!
-Dialogue: 4,0:23:11.62,0:23:13.92,Default,,0,0,0,,{\fad(120,120)}- 你想脱下来吗?-当然，老板
+Dialogue: 4,0:23:11.62,0:23:13.92,Default,,0,0,0,,{\fad(120,120)}- 你想把它脱下来吗？- 当然，老板
 Dialogue: 3,0:23:11.62,0:23:13.92,Default-L2,,0,0,0,,{\fad(120,120)}- Would you like to take it off? - Of course, boss.
-Dialogue: 4,0:23:14.25,0:23:15.86,Default,,0,0,0,,{\fad(120,120)}司马会这么做的,
+Dialogue: 4,0:23:14.25,0:23:15.86,Default,,0,0,0,,{\fad(120,120)}斯马会脱的
 Dialogue: 3,0:23:14.25,0:23:15.86,Default-L2,,0,0,0,,{\fad(120,120)}Sima will do it,
-Dialogue: 4,0:23:15.86,0:23:18.36,Default,,0,0,0,,{\fad(120,120)}但是当他脱掉衣服的时候，他真的很兴奋
+Dialogue: 4,0:23:15.86,0:23:18.36,Default,,0,0,0,,{\fad(120,120)}但是当他脱掉衣服的时候，会感到很兴奋
 Dialogue: 3,0:23:15.86,0:23:18.36,Default-L2,,0,0,0,,{\fad(120,120)}but when he takes off the clothes, he's really turned on.
-Dialogue: 4,0:23:19.64,0:23:20.96,Default,,0,0,0,,{\fad(120,120)}可能会很糟糕
+Dialogue: 4,0:23:19.64,0:23:20.96,Default,,0,0,0,,{\fad(120,120)}那可能会很糟糕
 Dialogue: 3,0:23:19.64,0:23:20.96,Default-L2,,0,0,0,,{\fad(120,120)}It could be pretty fucked.
-Dialogue: 4,0:23:27.94,0:23:30.50,Default,,0,0,0,,{\fad(120,120)}你要知道，修道士会记住这一点的
+Dialogue: 4,0:23:27.94,0:23:30.50,Default,,0,0,0,,{\fad(120,120)}你要知道，修道士会记住这件事的
 Dialogue: 3,0:23:27.94,0:23:30.50,Default-L2,,0,0,0,,{\fad(120,120)}Just so you know, the Monk will remember this.
-Dialogue: 4,0:23:30.84,0:23:31.98,Default,,0,0,0,,{\fad(120,120)}他只能做到这些
+Dialogue: 4,0:23:30.84,0:23:31.98,Default,,0,0,0,,{\fad(120,120)}他也只能记住了
 Dialogue: 3,0:23:30.84,0:23:31.98,Default-L2,,0,0,0,,{\fad(120,120)}That's all he can.
 Dialogue: 4,0:23:33.95,0:23:34.95,Default,,0,0,0,,{\fad(120,120)}脱下来！
 Dialogue: 3,0:23:33.95,0:23:34.95,Default-L2,,0,0,0,,{\fad(120,120)}Take it off!
-Dialogue: 4,0:23:43.35,0:23:44.71,Default,,0,0,0,,{\fad(120,120)}他的手指被割伤了
+Dialogue: 4,0:23:43.35,0:23:44.71,Default,,0,0,0,,{\fad(120,120)}他的手指被割掉了
 Dialogue: 3,0:23:43.35,0:23:44.71,Default-L2,,0,0,0,,{\fad(120,120)}His finger is cut.
-Dialogue: 4,0:23:47.04,0:23:49.82,Default,,0,0,0,,{\fad(120,120)}这个人已经死了超过24小时了
+Dialogue: 4,0:23:47.04,0:23:49.82,Default,,0,0,0,,{\fad(120,120)}这个人已经死了超过24小时
 Dialogue: 3,0:23:47.04,0:23:49.82,Default-L2,,0,0,0,,{\fad(120,120)}This man has been dead for more than 24 hours.
-Dialogue: 4,0:23:51.43,0:23:53.26,Default,,0,0,0,,{\fad(120,120)}所以他被杀了然后被带到 Avala？
+Dialogue: 4,0:23:51.43,0:23:53.26,Default,,0,0,0,,{\fad(120,120)}所以他是被杀之后被带到阿瓦拉？
 Dialogue: 3,0:23:51.43,0:23:53.26,Default-L2,,0,0,0,,{\fad(120,120)}So he was killed and then brought to Avala?
-Dialogue: 4,0:23:53.26,0:23:55.41,Default,,0,0,0,,{\fad(120,120)}尸体上到处都是肥土的痕迹,
+Dialogue: 4,0:23:53.26,0:23:55.41,Default,,0,0,0,,{\fad(120,120)}尸体上到处都是土壤的痕迹
 Dialogue: 3,0:23:53.26,0:23:55.41,Default-L2,,0,0,0,,{\fad(120,120)}Traces of loam all over the body,
-Dialogue: 4,0:23:55.41,0:23:56.80,Default,,0,0,0,,{\fad(120,120)}在他头上，手上..
+Dialogue: 4,0:23:55.41,0:23:56.80,Default,,0,0,0,,{\fad(120,120)}在他头上，手上...
 Dialogue: 3,0:23:55.41,0:23:56.80,Default-L2,,0,0,0,,{\fad(120,120)}on his head, hands...
 Dialogue: 4,0:23:56.80,0:23:59.13,Default,,0,0,0,,{\fad(120,120)}仿佛他们拖着他穿过了沼泽
 Dialogue: 3,0:23:56.80,0:23:59.13,Default-L2,,0,0,0,,{\fad(120,120)}As if they had dragged him through a swamp.
-Dialogue: 4,0:23:59.93,0:24:03.64,Default,,0,0,0,,{\fad(120,120)}所以你是在 Avala 找到他的在 Zhrnov 附近？
+Dialogue: 4,0:23:59.93,0:24:03.64,Default,,0,0,0,,{\fad(120,120)}所以你是在阿瓦拉找到他的，在日尔诺夫附近？
 Dialogue: 3,0:23:59.93,0:24:03.64,Default-L2,,0,0,0,,{\fad(120,120)}So you found him in Avala, near Zhrnov?
 Dialogue: 4,0:24:03.90,0:24:04.90,Default,,0,0,0,,{\fad(120,120)}没错
 Dialogue: 3,0:24:03.90,0:24:04.90,Default-L2,,0,0,0,,{\fad(120,120)}That's right.
 Dialogue: 4,0:24:04.91,0:24:07.17,Default,,0,0,0,,{\fad(120,120)}在无名英雄纪念碑前
 Dialogue: 3,0:24:04.91,0:24:07.17,Default-L2,,0,0,0,,{\fad(120,120)}In front of the monument to the Unknown Hero.
-Dialogue: 4,0:24:07.27,0:24:08.27,Default,,0,0,0,,{\fad(120,120)}他也不是默默无闻
+Dialogue: 4,0:24:07.27,0:24:08.27,Default,,0,0,0,,{\fad(120,120)}倒也不是无名
 Dialogue: 3,0:24:07.27,0:24:08.27,Default-L2,,0,0,0,,{\fad(120,120)}Well, he's not unknown.
-Dialogue: 4,0:24:08.68,0:24:12.28,Default,,0,0,0,,{\fad(120,120)}他可能是奥地利人所不知道的,
+Dialogue: 4,0:24:08.68,0:24:12.28,Default,,0,0,0,,{\fad(120,120)}奥地利人可能不知道他
 Dialogue: 3,0:24:08.68,0:24:12.28,Default-L2,,0,0,0,,{\fad(120,120)}He may be unknown to the Austrians,
-Dialogue: 4,0:24:12.28,0:24:13.58,Default,,0,0,0,,{\fad(120,120)}他们把他埋了
+Dialogue: 4,0:24:12.28,0:24:13.58,Default,,0,0,0,,{\fad(120,120)}是他们把他埋了
 Dialogue: 3,0:24:12.28,0:24:13.58,Default-L2,,0,0,0,,{\fad(120,120)}they buried him.
-Dialogue: 4,0:24:13.68,0:24:15.88,Default,,0,0,0,,{\fad(120,120)}- 我们知道他是谁-什么意思？
+Dialogue: 4,0:24:13.68,0:24:15.88,Default,,0,0,0,,{\fad(120,120)}- 但我们知道他是谁 - 什么意思？
 Dialogue: 3,0:24:13.68,0:24:15.88,Default-L2,,0,0,0,,{\fad(120,120)}- We know who he is. - What do you mean?
-Dialogue: 4,0:24:16.11,0:24:18.59,Default,,0,0,0,,{\fad(120,120)}伊萨科维奇教授愿他安息,
+Dialogue: 4,0:24:16.11,0:24:18.59,Default,,0,0,0,,{\fad(120,120)}伊萨科维奇教授，愿他安息
 Dialogue: 3,0:24:16.11,0:24:18.59,Default-L2,,0,0,0,,{\fad(120,120)}Professor Isakovic, may he rest in peace,
-Dialogue: 4,0:24:19.25,0:24:23.26,Default,,0,0,0,,{\fad(120,120)}二十世纪二十年代，战后，他负责挖掘尸体
+Dialogue: 4,0:24:19.25,0:24:23.26,Default,,0,0,0,,{\fad(120,120)}二十世纪二十年代，他在战后负责挖掘尸体
 Dialogue: 3,0:24:19.25,0:24:23.26,Default-L2,,0,0,0,,{\fad(120,120)}he did the exhumation, after the war, in the 1920s.
-Dialogue: 4,0:24:23.51,0:24:25.56,Default,,0,0,0,,{\fad(120,120)}我刚来到这里，开始工作
+Dialogue: 4,0:24:23.51,0:24:25.56,Default,,0,0,0,,{\fad(120,120)}我刚来到这里工作
 Dialogue: 3,0:24:23.51,0:24:25.56,Default-L2,,0,0,0,,{\fad(120,120)}I just came here then and started working.
-Dialogue: 4,0:24:26.06,0:24:27.13,Default,,0,0,0,,{\fad(120,120)}谁被埋在那里？
+Dialogue: 4,0:24:26.06,0:24:27.13,Default,,0,0,0,,{\fad(120,120)}是谁被埋在那里？
 Dialogue: 3,0:24:26.06,0:24:27.13,Default-L2,,0,0,0,,{\fad(120,120)}Who is buried there?
 Dialogue: 4,0:24:29.60,0:24:32.16,Default,,0,0,0,,{\fad(120,120)}一个孩子，他的家人被杀了
 Dialogue: 3,0:24:29.60,0:24:32.16,Default-L2,,0,0,0,,{\fad(120,120)}A child. His family was killed.
 Dialogue: 4,0:24:32.27,0:24:35.42,Default,,0,0,0,,{\fad(120,120)}真是个悲惨的故事，一定在我们的档案里
 Dialogue: 3,0:24:32.27,0:24:35.42,Default-L2,,0,0,0,,{\fad(120,120)}Sad story. It must be somewhere in our archives.
-Dialogue: 4,0:24:35.42,0:24:38.27,Default,,0,0,0,,{\fad(120,120)}但我更感兴趣的是这是什么
+Dialogue: 4,0:24:35.42,0:24:38.27,Default,,0,0,0,,{\fad(120,120)}但我更感兴趣的是这是什么？
 Dialogue: 3,0:24:35.42,0:24:38.27,Default-L2,,0,0,0,,{\fad(120,120)}But I'm more interested in what this is.
 Dialogue: 4,0:24:40.57,0:24:41.88,Default,,0,0,0,,{\fad(120,120)}我不明白
 Dialogue: 3,0:24:40.57,0:24:41.88,Default-L2,,0,0,0,,{\fad(120,120)}I don't understand this.
@@ -628,7 +628,7 @@ Dialogue: 4,0:24:43.68,0:24:46.25,Default,,0,0,0,,{\fad(120,120)}不，这个...
 Dialogue: 3,0:24:43.68,0:24:46.25,Default-L2,,0,0,0,,{\fad(120,120)}No, this... around it.
 Dialogue: 4,0:24:46.75,0:24:48.32,Default,,0,0,0,,{\fad(120,120)}它看起来像一张帆
 Dialogue: 3,0:24:46.75,0:24:48.32,Default-L2,,0,0,0,,{\fad(120,120)}It looks like a sail.
-Dialogue: 4,0:24:48.68,0:24:50.42,Default,,0,0,0,,{\fad(120,120)}什么帆? ! 这孩子是谁? ！
+Dialogue: 4,0:24:48.68,0:24:50.42,Default,,0,0,0,,{\fad(120,120)}什么帆？这孩子是谁？
 Dialogue: 3,0:24:48.68,0:24:50.42,Default-L2,,0,0,0,,{\fad(120,120)}What sail?! Who is this kid?!
 Dialogue: 4,0:24:51.20,0:24:53.22,Default,,0,0,0,,{\fad(120,120)}这看起来更像是一个十字架
 Dialogue: 3,0:24:51.20,0:24:53.22,Default-L2,,0,0,0,,{\fad(120,120)}This looks more like a cross.
@@ -636,21 +636,21 @@ Dialogue: 4,0:24:54.25,0:24:57.26,Default,,0,0,0,,{\fad(120,120)}该死，和我
 Dialogue: 3,0:24:54.25,0:24:57.26,Default-L2,,0,0,0,,{\fad(120,120)}Damn, whom I'm working with...
 Dialogue: 4,0:24:57.49,0:25:00.19,Default,,0,0,0,,{\fad(120,120)}我会死在这里
 Dialogue: 3,0:24:57.49,0:25:00.19,Default-L2,,0,0,0,,{\fad(120,120)}I will die in here.
-Dialogue: 4,0:25:00.66,0:25:02.13,Default,,0,0,0,,{\fad(120,120)}巴比奇，我们还有什么？
+Dialogue: 4,0:25:00.66,0:25:02.13,Default,,0,0,0,,{\fad(120,120)}巴比奇，还有什么线索？
 Dialogue: 3,0:25:00.66,0:25:02.13,Default-L2,,0,0,0,,{\fad(120,120)}Babich, what else do we have?
 Dialogue: 4,0:25:02.36,0:25:05.17,Default,,0,0,0,,{\fad(120,120)}凶手显然很熟练使用刀具
 Dialogue: 3,0:25:02.36,0:25:05.17,Default-L2,,0,0,0,,{\fad(120,120)}The killer was obviously very skilled with the knife.
 Dialogue: 4,0:25:05.27,0:25:07.43,Default,,0,0,0,,{\fad(120,120)}但这些不是刀伤
 Dialogue: 3,0:25:05.27,0:25:07.43,Default-L2,,0,0,0,,{\fad(120,120)}But these are not knife wounds.
-Dialogue: 4,0:25:08.37,0:25:11.21,Default,,0,0,0,,{\fad(120,120)}对我来说，这看起来像是战争的伤口
+Dialogue: 4,0:25:08.37,0:25:11.21,Default,,0,0,0,,{\fad(120,120)}要我说这看起来像是战争的伤口
 Dialogue: 3,0:25:08.37,0:25:11.21,Default-L2,,0,0,0,,{\fad(120,120)}To me, it looks like war wounds.
 Dialogue: 4,0:25:12.61,0:25:15.68,Default,,0,0,0,,{\fad(120,120)}如果不是刀或手术刀，那会是什么呢？
 Dialogue: 3,0:25:12.61,0:25:15.68,Default-L2,,0,0,0,,{\fad(120,120)}If it's not a knife or a scalpel, what could it be?
-Dialogue: 4,0:25:16.11,0:25:19.18,Default,,0,0,0,,{\fad(120,120)}想想看，胖子! 战争带来了什么？
+Dialogue: 4,0:25:16.11,0:25:19.18,Default,,0,0,0,,{\fad(120,120)}想想看，胖子! 战争还会有什么伤？
 Dialogue: 3,0:25:16.11,0:25:19.18,Default-L2,,0,0,0,,{\fad(120,120)}Well, think about it, fatty! What could be from the war?
 Dialogue: 4,0:25:20.95,0:25:22.22,Default,,0,0,0,,{\fad(120,120)}刺刀！
 Dialogue: 3,0:25:20.95,0:25:22.22,Default-L2,,0,0,0,,{\fad(120,120)}A bayonet!
-Dialogue: 4,0:25:30.75,0:25:32.73,Default,,0,0,0,,{\fad(120,120)}我会把它交给市政当局
+Dialogue: 4,0:25:30.75,0:25:32.73,Default,,0,0,0,,{\fad(120,120)}我会把它交给政府
 Dialogue: 3,0:25:30.75,0:25:32.73,Default-L2,,0,0,0,,{\fad(120,120)}I'll take it to the municipality.
 Dialogue: 4,0:25:33.43,0:25:34.90,Default,,0,0,0,,{\fad(120,120)}你会得到帮助的
 Dialogue: 3,0:25:33.43,0:25:34.90,Default-L2,,0,0,0,,{\fad(120,120)}You will get help.
@@ -668,13 +668,13 @@ Dialogue: 4,0:25:57.82,0:25:59.65,Default,,0,0,0,,{\fad(120,120)}这与上帝无
 Dialogue: 3,0:25:57.82,0:25:59.65,Default-L2,,0,0,0,,{\fad(120,120)}God has nothing to do with it.
 Dialogue: 4,0:26:01.82,0:26:02.98,Default,,0,0,0,,{\fad(120,120)}非常感谢
 Dialogue: 3,0:26:01.82,0:26:02.98,Default-L2,,0,0,0,,{\fad(120,120)}Thanks a lot.
-Dialogue: 4,0:26:29.62,0:26:31.62,Default,,0,0,0,,{\fad(120,120)}- 下午好，先生-下午好
+Dialogue: 4,0:26:29.62,0:26:31.62,Default,,0,0,0,,{\fad(120,120)}- 下午好，先生 - 下午好
 Dialogue: 3,0:26:29.62,0:26:31.62,Default-L2,,0,0,0,,{\fad(120,120)}- Good afternoon, sir. - Good afternoon.
 Dialogue: 4,0:26:32.35,0:26:33.65,Default,,0,0,0,,{\fad(120,120)}用力拉！
 Dialogue: 3,0:26:32.35,0:26:33.65,Default-L2,,0,0,0,,{\fad(120,120)}Pull harder!
 Dialogue: 4,0:26:33.66,0:26:37.49,Default,,0,0,0,,{\fad(120,120)}使劲拉，该死的！
 Dialogue: 3,0:26:33.66,0:26:37.49,Default-L2,,0,0,0,,{\fad(120,120)}Pull harder, God damn you!
-Dialogue: 4,0:26:38.96,0:26:41.23,Default,,0,0,0,,{\fad(120,120)}- 头儿!-我不再是头儿了
+Dialogue: 4,0:26:38.96,0:26:41.23,Default,,0,0,0,,{\fad(120,120)}- 长官！ - 我已经不是长官了
 Dialogue: 3,0:26:38.96,0:26:41.23,Default-L2,,0,0,0,,{\fad(120,120)}- Chief! - I'm not a chief, anymore.
 Dialogue: 4,0:26:41.23,0:26:43.67,Default,,0,0,0,,{\fad(120,120)}我去看医生，不得不付钱
 Dialogue: 3,0:26:41.23,0:26:43.67,Default-L2,,0,0,0,,{\fad(120,120)}I went to the doctor and had to pay.
@@ -684,69 +684,69 @@ Dialogue: 4,0:26:46.34,0:26:47.50,Default,,0,0,0,,{\fad(120,120)}去你的收据
 Dialogue: 3,0:26:46.34,0:26:47.50,Default-L2,,0,0,0,,{\fad(120,120)}Fuck your receipt!
 Dialogue: 4,0:26:47.50,0:26:49.70,Default,,0,0,0,,{\fad(120,120)}我一直在等它，但还是得付钱！
 Dialogue: 3,0:26:47.50,0:26:49.70,Default-L2,,0,0,0,,{\fad(120,120)}I've been waiting for it and still had to pay!
-Dialogue: 4,0:26:49.71,0:26:51.00,Default,,0,0,0,,{\fad(120,120)}你至少健康吗？
+Dialogue: 4,0:26:49.71,0:26:51.00,Default,,0,0,0,,{\fad(120,120)}那你至少健康了？
 Dialogue: 3,0:26:49.71,0:26:51.00,Default-L2,,0,0,0,,{\fad(120,120)}Are you healthy at least?
 Dialogue: 4,0:26:51.00,0:26:52.81,Default,,0,0,0,,{\fad(120,120)}去他妈的健康！
 Dialogue: 3,0:26:51.00,0:26:52.81,Default-L2,,0,0,0,,{\fad(120,120)}Fuck health when it costs!
 Dialogue: 4,0:26:53.83,0:26:55.14,Default,,0,0,0,,{\fad(120,120)}去你妈的！
 Dialogue: 3,0:26:53.83,0:26:55.14,Default-L2,,0,0,0,,{\fad(120,120)}Oh, fuck you, too!
-Dialogue: 4,0:26:56.11,0:26:58.31,Default,,0,0,0,,{\fad(120,120)}- 在这里，安踏叔叔!-那是什么？
+Dialogue: 4,0:26:56.11,0:26:58.31,Default,,0,0,0,,{\fad(120,120)}- 这个，安塔叔叔！ - 那是什么？
 Dialogue: 3,0:26:56.11,0:26:58.31,Default-L2,,0,0,0,,{\fad(120,120)}- Here it is, Uncle Anta! - What's that?
-Dialogue: 4,0:26:58.76,0:27:01.45,Default,,0,0,0,,{\fad(120,120)}我们不会刺穿土耳其人,
+Dialogue: 4,0:26:58.76,0:27:01.45,Default,,0,0,0,,{\fad(120,120)}我们不是要去穿土耳其人
 Dialogue: 3,0:26:58.76,0:27:01.45,Default-L2,,0,0,0,,{\fad(120,120)}We are not going to impale the Turks,
-Dialogue: 4,0:27:01.45,0:27:03.49,Default,,0,0,0,,{\fad(120,120)}而是把猪放在烤肉叉上！
+Dialogue: 4,0:27:01.45,0:27:03.49,Default,,0,0,0,,{\fad(120,120)}而是要把猪叉在烤肉架上！
 Dialogue: 3,0:27:01.45,0:27:03.49,Default-L2,,0,0,0,,{\fad(120,120)}but to put the pig on the spit!
-Dialogue: 4,0:27:03.49,0:27:07.06,Default,,0,0,0,,{\fad(120,120)}- 怎么了?-你有两只左手！
+Dialogue: 4,0:27:03.49,0:27:07.06,Default,,0,0,0,,{\fad(120,120)}- 怎么了？ - 你可真是笨手笨脚！
 Dialogue: 3,0:27:03.49,0:27:07.06,Default-L2,,0,0,0,,{\fad(120,120)}- What's wrong with it? - You have two left hands!
 Dialogue: 4,0:27:07.06,0:27:08.76,Default,,0,0,0,,{\fad(120,120)}我来剪吧，没问题
 Dialogue: 3,0:27:07.06,0:27:08.76,Default-L2,,0,0,0,,{\fad(120,120)}I'll cut it, no problem.
-Dialogue: 4,0:27:08.76,0:27:11.09,Default,,0,0,0,,{\fad(120,120)}迪米特里耶维奇，他们会拆掉这个吗？
+Dialogue: 4,0:27:08.76,0:27:11.09,Default,,0,0,0,,{\fad(120,120)}迪米特里耶维奇，他们会拆掉这里吗？
 Dialogue: 3,0:27:08.76,0:27:11.09,Default-L2,,0,0,0,,{\fad(120,120)}Dimitriyevich, will they demolish this?
-Dialogue: 4,0:27:11.36,0:27:14.29,Default,,0,0,0,,{\fad(120,120)}即使他们拆除了你的这个营房，也不会是一件遗憾的事
+Dialogue: 4,0:27:11.36,0:27:14.29,Default,,0,0,0,,{\fad(120,120)}即使他们拆掉了你这个破房子，也不会是一件遗憾的事
 Dialogue: 3,0:27:11.36,0:27:14.29,Default-L2,,0,0,0,,{\fad(120,120)}Even if they demolished this barrack of yours, it wouldn't be a pity.
 Dialogue: 4,0:27:14.93,0:27:17.55,Default,,0,0,0,,{\fad(120,120)}你会在城市的另一个地方做同样的梦
 Dialogue: 3,0:27:14.93,0:27:17.55,Default-L2,,0,0,0,,{\fad(120,120)}You would make the same one, in another part of town.
-Dialogue: 4,0:27:17.55,0:27:20.00,Default,,0,0,0,,{\fad(120,120)}不可能! 一点也不像 Yataghan 贫民窟！
+Dialogue: 4,0:27:17.55,0:27:20.00,Default,,0,0,0,,{\fad(120,120)}不可能！只有一个亚塔汉贫民窟
 Dialogue: 3,0:27:17.55,0:27:20.00,Default-L2,,0,0,0,,{\fad(120,120)}No way! Nothing like the Yataghan slum!
-Dialogue: 4,0:27:20.40,0:27:22.70,Default,,0,0,0,,{\fad(120,120)}卡拉乔杰的护城河忘记 Yataghan 的贫民窟吧
+Dialogue: 4,0:27:20.40,0:27:22.70,Default,,0,0,0,,{\fad(120,120)}忘记的亚塔汉贫民窟吧
 Dialogue: 3,0:27:20.40,0:27:22.70,Default-L2,,0,0,0,,{\fad(120,120)}Karadjordje's moat. Forget the Yataghan slum.
 Dialogue: 4,0:27:23.17,0:27:26.47,Default,,0,0,0,,{\fad(120,120)}快点，叫这些人在这里签名
 Dialogue: 3,0:27:23.17,0:27:26.47,Default-L2,,0,0,0,,{\fad(120,120)}Come on, call these people to put their signatures here.
 Dialogue: 4,0:27:26.82,0:27:27.84,Default,,0,0,0,,{\fad(120,120)}那是什么？
 Dialogue: 3,0:27:26.82,0:27:27.84,Default-L2,,0,0,0,,{\fad(120,120)}What's that?
-Dialogue: 4,0:27:27.84,0:27:30.26,Default,,0,0,0,,{\fad(120,120)}抗议人民反对拆迁
+Dialogue: 4,0:27:27.84,0:27:30.26,Default,,0,0,0,,{\fad(120,120)}联名抗议书，反对拆迁
 Dialogue: 3,0:27:27.84,0:27:30.26,Default-L2,,0,0,0,,{\fad(120,120)}The remonstrance. People against demolition.
-Dialogue: 4,0:27:30.33,0:27:32.08,Default,,0,0,0,,{\fad(120,120)}- 我会把它交给市政当局-什么？
+Dialogue: 4,0:27:30.33,0:27:32.08,Default,,0,0,0,,{\fad(120,120)}- 我会把它交给市政局 - 什么？
 Dialogue: 3,0:27:30.33,0:27:32.08,Default-L2,,0,0,0,,{\fad(120,120)}- I'll take it to the municipality. - What?
-Dialogue: 4,0:27:32.08,0:27:34.42,Default,,0,0,0,,{\fad(120,120)}抗议，人民反对拆迁
+Dialogue: 4,0:27:32.08,0:27:34.42,Default,,0,0,0,,{\fad(120,120)}抗议书，人民反对拆迁
 Dialogue: 3,0:27:32.08,0:27:34.42,Default-L2,,0,0,0,,{\fad(120,120)}The remonstrance, people against demolition.
-Dialogue: 4,0:27:34.42,0:27:37.09,Default,,0,0,0,,{\fad(120,120)}- 过来签字-他们才不在乎呢！
+Dialogue: 4,0:27:34.42,0:27:37.09,Default,,0,0,0,,{\fad(120,120)}- 过来签字 - 他们才不在乎呢！
 Dialogue: 3,0:27:34.42,0:27:37.09,Default-L2,,0,0,0,,{\fad(120,120)}- Come here to sign. - They don't give a fuck about that!
 Dialogue: 4,0:27:37.09,0:27:38.85,Default,,0,0,0,,{\fad(120,120)}过来，过来签字
 Dialogue: 3,0:27:37.09,0:27:38.85,Default-L2,,0,0,0,,{\fad(120,120)}Come, come here to sign.
-Dialogue: 4,0:27:38.85,0:27:41.66,Default,,0,0,0,,{\fad(120,120)}他不能，他是文盲
+Dialogue: 4,0:27:38.85,0:27:41.66,Default,,0,0,0,,{\fad(120,120)}他不会签，他是文盲
 Dialogue: 3,0:27:38.85,0:27:41.66,Default-L2,,0,0,0,,{\fad(120,120)}He can't, he's illiterate.
 Dialogue: 4,0:27:42.66,0:27:43.99,Default,,0,0,0,,{\fad(120,120)}看看他！
 Dialogue: 3,0:27:42.66,0:27:43.99,Default-L2,,0,0,0,,{\fad(120,120)}Look at him!
-Dialogue: 4,0:27:44.83,0:27:47.93,Default,,0,0,0,,{\fad(120,120)}现在他会书法，但是他不会磨木桩
+Dialogue: 4,0:27:44.83,0:27:47.93,Default,,0,0,0,,{\fad(120,120)}现在会书法了，但是不会磨木桩
 Dialogue: 3,0:27:44.83,0:27:47.93,Default-L2,,0,0,0,,{\fad(120,120)}Now he knows calligraphy, but he can't sharpen a stake.
 Dialogue: 4,0:27:48.19,0:27:49.66,Default,,0,0,0,,{\fad(120,120)}你们都应该签字
 Dialogue: 3,0:27:48.19,0:27:49.66,Default-L2,,0,0,0,,{\fad(120,120)}All of you should sign.
-Dialogue: 4,0:27:49.66,0:27:52.13,Default,,0,0,0,,{\fad(120,120)}否则，这里就没有亚塔汉贫民窟
+Dialogue: 4,0:27:49.66,0:27:52.13,Default,,0,0,0,,{\fad(120,120)}否则，这里就再也没有亚塔汉贫民窟
 Dialogue: 3,0:27:49.66,0:27:52.13,Default-L2,,0,0,0,,{\fad(120,120)}Otherwise, there's no Yataghan slum.
 Dialogue: 4,0:28:41.18,0:28:42.98,Default,,0,0,0,,{\fad(120,120)}下午好，米里奇先生
 Dialogue: 3,0:28:41.18,0:28:42.98,Default-L2,,0,0,0,,{\fad(120,120)}Good afternoon, Mr. Mirich.
 Dialogue: 4,0:28:44.15,0:28:45.75,Default,,0,0,0,,{\fad(120,120)}哦，你来了
 Dialogue: 3,0:28:44.15,0:28:45.75,Default-L2,,0,0,0,,{\fad(120,120)}Oh, you've arrived.
-Dialogue: 4,0:28:47.01,0:28:50.86,Default,,0,0,0,,{\fad(120,120)}是的但是，很不幸，我没有多少时间
+Dialogue: 4,0:28:47.01,0:28:50.86,Default,,0,0,0,,{\fad(120,120)}是的，但是很不幸，我没有多少时间
 Dialogue: 3,0:28:47.01,0:28:50.86,Default-L2,,0,0,0,,{\fad(120,120)}Yes. But, unfortunately, I don't have much time.
-Dialogue: 4,0:28:51.73,0:28:53.99,Default,,0,0,0,,{\fad(120,120)}Savkovich 先生你真的想让我
+Dialogue: 4,0:28:51.73,0:28:53.99,Default,,0,0,0,,{\fad(120,120)}萨夫科维奇先生，你真的想让我
 Dialogue: 3,0:28:51.73,0:28:53.99,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Savkovich, do you really want me
-Dialogue: 4,0:28:53.99,0:28:55.78,Default,,0,0,0,,{\fad(120,120)}来结束我与永恒的邂逅？
+Dialogue: 4,0:28:53.99,0:28:55.78,Default,,0,0,0,,{\fad(120,120)}结束与永恒的的邂逅吗？
 Dialogue: 3,0:28:53.99,0:28:55.78,Default-L2,,0,0,0,,{\fad(120,120)}to end my encounter with eternity?
-Dialogue: 4,0:28:57.33,0:28:59.90,Default,,0,0,0,,{\fad(120,120)}我想暂停一下你们的会面会比较好
+Dialogue: 4,0:28:57.33,0:28:59.90,Default,,0,0,0,,{\fad(120,120)}我想你们的会面
 Dialogue: 3,0:28:57.33,0:28:59.90,Default-L2,,0,0,0,,{\fad(120,120)}I think it would be good to pause your encounter
-Dialogue: 4,0:28:59.90,0:29:01.60,Default,,0,0,0,,{\fad(120,120)}永恒一段时间
+Dialogue: 4,0:28:59.90,0:29:01.60,Default,,0,0,0,,{\fad(120,120)}暂停一段时间会比较好
 Dialogue: 3,0:28:59.90,0:29:01.60,Default-L2,,0,0,0,,{\fad(120,120)}with eternity for a while.
 Dialogue: 4,0:29:02.10,0:29:03.54,Default,,0,0,0,,{\fad(120,120)}非常乐意
 Dialogue: 3,0:29:02.10,0:29:03.54,Default-L2,,0,0,0,,{\fad(120,120)}With great pleasure.
@@ -754,17 +754,17 @@ Dialogue: 4,0:29:05.15,0:29:06.23,Default,,0,0,0,,{\fad(120,120)}你可以走了
 Dialogue: 3,0:29:05.15,0:29:06.23,Default-L2,,0,0,0,,{\fad(120,120)}You're free to go.
 Dialogue: 4,0:29:07.04,0:29:08.08,Default,,0,0,0,,{\fad(120,120)}所有人都出去！
 Dialogue: 3,0:29:07.04,0:29:08.08,Default-L2,,0,0,0,,{\fad(120,120)}Everyone, out!
-Dialogue: 4,0:29:09.41,0:29:13.25,Default,,0,0,0,,{\fad(120,120)}先生们，我随时听候你们的差遣
+Dialogue: 4,0:29:09.41,0:29:13.25,Default,,0,0,0,,{\fad(120,120)}先生们，来谈正事了
 Dialogue: 3,0:29:09.41,0:29:13.25,Default-L2,,0,0,0,,{\fad(120,120)}Gentlemen, I am at your disposal. Please.
 Dialogue: 4,0:29:15.05,0:29:18.75,Default,,0,0,0,,{\fad(120,120)}我们的朋友又看了一遍计划，终于满意了
 Dialogue: 3,0:29:15.05,0:29:18.75,Default-L2,,0,0,0,,{\fad(120,120)}Our friends looked at the plans again and were finally satisfied.
 Dialogue: 4,0:29:19.40,0:29:20.65,Default,,0,0,0,,{\fad(120,120)}是时候了
 Dialogue: 3,0:29:19.40,0:29:20.65,Default-L2,,0,0,0,,{\fad(120,120)}Well, it was about time.
-Dialogue: 4,0:29:21.11,0:29:25.46,Default,,0,0,0,,{\fad(120,120)}米里奇先生，西门子和 Telefunken 工业厂
+Dialogue: 4,0:29:21.11,0:29:25.46,Default,,0,0,0,,{\fad(120,120)}米里奇先生，西门子和工厂
 Dialogue: 3,0:29:21.11,0:29:25.46,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Mirich, the Siemens and Telefunken industrial plants
 Dialogue: 4,0:29:25.46,0:29:27.73,Default,,0,0,0,,{\fad(120,120)}比你的仓库要复杂一点
 Dialogue: 3,0:29:25.46,0:29:27.73,Default-L2,,0,0,0,,{\fad(120,120)}are a little more complicated than your warehouses.
-Dialogue: 4,0:29:29.00,0:29:31.70,Default,,0,0,0,,{\fad(120,120)}特别是这个，有着如此敏感的目的
+Dialogue: 4,0:29:29.00,0:29:31.70,Default,,0,0,0,,{\fad(120,120)}特别是这个有敏感的目的的项目
 Dialogue: 3,0:29:29.00,0:29:31.70,Default-L2,,0,0,0,,{\fad(120,120)}Especially this one. With such a sensitive purpose.
 Dialogue: 4,0:29:32.32,0:29:33.70,Default,,0,0,0,,{\fad(120,120)}你是说间谍活动？
 Dialogue: 3,0:29:32.32,0:29:33.70,Default-L2,,0,0,0,,{\fad(120,120)}You mean espionage?
@@ -776,21 +776,21 @@ Dialogue: 4,0:29:43.01,0:29:45.85,Default,,0,0,0,,{\fad(120,120)}告诉我，你
 Dialogue: 3,0:29:43.01,0:29:45.85,Default-L2,,0,0,0,,{\fad(120,120)}Tell me, are you finally satisfied with the location
 Dialogue: 4,0:29:46.95,0:29:48.28,Default,,0,0,0,,{\fad(120,120)}你的印刷厂吗？
 Dialogue: 3,0:29:46.95,0:29:48.28,Default-L2,,0,0,0,,{\fad(120,120)}of your printing house?
-Dialogue: 4,0:29:48.28,0:29:49.68,Default,,0,0,0,,{\fad(120,120)}- 是的-我也是
+Dialogue: 4,0:29:48.28,0:29:49.68,Default,,0,0,0,,{\fad(120,120)}- 是的 - 我也是
 Dialogue: 3,0:29:48.28,0:29:49.68,Default-L2,,0,0,0,,{\fad(120,120)}- Yes, I am. - Me, too.
-Dialogue: 4,0:29:50.04,0:29:53.25,Default,,0,0,0,,{\fad(120,120)}那么告诉你的记者们少闻一点也不是坏事
+Dialogue: 4,0:29:50.04,0:29:53.25,Default,,0,0,0,,{\fad(120,120)}那么告诉你的记者们少挖一点也不是坏事
 Dialogue: 3,0:29:50.04,0:29:53.25,Default-L2,,0,0,0,,{\fad(120,120)}Then it wouldn't be bad to tell your journalists to sniff a little less
 Dialogue: 4,0:29:53.49,0:29:56.69,Default,,0,0,0,,{\fad(120,120)}因为他们让我很紧张
 Dialogue: 3,0:29:53.49,0:29:56.69,Default-L2,,0,0,0,,{\fad(120,120)}around Prizad because they get on my nerves.
-Dialogue: 4,0:29:58.26,0:30:00.29,Default,,0,0,0,,{\fad(120,120)}因为如果我作为一个受人尊敬的公民,
+Dialogue: 4,0:29:58.26,0:30:00.29,Default,,0,0,0,,{\fad(120,120)}因为如果我作为一个受人尊敬的公民
 Dialogue: 3,0:29:58.26,0:30:00.29,Default-L2,,0,0,0,,{\fad(120,120)}Because if I, as a respectable citizen,
-Dialogue: 4,0:30:00.29,0:30:01.96,Default,,0,0,0,,{\fad(120,120)}对此无能为力,
+Dialogue: 4,0:30:00.29,0:30:01.96,Default,,0,0,0,,{\fad(120,120)}对此无能为力
 Dialogue: 3,0:30:00.29,0:30:01.96,Default-L2,,0,0,0,,{\fad(120,120)}cannot do anything about it,
 Dialogue: 4,0:30:01.96,0:30:05.30,Default,,0,0,0,,{\fad(120,120)}那么你作为“新时代”的拥有者，绝对可以
 Dialogue: 3,0:30:01.96,0:30:05.30,Default-L2,,0,0,0,,{\fad(120,120)}then you, as the owner of "New Age", definitely can.
 Dialogue: 4,0:30:05.93,0:30:07.73,Default,,0,0,0,,{\fad(120,120)}我不太担心这个问题
 Dialogue: 3,0:30:05.93,0:30:07.73,Default-L2,,0,0,0,,{\fad(120,120)}I wouldn't worry too much about that.
-Dialogue: 4,0:30:08.65,0:30:12.61,Default,,0,0,0,,{\fad(120,120)}与其把事情藏在地毯下面，不如在控制之下写作
+Dialogue: 4,0:30:08.65,0:30:12.61,Default,,0,0,0,,{\fad(120,120)}与其遮遮掩掩，不如直接控制媒体
 Dialogue: 3,0:30:08.65,0:30:12.61,Default-L2,,0,0,0,,{\fad(120,120)}It's better to write under control, than to sweep things under the rug.
 Dialogue: 4,0:30:13.87,0:30:16.51,Default,,0,0,0,,{\fad(120,120)}我们称之为“新闻自由”
 Dialogue: 3,0:30:13.87,0:30:16.51,Default-L2,,0,0,0,,{\fad(120,120)}We call it "freedom of the press".
@@ -798,39 +798,39 @@ Dialogue: 4,0:30:17.48,0:30:19.11,Default,,0,0,0,,{\fad(120,120)}不会有任何
 Dialogue: 3,0:30:17.48,0:30:19.11,Default-L2,,0,0,0,,{\fad(120,120)}There will be no problems.
 Dialogue: 4,0:30:19.33,0:30:20.61,Default,,0,0,0,,{\fad(120,120)}最好没有
 Dialogue: 3,0:30:19.33,0:30:20.61,Default-L2,,0,0,0,,{\fad(120,120)}Well, there better be none.
-Dialogue: 4,0:30:21.49,0:30:23.72,Default,,0,0,0,,{\fad(120,120)}因为我用不同的方式解决问题
+Dialogue: 4,0:30:21.49,0:30:23.72,Default,,0,0,0,,{\fad(120,120)}因为我会用不同的方式解决问题
 Dialogue: 3,0:30:21.49,0:30:23.72,Default-L2,,0,0,0,,{\fad(120,120)}Because I solve my problems in a different way.
 Dialogue: 4,0:30:24.97,0:30:26.37,Default,,0,0,0,,{\fad(120,120)}幸运的是，我们在这里
 Dialogue: 3,0:30:24.97,0:30:26.37,Default-L2,,0,0,0,,{\fad(120,120)}Fortunately, we are here.
-Dialogue: 4,0:30:26.95,0:30:28.49,Default,,0,0,0,,{\fad(120,120)}为了阻止你这样做
+Dialogue: 4,0:30:26.95,0:30:28.49,Default,,0,0,0,,{\fad(120,120)}就是为了阻止你这样做
 Dialogue: 3,0:30:26.95,0:30:28.49,Default-L2,,0,0,0,,{\fad(120,120)}To stop you from doing so.
-Dialogue: 4,0:30:35.85,0:30:37.74,Default,,0,0,0,,{\fad(120,120)}- 生意怎么样?-很好
+Dialogue: 4,0:30:35.85,0:30:37.74,Default,,0,0,0,,{\fad(120,120)}- 生意怎么样? - 很好
 Dialogue: 3,0:30:35.85,0:30:37.74,Default-L2,,0,0,0,,{\fad(120,120)}- How's the business? - Excellent.
-Dialogue: 4,0:30:38.17,0:30:40.46,Default,,0,0,0,,{\fad(120,120)}银行已经为转账做好了一切准备,
+Dialogue: 4,0:30:38.17,0:30:40.46,Default,,0,0,0,,{\fad(120,120)}银行已经为转账做好了一切准备
 Dialogue: 3,0:30:38.17,0:30:40.46,Default-L2,,0,0,0,,{\fad(120,120)}The bank has prepared everything for transfers,
-Dialogue: 4,0:30:40.80,0:30:42.87,Default,,0,0,0,,{\fad(120,120)}第一次付款已经开始,
+Dialogue: 4,0:30:40.80,0:30:42.87,Default,,0,0,0,,{\fad(120,120)}首次付款已经开始
 Dialogue: 3,0:30:40.80,0:30:42.87,Default-L2,,0,0,0,,{\fad(120,120)}the first payments have started,
-Dialogue: 4,0:30:43.17,0:30:46.71,Default,,0,0,0,,{\fad(120,120)}我们只是在等待 Zhrnov 事件的最终结果
+Dialogue: 4,0:30:43.17,0:30:46.71,Default,,0,0,0,,{\fad(120,120)}我们只是在等待日尔诺夫事件的最终结果
 Dialogue: 3,0:30:43.17,0:30:46.71,Default-L2,,0,0,0,,{\fad(120,120)}we are just waiting for the matter around Zhrnov to finally end.
-Dialogue: 4,0:30:49.04,0:30:52.39,Default,,0,0,0,,{\fad(120,120)}嘿，别担心什诺夫，有人会考虑的
+Dialogue: 4,0:30:49.04,0:30:52.39,Default,,0,0,0,,{\fad(120,120)}嘿，别担心日尔诺夫，有人会解决的
 Dialogue: 3,0:30:49.04,0:30:52.39,Default-L2,,0,0,0,,{\fad(120,120)}Hey, don't you worry about Zhrnov, there is someone to think about it.
-Dialogue: 4,0:30:52.48,0:30:56.27,Default,,0,0,0,,{\fad(120,120)}这些都是我们正在解决的小问题,
+Dialogue: 4,0:30:52.48,0:30:56.27,Default,,0,0,0,,{\fad(120,120)}这些都是我们正在解决的小问题
 Dialogue: 3,0:30:52.48,0:30:56.27,Default-L2,,0,0,0,,{\fad(120,120)}These are some small problems that we are just solving,
-Dialogue: 4,0:30:56.27,0:30:58.15,Default,,0,0,0,,{\fad(120,120)}一切都会好起来的，我保证
+Dialogue: 4,0:30:56.27,0:30:58.15,Default,,0,0,0,,{\fad(120,120)}一切都没问题的，我保证
 Dialogue: 3,0:30:56.27,0:30:58.15,Default-L2,,0,0,0,,{\fad(120,120)}everything will be fine, I guarantee it.
-Dialogue: 4,0:30:59.92,0:31:01.35,Default,,0,0,0,,{\fad(120,120)}法官，许可证怎么办？
+Dialogue: 4,0:30:59.92,0:31:01.35,Default,,0,0,0,,{\fad(120,120)}法官，许可证怎么样了？
 Dialogue: 3,0:30:59.92,0:31:01.35,Default-L2,,0,0,0,,{\fad(120,120)}Judge, what about permits?
 Dialogue: 4,0:31:02.09,0:31:03.26,Default,,0,0,0,,{\fad(120,120)}我们正在努力
 Dialogue: 3,0:31:02.09,0:31:03.26,Default-L2,,0,0,0,,{\fad(120,120)}We're working on it.
-Dialogue: 4,0:31:03.37,0:31:06.06,Default,,0,0,0,,{\fad(120,120)}法官大人你已经为此忙活了两个月了
+Dialogue: 4,0:31:03.37,0:31:06.06,Default,,0,0,0,,{\fad(120,120)}法官大人，你已经为此努力了两个月了
 Dialogue: 3,0:31:03.37,0:31:06.06,Default-L2,,0,0,0,,{\fad(120,120)}Your Honour, you have been working on this for two months now.
-Dialogue: 4,0:31:07.92,0:31:11.90,Default,,0,0,0,,{\fad(120,120)}只有这样，才能让一切在法律上变得无痛无苦
+Dialogue: 4,0:31:07.92,0:31:11.90,Default,,0,0,0,,{\fad(120,120)}只有这样，才能让一切在法律上变得无懈可击
 Dialogue: 3,0:31:07.92,0:31:11.90,Default-L2,,0,0,0,,{\fad(120,120)}That's the only way to make everything go painlessly, legally.
 Dialogue: 4,0:31:12.65,0:31:15.70,Default,,0,0,0,,{\fad(120,120)}我和你在亚塔汉贫民窟的人有联系
 Dialogue: 3,0:31:12.65,0:31:15.70,Default-L2,,0,0,0,,{\fad(120,120)}I'm in touch with your man from Yataghan Slum.
-Dialogue: 4,0:31:15.70,0:31:18.01,Default,,0,0,0,,{\fad(120,120)}如果你让我做，你早就有许可证了
+Dialogue: 4,0:31:15.70,0:31:18.01,Default,,0,0,0,,{\fad(120,120)}如果你让我做，许可证早就有了
 Dialogue: 3,0:31:15.70,0:31:18.01,Default-L2,,0,0,0,,{\fad(120,120)}If you had let me do it, you would already have permits.
-Dialogue: 4,0:31:18.01,0:31:19.01,Default,,0,0,0,,{\fad(120,120)}先生们..
+Dialogue: 4,0:31:18.01,0:31:19.01,Default,,0,0,0,,{\fad(120,120)}先生们...
 Dialogue: 3,0:31:18.01,0:31:19.01,Default-L2,,0,0,0,,{\fad(120,120)}Gentlemen...
 Dialogue: 4,0:31:19.67,0:31:21.58,Default,,0,0,0,,{\fad(120,120)}亚塔汗贫民窟实际上是这个城市的一个贫民窟
 Dialogue: 3,0:31:19.67,0:31:21.58,Default-L2,,0,0,0,,{\fad(120,120)}The Yataghan slum is really a slum of this city.
@@ -840,23 +840,23 @@ Dialogue: 4,0:31:26.37,0:31:29.62,Default,,0,0,0,,{\fad(120,120)}最现代化的
 Dialogue: 3,0:31:26.37,0:31:29.62,Default-L2,,0,0,0,,{\fad(120,120)}The most modern factories, the most modern residential areas...
 Dialogue: 4,0:31:30.48,0:31:32.55,Default,,0,0,0,,{\fad(120,120)}先生们，我们已经为此努力了很多年
 Dialogue: 3,0:31:30.48,0:31:32.55,Default-L2,,0,0,0,,{\fad(120,120)}Gentlemen, we've been working on this for years.
-Dialogue: 4,0:31:33.32,0:31:35.26,Default,,0,0,0,,{\fad(120,120)}- 我没有耐心了-找到它！
+Dialogue: 4,0:31:33.32,0:31:35.26,Default,,0,0,0,,{\fad(120,120)}- 我没有耐心了 - 找到它！
 Dialogue: 3,0:31:33.32,0:31:35.26,Default-L2,,0,0,0,,{\fad(120,120)}- I have no more patience. - Find it!
 Dialogue: 4,0:31:36.62,0:31:38.36,Default,,0,0,0,,{\fad(120,120)}否则，就不会有项目
 Dialogue: 3,0:31:36.62,0:31:38.36,Default-L2,,0,0,0,,{\fad(120,120)}Otherwise, there will be no project.
 Dialogue: 4,0:31:43.30,0:31:45.77,Default,,0,0,0,,{\fad(120,120)}我们的朋友也是这么想的，明白吗？
 Dialogue: 3,0:31:43.30,0:31:45.77,Default-L2,,0,0,0,,{\fad(120,120)}That's what our friends think, too. Is that clear?
-Dialogue: 4,0:31:47.57,0:31:51.74,Default,,0,0,0,,{\fad(120,120)}米里奇先生，这位先生来了
+Dialogue: 4,0:31:47.57,0:31:51.74,Default,,0,0,0,,{\fad(120,120)}米里奇先生，有位先生来了
 Dialogue: 3,0:31:47.57,0:31:51.74,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Mirich, the gentleman is here.
-Dialogue: 4,0:31:52.54,0:31:53.54,Default,,0,0,0,,{\fad(120,120)}女名女子名
+Dialogue: 4,0:31:52.54,0:31:53.54,Default,,0,0,0,,{\fad(120,120)}维利加
 Dialogue: 3,0:31:52.54,0:31:53.54,Default-L2,,0,0,0,,{\fad(120,120)}Veriga.
 Dialogue: 4,0:31:54.44,0:31:55.44,Default,,0,0,0,,{\fad(120,120)}那又怎样？
 Dialogue: 3,0:31:54.44,0:31:55.44,Default-L2,,0,0,0,,{\fad(120,120)}So?
 Dialogue: 4,0:31:56.18,0:31:57.64,Default,,0,0,0,,{\fad(120,120)}你最好自己看看
 Dialogue: 3,0:31:56.18,0:31:57.64,Default-L2,,0,0,0,,{\fad(120,120)}You better see for yourself.
-Dialogue: 4,0:32:04.45,0:32:05.89,Default,,0,0,0,,{\fad(120,120)}又是亚塔汉一家？
+Dialogue: 4,0:32:04.45,0:32:05.89,Default,,0,0,0,,{\fad(120,120)}又是亚塔汉那些人？
 Dialogue: 3,0:32:04.45,0:32:05.89,Default-L2,,0,0,0,,{\fad(120,120)}The Yataghans again?
-Dialogue: 4,0:32:08.78,0:32:11.32,Default,,0,0,0,,{\fad(120,120)}“蛇的头肯定要被踩两次”
+Dialogue: 4,0:32:08.78,0:32:11.32,Default,,0,0,0,,{\fad(120,120)}蛇头要跺两次才行
 Dialogue: 3,0:32:08.78,0:32:11.32,Default-L2,,0,0,0,,{\fad(120,120)}"A snake's head should definitely be stomped twice."
 Dialogue: 4,0:32:31.48,0:32:32.68,Default,,0,0,0,,{\fad(120,120)}这到底是怎么回事！
 Dialogue: 3,0:32:31.48,0:32:32.68,Default-L2,,0,0,0,,{\fad(120,120)}What the hell this was?!
