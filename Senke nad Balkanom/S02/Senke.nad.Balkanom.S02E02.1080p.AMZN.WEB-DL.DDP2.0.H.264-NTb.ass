@@ -69,7 +69,7 @@ Dialogue: 3,0:01:03.68,0:01:04.89,Default,,0,0,0,,{\fad(120,120)}跟我来
 Dialogue: 2,0:01:03.68,0:01:04.89,Default-L2,,0,0,0,,{\fad(120,120)}Follow me.
 Dialogue: 3,0:01:09.20,0:01:10.96,Default,,0,0,0,,{\fad(120,120)}萨夫科维奇先生，一切都准备好了
 Dialogue: 2,0:01:09.20,0:01:10.96,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Savkovich, everything is ready.
-Dialogue: 3,0:01:10.96,0:01:12.83,Default,,0,0,0,,{\fad(120,120)}是你杀了尼古拉·巴尔亚克塔雷维奇吗？
+Dialogue: 3,0:01:10.96,0:01:12.83,Default,,0,0,0,,{\fad(120,120)}是你杀了尼古拉·巴雅克塔维奇吗？
 Dialogue: 2,0:01:10.96,0:01:12.83,Default-L2,,0,0,0,,{\fad(120,120)}Did you kill Nikola Baryaktarevich?
 Dialogue: 3,0:01:12.83,0:01:14.67,Default,,0,0,0,,{\fad(120,120)}他被复活的人杀死了
 Dialogue: 2,0:01:12.83,0:01:14.67,Default-L2,,0,0,0,,{\fad(120,120)}He was killed by the one who returned.
@@ -1047,7 +1047,7 @@ Dialogue: 3,0:39:07.77,0:39:12.21,Default,,0,0,0,,{\fad(120,120)}毕竟，你们
 Dialogue: 2,0:39:07.77,0:39:12.21,Default-L2,,0,0,0,,{\fad(120,120)}After all, you invited me to make a monument to an unknown hero.
 Dialogue: 3,0:39:13.11,0:39:14.11,Default,,0,0,0,,{\fad(120,120)}不是吗？
 Dialogue: 2,0:39:13.11,0:39:14.11,Default-L2,,0,0,0,,{\fad(120,120)}Didn't you?
-Dialogue: 3,0:39:15.32,0:39:18.05,Default,,0,0,0,,{\fad(120,120)}既没有已知的尸骨，也没有未知的尸骨
+Dialogue: 3,0:39:15.32,0:39:18.05,Default,,0,0,0,,{\fad(120,120)}现在却连尸骨都没有
 Dialogue: 2,0:39:15.32,0:39:18.05,Default-L2,,0,0,0,,{\fad(120,120)}There are no bones from either the known or the unknown.
 Dialogue: 3,0:39:18.62,0:39:19.94,Default,,0,0,0,,{\fad(120,120)}你听说过吗？
 Dialogue: 2,0:39:18.62,0:39:19.94,Default-L2,,0,0,0,,{\fad(120,120)}Have you heard of it?
@@ -1405,7 +1405,7 @@ Dialogue: 3,0:54:43.96,0:54:47.51,Default,,0,0,0,,{\fad(120,120)}不，该死，
 Dialogue: 2,0:54:43.96,0:54:47.51,Default-L2,,0,0,0,,{\fad(120,120)}No. Damn it, you have a lot of corpses here.
 Dialogue: 3,0:54:47.52,0:54:49.52,Default,,0,0,0,,{\fad(120,120)}是的，确实有很多
 Dialogue: 2,0:54:47.52,0:54:49.52,Default-L2,,0,0,0,,{\fad(120,120)}Yeah, there are many of them.
-Dialogue: 3,0:54:50.82,0:54:54.02,Default,,0,0,0,,{\fad(120,120)}在这儿! 巴雅克塔列维奇，四号床
+Dialogue: 3,0:54:50.82,0:54:54.02,Default,,0,0,0,,{\fad(120,120)}在这儿! 巴雅克塔维奇，四号床
 Dialogue: 2,0:54:50.82,0:54:54.02,Default-L2,,0,0,0,,{\fad(120,120)}Here it is! Baryaktarevich, bed number four.
 Dialogue: 3,0:55:05.00,0:55:06.38,Default,,0,0,0,,{\fad(120,120)}尸体在哪儿? ！
 Dialogue: 2,0:55:05.00,0:55:06.38,Default-L2,,0,0,0,,{\fad(120,120)}Where's the corpse?!
