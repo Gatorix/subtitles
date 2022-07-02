@@ -89,7 +89,7 @@ Dialogue: 3,0:01:16.59,0:01:18.10,Default,,0,0,0,,{\fad(120,120)}你真该看看
 Dialogue: 2,0:01:16.59,0:01:18.10,Default-L2,,0,0,0,,{\fad(120,120)}You should've seen his face.
 Dialogue: 3,0:01:21.13,0:01:22.91,Default,,0,0,0,,{\fad(120,120)}萨夫科维奇必须消失
 Dialogue: 2,0:01:21.13,0:01:22.91,Default-L2,,0,0,0,,{\fad(120,120)}Savkovich must disappear.
-Dialogue: 3,0:01:22.95,0:01:25.15,Default,,0,0,0,,{\fad(120,120)}维多杰与塞萨洛尼基政变有关吗？
+Dialogue: 3,0:01:22.95,0:01:25.15,Default,,0,0,0,,{\fad(120,120)}维多杰与萨洛尼卡审判有关吗？
 Dialogue: 2,0:01:22.95,0:01:25.15,Default-L2,,0,0,0,,{\fad(120,120)}Has Vidoje had anything to do with the Thessaloniki process?
 Dialogue: 3,0:01:25.19,0:01:26.28,Default,,0,0,0,,{\fad(120,120)}我认为有关
 Dialogue: 2,0:01:25.19,0:01:26.28,Default-L2,,0,0,0,,{\fad(120,120)}I think he has.
@@ -715,7 +715,7 @@ Dialogue: 3,0:24:13.07,0:24:16.32,Default,,0,0,0,,{\fad(120,120)}伟大的事业
 Dialogue: 2,0:24:13.07,0:24:16.32,Default-L2,,0,0,0,,{\fad(120,120)}Great things are being prepared. Big changes are coming.
 Dialogue: 3,0:24:16.98,0:24:19.89,Default,,0,0,0,,{\fad(120,120)}如果你想站在胜利一方
 Dialogue: 2,0:24:16.98,0:24:19.89,Default-L2,,0,0,0,,{\fad(120,120)}If you want to be on the winning side,
-Dialogue: 3,0:24:19.89,0:24:22.09,Default,,0,0,0,,{\fad(120,120)}就让日夫科维奇自生自灭吧
+Dialogue: 3,0:24:19.89,0:24:22.09,Default,,0,0,0,,{\fad(120,120)}就让日瓦科维奇自生自灭吧
 Dialogue: 2,0:24:19.89,0:24:22.09,Default-L2,,0,0,0,,{\fad(120,120)}leave Zhivkovich to his fate.
 Dialogue: 3,0:24:25.48,0:24:27.56,Default,,0,0,0,,{\fad(120,120)}我听说你去找托马斯维奇了？
 Dialogue: 2,0:24:25.48,0:24:27.56,Default-L2,,0,0,0,,{\fad(120,120)}I hear you went after Tomasovich?
@@ -1613,13 +1613,13 @@ Dialogue: 3,0:54:31.57,0:54:32.57,Default,,0,0,0,,{\fad(120,120)}他想要什么
 Dialogue: 2,0:54:31.57,0:54:32.57,Default-L2,,0,0,0,,{\fad(120,120)}What did he want?
 Dialogue: 3,0:54:33.79,0:54:36.33,Default,,0,0,0,,{\fad(120,120)}他想知道巴雅克塔维奇和法官
 Dialogue: 2,0:54:33.79,0:54:36.33,Default-L2,,0,0,0,,{\fad(120,120)}He wanted to know whether Baryaktarevich and the judge
-Dialogue: 3,0:54:36.34,0:54:38.27,Default,,0,0,0,,{\fad(120,120)}是不是塞萨洛尼基政变的参与者
+Dialogue: 3,0:54:36.34,0:54:38.27,Default,,0,0,0,,{\fad(120,120)}是不是萨洛尼卡审判的参与者
 Dialogue: 2,0:54:36.34,0:54:38.27,Default-L2,,0,0,0,,{\fad(120,120)}were participants in the Thessaloniki process.
 Dialogue: 3,0:54:42.69,0:54:45.26,Default,,0,0,0,,{\fad(120,120)}当阿皮斯和他的军官们企图刺杀国王
 Dialogue: 2,0:54:42.69,0:54:45.26,Default-L2,,0,0,0,,{\fad(120,120)}When Apis and the officers were accused of high treason
 Dialogue: 3,0:54:45.26,0:54:47.58,Default,,0,0,0,,{\fad(120,120)}被指控叛国...
 Dialogue: 2,0:54:45.26,0:54:47.58,Default-L2,,0,0,0,,{\fad(120,120)}for attempting to assassinate His Royal Highness...
-Dialogue: 3,0:54:47.58,0:54:49.35,Default,,0,0,0,,{\fad(120,120)}我知道塞萨洛尼基政变
+Dialogue: 3,0:54:47.58,0:54:49.35,Default,,0,0,0,,{\fad(120,120)}我知道萨洛尼卡审判
 Dialogue: 2,0:54:47.58,0:54:49.35,Default-L2,,0,0,0,,{\fad(120,120)}I know what the Thessaloniki process is.
 Dialogue: 3,0:54:49.65,0:54:51.58,Default,,0,0,0,,{\fad(120,120)}我不明白这和这个有什么关系
 Dialogue: 2,0:54:49.65,0:54:51.58,Default-L2,,0,0,0,,{\fad(120,120)}I don't understand what it has to do with this.
@@ -1643,7 +1643,7 @@ Dialogue: 3,0:55:22.69,0:55:24.22,Default,,0,0,0,,{\fad(120,120)}这不可能！
 Dialogue: 2,0:55:22.69,0:55:24.22,Default-L2,,0,0,0,,{\fad(120,120)}It's not possible!
 Dialogue: 3,0:55:24.69,0:55:26.65,Default,,0,0,0,,{\fad(120,120)}把所有能装下的东西都放进去! 快点！
 Dialogue: 2,0:55:24.69,0:55:26.65,Default-L2,,0,0,0,,{\fad(120,120)}Put everything that can fit! Come on!
-Dialogue: 3,0:55:35.32,0:55:36.32,Default,,0,0,0,,{\fad(120,120)}迪塞尔！
+Dialogue: 3,0:55:35.32,0:55:36.32,Default,,0,0,0,,{\fad(120,120)}小钢炮！
 Dialogue: 2,0:55:35.32,0:55:36.32,Default-L2,,0,0,0,,{\fad(120,120)}Diesel!
 Dialogue: 3,0:55:36.41,0:55:39.30,Default,,0,0,0,,{\fad(120,120)}快点，放开那个婊子！
 Dialogue: 2,0:55:36.41,0:55:39.30,Default-L2,,0,0,0,,{\fad(120,120)}Come on, get off that whore!

@@ -933,7 +933,7 @@ Dialogue: 3,0:33:12.52,0:33:13.64,Default,,0,0,0,,{\fad(120,120)}- 萨夫卡! - 
 Dialogue: 2,0:33:12.52,0:33:13.64,Default-L2,,0,0,0,,{\fad(120,120)}- Savka! - Yes?
 Dialogue: 3,0:33:13.64,0:33:15.62,Default,,0,0,0,,{\fad(120,120)}- 我们开个会 - 怎么了？
 Dialogue: 2,0:33:13.64,0:33:15.62,Default-L2,,0,0,0,,{\fad(120,120)}- Let's have a meeting. - What's wrong?
-Dialogue: 3,0:33:15.62,0:33:17.49,Default,,0,0,0,,{\fad(120,120)}迪塞尔，管好你自己的事
+Dialogue: 3,0:33:15.62,0:33:17.49,Default,,0,0,0,,{\fad(120,120)}小钢炮，管好你自己的事
 Dialogue: 2,0:33:15.62,0:33:17.49,Default-L2,,0,0,0,,{\fad(120,120)}Diesel, mind your business.
 Dialogue: 3,0:33:17.57,0:33:19.53,Default,,0,0,0,,{\fad(120,120)}等等，让我带她去吃蛋糕
 Dialogue: 2,0:33:17.57,0:33:19.53,Default-L2,,0,0,0,,{\fad(120,120)}Wait, let me take her for a cake.
