@@ -111,13 +111,13 @@ Dialogue: 3,0:02:26.64,0:02:28.78,Default,,0,0,0,,{\fad(120,120)}火车两小时
 Dialogue: 2,0:02:26.64,0:02:28.78,Default-L2,,0,0,0,,{\fad(120,120)}The train leaves in two hours, you're going to Budapest
 Dialogue: 3,0:02:28.78,0:02:31.18,Default,,0,0,0,,{\fad(120,120)}有个人在那里等你，他会给你更多的信息
 Dialogue: 2,0:02:28.78,0:02:31.18,Default-L2,,0,0,0,,{\fad(120,120)}a man is waiting for you there and will give further information.
-Dialogue: 3,0:02:31.18,0:02:32.91,Default,,0,0,0,,{\fad(120,120)}去营地? 就像乌斯塔莎招募的新兵？
+Dialogue: 3,0:02:31.18,0:02:32.91,Default,,0,0,0,,{\fad(120,120)}去集中营? 就像乌斯塔莎招募的新兵？
 Dialogue: 2,0:02:31.18,0:02:32.91,Default-L2,,0,0,0,,{\fad(120,120)}To a camp? Like an Ustasha recruit?
 Dialogue: 3,0:02:32.91,0:02:34.05,Default,,0,0,0,,{\fad(120,120)}可能吧
 Dialogue: 2,0:02:32.91,0:02:34.05,Default-L2,,0,0,0,,{\fad(120,120)}Probably.
 Dialogue: 3,0:02:34.05,0:02:35.82,Default,,0,0,0,,{\fad(120,120)}老板没有通知我这件事
 Dialogue: 2,0:02:34.05,0:02:35.82,Default-L2,,0,0,0,,{\fad(120,120)}The boss did not inform me about it.
-Dialogue: 3,0:02:36.35,0:02:38.19,Default,,0,0,0,,{\fad(120,120)}如果你认为我会在营地里浪费时间
+Dialogue: 3,0:02:36.35,0:02:38.19,Default,,0,0,0,,{\fad(120,120)}如果你认为我会在集中营里浪费时间
 Dialogue: 2,0:02:36.35,0:02:38.19,Default-L2,,0,0,0,,{\fad(120,120)}If you think I'm going to waste time in that camp,
 Dialogue: 3,0:02:38.19,0:02:39.27,Default,,0,0,0,,{\fad(120,120)}你大错特错了
 Dialogue: 2,0:02:38.19,0:02:39.27,Default-L2,,0,0,0,,{\fad(120,120)}you're sorely mistaken.
