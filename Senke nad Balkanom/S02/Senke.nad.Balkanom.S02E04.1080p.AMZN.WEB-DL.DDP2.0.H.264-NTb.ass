@@ -1239,15 +1239,15 @@ Dialogue: 3,0:42:46.66,0:42:48.73,Default,,0,0,0,,{\fad(120,120)}这只是个小
 Dialogue: 2,0:42:46.66,0:42:48.73,Default-L2,,0,0,0,,{\fad(120,120)}It's just a small precaution, don't worry.
 Dialogue: 3,0:42:49.10,0:42:52.10,Default,,0,0,0,,{\fad(120,120)}别担心! 去吧! 你可以走了
 Dialogue: 2,0:42:49.10,0:42:52.10,Default-L2,,0,0,0,,{\fad(120,120)}Don't worry! Come on! You can go now.
-Dialogue: 3,0:43:07.18,0:43:10.99,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国 保罗 · 贝尔格莱德王子的住所
+Dialogue: 3,0:43:07.18,0:43:10.99,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国 保罗 · 贝尔格莱德亲王的住所
 Dialogue: 2,0:43:07.18,0:43:10.99,Default-L2,,0,0,0,,{\fad(120,120)}THE RESIDENCE OF PRINCE PAUL BELGRADE, KINGDOM OF YUGOSLAVIA
-Dialogue: 3,0:43:19.15,0:43:21.69,Default,,0,0,0,,{\fad(120,120)}将军先生，保罗王子在等你
+Dialogue: 3,0:43:19.15,0:43:21.69,Default,,0,0,0,,{\fad(120,120)}将军先生，保罗亲王在等你
 Dialogue: 2,0:43:19.15,0:43:21.69,Default-L2,,0,0,0,,{\fad(120,120)}Mr. General, Prince Paul is waiting for you.
 Dialogue: 3,0:43:23.06,0:43:24.23,Default,,0,0,0,,{\fad(120,120)}科斯马奇? ！
 Dialogue: 2,0:43:23.06,0:43:24.23,Default-L2,,0,0,0,,{\fad(120,120)}Kosmach?!
 Dialogue: 3,0:43:25.97,0:43:28.50,Default,,0,0,0,,{\fad(120,120)}我不是驱逐你到斯洛文尼亚吗？
 Dialogue: 2,0:43:25.97,0:43:28.50,Default-L2,,0,0,0,,{\fad(120,120)}Didn't we repel you to Slovenia?
-Dialogue: 3,0:43:29.65,0:43:31.10,Default,,0,0,0,,{\fad(120,120)}王子雇了我
+Dialogue: 3,0:43:29.65,0:43:31.10,Default,,0,0,0,,{\fad(120,120)}亲王雇了我
 Dialogue: 2,0:43:29.65,0:43:31.10,Default-L2,,0,0,0,,{\fad(120,120)}The prince hired me.
 Dialogue: 3,0:43:33.60,0:43:36.14,Default,,0,0,0,,{\fad(120,120)}科罗沙克帮你安排的？
 Dialogue: 2,0:43:33.60,0:43:36.14,Default-L2,,0,0,0,,{\fad(120,120)}Koroshac arranged that for you, huh?
@@ -1273,7 +1273,7 @@ Dialogue: 3,0:44:10.91,0:44:12.41,Default,,0,0,0,,{\fad(120,120)}真有那么重
 Dialogue: 2,0:44:10.91,0:44:12.41,Default-L2,,0,0,0,,{\fad(120,120)}really that significant?
 Dialogue: 3,0:44:14.21,0:44:17.58,Default,,0,0,0,,{\fad(120,120)}这是目前欧洲这一地区的核心外交问题
 Dialogue: 2,0:44:14.21,0:44:17.58,Default-L2,,0,0,0,,{\fad(120,120)}It is currently the central diplomatic issue in this part of Europe.
-Dialogue: 3,0:44:19.09,0:44:20.62,Default,,0,0,0,,{\fad(120,120)}王子，恕我直言...
+Dialogue: 3,0:44:19.09,0:44:20.62,Default,,0,0,0,,{\fad(120,120)}亲王，恕我直言...
 Dialogue: 2,0:44:19.09,0:44:20.62,Default-L2,,0,0,0,,{\fad(120,120)}Prince, allow me to say that...
 Dialogue: 3,0:44:23.09,0:44:26.03,Default,,0,0,0,,{\fad(120,120)}真不敢相信国王已经准备
 Dialogue: 2,0:44:23.09,0:44:26.03,Default-L2,,0,0,0,,{\fad(120,120)}I can't believe the king is ready

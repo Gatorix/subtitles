@@ -345,7 +345,7 @@ Dialogue: 3,0:14:21.70,0:14:22.95,Default,,0,0,0,,{\fad(120,120)}亲爱的先生
 Dialogue: 2,0:14:21.70,0:14:22.95,Default-L2,,0,0,0,,{\fad(120,120)}Dear sir...
 Dialogue: 3,0:14:24.66,0:14:28.55,Default,,0,0,0,,{\fad(120,120)}你现在被任命为建筑经理了吗？
 Dialogue: 2,0:14:24.66,0:14:28.55,Default-L2,,0,0,0,,{\fad(120,120)}have you now been appointed to be the construction manager?
-Dialogue: 3,0:14:28.87,0:14:30.37,Default,,0,0,0,,{\fad(120,120)}是的，王子派我来的
+Dialogue: 3,0:14:28.87,0:14:30.37,Default,,0,0,0,,{\fad(120,120)}是的，亲王派我来的
 Dialogue: 2,0:14:28.87,0:14:30.37,Default-L2,,0,0,0,,{\fad(120,120)}Yes, the prince sent me.
 Dialogue: 3,0:14:31.46,0:14:34.10,Default,,0,0,0,,{\fad(120,120)}由于最近发生的一些事件，工程进展很慢
 Dialogue: 2,0:14:31.46,0:14:34.10,Default-L2,,0,0,0,,{\fad(120,120)}The works are very late due to all the recent events.
@@ -803,7 +803,7 @@ Dialogue: 3,0:30:47.84,0:30:49.29,Default,,0,0,0,,{\fad(120,120)}差不多吧，
 Dialogue: 2,0:30:47.84,0:30:49.29,Default-L2,,0,0,0,,{\fad(120,120)}More or less, yes. Why?
 Dialogue: 3,0:30:50.65,0:30:52.28,Default,,0,0,0,,{\fad(120,120)}你要不要考虑...
 Dialogue: 2,0:30:50.65,0:30:52.28,Default-L2,,0,0,0,,{\fad(120,120)}Would you like to return...
-Dialogue: 3,0:30:53.28,0:30:55.28,Default,,0,0,0,,{\fad(120,120)}给王子殿下的政府做内政部长？
+Dialogue: 3,0:30:53.28,0:30:55.28,Default,,0,0,0,,{\fad(120,120)}给亲王殿下的政府做内政部长？
 Dialogue: 2,0:30:53.28,0:30:55.28,Default-L2,,0,0,0,,{\fad(120,120)}to the government of His Royal Highness?
 Dialogue: 3,0:30:58.46,0:30:59.82,Default,,0,0,0,,{\fad(120,120)}得了吧！
 Dialogue: 2,0:30:58.46,0:30:59.82,Default-L2,,0,0,0,,{\fad(120,120)}Come on!
@@ -1461,7 +1461,7 @@ Dialogue: 3,0:56:07.60,0:56:11.63,Default,,0,0,0,,{\fad(120,120)}天一黑你就
 Dialogue: 2,0:56:07.60,0:56:11.63,Default-L2,,0,0,0,,{\fad(120,120)}When it gets dark, you go straight to the villa of Obrad Savkovich.
 Dialogue: 3,0:56:12.93,0:56:14.90,Default,,0,0,0,,{\fad(120,120)}他不会怀疑你的
 Dialogue: 2,0:56:12.93,0:56:14.90,Default-L2,,0,0,0,,{\fad(120,120)}Savkovich won't doubt you,
-Dialogue: 3,0:56:15.33,0:56:19.34,Default,,0,0,0,,{\fad(120,120)}他知道你是保罗王子的贴身卫兵
+Dialogue: 3,0:56:15.33,0:56:19.34,Default,,0,0,0,,{\fad(120,120)}他知道你是保罗亲王的贴身卫兵
 Dialogue: 2,0:56:15.33,0:56:19.34,Default-L2,,0,0,0,,{\fad(120,120)}he knows you as a member of Prince Paul's guard.
 Dialogue: 3,0:56:20.35,0:56:23.29,Default,,0,0,0,,{\fad(120,120)}要清楚直接，但不需要说服他
 Dialogue: 2,0:56:20.35,0:56:23.29,Default-L2,,0,0,0,,{\fad(120,120)}Be clear and direct, but don't convince him,
@@ -1487,9 +1487,9 @@ Dialogue: 3,0:57:07.91,0:57:09.19,Default,,0,0,0,,{\fad(120,120)}少校...
 Dialogue: 2,0:57:07.91,0:57:09.19,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Major...
 Dialogue: 3,0:57:11.02,0:57:14.06,Default,,0,0,0,,{\fad(120,120)}国王卫队和我有什么关系？
 Dialogue: 2,0:57:11.02,0:57:14.06,Default-L2,,0,0,0,,{\fad(120,120)}What has the King's Guard got to do with me?
-Dialogue: 3,0:57:15.18,0:57:16.93,Default,,0,0,0,,{\fad(120,120)}我是保罗王子卫兵
+Dialogue: 3,0:57:15.18,0:57:16.93,Default,,0,0,0,,{\fad(120,120)}我是保罗亲王卫兵
 Dialogue: 2,0:57:15.18,0:57:16.93,Default-L2,,0,0,0,,{\fad(120,120)}I come from Prince Paul.
-Dialogue: 3,0:57:17.36,0:57:18.36,Default,,0,0,0,,{\fad(120,120)}王子需要见你
+Dialogue: 3,0:57:17.36,0:57:18.36,Default,,0,0,0,,{\fad(120,120)}亲王需要见你
 Dialogue: 2,0:57:17.36,0:57:18.36,Default-L2,,0,0,0,,{\fad(120,120)}He needs you.
 Dialogue: 3,0:57:19.71,0:57:21.50,Default,,0,0,0,,{\fad(120,120)}日瓦科维奇将军辞职了
 Dialogue: 2,0:57:19.71,0:57:21.50,Default-L2,,0,0,0,,{\fad(120,120)}General Zhivkovich resigned.
@@ -1499,7 +1499,7 @@ Dialogue: 3,0:57:47.09,0:57:48.19,Default,,0,0,0,,{\fad(120,120)}在这儿等着
 Dialogue: 2,0:57:47.09,0:57:48.19,Default-L2,,0,0,0,,{\fad(120,120)}Wait here.
 Dialogue: 3,0:57:49.79,0:57:51.46,Default,,0,0,0,,{\fad(120,120)}还没有公布消息
 Dialogue: 2,0:57:49.79,0:57:51.46,Default-L2,,0,0,0,,{\fad(120,120)}It has not been revealed yet,
-Dialogue: 3,0:57:51.66,0:57:54.13,Default,,0,0,0,,{\fad(120,120)}但是保罗王子想尽快见到你
+Dialogue: 3,0:57:51.66,0:57:54.13,Default,,0,0,0,,{\fad(120,120)}但是保罗亲王想尽快见到你
 Dialogue: 2,0:57:51.66,0:57:54.13,Default-L2,,0,0,0,,{\fad(120,120)}but Prince Paul would like to see you as soon as possible.
 Dialogue: 3,0:57:55.74,0:57:57.00,Default,,0,0,0,,{\fad(120,120)}为什么是我？
 Dialogue: 2,0:57:55.74,0:57:57.00,Default-L2,,0,0,0,,{\fad(120,120)}Why me?

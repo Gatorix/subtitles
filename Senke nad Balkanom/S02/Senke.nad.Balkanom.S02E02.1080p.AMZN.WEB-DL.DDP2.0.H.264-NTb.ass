@@ -737,7 +737,7 @@ Dialogue: 3,0:24:44.08,0:24:45.15,Default,,0,0,0,,{\fad(120,120)}波多黎各朗
 Dialogue: 2,0:24:44.08,0:24:45.15,Default-L2,,0,0,0,,{\fad(120,120)}Puerto Rican rum?
 Dialogue: 3,0:24:45.81,0:24:47.01,Default,,0,0,0,,{\fad(120,120)}没错
 Dialogue: 2,0:24:45.81,0:24:47.01,Default-L2,,0,0,0,,{\fad(120,120)}Exactly.
-Dialogue: 3,0:24:59.17,0:25:02.80,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国 贝尔格莱德 保罗王子的住所
+Dialogue: 3,0:24:59.17,0:25:02.80,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国 贝尔格莱德 保罗亲王的住所
 Dialogue: 2,0:24:59.17,0:25:02.80,Default-L2,,0,0,0,,{\fad(120,120)}THE RESIDENCE OF PRINCE PAUL BELGRADE, KINGDOM OF YUGOSLAVIA
 Dialogue: 3,0:25:27.03,0:25:28.52,Default,,0,0,0,,{\fad(120,120)}殿下...
 Dialogue: 2,0:25:27.03,0:25:28.52,Default-L2,,0,0,0,,{\fad(120,120)}Your Highness...
@@ -761,7 +761,7 @@ Dialogue: 3,0:25:58.75,0:26:02.66,Default,,0,0,0,,{\fad(120,120)}那个法国外
 Dialogue: 2,0:25:58.75,0:26:02.66,Default-L2,,0,0,0,,{\fad(120,120)}That French diplomat, Count Nowicki,
 Dialogue: 3,0:26:03.62,0:26:05.79,Default,,0,0,0,,{\fad(120,120)}你可能知道他
 Dialogue: 2,0:26:03.62,0:26:05.79,Default-L2,,0,0,0,,{\fad(120,120)}you probably know that he didn't come
-Dialogue: 3,0:26:05.79,0:26:07.79,Default,,0,0,0,,{\fad(120,120)}没有去会见王子殿下
+Dialogue: 3,0:26:05.79,0:26:07.79,Default,,0,0,0,,{\fad(120,120)}没有去会见亲王殿下
 Dialogue: 2,0:26:05.79,0:26:07.79,Default-L2,,0,0,0,,{\fad(120,120)}to the meeting with His Royal Highness.
 Dialogue: 3,0:26:08.55,0:26:11.63,Default,,0,0,0,,{\fad(120,120)}据我所知，他的一切痕迹都消失了
 Dialogue: 2,0:26:08.55,0:26:11.63,Default-L2,,0,0,0,,{\fad(120,120)}As I hear, every trace of him is lost.
@@ -1007,13 +1007,13 @@ Dialogue: 3,0:38:07.05,0:38:08.05,Default,,0,0,0,,{\fad(120,120)}为您效劳
 Dialogue: 2,0:38:07.05,0:38:08.05,Default-L2,,0,0,0,,{\fad(120,120)}At your service.
 Dialogue: 3,0:38:10.16,0:38:12.38,Default,,0,0,0,,{\fad(120,120)}要是这种支持能够
 Dialogue: 2,0:38:10.16,0:38:12.38,Default-L2,,0,0,0,,{\fad(120,120)}If only that support would be transferred
-Dialogue: 3,0:38:12.39,0:38:14.42,Default,,0,0,0,,{\fad(120,120)}转移给王子殿下的政府就好了
+Dialogue: 3,0:38:12.39,0:38:14.42,Default,,0,0,0,,{\fad(120,120)}转移给亲王殿下的政府就好了
 Dialogue: 2,0:38:12.39,0:38:14.42,Default-L2,,0,0,0,,{\fad(120,120)}to the government of His Royal Highness.
 Dialogue: 3,0:38:14.79,0:38:16.34,Default,,0,0,0,,{\fad(120,120)}我们只是公众的声音
 Dialogue: 2,0:38:14.79,0:38:16.34,Default-L2,,0,0,0,,{\fad(120,120)}We are just the voice of the public
 Dialogue: 3,0:38:16.34,0:38:19.89,Default,,0,0,0,,{\fad(120,120)}只传播和解释公众的想法
 Dialogue: 2,0:38:16.34,0:38:19.89,Default-L2,,0,0,0,,{\fad(120,120)}and we only transmit and interpret what that public thinks.
-Dialogue: 3,0:38:20.56,0:38:22.16,Default,,0,0,0,,{\fad(120,120)}我相信王子会理解的
+Dialogue: 3,0:38:20.56,0:38:22.16,Default,,0,0,0,,{\fad(120,120)}我相信亲王会理解的
 Dialogue: 2,0:38:20.56,0:38:22.16,Default-L2,,0,0,0,,{\fad(120,120)}I'm sure the prince understands that.
 Dialogue: 3,0:38:22.86,0:38:24.73,Default,,0,0,0,,{\fad(120,120)}现代国家就是这么做的
 Dialogue: 2,0:38:22.86,0:38:24.73,Default-L2,,0,0,0,,{\fad(120,120)}This is how modern states do it.
@@ -1031,7 +1031,7 @@ Dialogue: 3,0:38:39.31,0:38:40.75,Default,,0,0,0,,{\fad(120,120)}我希望你不
 Dialogue: 2,0:38:39.31,0:38:40.75,Default-L2,,0,0,0,,{\fad(120,120)}I hope you don't mind.
 Dialogue: 3,0:38:40.75,0:38:42.65,Default,,0,0,0,,{\fad(120,120)}这会很有趣的
 Dialogue: 2,0:38:40.75,0:38:42.65,Default-L2,,0,0,0,,{\fad(120,120)}This is going to be fun.
-Dialogue: 3,0:38:47.11,0:38:50.02,Default,,0,0,0,,{\fad(120,120)}王子殿下，我在想...
+Dialogue: 3,0:38:47.11,0:38:50.02,Default,,0,0,0,,{\fad(120,120)}亲王殿下，我在想...
 Dialogue: 2,0:38:47.11,0:38:50.02,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Prince, you know, I was thinking...
 Dialogue: 3,0:38:50.42,0:38:53.66,Default,,0,0,0,,{\fad(120,120)}在这种情况下，我打算离开这个项目
 Dialogue: 2,0:38:50.42,0:38:53.66,Default-L2,,0,0,0,,{\fad(120,120)}Under these conditions, I intend to leave this project.
