@@ -71,7 +71,7 @@ Dialogue: 3,0:01:02.82,0:01:05.46,Default,,0,0,0,,{\fad(120,120)}国王将拒绝
 Dialogue: 2,0:01:02.82,0:01:05.46,Default-L2,,0,0,0,,{\fad(120,120)}The king will refuse the recognition of the Soviet Union.
 Dialogue: 3,0:01:05.46,0:01:08.20,Default,,0,0,0,,{\fad(120,120)}他们两个会一起炸毁日尔诺夫
 Dialogue: 2,0:01:05.46,0:01:08.20,Default-L2,,0,0,0,,{\fad(120,120)}The two of them will blow up Zhrnov together.
-Dialogue: 3,0:01:08.63,0:01:10.10,Default,,0,0,0,,{\fad(120,120)}原来你是这样找到我的
+Dialogue: 3,0:01:08.63,0:01:10.10,Default,,0,0,0,,{\fad(120,120)}要找我的话就用这个
 Dialogue: 2,0:01:08.63,0:01:10.10,Default-L2,,0,0,0,,{\fad(120,120)}This is how you will find me.
 Dialogue: 3,0:01:11.73,0:01:12.87,Default,,0,0,0,,{\fad(120,120)}波多黎各朗姆酒？
 Dialogue: 2,0:01:11.73,0:01:12.87,Default-L2,,0,0,0,,{\fad(120,120)}Puerto Rican rum?
@@ -1443,7 +1443,7 @@ Dialogue: 3,0:53:47.62,0:53:48.62,Default,,0,0,0,,{\fad(120,120)}现在怎么办
 Dialogue: 2,0:53:47.62,0:53:48.62,Default-L2,,0,0,0,,{\fad(120,120)}Now what?
 Dialogue: 3,0:53:50.96,0:53:52.09,Default,,0,0,0,,{\fad(120,120)}小心
 Dialogue: 2,0:53:50.96,0:53:52.09,Default-L2,,0,0,0,,{\fad(120,120)}Beware.
-Dialogue: 3,0:53:54.87,0:53:55.87,Default,,0,0,0,,{\fad(120,120)}还要小心你吗？
+Dialogue: 3,0:53:54.87,0:53:55.87,Default,,0,0,0,,{\fad(120,120)}小心你吗？
 Dialogue: 2,0:53:54.87,0:53:55.87,Default-L2,,0,0,0,,{\fad(120,120)}Of you, too?
 Dialogue: 3,0:54:07.76,0:54:08.97,Default,,0,0,0,,{\fad(120,120)}尤其是要小心我
 Dialogue: 2,0:54:07.76,0:54:08.97,Default-L2,,0,0,0,,{\fad(120,120)}Especially of me.
