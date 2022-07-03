@@ -25,7 +25,7 @@ Dialogue: 4,0:00:16.01,0:00:19.68,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王
 Dialogue: 3,0:00:16.01,0:00:19.68,Default-L2,,0,0,0,,{\fad(120,120)}ZAGREB, KINGDOM OF YUGOSLAVIA 17th December 1933.
 Dialogue: 4,0:00:23.82,0:00:27.52,Default,,0,0,0,,{\fad(120,120)}南斯拉夫国王亚历山大一世，访问萨格勒布的一个省
 Dialogue: 3,0:00:23.82,0:00:27.52,Default-L2,,0,0,0,,{\fad(120,120)}King Alexander I, Yugoslavia founder, visits Zagreb, one of its provinces.
-Dialogue: 4,0:00:27.76,0:00:31.23,Default,,0,0,0,,{\fad(120,120)}佩塔尔 · 日瓦科维奇是他的总理，拥有真正的权力
+Dialogue: 4,0:00:27.76,0:00:31.23,Default,,0,0,0,,{\fad(120,120)}佩塔尔 · 日夫科维奇是他的总理，拥有真正的权力
 Dialogue: 3,0:00:27.76,0:00:31.23,Default-L2,,0,0,0,,{\fad(120,120)}Petar Zhivkovich is his Prime Minister and has the real power.
 Dialogue: 4,0:00:36.00,0:00:39.43,Default,,0,0,0,,{\fad(120,120)}南斯拉夫王国是当时全世界最高纯度
 Dialogue: 3,0:00:36.00,0:00:39.43,Default-L2,,0,0,0,,{\fad(120,120)}The Kingdom of Yugoslavia was the producer of the purest
@@ -157,7 +157,7 @@ Dialogue: 4,0:08:23.40,0:08:25.10,Default,,0,0,0,,{\fad(120,120)}确保他是在
 Dialogue: 3,0:08:23.40,0:08:25.10,Default-L2,,0,0,0,,{\fad(120,120)}Make sure he's good for us.
 Dialogue: 4,0:08:26.64,0:08:27.64,Default,,0,0,0,,{\fad(120,120)}将军先生
 Dialogue: 3,0:08:26.64,0:08:27.64,Default-L2,,0,0,0,,{\fad(120,120)}Mr. General.
-Dialogue: 4,0:08:28.03,0:08:30.51,Default,,0,0,0,,{\fad(120,120)}- 你来这干什么? - 日瓦科维奇先生..
+Dialogue: 4,0:08:28.03,0:08:30.51,Default,,0,0,0,,{\fad(120,120)}- 你来这干什么? - 日夫科维奇先生..
 Dialogue: 3,0:08:28.03,0:08:30.51,Default-L2,,0,0,0,,{\fad(120,120)}- What the hell do you want? - Mr. Zhivkovich...
 Dialogue: 4,0:08:31.81,0:08:32.81,Default,,0,0,0,,{\fad(120,120)}我们有麻烦了
 Dialogue: 3,0:08:31.81,0:08:32.81,Default-L2,,0,0,0,,{\fad(120,120)}We have a problem.
@@ -1643,7 +1643,7 @@ Dialogue: 4,0:56:17.88,0:56:21.14,Default,,0,0,0,,{\fad(120,120)}你是谁? 你�
 Dialogue: 3,0:56:17.88,0:56:21.14,Default-L2,,0,0,0,,{\fad(120,120)}Who are you? Where are you taking me?
 Dialogue: 4,0:56:21.52,0:56:24.31,Default,,0,0,0,,{\fad(120,120)}亲爱的伯爵，没有理由不高兴
 Dialogue: 3,0:56:21.52,0:56:24.31,Default-L2,,0,0,0,,{\fad(120,120)}There is no reason to be upset, dear Count.
-Dialogue: 4,0:56:25.08,0:56:26.91,Default,,0,0,0,,{\fad(120,120)}我是佩塔尔 · 日瓦科维奇
+Dialogue: 4,0:56:25.08,0:56:26.91,Default,,0,0,0,,{\fad(120,120)}我是佩塔尔 · 日夫科维奇
 Dialogue: 3,0:56:25.08,0:56:26.91,Default-L2,,0,0,0,,{\fad(120,120)}I am Petar Zhivkovich,
 Dialogue: 4,0:56:27.45,0:56:29.05,Default,,0,0,0,,{\fad(120,120)}国王卫队的首领
 Dialogue: 3,0:56:27.45,0:56:29.05,Default-L2,,0,0,0,,{\fad(120,120)}the head of the King's Guard.
@@ -1709,7 +1709,7 @@ Dialogue: 4,0:58:05.32,0:58:07.05,Default,,0,0,0,,{\fad(120,120)}不，是狼
 Dialogue: 3,0:58:05.32,0:58:07.05,Default-L2,,0,0,0,,{\fad(120,120)}No, wolf.
 Dialogue: 4,0:58:07.18,0:58:08.58,Default,,0,0,0,,{\fad(120,120)}可怜的狼
 Dialogue: 3,0:58:07.18,0:58:08.58,Default-L2,,0,0,0,,{\fad(120,120)}Poor wolf.
-Dialogue: 4,0:58:12.32,0:58:13.92,Default,,0,0,0,,{\fad(120,120)}- 日瓦科维奇先生？- 什么事？
+Dialogue: 4,0:58:12.32,0:58:13.92,Default,,0,0,0,,{\fad(120,120)}- 日夫科维奇先生？- 什么事？
 Dialogue: 3,0:58:12.32,0:58:13.92,Default-L2,,0,0,0,,{\fad(120,120)}- Mr. Zhivkovich? - Yes?
 Dialogue: 4,0:58:14.36,0:58:17.56,Default,,0,0,0,,{\fad(120,120)}你要知道你不是唯一担心的人
 Dialogue: 3,0:58:14.36,0:58:17.56,Default-L2,,0,0,0,,{\fad(120,120)}You need to know that you are not the only one worried.

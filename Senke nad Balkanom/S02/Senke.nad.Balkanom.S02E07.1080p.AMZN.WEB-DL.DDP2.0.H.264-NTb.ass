@@ -65,7 +65,7 @@ Dialogue: 3,0:00:40.77,0:00:42.40,Default,,0,0,0,,{\fad(120,120)}暗杀行动将
 Dialogue: 2,0:00:40.77,0:00:42.40,Default-L2,,0,0,0,,{\fad(120,120)}The assassination will be in Belgrade?
 Dialogue: 3,0:00:42.47,0:00:43.72,Default,,0,0,0,,{\fad(120,120)}巨大的变化正在到来
 Dialogue: 2,0:00:42.47,0:00:43.72,Default-L2,,0,0,0,,{\fad(120,120)}Big changes are coming.
-Dialogue: 3,0:00:43.72,0:00:45.81,Default,,0,0,0,,{\fad(120,120)}让日瓦科维奇自生自灭吧
+Dialogue: 3,0:00:43.72,0:00:45.81,Default,,0,0,0,,{\fad(120,120)}让日夫科维奇自生自灭吧
 Dialogue: 2,0:00:43.72,0:00:45.81,Default-L2,,0,0,0,,{\fad(120,120)}Leave Zhivkovich to his fate.
 Dialogue: 3,0:00:45.98,0:00:47.51,Default,,0,0,0,,{\fad(120,120)}是你把我扯进来的
 Dialogue: 2,0:00:45.98,0:00:47.51,Default-L2,,0,0,0,,{\fad(120,120)}You got me involved in this.
@@ -317,9 +317,9 @@ Dialogue: 3,0:10:14.02,0:10:15.81,Default,,0,0,0,,{\fad(120,120)}虽然我们可
 Dialogue: 2,0:10:14.02,0:10:15.81,Default-L2,,0,0,0,,{\fad(120,120)}though we'd probably get to him.
 Dialogue: 3,0:10:16.28,0:10:18.21,Default,,0,0,0,,{\fad(120,120)}但是在结束之前名单上肯定还有一个人
 Dialogue: 2,0:10:16.28,0:10:18.21,Default-L2,,0,0,0,,{\fad(120,120)}But there's one before the end, for sure.
-Dialogue: 3,0:10:19.21,0:10:20.42,Default,,0,0,0,,{\fad(120,120)}佩塔尔 · 日瓦科维奇
+Dialogue: 3,0:10:19.21,0:10:20.42,Default,,0,0,0,,{\fad(120,120)}佩塔尔 · 日夫科维奇
 Dialogue: 2,0:10:19.21,0:10:20.42,Default-L2,,0,0,0,,{\fad(120,120)}Petar Zhivkovich.
-Dialogue: 3,0:10:21.56,0:10:23.42,Default,,0,0,0,,{\fad(120,120)}没错，佩塔尔 · 日瓦科维奇
+Dialogue: 3,0:10:21.56,0:10:23.42,Default,,0,0,0,,{\fad(120,120)}没错，佩塔尔 · 日夫科维奇
 Dialogue: 2,0:10:21.56,0:10:23.42,Default-L2,,0,0,0,,{\fad(120,120)}That's right. Petar Zhivkovich.
 Dialogue: 3,0:10:24.25,0:10:25.52,Default,,0,0,0,,{\fad(120,120)}但话又说回来...
 Dialogue: 2,0:10:24.25,0:10:25.52,Default-L2,,0,0,0,,{\fad(120,120)}But then again...
@@ -329,7 +329,7 @@ Dialogue: 3,0:10:29.89,0:10:32.26,Default,,0,0,0,,{\fad(120,120)}他们和萨洛
 Dialogue: 2,0:10:29.89,0:10:32.26,Default-L2,,0,0,0,,{\fad(120,120)}what do they have to do with the Thessaloniki process?
 Dialogue: 3,0:10:33.41,0:10:35.53,Default,,0,0,0,,{\fad(120,120)}这逻辑不通，真的
 Dialogue: 2,0:10:33.41,0:10:35.53,Default-L2,,0,0,0,,{\fad(120,120)}There's no logic, really.
-Dialogue: 3,0:10:37.98,0:10:41.07,Default,,0,0,0,,{\fad(120,120)}新时代已经骚扰了日瓦科维奇好几天了
+Dialogue: 3,0:10:37.98,0:10:41.07,Default,,0,0,0,,{\fad(120,120)}新时代已经骚扰了日夫科维奇好几天了
 Dialogue: 2,0:10:37.98,0:10:41.07,Default-L2,,0,0,0,,{\fad(120,120)}The New Age has been harassing Zhivkovich for days.
 Dialogue: 3,0:10:41.71,0:10:43.74,Default,,0,0,0,,{\fad(120,120)}他们把他和诺维奇的谋杀案联系起来
 Dialogue: 2,0:10:41.71,0:10:43.74,Default-L2,,0,0,0,,{\fad(120,120)}They link him to Nowicki's murder.
@@ -987,7 +987,7 @@ Dialogue: 3,0:32:16.60,0:32:17.60,Default,,0,0,0,,{\fad(120,120)}让我来解释
 Dialogue: 2,0:32:16.60,0:32:17.60,Default-L2,,0,0,0,,{\fad(120,120)}Let me explain.
 Dialogue: 3,0:32:18.52,0:32:21.20,Default,,0,0,0,,{\fad(120,120)}你没在任何名单上见过我，因为我不在这里
 Dialogue: 2,0:32:18.52,0:32:21.20,Default-L2,,0,0,0,,{\fad(120,120)}You haven't seen me on any list, because I'm not here.
-Dialogue: 3,0:32:22.07,0:32:24.97,Default,,0,0,0,,{\fad(120,120)}但我看到你在皮塔尔 · 日瓦科维奇的薪水册上
+Dialogue: 3,0:32:22.07,0:32:24.97,Default,,0,0,0,,{\fad(120,120)}但我看到你在皮塔尔 · 日夫科维奇的薪水册上
 Dialogue: 2,0:32:22.07,0:32:24.97,Default-L2,,0,0,0,,{\fad(120,120)}But I saw you on Petar Zhivkovich's payroll.
 Dialogue: 3,0:32:25.68,0:32:28.34,Default,,0,0,0,,{\fad(120,120)}如果你不想让你的上司知道
 Dialogue: 2,0:32:25.68,0:32:28.34,Default-L2,,0,0,0,,{\fad(120,120)}If you don't want your fucking superior to know
@@ -1149,7 +1149,7 @@ Dialogue: 3,0:37:36.00,0:37:37.95,Default,,0,0,0,,{\fad(120,120)}是的，他无
 Dialogue: 2,0:37:36.00,0:37:37.95,Default-L2,,0,0,0,,{\fad(120,120)}Yes. He is everywhere.
 Dialogue: 3,0:37:38.75,0:37:42.09,Default,,0,0,0,,{\fad(120,120)}他接管了生意...
 Dialogue: 2,0:37:38.75,0:37:42.09,Default-L2,,0,0,0,,{\fad(120,120)}He takes over the business, prepares the ground...
-Dialogue: 3,0:37:43.06,0:37:45.83,Default,,0,0,0,,{\fad(120,120)}就等着皮塔尔 · 日瓦科维奇倒台
+Dialogue: 3,0:37:43.06,0:37:45.83,Default,,0,0,0,,{\fad(120,120)}就等着皮塔尔 · 日夫科维奇倒台
 Dialogue: 2,0:37:43.06,0:37:45.83,Default-L2,,0,0,0,,{\fad(120,120)}when Petar Zhivkovich falls, and that's a matter of days...
 Dialogue: 3,0:37:47.90,0:37:49.36,Default,,0,0,0,,{\fad(120,120)}只有国王会幸存
 Dialogue: 2,0:37:47.90,0:37:49.36,Default-L2,,0,0,0,,{\fad(120,120)}Only the king will remain.

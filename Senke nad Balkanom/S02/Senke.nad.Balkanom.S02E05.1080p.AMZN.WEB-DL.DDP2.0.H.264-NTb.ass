@@ -125,7 +125,7 @@ Dialogue: 4,0:06:48.34,0:06:49.60,Default,,0,0,0,,{\fad(120,120)}请坐
 Dialogue: 3,0:06:48.34,0:06:49.60,Default-L2,,0,0,0,,{\fad(120,120)}Have a seat, please.
 Dialogue: 4,0:06:49.77,0:06:52.01,Default,,0,0,0,,{\fad(120,120)}无论如何，这里都比警局的监狱更好
 Dialogue: 3,0:06:49.77,0:06:52.01,Default-L2,,0,0,0,,{\fad(120,120)}It is more pleasant than Glavnjacha, in any case.
-Dialogue: 4,0:06:54.64,0:06:57.84,Default,,0,0,0,,{\fad(120,120)}如果他们找日瓦科维奇将军商量一下
+Dialogue: 4,0:06:54.64,0:06:57.84,Default,,0,0,0,,{\fad(120,120)}如果他们找日夫科维奇将军商量一下
 Dialogue: 3,0:06:54.64,0:06:57.84,Default-L2,,0,0,0,,{\fad(120,120)}If they had asked General Zhivkovich for an opinion,
 Dialogue: 4,0:06:58.31,0:07:01.55,Default,,0,0,0,,{\fad(120,120)}你现在可能就是在警局监狱拜访我了
 Dialogue: 3,0:06:58.31,0:07:01.55,Default-L2,,0,0,0,,{\fad(120,120)}you would probably have visited me in Glavnjacha now.
@@ -143,7 +143,7 @@ Dialogue: 4,0:07:16.00,0:07:19.44,Default,,0,0,0,,{\fad(120,120)}贝尔格莱德
 Dialogue: 3,0:07:16.00,0:07:19.44,Default-L2,,0,0,0,,{\fad(120,120)}Belgrade will have to make agreements with the Slovenes in the future.
 Dialogue: 4,0:07:22.04,0:07:25.07,Default,,0,0,0,,{\fad(120,120)}贝尔格莱德的局势正在迅速变化
 Dialogue: 3,0:07:22.04,0:07:25.07,Default-L2,,0,0,0,,{\fad(120,120)}The situation in Belgrade is rapidly becoming more complicated,
-Dialogue: 4,0:07:25.60,0:07:27.58,Default,,0,0,0,,{\fad(120,120)}尤其是对日瓦科维奇将军
+Dialogue: 4,0:07:25.60,0:07:27.58,Default,,0,0,0,,{\fad(120,120)}尤其是对日夫科维奇将军
 Dialogue: 3,0:07:25.60,0:07:27.58,Default-L2,,0,0,0,,{\fad(120,120)}especially for General Zhivkovich.
 Dialogue: 4,0:07:27.96,0:07:29.31,Default,,0,0,0,,{\fad(120,120)}是的，我在报纸上看到了
 Dialogue: 3,0:07:27.96,0:07:29.31,Default-L2,,0,0,0,,{\fad(120,120)}Yes, I read about it.
@@ -493,7 +493,7 @@ Dialogue: 4,0:20:31.58,0:20:33.63,Default,,0,0,0,,{\fad(120,120)}我所希望的
 Dialogue: 3,0:20:31.58,0:20:33.63,Default-L2,,0,0,0,,{\fad(120,120)}What I had hoped for was that
 Dialogue: 4,0:20:33.63,0:20:36.46,Default,,0,0,0,,{\fad(120,120)}我们最终能够对付这个腐败的政权
 Dialogue: 3,0:20:33.63,0:20:36.46,Default-L2,,0,0,0,,{\fad(120,120)}we'd finally get to grips with this corrupt regime.
-Dialogue: 4,0:20:37.07,0:20:39.57,Default,,0,0,0,,{\fad(120,120)}首先是和日瓦科维奇还有他那些恶心的随从
+Dialogue: 4,0:20:37.07,0:20:39.57,Default,,0,0,0,,{\fad(120,120)}首先是和日夫科维奇还有他那些恶心的随从
 Dialogue: 3,0:20:37.07,0:20:39.57,Default-L2,,0,0,0,,{\fad(120,120)}First of all, with Zhivkovich and his disgusting retinue.
 Dialogue: 4,0:20:39.88,0:20:41.15,Default,,0,0,0,,{\fad(120,120)}我们正在努力
 Dialogue: 3,0:20:39.88,0:20:41.15,Default-L2,,0,0,0,,{\fad(120,120)}We're working on it.

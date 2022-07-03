@@ -89,7 +89,7 @@ Dialogue: 3,0:01:11.64,0:01:14.20,Default,,0,0,0,,{\fad(120,120)}他知道你是
 Dialogue: 2,0:01:11.64,0:01:14.20,Default-L2,,0,0,0,,{\fad(120,120)}he knows you as a member of Prince Paul's guard.
 Dialogue: 3,0:01:14.20,0:01:18.01,Default,,0,0,0,,{\fad(120,120)}这件事极为重要，而且十分紧急
 Dialogue: 2,0:01:14.20,0:01:18.01,Default-L2,,0,0,0,,{\fad(120,120)}The matter is of the utmost importance and quite urgent.
-Dialogue: 3,0:01:18.01,0:01:20.08,Default,,0,0,0,,{\fad(120,120)}他们在等日瓦科维奇将军辞职
+Dialogue: 3,0:01:18.01,0:01:20.08,Default,,0,0,0,,{\fad(120,120)}他们在等日夫科维奇将军辞职
 Dialogue: 2,0:01:18.01,0:01:20.08,Default-L2,,0,0,0,,{\fad(120,120)}They're waiting for the resignation of General Zhivkovich.
 Dialogue: 3,0:01:20.08,0:01:21.49,Default,,0,0,0,,{\fad(120,120)}这就是我们引诱他的方法
 Dialogue: 2,0:01:20.08,0:01:21.49,Default-L2,,0,0,0,,{\fad(120,120)}That's how we're going to lure him.
@@ -777,7 +777,7 @@ Dialogue: 3,0:26:28.68,0:26:32.19,Default,,0,0,0,,{\fad(120,120)}我们的教会
 Dialogue: 2,0:26:28.68,0:26:32.19,Default-L2,,0,0,0,,{\fad(120,120)}Our church has lasted like this for almost two thousand years.
 Dialogue: 3,0:26:33.60,0:26:34.60,Default,,0,0,0,,{\fad(120,120)}你看..
 Dialogue: 2,0:26:33.60,0:26:34.60,Default-L2,,0,0,0,,{\fad(120,120)}You see...
-Dialogue: 3,0:26:35.52,0:26:38.33,Default,,0,0,0,,{\fad(120,120)}不管日瓦科维奇是个什么样的人
+Dialogue: 3,0:26:35.52,0:26:38.33,Default,,0,0,0,,{\fad(120,120)}不管日夫科维奇是个什么样的人
 Dialogue: 2,0:26:35.52,0:26:38.33,Default-L2,,0,0,0,,{\fad(120,120)}Our Zhivkovich, whatever he's like,
 Dialogue: 3,0:26:38.73,0:26:43.50,Default,,0,0,0,,{\fad(120,120)}他都是系统的一部分
 Dialogue: 2,0:26:38.73,0:26:43.50,Default-L2,,0,0,0,,{\fad(120,120)}is a part of the system we all know,
@@ -819,7 +819,7 @@ Dialogue: 3,0:28:11.28,0:28:13.26,Default,,0,0,0,,{\fad(120,120)}恐怕在这种
 Dialogue: 2,0:28:11.28,0:28:13.26,Default-L2,,0,0,0,,{\fad(120,120)}I am afraid that in such circumstances
 Dialogue: 3,0:28:13.26,0:28:15.39,Default,,0,0,0,,{\fad(120,120)}我别无选择，只能辞职
 Dialogue: 2,0:28:13.26,0:28:15.39,Default-L2,,0,0,0,,{\fad(120,120)}I have no choice but to resign.
-Dialogue: 3,0:28:16.80,0:28:18.39,Default,,0,0,0,,{\fad(120,120)}日瓦科维奇先生
+Dialogue: 3,0:28:16.80,0:28:18.39,Default,,0,0,0,,{\fad(120,120)}日夫科维奇先生
 Dialogue: 2,0:28:16.80,0:28:18.39,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Zhivkovich...
 Dialogue: 3,0:28:19.30,0:28:20.59,Default,,0,0,0,,{\fad(120,120)}我们喝一杯吧
 Dialogue: 2,0:28:19.30,0:28:20.59,Default-L2,,0,0,0,,{\fad(120,120)}Let's have a drink.
@@ -1403,7 +1403,7 @@ Dialogue: 3,0:48:59.64,0:49:00.67,Default,,0,0,0,,{\fad(120,120)}米里奇？
 Dialogue: 2,0:48:59.64,0:49:00.67,Default-L2,,0,0,0,,{\fad(120,120)}Mirich?
 Dialogue: 3,0:49:07.57,0:49:08.61,Default,,0,0,0,,{\fad(120,120)}为什么？
 Dialogue: 2,0:49:07.57,0:49:08.61,Default-L2,,0,0,0,,{\fad(120,120)}How come?
-Dialogue: 3,0:49:10.59,0:49:14.15,Default,,0,0,0,,{\fad(120,120)}他和那个同性恋皮塔尔 · 日瓦科维奇合作
+Dialogue: 3,0:49:10.59,0:49:14.15,Default,,0,0,0,,{\fad(120,120)}他和那个同性恋皮塔尔 · 日夫科维奇合作
 Dialogue: 2,0:49:10.59,0:49:14.15,Default-L2,,0,0,0,,{\fad(120,120)}He teamed up with that faggot Petar Zhivkovich.
 Dialogue: 3,0:49:14.61,0:49:16.02,Default,,0,0,0,,{\fad(120,120)}他们要杀你
 Dialogue: 2,0:49:14.61,0:49:16.02,Default-L2,,0,0,0,,{\fad(120,120)}And they'll go after you.

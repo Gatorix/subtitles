@@ -59,7 +59,7 @@ Dialogue: 3,0:00:46.07,0:00:48.58,Default,,0,0,0,,{\fad(120,120)}我们还需要
 Dialogue: 2,0:00:46.07,0:00:48.58,Default-L2,,0,0,0,,{\fad(120,120)}And we will need Mr. Koroshac.
 Dialogue: 3,0:00:49.17,0:00:51.96,Default,,0,0,0,,{\fad(120,120)}贝尔格莱德的局势迅速变得更加复杂
 Dialogue: 2,0:00:49.17,0:00:51.96,Default-L2,,0,0,0,,{\fad(120,120)}The situation in Belgrade is rapidly becoming more complicated,
-Dialogue: 3,0:00:52.65,0:00:54.48,Default,,0,0,0,,{\fad(120,120)}尤其是对日瓦科维奇将军
+Dialogue: 3,0:00:52.65,0:00:54.48,Default,,0,0,0,,{\fad(120,120)}尤其是对日夫科维奇将军
 Dialogue: 2,0:00:52.65,0:00:54.48,Default-L2,,0,0,0,,{\fad(120,120)}especially for General Zhivkovich.
 Dialogue: 3,0:00:54.58,0:00:57.32,Default,,0,0,0,,{\fad(120,120)}他担任了多年内政部长
 Dialogue: 2,0:00:54.58,0:00:57.32,Default-L2,,0,0,0,,{\fad(120,120)}He was the Minister of the Interior for years.
@@ -585,7 +585,7 @@ Dialogue: 3,0:22:14.36,0:22:15.36,Default,,0,0,0,,{\fad(120,120)}他怎么了？
 Dialogue: 2,0:22:14.36,0:22:15.36,Default-L2,,0,0,0,,{\fad(120,120)}What about him?
 Dialogue: 3,0:22:15.66,0:22:16.66,Default,,0,0,0,,{\fad(120,120)}他会帮我们的
 Dialogue: 2,0:22:15.66,0:22:16.66,Default-L2,,0,0,0,,{\fad(120,120)}He'll help us.
-Dialogue: 3,0:22:17.97,0:22:20.54,Default,,0,0,0,,{\fad(120,120)}大家都在等待日瓦科维奇将军的辞职
+Dialogue: 3,0:22:17.97,0:22:20.54,Default,,0,0,0,,{\fad(120,120)}大家都在等待日夫科维奇将军的辞职
 Dialogue: 2,0:22:17.97,0:22:20.54,Default-L2,,0,0,0,,{\fad(120,120)}Everyone is waiting for the resignation of General Zhivkovich.
 Dialogue: 3,0:22:20.54,0:22:22.00,Default,,0,0,0,,{\fad(120,120)}这就是我们引诱他的方法
 Dialogue: 2,0:22:20.54,0:22:22.00,Default-L2,,0,0,0,,{\fad(120,120)}That's how we're going to lure him.
@@ -813,7 +813,7 @@ Dialogue: 3,0:31:05.09,0:31:07.36,Default,,0,0,0,,{\fad(120,120)}你什么时候
 Dialogue: 2,0:31:05.09,0:31:07.36,Default-L2,,0,0,0,,{\fad(120,120)}Since when do you form a government?
 Dialogue: 3,0:31:09.24,0:31:12.70,Default,,0,0,0,,{\fad(120,120)}科罗沙克先生，请坐
 Dialogue: 2,0:31:09.24,0:31:12.70,Default-L2,,0,0,0,,{\fad(120,120)}Mr. Koroshac, please have a seat.
-Dialogue: 3,0:31:22.60,0:31:24.51,Default,,0,0,0,,{\fad(120,120)}日瓦科维奇将军将会辞职...
+Dialogue: 3,0:31:22.60,0:31:24.51,Default,,0,0,0,,{\fad(120,120)}日夫科维奇将军将会辞职...
 Dialogue: 2,0:31:22.60,0:31:24.51,Default-L2,,0,0,0,,{\fad(120,120)}The resignation of General Zhivkovich...
 Dialogue: 3,0:31:25.18,0:31:26.32,Default,,0,0,0,,{\fad(120,120)}几乎可以肯定
 Dialogue: 2,0:31:25.18,0:31:26.32,Default-L2,,0,0,0,,{\fad(120,120)}is almost certain.
@@ -1491,7 +1491,7 @@ Dialogue: 3,0:57:15.18,0:57:16.93,Default,,0,0,0,,{\fad(120,120)}我是保罗亲
 Dialogue: 2,0:57:15.18,0:57:16.93,Default-L2,,0,0,0,,{\fad(120,120)}I come from Prince Paul.
 Dialogue: 3,0:57:17.36,0:57:18.36,Default,,0,0,0,,{\fad(120,120)}亲王需要见你
 Dialogue: 2,0:57:17.36,0:57:18.36,Default-L2,,0,0,0,,{\fad(120,120)}He needs you.
-Dialogue: 3,0:57:19.71,0:57:21.50,Default,,0,0,0,,{\fad(120,120)}日瓦科维奇将军辞职了
+Dialogue: 3,0:57:19.71,0:57:21.50,Default,,0,0,0,,{\fad(120,120)}日夫科维奇将军辞职了
 Dialogue: 2,0:57:19.71,0:57:21.50,Default-L2,,0,0,0,,{\fad(120,120)}General Zhivkovich resigned.
 Dialogue: 3,0:57:43.56,0:57:45.22,Default,,0,0,0,,{\fad(120,120)}我要见萨夫科维奇先生
 Dialogue: 2,0:57:43.56,0:57:45.22,Default-L2,,0,0,0,,{\fad(120,120)}I have to see Mr. Savkovich.
