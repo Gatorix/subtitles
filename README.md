@@ -31,11 +31,7 @@
   
 + [TVF Aspirants](https://www.imdb.com/title/tt14392248/)
 
-### 制作中
-
 + [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
-  
-  + 第一季已完成，第二季正在制作中
   
 ### 计划
 
@@ -61,7 +57,7 @@
   + 待定
 
 + [Bron/Broen](https://www.imdb.com/title/tt1733785/)
-  + Next
+  + 待定
 
 ## 致谢
 
