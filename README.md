@@ -41,14 +41,14 @@
 + [Panchayat](https://www.imdb.com/title/tt12004706/)
   + 待定
 
++ [Gullak](https://www.imdb.com/title/tt10530900/)
+  + 待定
+
 + [Vratice se rode](https://www.imdb.com/title/tt1043822/)
   + 待定，暂无原版字幕，如果你找到了英语字幕，请联系我
   
 + [Besa](https://www.imdb.com/title/tt9170318/)
   + 待定，暂无原版字幕，如果你找到了英语字幕，请联系我
-
-+ [Gullak](https://www.imdb.com/title/tt10530900/)
-  + 待定
 
 ## 致谢
 
