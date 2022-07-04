@@ -42,21 +42,12 @@
   + 待定
 
 + [Vratice se rode](https://www.imdb.com/title/tt1043822/)
-  + 待定
+  + 待定，暂无原版字幕，如果你找到了英语字幕，请联系我
   
-+ [Aranyélet](https://www.imdb.com/title/tt5099020/)
-  + 待定
-  
-+ [Behzat Ç.: Bir Ankara Polisiyesi](https://www.imdb.com/title/tt1795096/)
-  + 待定
-
-+ [Leyla ile Mecnun](https://www.imdb.com/title/tt1831164/)
-  + 待定
++ [Besa](https://www.imdb.com/title/tt9170318/)
+  + 待定，暂无原版字幕，如果你找到了英语字幕，请联系我
 
 + [Gullak](https://www.imdb.com/title/tt10530900/)
-  + 待定
-
-+ [Bron/Broen](https://www.imdb.com/title/tt1733785/)
   + 待定
 
 ## 致谢
