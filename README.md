@@ -21,7 +21,7 @@
 
 ### 已完成
 
-+ [Şahsiyet](https://www.imdb.com/title/tt7920978/)
++ [Şahsiyet S01](https://www.imdb.com/title/tt7920978/)
 
 + [TVF Pitcher](https://www.imdb.com/title/tt4742876/)
   
@@ -35,10 +35,13 @@
   
 ### 进行中
 
-+ [Yeh Meri Family](https://www.imdb.com/title/tt8595766/)
++ [Şahsiyet S02](https://www.imdb.com/title/tt7920978/)
   
 ### 计划
 
++ [Yeh Meri Family](https://www.imdb.com/title/tt8595766/)
+  + 待定
+  
 + [Panchayat](https://www.imdb.com/title/tt12004706/)
   + 待定
 
