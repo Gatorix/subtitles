@@ -344,7 +344,7 @@ Dialogue: 3,0:18:32.72,0:18:35.52,Default,atg1,0,0,0,,{\fad(120,120)}你可能�
 Dialogue: 2,0:18:32.72,0:18:35.52,Default-L2,atg3,0,0,0,,{\fad(120,120)}Ama artık herhalde, öğrenmişsindir adımı.
 Dialogue: 3,0:18:37.44,0:18:41.24,Default,atg1,0,0,0,,{\fad(120,120)}你的额头已经写上了"命运"二字
 Dialogue: 2,0:18:37.44,0:18:41.24,Default-L2,atg3,0,0,0,,{\fad(120,120)}Senin alnında artık ‘’kader’’ yazıyor.
-Dialogue: 3,0:18:45.40,0:18:46.72,Default,atg1,0,0,0,,{\fad(120,120)}也就是我的名字
+Dialogue: 3,0:18:45.40,0:18:46.72,Default,atg1,0,0,0,,{\fad(120,120)}也就是我的名字——卡德尔
 Dialogue: 2,0:18:45.40,0:18:46.72,Default-L2,atg3,0,0,0,,{\fad(120,120)}O benim işte.
 Dialogue: 3,0:18:47.32,0:18:50.72,Default,atg1,0,0,0,,{\fad(120,120)}回答我，是你杀了我的猫，是不是？
 Dialogue: 2,0:18:47.32,0:18:50.72,Default-L2,atg3,0,0,0,,{\fad(120,120)}Sen onu bırak da bana cevap ver. Kedimi sen öldürdün değil mi?
@@ -612,7 +612,7 @@ Dialogue: 3,0:29:25.96,0:29:27.96,Default,atg1,0,0,0,,{\fad(120,120)}希克迈�
 Dialogue: 2,0:29:25.96,0:29:27.96,Default-L2,atg3,0,0,0,,{\fad(120,120)}Hikmet! (dua mırıldanma)
 Dialogue: 3,0:29:35.64,0:29:37.64,Default,atg1,0,0,0,,{\fad(120,120)}- 真主保佑 - 我知道
 Dialogue: 2,0:29:35.64,0:29:37.64,Default-L2,atg3,0,0,0,,{\fad(120,120)}- Elhamdülillah.. - Biliyorum.
-Dialogue: 3,0:29:40.55,0:29:42.55,Default,atg1,0,0,0,,{\fad(120,120)}《命运》
+Dialogue: 3,0:29:40.55,0:29:42.55,Default,atg1,0,0,0,,{\fad(120,120)}《代号：卡德尔》
 Dialogue: 3,0:30:09.12,0:30:11.48,Default,atg1,0,0,0,,{\fad(120,120)}玛丽亚，是真的吗？
 Dialogue: 2,0:30:09.12,0:30:11.48,Default-L2,atg3,0,0,0,,{\fad(120,120)}Meryem! Ciddi misin?
 Dialogue: 3,0:30:12.28,0:30:14.64,Default,atg1,0,0,0,,{\fad(120,120)}- 他真的出现了？ - 是的
