@@ -440,13 +440,13 @@ Dialogue: 2,0:25:20.51,0:25:22.92,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}- Anl
 Dialogue: 3,0:25:32.45,0:25:35.82,Default,atg1,0,0,0,,{\fad(120,120)}我美丽的孩子们，愿上帝不要把我们分开
 Dialogue: 3,0:27:51.03,0:27:54.40,Default,atg1,0,0,0,,{\fad(120,120)}谢谢你嫂子，谢谢你让我们有一个快乐的新年
 Dialogue: 2,0:27:51.03,0:27:54.40,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}Yenge sağ olasın eline sağlık. Hadi iyi seneler.{\b}
-Dialogue: 3,0:27:54.44,0:27:58.07,Default,atg1,0,0,0,,{\fad(120,120)}- 新年快乐，亚库普，向你的姐妹们问好 - 好的
+Dialogue: 3,0:27:54.44,0:27:58.07,Default,atg1,0,0,0,,{\fad(120,120)}- 新年快乐，雅各布，向你的姐妹们问好 - 好的
 Dialogue: 2,0:27:54.44,0:27:58.07,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}- İyi seneler Yakup, ablanlara selam söyle. - Aleykümselam.{\b}
-Dialogue: 3,0:27:58.11,0:28:02.44,Default,atg1,0,0,0,,{\fad(120,120)}希克迈特！看在上帝的份上，他大半夜的在做什么？
+Dialogue: 3,0:27:58.11,0:28:02.44,Default,atg1,0,0,0,,{\fad(120,120)}希克迈特！看在上帝的份上，你大半夜的要去哪？
 Dialogue: 2,0:27:58.11,0:28:02.44,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}Hikmet! Gecenin bir yarısı ne işi bu Allah aşkına.{\b}
 Dialogue: 3,0:28:02.44,0:28:04.83,Default,atg1,0,0,0,,{\fad(120,120)}没什么大不了的
 Dialogue: 2,0:28:02.44,0:28:04.83,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}Önemli bir şey değil yahu.{\b}
-Dialogue: 3,0:28:06.11,0:28:09.72,Default,atg1,0,0,0,,{\fad(120,120)}- 我会处理好的，明天早上再过来，别担心 - 真主保佑！
+Dialogue: 3,0:28:06.11,0:28:09.72,Default,atg1,0,0,0,,{\fad(120,120)}- 我去处理点事情，明天早上就回来了，别担心 - 真主保佑！
 Dialogue: 2,0:28:06.11,0:28:09.72,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}- Halledip geleceğim de anca sabaha gelirim. Merak etme. - Allah! Allah!{\b}
 Dialogue: 3,0:28:13.44,0:28:18.27,Default,atg1,0,0,0,,{\fad(120,120)}- 好了，新年快乐 - 新年快乐
 Dialogue: 2,0:28:13.44,0:28:18.27,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}- Hadi, iyi seneler. - İyi seneler.{\b}
