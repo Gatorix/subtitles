@@ -1450,6 +1450,7 @@ Dialogue: 3,0:51:41.76,0:51:44.63,Default,atg1,0,0,0,,{\fad(120,120)}- 乌拉在
 Dialogue: 2,0:51:41.76,0:51:44.63,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}- Nerede Ulaş? - Ulaş hangisi lan?{\b}
 Dialogue: 3,0:51:45.88,0:51:48.40,Default,atg1,0,0,0,,{\fad(120,120)}- 乌拉在哪里？ - 该死！
 Dialogue: 2,0:51:45.88,0:51:48.40,Default-L2,atg3,0,0,0,,{\fad(120,120)\b1}- Ulaş nerede? - Lan!{\b}
+Dialogue: 1,0:51:51.40,0:51:56.92,Default-Box,atg2,0,0,0,,{\fad(120,120)}祖祖，我们得谈谈，是很紧急的事，请立即打给我！
 Dialogue: 3,0:52:10.48,0:52:13.19,Default,atg1,0,0,0,,{\fad(120,120)}这世上谁最了解你？
 Dialogue: 2,0:52:10.48,0:52:13.19,Default-L2,atg3,0,0,0,,{\fad(120,120)\i1}Seni bu dünyada en çok kim tanıyor?{\i}
 Dialogue: 3,0:52:14.11,0:52:16.67,Default,atg1,0,0,0,,{\fad(120,120)}你到底是个什么样的人
