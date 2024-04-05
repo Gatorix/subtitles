@@ -27,7 +27,7 @@ Style: tur,微软雅黑,40,&H00FFFFFF,&H00FFFFFF,&H19533B3B,&H910E0807,0,-1,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 2,0:00:28.64,0:00:31.16,Default,atg1,0,0,0,,{\fad(120,120)}生命中的一切都有终点
+Dialogue: 2,0:00:28.64,0:00:31.16,Default,atg1,0,0,0,,{\fad(120,120)}世间万物皆有尽头
 Dialogue: 1,0:00:28.64,0:00:31.16,tur,atg5,0,0,0,,{\fad(120,120)}Bu hayatta her şeyin bir sonu var.
 Dialogue: 2,0:00:32.48,0:00:37.16,Default,atg1,0,0,0,,{\fad(120,120)}有些人静静地等待那一天的到来
 Dialogue: 1,0:00:32.48,0:00:37.16,tur,atg5,0,0,0,,{\fad(120,120)}Bazı insanlar sessizce oturup o sonun kendilerine gelmesini bekler.
