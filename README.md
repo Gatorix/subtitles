@@ -21,7 +21,7 @@
 
 ### 已完成
 
-+ [Şahsiyet S01](https://www.imdb.com/title/tt7920978/)
++ [Şahsiyet](https://www.imdb.com/title/tt7920978/)
 
 + [TVF Pitcher](https://www.imdb.com/title/tt4742876/)
   
@@ -35,7 +35,7 @@
   
 ### 进行中
 
-+ [Şahsiyet S02](https://www.imdb.com/title/tt7920978/)
++ 暂无
   
 ### 计划
 
