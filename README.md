@@ -1,71 +1,54 @@
 # Subtitles
 
-## 项目简介
+## 项目简介 / Project Overview
 
-此项目专做IMDB评分较高的非英语剧集中文字幕，**IMDB”评分最高电视剧集“榜单中，只要是没有中文字幕的我都会做。** 如果你在观看过程中发现翻译错误或字幕样式有问题，烦请提交Issue。
-  
-+ 在做字幕的同时写了一些和字幕相关的小工具——[tranSub](https://github.com/Gatorix/tranSub)，目前已有的功能主要有：
-  + srt、ass格式互转
-  + 提取字幕文件中的纯文本（单独提取中文或英文）
-  + 根据arctime生成的双语ass字幕输出多版本字幕，包括简/繁体srt、简/繁体ass、简/繁双语srt、简/繁双语ass、英语srt（开发中）
+此项目专做IMDB评分较高的非英语剧集中文字幕，**IMDB”评分最高电视剧集“榜单中，只要是没有中文字幕的我都会做。** 如果你在观看过程中发现翻译错误或字幕样式有问题，烦请提交Issue。  
+This project focuses on providing Chinese subtitles for non-English series with high IMDB ratings. **I will create subtitles for any series on the "Highest Rated TV Shows on IMDB" list that does not have Chinese subtitles.** If you find any translation errors or issues with the subtitle style during viewing, please submit an Issue.
 
-+ 这里还有一个有趣的项目——[strange_knowladge](https://github.com/Gatorix/strange_knowladge)，这是在公众号发布的一些奇怪的知识，目前已整理一些常用的Excel函数用法，将会持续更新，欢迎关注。
++ 在做字幕的同时写了一些和字幕相关的小工具——[tranSub](https://github.com/Gatorix/tranSub)，目前已有的功能主要有：  
+  While creating subtitles, I also developed some small tools related to subtitles — [tranSub](https://github.com/Gatorix/tranSub). The current features mainly include:
+  + srt、ass格式互转  
+    Conversion between srt and ass formats
+  + 提取字幕文件中的纯文本（单独提取中文或英文）  
+    Extracting plain text from subtitle files (separately extracting Chinese or English)
 
-+ 另外译制过程中遇到的一些生词和短语等，记录在Note文件夹中
-  
-## 下载字幕
++ 另外译制过程中遇到的一些生词和短语等，记录在Note文件夹中  
+  Additionally, some new words and phrases encountered during the translation process are recorded in the Note folder.
 
-+ 请直接点击上方的绿色Code按钮，选择Download ZIP进行下载，也可以直接点[这里](https://github.com/Gatorix/subtitles/archive/master.zip)下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。
+## 下载字幕 / Download Subtitles
 
-## 剧集目录
++ 请直接点击上方的绿色Code按钮，选择Download ZIP进行下载，也可以直接点[这里](https://github.com/Gatorix/subtitles/archive/master.zip)下载。如需无字幕的生肉或压制好的熟肉资源，请前往公众号后台回复剧名获取。  
+  Please click the green Code button above and select Download ZIP to download, or click [here](https://github.com/Gatorix/subtitles/archive/master.zip) to download directly. If you need raw footage without subtitles or compressed footage with subtitles, please reply with the name of the series in the public account backend to obtain.
 
-### 已完成
+## 剧集目录 / Series Directory
 
-+ [Şahsiyet](https://www.imdb.com/title/tt7920978/)
+### 已完成 / Completed
 
-+ [TVF Pitcher](https://www.imdb.com/title/tt4742876/)
-  
-+ [TVF Kota Factory S01](https://www.imdb.com/title/tt9432978/)（S02已在Netflix上线，带有官翻中文字幕，不再继续制作）
-  
-+ [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)
-  
-+ [TVF Aspirants](https://www.imdb.com/title/tt14392248/)
++ [Şahsiyet](https://www.imdb.com/title/tt7920978/)  
 
-+ [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)
-  
-### 进行中
++ [TVF Pitcher](https://www.imdb.com/title/tt4742876/)  
 
-+ 暂无
-  
-### 计划
++ [TVF Kota Factory S01](https://www.imdb.com/title/tt9432978/)（S02已在Netflix上线，带有官翻中文字幕，不再继续制作）  
 
-+ [Yeh Meri Family](https://www.imdb.com/title/tt8595766/)
-  + 待定
-  
-+ [Panchayat](https://www.imdb.com/title/tt12004706/)
-  + 待定
++ [Scam 1992: The Harshad Mehta Story](https://www.imdb.com/title/tt12392504/)  
 
-+ [Gullak](https://www.imdb.com/title/tt10530900/)
-  + 待定
++ [TVF Aspirants](https://www.imdb.com/title/tt14392248/)  
 
-+ [Vratice se rode](https://www.imdb.com/title/tt1043822/)
-  + 待定，暂无原版字幕，如果你找到了英语字幕，请联系我
-  
-+ [Besa](https://www.imdb.com/title/tt9170318/)
-  + 待定，暂无原版字幕，如果你找到了英语字幕，请联系我
++ [Senke nad Balkanom](https://www.imdb.com/title/tt6108262/)  
 
-## 致谢
+## 致谢 / Acknowledgments
 
-所有对此项目提供帮助的人都会在此列出：
+所有对此项目提供帮助的人都会在此列出：  
+All those who have contributed to this project will be listed here:
 
-+ 「TVF Pitchers」[fjn308](https://github.com/fjn308) 修正字幕重叠问题
++ 「TVF Pitchers」[fjn308](https://github.com/fjn308) 修正字幕重叠问题  
 
-+ You
-  
-## 联系方式
++ You  
 
-+ 邮箱：gatorix@outlook.com
+## 联系方式 / Contact Information
 
-+ 公众号：gatorix2020（整点没有用的）
-  
++ Email: gatorix@outlook.com
+
++ 公众号：gatorix2020（整点没有用的）  
+
 ![公众号二维码](https://i.loli.net/2020/12/01/kUpPoLGzT2Q9Rhu.jpg)
